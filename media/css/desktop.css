@@ -33,3 +33,25 @@ Default template CSS - if you change anything here then updating will be a bit m
 }
 
 /**= And now time for your styles */
+/* Template overrides */
+.partners h2 {
+    line-height: 50px;
+}
+#brand img {
+    width: auto;
+}
+.article_body {
+    position: relative;
+    padding-right: 31%;
+}
+.fellowsbox {
+    width: 30%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0 16px 1em;
+    border-left: 1px solid #C6C6C6;
+}
+.fellowsbox .photo {
+    width: 40%;
+}
