@@ -1,0 +1,35 @@
+/*
+Default template CSS - if you change anything here then updating will be a bit more tricky than you might want
+*/
+/**= Desktop only */
+.columns {
+    margin-left: -10px;
+}
+.col {
+    float: left;
+    padding: 10px;
+    width: 33%;
+}
+.col img {
+    width: 100%;
+}
+/* Masthead */
+.masthead nav {
+    float: right;
+    margin-right: 130px;
+}
+/**= Overrides from devices.css */
+.busta {
+    max-width: 980px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+.partners h2 {
+    line-height: 75px;
+    margin-bottom: 1em;
+}
+.partners ul {
+    margin: 1.1125em 0 1.1125em 20px;
+}
+
+/**= And now time for your styles */

@@ -1,0 +1,288 @@
+/*
+Default template CSS - if you change anything here then updating will be a bit more tricky than you might want
+*/
+@font-face {
+    font-family: MetaWebPro-Black;
+    src: url(../fonts/MetaWebPro-Black.woff) format('woff');
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:link, 
+a:visited,
+a:focus,
+a:hover,
+a:active {
+    color: #ad3121;
+    text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+    text-decoration: underline;
+}
+aside {
+    position: relative;
+}
+.box {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.busta {
+    margin: 0 10px;
+    position: relative;
+    overflow: hidden;
+}
+.columns {
+    overflow: hidden;
+    padding-left: 0;
+    margin-top: 0;
+    clear: both;
+}
+.col {
+    list-style-type: none;
+    overflow: hidden;
+}
+/**= Sections */
+/* Masthead */
+.masthead {
+    background-color: white;
+    border-top: 2px solid #686868;
+    color: #fff;
+}
+.tab {
+    position: absolute;
+    top: 0;
+    right: 20px;
+    display: block;
+    text-indent: -9999em;
+    background: transparent url(../img/css/icons.png) no-repeat 0 0;
+    width: 118px;
+    height: 48px;
+    overflow: hidden;
+}
+.masthead ul {
+    overflow: hidden;
+    margin: 0;
+    padding-left: 0;
+}
+.masthead ul li {
+    float: left;
+     padding: 1em;
+    display: block;
+    font-size: 12px;
+}
+.masthead ul li:first-child {
+    border-left: none;
+    padding-left: 0;
+}
+.masthead ul a {
+    padding: 1em;
+    display: block;
+    font-size: 12px;
+}
+.masthead ul li:first-child a {
+    padding-left: 0;
+}
+.masthead ul a:link,
+.masthead ul a:visited,
+.masthead ul a:focus,
+.masthead ul a:hover,
+.masthead ul a:active {
+    color: white;
+}
+/* External links */
+.external {
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 1px;
+    border-color: #c6c6c6;
+    border-style: solid;
+    background: repeat-x scroll 0 0 white;
+    font-family: Georgia;
+}
+.external h2 {
+    padding-top: 40px;
+    font-family: "MetaWebPro-Black";
+    background: transparent url(../img/css/icons.png) no-repeat top left;
+    color: #2e2e2d;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: normal;
+}
+.external .tweet h2 {
+    background-position: 0 -140px;
+}
+.external .mozilla h2 {
+    background-position: 0 -290px;
+}
+.external .learn h2 {
+    background-position: 0 -440px;
+}
+.external p {
+    font-size: 14px;
+    color: #454545;
+}
+.external ul {
+    padding-left: 0;
+}
+.external li {
+    list-style-type: none;
+    border-top: 1px solid #D8DADC;
+    padding: 0.5em 0;
+    font-size: 14px;
+}
+.external li:first-child {
+    border-top: none;
+    padding-top: 0;
+}
+/* Partners */
+.partners {
+    background: url("../img/css/bg_partners.png") repeat-x scroll 0 0 #ececec;
+}
+.partners h2 {
+    float: left;
+    margin: 1em 0 0; /* 1em = 18px; */
+    font-family: "MetaWebPro-Black";
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.partners ul {
+    float: left;
+    margin: 0;
+    padding-left: 0;
+
+}
+.partners li {
+    float: left;
+    margin-right: 20px;
+    list-style-type: none;
+}
+/* Main content */
+div[role=main] {
+    background: #fff;
+    margin: 0.625em 0;
+}
+
+/**= And now time for your styles */
+
+#mainstuff #logo {
+
+	margin-left: -100px;
+
+	margin-bottom: 50px;
+
+	margin-right: auto;
+
+	margin-top: 50px;
+
+	padding-left: 0px;
+
+	padding-bottom: 0px;
+
+	padding-right: 0px;
+
+	padding-top: 0px;
+
+	text-align: right;
+
+}
+
+#mainstuff p {
+	line-height: 1.6em;
+	font-size: 1.5em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+img#knight {
+	margin-top: 10px;
+}
+
+#mainstuff h2 {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	color: #ff5b24;
+	font-size: 2em;
+}
+
+.fellowsbox {
+    margin-left: 30px;
+    width: 250px;
+    float: right;
+    padding: 10px !important;
+    padding-left: 20px;
+}
+
+.challengebox {
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    background: repeat-x scroll center bottom;
+    border: 1px solid #C6C6C6;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 1px 0 #B5B7B8;
+    margin-bottom: 27px;
+}
+
+.fellows_single {
+    float: left;
+    height: 150px;
+    text-align: left;
+    width: 250px;
+}
+
+.fellowimage {
+    border: 1px solid black;
+    float: left;
+    margin-right:10px;
+}
+
+.fellows_name {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px auto 0;
+}
+
+.fellows_bio {
+    font-size: 14px;
+}
+
+.fellows_links {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.read {
+font-size: .8em;
+margin-bottom: 0px;
+}
+
+#secondary {
+	line-height: 1.5em;
+	margin-top: 50px;
+	font-size: 0.8em;
+}
+
+#mainstuff .challengebox h2 {
+margin-top: 0px;
+	color: #676767;
+	font-size: 1.4em;
+}
+
+ul.involved {
+line-height: 1.4em;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 1.5em;
+}
+
+ul.involved li {
+	margin-bottom: 8px;
+}
+
+#secondary h2 {
+	margin-top: 30px;
+}
