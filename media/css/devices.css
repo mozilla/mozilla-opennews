@@ -173,7 +173,8 @@ div[role="main"] a {
 div[role="main"] h1,
 div[role="main"] h2 {
     color: #FF5B24;
-    font-family: Helvetica, Verdana, Arial, sans-serif;
+    font-family: "MetaWebPro-Black", Helvetica, Verdana, Arial, sans-serif;
+    font-weight: normal;
 }
 article p,
 article ul {
@@ -233,4 +234,17 @@ article header p {
 .fellows_links li:first-child:after {
     content: "/";
     padding-left: 5px;
+}
+
+.external h2 {
+padding-top: 40px;
+background: none;
+}
+
+.external p, .external ul {
+
+	line-height: 1.3em;
+
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+
 }
