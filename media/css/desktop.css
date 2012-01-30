@@ -42,7 +42,7 @@ Default template CSS - if you change anything here then updating will be a bit m
 }
 .article_body {
     position: relative;
-    padding-right: 31%;
+    padding-right: 32%;
 }
 .fellowsbox {
     width: 30%;
@@ -50,8 +50,33 @@ Default template CSS - if you change anything here then updating will be a bit m
     top: 0;
     right: 0;
     padding: 0 16px 1em;
+    padding-left: 20px;
     border-left: 1px solid #C6C6C6;
+    margin-left: 30px;
 }
 .fellowsbox .photo {
     width: 40%;
+}
+
+#brand img {
+margin-top: 80px;
+}
+
+section.external {
+background-image: none;
+}
+
+section.partners {
+	margin-top: 50px;
+	border-bottom-color: #a1a1a1;
+	border-top-color: #a1a1a1;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-bottom-width: 2px;
+	border-top-width: 2px;
+	background-image: url(none);
+}
+
+header.opengraph {
+margin-bottom: 80px;
 }
