@@ -185,13 +185,14 @@ article header h2 {
     font-size: 30px;
 }
 article header p {
-	font-size: 24px;
+	font-size: 26px;
+	line-height: 1.7;
 }
 .fellowsbox h3 {
     margin-top: 0;
     color: #676767;
     font-size: 22px;
-    line-height: 1.4;
+    line-height: 1.2em;
 }
 .fellowsbox ul {
     margin-top: 0;
