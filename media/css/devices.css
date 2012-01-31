@@ -245,21 +245,21 @@ background: none;
 }
 
 .external p, .external ul {
-
 	line-height: 1.3em;
-
 	font-family: Helvetica, Verdana, Arial, sans-serif;
-
 }
 
 #involved {
 	margin-bottom: 50px;
 }
 #involved ul, #involved p {
-
 	font-size: 1em;
-
 	font-family: Helvetica, Verdana, Arial, sans-serif;
+}
 
+#involved li {
+	list-style-image: url(../img/css/arrow.png);
+	list-style-position: inside;
+	margin-bottom: 8px;
 }
 
