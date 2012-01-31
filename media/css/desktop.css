@@ -74,3 +74,7 @@ Default template CSS - if you change anything here then updating will be a bit m
 header.opengraph {
     margin-bottom: 40px;
 }
+
+#ONlogo {
+margin-right: 40px;
+}
