@@ -183,16 +183,17 @@ article ul {
     font-size: 18px;
 }
 article header h2 {
-    font-size: 30px;
+    font-size: 28px;
 }
 article header p {
-	font-size: 26px;
+	font-size: 22px;
 	line-height: 1.7;
 }
 .fellowsbox h3 {
+    text-transform: uppercase;
     margin-top: 0;
     color: #676767;
-    font-size: 22px;
+    font-size: 19px;
     line-height: 1.2em;
     font-family: "MetaWebPro-Black", Helvetica, Verdana, Arial, sans-serif;
     font-weight: normal;
@@ -250,3 +251,15 @@ background: none;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 
 }
+
+#involved {
+	margin-bottom: 50px;
+}
+#involved ul, #involved p {
+
+	font-size: 1em;
+
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+
+}
+

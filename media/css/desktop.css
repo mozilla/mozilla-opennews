@@ -45,12 +45,15 @@ Default template CSS - if you change anything here then updating will be a bit m
     padding-right: 32%;
 }
 .fellowsbox {
+    padding-bottom: 20px;
+    padding-right: 0px;
+    padding-top: 18px;
+    margin-top: 20px;
     width: 30%;
     position: absolute;
     top: 0;
     right: 0;
-    padding: 0 16px 1em;
-    padding-left: 20px;
+    padding-left: 24px;
     border-left: 1px solid #C6C6C6;
     margin-left: 30px;
 }
@@ -78,5 +81,5 @@ section.partners {
 }
 
 header.opengraph {
-margin-bottom: 80px;
+margin-bottom: 50px;
 }
