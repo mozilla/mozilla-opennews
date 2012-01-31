@@ -283,3 +283,7 @@ div[role="main"] .opengraph a:hover {
 #ONlogo {
     float: right;
 }
+
+div.article_body {
+margin-bottom: 50px;
+}
