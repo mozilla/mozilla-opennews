@@ -13,6 +13,9 @@ Default template CSS - if you change anything here then updating will be a bit m
 .col img {
     width: 100%;
 }
+.external .col:first-child {
+    padding-left: 0;
+}
 /* Masthead */
 .masthead nav {
     float: right;
@@ -34,6 +37,9 @@ Default template CSS - if you change anything here then updating will be a bit m
 
 /**= And now time for your styles */
 /* Template overrides */
+#ONlogo {
+    display: block;
+}
 .partners h2 {
     line-height: 50px;
 }
@@ -62,24 +68,9 @@ Default template CSS - if you change anything here then updating will be a bit m
 }
 
 #brand img {
-margin-top: 80px;
-}
-
-section.external {
-background-image: none;
-}
-
-section.partners {
-	margin-top: 50px;
-	border-bottom-color: #a1a1a1;
-	border-top-color: #a1a1a1;
-	border-bottom-style: solid;
-	border-top-style: solid;
-	border-bottom-width: 2px;
-	border-top-width: 2px;
-	background-image: url(none);
+    margin-top: 80px;
 }
 
 header.opengraph {
-margin-bottom: 40px;
+    margin-bottom: 40px;
 }
