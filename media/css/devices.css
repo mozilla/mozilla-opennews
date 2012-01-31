@@ -94,7 +94,7 @@ aside {
 }
 /* External links */
 .external {
-    background: url("../img/css/bg_external.png") repeat-x scroll 0 0 #FFFFFF;
+    background-color: #FFFFFF;
     font-family: Georgia;
 }
 .external h2 {
