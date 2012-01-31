@@ -280,3 +280,12 @@ div[role="main"] .opengraph a:hover {
 #ONlogo {
 margin-left: 235px;
 }
+
+section.external div.busta {
+padding-left: 0;
+}
+
+section.external div.col.box {
+padding-left: 0;
+padding-right: 20px;
+}
