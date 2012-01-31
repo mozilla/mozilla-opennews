@@ -263,3 +263,16 @@ background: none;
 	margin-bottom: 8px;
 }
 
+div[role="main"] .opengraph a {
+	border-bottom-color: #444444;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	color: rgb(0,0,0);
+}
+
+div[role="main"] .opengraph a:hover {
+	border-bottom-color: #222222;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	text-decoration: none;
+}
