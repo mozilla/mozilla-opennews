@@ -13,7 +13,7 @@ a:visited,
 a:focus,
 a:hover,
 a:active {
-    color: #EF4619;
+    color: #ad3121;
     text-decoration: none;
 }
 a:hover,
@@ -171,7 +171,7 @@ div[role=main] {
     display: none;
 }
 div[role="main"] a {
-    color: #AD3121;
+    color: #ad3121;
 }
 div[role="main"] h1,
 div[role="main"] h2 {
@@ -282,4 +282,8 @@ div[role="main"] .opengraph a:hover {
 
 #ONlogo {
     float: right;
+}
+
+div.article_body {
+margin-bottom: 50px;
 }
