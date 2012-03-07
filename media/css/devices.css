@@ -290,3 +290,17 @@ div.article_body {
 margin-bottom: 50px;
 }
 
+#newsline {
+font-family: "MetaWebPro-Black";
+font-size: 18px;
+text-align: center;
+margin-right: auto;
+margin-left: auto;
+border-bottom: 1px solid rgb(198, 198, 198);
+border-top: 1px solid rgb(198, 198, 198);
+padding-bottom: 10px;
+padding-top: 10px;
+text-transform: uppercase;
+color: #7a7a7a;
+width: 980px;
+}
