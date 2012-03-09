@@ -290,3 +290,34 @@ div.article_body {
 margin-bottom: 50px;
 }
 
+#newsline {
+font-family: "MetaWebPro-Black";
+font-size: 18px;
+text-align: center;
+margin-right: auto;
+margin-left: auto;
+border-bottom: 1px solid rgb(198, 198, 198);
+border-top: 1px solid rgb(198, 198, 198);
+text-transform: uppercase;
+width: 980px;
+margin-top: 10px;
+margin-bottom: 30px;
+
+}
+
+#newsline:hover {
+}
+
+#newsline a {
+padding: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+text-decoration: none;
+color: rgb(103, 103, 103);
+display: block;
+}
+
+#newsline a:hover {
+background-color: rgb(255, 91, 36);
+color: white;
+}
