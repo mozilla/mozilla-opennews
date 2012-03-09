@@ -251,7 +251,11 @@ article header p {
 	line-height: 1.3em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 }
-
+.external iframe {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
 #involved {
 	margin-bottom: 50px;
 }
@@ -285,39 +289,27 @@ div[role="main"] .opengraph a:hover {
     margin-right: 50px;
     float: right;
 }
-
 div.article_body {
-margin-bottom: 50px;
+    margin-bottom: 50px;
 }
-
 #newsline {
-font-family: "MetaWebPro-Black";
-font-size: 18px;
-text-align: center;
-margin-right: auto;
-margin-left: auto;
-border-bottom: 1px solid rgb(198, 198, 198);
-border-top: 1px solid rgb(198, 198, 198);
-text-transform: uppercase;
-width: 980px;
-margin-top: 10px;
-margin-bottom: 30px;
-
-}
-
-#newsline:hover {
+    font-family: "MetaWebPro-Black";
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid rgb(198, 198, 198);
+    border-width: 1px 0;
+    text-transform: uppercase;
+    margin: 10px 0;
 }
 
 #newsline a {
-padding: 10px;
-padding-bottom: 10px;
-padding-top: 10px;
-text-decoration: none;
-color: rgb(103, 103, 103);
-display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(103, 103, 103);
+    display: block;
 }
 
 #newsline a:hover {
-background-color: rgb(255, 91, 36);
-color: white;
+    background-color: rgb(255, 91, 36);
+    color: #fff;
 }
