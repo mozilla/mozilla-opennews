@@ -11,6 +11,7 @@
     <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
 <link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
     <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
+    <script type="text/javascript"src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <!--[if lt IE 9]>
         <script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <link rel="stylesheet" media="screen" href="media/css/desktop.css" />
@@ -37,7 +38,7 @@
     <header class="masthead">
         <div class="busta">
             <h1 id="brand">
-                <img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" />
+                <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" /></a>
             </h1>
             <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
         </div>
@@ -79,16 +80,28 @@
                 <li><a href="https://donate.mozilla.org/page/s/knight-mozilla-news-hack-day">Hold a journalism hack day</a></li>
             </ul>
             </div>
-
-                <h3>Meet the 2011/12 Knight-Mozilla Fellows </h3> 
-                <ul class="small_list">
+<div id="minifellows">
+                <h3>Meet the 2011/12 <br>Knight-Mozilla Fellows </h3> 
+                <ul>
                 <li><img src="/media/img/fellows/mark_small.jpg"</li>
                 <li><img src="/media/img/fellows/cole_small.jpg"</li>
                 <li><img src="/media/img/fellows/laurian_small.jpg"</li>
                 <li><img src="/media/img/fellows/nicola_small.jpg"</li>
                 <li><img src="/media/img/fellows/dan_small.jpg"</li>
                 </ul>
-                <a href="http://sinker.tumblr.com/post/12326527709/knight-mozilla-fellows">read the full announcement</a>
+                <p>Our 2011/12 Knight-Mozilla Fellows are hacking the news at the BBC, the Guardian, Zeit Online, Al Jazeera English, and the Boston Globe. <b>Learn more about their experience.</b></p>
+</div>
+
+<div id="newsbox">
+<h3>This Just In: <br>The latest Opennews</h3> 
+
+</div>
+
+<script type="text/javascript">
+$('#minifellows').click(function(){
+document.location.href='/fellowships/meet_the_fellows.html';
+});
+</script>
             </aside>
         </article>
         </div>

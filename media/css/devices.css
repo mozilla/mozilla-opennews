@@ -252,7 +252,7 @@ article header p {
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 
-#involved {
+#involved, #minifellows, #newsbox {
 	margin-bottom: 50px;
 }
 #involved ul, #involved p {
@@ -322,10 +322,23 @@ background-color: rgb(255, 91, 36);
 color: white;
 }
 
-ul.small_list li {
+#minifellows ul li {
 display: inline;
 }
 
-ul.small_list li img {
-border: 1px solid black;
+#minifellows ul li img {
+border: 1px solid #454545;
+}
+
+#minifellows p, #involved p {
+font-size: 0.9em;
+font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+
+#minifellows:hover  {
+	background-color: #f0f0f0;
+	cursor: pointer;
+	margin: -10px;
+	padding: 10px;
+	margin-bottom: 27px;
 }
