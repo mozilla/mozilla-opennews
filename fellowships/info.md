@@ -6,7 +6,7 @@ title: Information about the Knight-Mozilla Fellowships
 The Knight-Mozilla fellowships present an unique opportunity for technologists and developers who want to influence the future of journalism on the web. Working inside of some of the world’s leading newsrooms, your fellowship experience will be a transformative opportunity. 
 
 <h3>Financial Benefits</h3>
-The Knight-Mozilla Fellowship is designed to allow flexibility for both Fellows and News Partners. The standard Fellowship offers a stipend of $60,000, paid in 10 monthly installments. Fellows are responsible for remitting all applicable taxes and other government payments as required. 
+The Knight-Mozilla Fellowship is designed to allow flexibility for both Fellows and News Partners. <b>The standard Fellowship offers a stipend of $60,000, paid in 10 monthly installments</b>. Fellows are responsible for remitting all applicable taxes and other government payments as required. 
 
 Mozilla may, in consultation with Fellows and News Partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
 
@@ -38,27 +38,27 @@ Supplements below listed as yearly maximums.
 <h3>Child Care Supplement</h3>
 <table>
 <tr>
-<td>1 child age 12* or younger:                                                     
+<td>1 child age 12* or younger                                                     
 <td>$5,600
 </tr>
 <tr>
-<td>2 children ages 12* or younger:
+<td>2 children ages 12* or younger
 <td>$6,000
 </tr>
 <tr>
-<td>3 children ages 12* or younger:
+<td>3 children ages 12* or younger
 <td>$6,400
 </tr>
 <tr>
-<td>4 or more children ages 12* or younger:
+<td>4 or more children ages 12* or younger
 <td>$7,200
 </tr>
 <tr>
-<td>Additional allowance for child 3* years or younger:
+<td>Additional allowance for child 3* years or younger
 <td>$6,400
 </tr>
 </table>
-* Age defined on March 31 of application year.
+<small>* Age defined on March 31 of application year.</small>
 
 <h3>Health Insurance Supplement</h3>
 The Fellowship pays a health insurance supplement for Fellows and their families, ranging from $3,500 for single Fellows to $7,000 for a couple with two or more children.  Funds are provided by way of monthly reimbursement.

@@ -335,10 +335,36 @@ font-size: 0.9em;
 font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 
-#minifellows:hover  {
+#minifellows:hover, #involved:hover  {
+	padding-left: 24px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	margin-left: -24px;
+	margin-right: -10px;
+	margin-top: -10px;
 	background-color: #f0f0f0;
 	cursor: pointer;
-	margin: -10px;
-	padding: 10px;
-	margin-bottom: 27px;
+	margin-bottom: 26px;
 }
+
+#involved:hover  {
+	margin-bottom: 24px;
+}table  {
+	width: 80%;
+	line-height: 1.6em;
+	font-size: 18px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+table tr  {
+	padding: 5px;
+	border-bottom-color: #c8c8c8;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+table tr td:nth-child(2)  {
+	text-align: right;
+}
+
