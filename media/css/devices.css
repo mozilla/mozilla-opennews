@@ -321,3 +321,11 @@ display: block;
 background-color: rgb(255, 91, 36);
 color: white;
 }
+
+ul.small_list li {
+display: inline;
+}
+
+ul.small_list li img {
+border: 1px solid black;
+}
