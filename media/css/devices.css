@@ -255,12 +255,12 @@ article header p {
 #involved, #minifellows, #newsbox {
 	margin-bottom: 50px;
 }
-#involved ul, #involved p {
+#involved ul, #involved p, #newsbox ul {
 	font-size: 1em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 
-#involved li {
+#involved li, #newsbox li {
 	list-style-image: url(../img/css/arrow.png);
 	list-style-position: inside;
 	margin-bottom: 8px;
@@ -368,3 +368,12 @@ table tr td:nth-child(2)  {
 	text-align: right;
 }
 
+#minifellows:hover img  {
+opacity: .85;
+}
+
+img.meet {
+float: left; 
+border: 1px solid black;
+margin-right: 15px;
+}
