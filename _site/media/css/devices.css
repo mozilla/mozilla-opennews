@@ -335,7 +335,7 @@ font-size: 0.9em;
 font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 
-#minifellows:hover, #involved:hover  {
+#minifellows:hover, #involved:hover, #newsbox:hover  {
 	padding-left: 24px;
 	padding-bottom: 10px;
 	padding-right: 10px;
@@ -376,4 +376,14 @@ img.meet {
 float: left; 
 border: 1px solid black;
 margin-right: 15px;
+}
+
+.spacer {
+margin-top: 50px;
+}
+
+#newsbox li {
+list-style: none;
+line-height: 1.4em;
+margin-bottom: 15px;
 }
