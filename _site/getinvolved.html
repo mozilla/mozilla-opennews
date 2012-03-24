@@ -43,10 +43,10 @@
             </h1>
             <div id="nav">
                  <ul>
-<li><a href="/fellowships">fellowships</a> 
-<li><a href="/hackdays.html">hack days</a> 
-<li><a href="/getinvolved.html">community</a> 
-<li><a href="/news.html">news</a>
+<li><a href="/fellowships" class="fellowships">fellowships</a> 
+<li><a href="/hackdays.html" class="hackdays">hack days</a> 
+<li><a href="/getinvolved.html" class="community">community</a> 
+<li><a href="/news.html" class="news">news</a>
 </ul>
 			</div>
             <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
@@ -93,6 +93,15 @@
 <li><a href="http://www.twitter.com/opennews">OpenNews on Twitter</a>, ask questions, find out what we're up to, and let us know what you're doing.
 <li><a href="https://lists.mozilla.org/listinfo/community-mojo">OpenNews Mailing List</a>. Join the mailing list and engage with a great community.
 </ul>
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function () { 
+$('#nav li a.community').addClass('active');
+});
+</script>
 
 
 </div>

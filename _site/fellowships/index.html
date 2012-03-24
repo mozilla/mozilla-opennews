@@ -43,10 +43,10 @@
             </h1>
             <div id="nav">
                  <ul>
-<li><a href="/fellowships">fellowships</a> 
-<li><a href="/hackdays.html">hack days</a> 
-<li><a href="/getinvolved.html">community</a> 
-<li><a href="/news.html">news</a>
+<li><a href="/fellowships" class="fellowships">fellowships</a> 
+<li><a href="/hackdays.html" class="hackdays">hack days</a> 
+<li><a href="/getinvolved.html" class="community">community</a> 
+<li><a href="/news.html" class="news">news</a>
 </ul>
 			</div>
             <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
@@ -63,6 +63,13 @@
             <h2>The Knight-Mozilla Fellowships</h2>
 <div class="article_body">
 <p>The centerpiece of the OpenNews program, the Knight-Mozilla Fellowships embed developers and technologists in newsrooms to do innovative</p>
+
+<script type="text/javascript">
+$(document).ready(function () { 
+$('#nav li a.fellowships').addClass('active');
+});
+</script>
+
 
 </div>
              <aside class="challengebox fellowsbox box">

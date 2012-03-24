@@ -363,11 +363,12 @@ margin-bottom: 50px;
 }
 
 #nav {
+	margin-top: 5px;
 	left: 440px;
 	text-align: right;
 	top: 8px;
 	position: absolute;
-	font-family: "MetaWebPro-Black", Helvetica, Verdana, Arial, sans-serif
+	font-family: Helvetica, Verdana, Arial, sans-serif
 }
 
 #nav ul {
@@ -413,7 +414,7 @@ text-decoration: none;
 color: #999999;
 display: inline;
 }
- #nav li a:hover, #nav li a:active {
+ #nav li a:hover, #nav li a:active, #nav li a.active {
 	color: #3e3e3e;
 }
-
+ 

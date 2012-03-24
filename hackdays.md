@@ -22,3 +22,9 @@ We want to do this again and again and again this year. Each one will be differe
 We’ve been talking with people from Hacks/Hackers, from various news organizations, from universities, and others about helping out on hackdays. But, we also want to hear from you. Really. We’ve set up a form so you can let us know what you’re thinking and we can talk about how we can most effectively help. Maybe you’ve already got something in the works, but you want to have a two-day hackfest instead of one. Maybe you’ve got everything lined up, but you want to offer travel grants to your event. Maybe you need help getting organized. Maybe you want to bring us in to do something from scratch. There are any number of variations on how this can work—the key element is that it brings awesome hacking into the journalism community.
 
 That’s the best thing about our hackday plan is that it’s scalable: we want to work with you the way you want to work with us. So let’s do this. 
+
+<script type="text/javascript">
+$(document).ready(function () { 
+$('#nav li a.hackdays').addClass('active');
+});
+</script>
