@@ -3,7 +3,7 @@ layout: post
 title: Information about the Knight-Mozilla Fellowships
 ---
 
-The Knight-Mozilla fellowships present an unique opportunity for technologists and developers who want to influence the future of journalism on the web. Working inside of some of the world’s leading newsrooms, your fellowship experience will be a transformative opportunity. 
+<p class="bodybig">The Knight-Mozilla fellowships present an unique opportunity for technologists and developers who want to influence the future of journalism on the web. Working inside of some of the world’s leading newsrooms, your fellowship experience will be a transformative opportunity.</p>
 
 <h3>Financial Benefits</h3>
 The Knight-Mozilla Fellowship is designed to allow flexibility for both Fellows and News Partners. <b>The standard Fellowship offers a stipend of $60,000, paid in 10 monthly installments</b>. Fellows are responsible for remitting all applicable taxes and other government payments as required. 
