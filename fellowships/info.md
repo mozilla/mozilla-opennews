@@ -76,3 +76,10 @@ All approved Fellowship trips – domestic and international – are covered. Ad
 
 <h3>Visa Assistance</h3>
 Mozilla will work directly with News Partners to secure temporary work visas as required on behalf of Fellows who require them.
+
+
+<script type="text/javascript">
+$(document).ready(function () { 
+$('#nav li a.fellowships').addClass('active');
+});
+</script>

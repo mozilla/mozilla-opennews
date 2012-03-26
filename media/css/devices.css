@@ -417,4 +417,7 @@ display: inline;
  #nav li a:hover, #nav li a:active, #nav li a.active {
 	color: #3e3e3e;
 }
+ #nav li a.active {
+ cursor:default;
+}
  
