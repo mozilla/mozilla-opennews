@@ -318,7 +318,9 @@ font-family: Helvetica, Verdana, Arial, sans-serif;
 
 #involved:hover  {
 	margin-bottom: 24px;
-}table  {
+}
+
+table  {
 	width: 80%;
 	line-height: 1.6em;
 	font-size: 18px;
@@ -420,4 +422,18 @@ display: inline;
  #nav li a.active {
  cursor:default;
 }
- 
+
+.hide {
+display: none;
+}
+
+#hackcalbox {
+}
+
+#hackcalbox table {
+width: 98%;
+}
+
+#hackcalbox table tr td:nth-child(2)  {
+	text-align: left;
+} 

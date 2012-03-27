@@ -2,6 +2,15 @@
 layout: post
 title: Hack Days with OpenNews
 ---
+
+<p class="bodybig">This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction.</p>
+
+<div id="hackcalbox">
+    <h3>Upcoming OpenNews Hack Days</h3>
+    <table id="hackcal">
+    </table>
+    </div>
+    
 Well, “many more” is now a mandate in the OpenNews project. We have plans (and budget) to help sponsor, organize, or produce journalism-associated hackdays in a major way this year. We’re shooting for 15-20, but may end up able to do more. That’s a ton of hackdays. Clearly, we’re not hosting all those ourselves. Our plan is the opposite, in fact: we want to help you with your hackdays. What’s in it for us? It’s pretty simple:
 
 * We want to get more developers building around journalistic problemsets, so there needs to be a journalistic frame to your hackday. That doesn’t mean “hack the news”—a frame that’s far too generic—it means “build geolocational tools for information gathering.”
@@ -22,15 +31,42 @@ We’ve been talking with people from Hacks/Hackers, from various news organizat
 
 That’s the best thing about our hackday plan is that it’s scalable: we want to work with you the way you want to work with us. So let’s do this. 
 
+<script type="text/javascript" src="media/js/tabletop.js"></script>
+
 <script type="text/javascript">
 
 $(document).ready(function () { 
-
 $('#nav li a.hackdays').addClass('active');
-
-    
- 
 });
 
 
+</script>
+
+<script type="text/javascript">
+      window.onload = function() { init() };
+
+      var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
+
+      $(document).ready( function() {
+        Tabletop.init( { key: public_spreadshseet_url,
+                         callback: showInfo,
+                         debug: true } )
+      });
+      
+        
+      function showInfo() {        
+        
+        $.each( Tabletop.sheets("Sheet1").all(), function(i, hackday) {
+          var hack_li = $('<tr><td class="date">' + hackday.date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.title + '</a></td><td class="location">' + hackday.location + '</td></tr>')
+          hack_li.appendTo("#hackcal");
+          
+       if (hackday.status != 'happening') {
+            hack_li.addClass('hide');
+            };
+ 		});
+ 		
+ 		$('#hackcalbox').show();
+ 		         
+      };
+      
 </script>

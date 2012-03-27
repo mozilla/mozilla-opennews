@@ -63,6 +63,18 @@
         <article>
             <h2>Hack Days with OpenNews</h2>
 <div class="article_body">
+<p class="bodybig">This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction.</p>
+
+
+
+
+<div id="hackcalbox">
+    <h3>Upcoming OpenNews Hack Days</h3>
+    <table id="hackcal">
+    </table>
+    </div>
+
+
 <p>Well, “many more” is now a mandate in the OpenNews project. We have plans (and budget) to help sponsor, organize, or produce journalism-associated hackdays in a major way this year. We’re shooting for 15-20, but may end up able to do more. That’s a ton of hackdays. Clearly, we’re not hosting all those ourselves. Our plan is the opposite, in fact: we want to help you with your hackdays. What’s in it for us? It’s pretty simple:</p>
 
 <ul>
@@ -86,17 +98,50 @@
 
 <p>That’s the best thing about our hackday plan is that it’s scalable: we want to work with you the way you want to work with us. So let’s do this.</p>
 
+<script type="text/javascript" src="media/js/tabletop.js"></script>
+
+
+
+
 <script type="text/javascript">
 
 $(document).ready(function () { 
-
 $('#nav li a.hackdays').addClass('active');
-
-    
- 
 });
 
 
+</script>
+
+
+
+
+<script type="text/javascript">
+      window.onload = function() { init() };
+
+      var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
+
+      $(document).ready( function() {
+        Tabletop.init( { key: public_spreadshseet_url,
+                         callback: showInfo,
+                         debug: true } )
+      });
+      
+        
+      function showInfo() {        
+        
+        $.each( Tabletop.sheets("Sheet1").all(), function(i, hackday) {
+          var hack_li = $('<tr><td class="date">' + hackday.date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.title + '</a></td><td class="location">' + hackday.location + '</td></tr>')
+          hack_li.appendTo("#hackcal");
+          
+       if (hackday.status != 'happening') {
+            hack_li.addClass('hide');
+            };
+        });
+        
+        $('#hackcalbox').show();
+                 
+      };
+      
 </script>
 
 
@@ -132,6 +177,7 @@ $('#nav li a.hackdays').addClass('active');
 <li><a href="http://sinker.tumblr.com/post/17207538743/the-knight-mozilla-partnership-evolves">The Knight-Mozilla Partnership Evolves</a>
 <li><a href="http://sinker.tumblr.com/post/15050642729/hacker-journalism-2011-a-year-of-show-your-work">Hacker-Journalism 2011: A year of “show your work”</a> 
             </ul>
+             
 </div>
 
 <script type="text/javascript">
