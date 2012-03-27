@@ -1,18 +1,22 @@
 ---
 layout: post
-title: Hack Days with OpenNews
+title: Writing Code with OpenNews
 ---
 
-<p class="bodybig">This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction. This is the HackDay introduction.</p>
+<p class="bodybig">OpenNews is sponsoring more than a dozen hack days around the world to write code that helps to solve real-world journalistic problems. From Africa to the Americas, we're looking for partners to hack the news with us. If you want to host a hack day or a developer who wants to attend one, <a href="https://donate.mozilla.org/page/s/knight-mozilla-news-hack-day">we want to hear from you.</a></p>
 
 <div id="hackcalbox">
     <h3>Upcoming OpenNews Hack Days</h3>
     <table id="hackcal">
     </table>
     </div>
-    
-Well, “many more” is now a mandate in the OpenNews project. We have plans (and budget) to help sponsor, organize, or produce journalism-associated hackdays in a major way this year. We’re shooting for 15-20, but may end up able to do more. That’s a ton of hackdays. Clearly, we’re not hosting all those ourselves. Our plan is the opposite, in fact: we want to help you with your hackdays. What’s in it for us? It’s pretty simple:
+We're partnering with organizations across the globe to help enable making awesome code. Attend one of the hack days in the list above, or find out how to host your own below.
 
+<h3>We Want to Hack with You</h3>
+We want to grow the journalism code community this year, and one way we're doing it is by giving small grants to organizations, universities, newsrooms, and even individuals, to host journalism-themed hack days.
+
+Because we understand that there are a lot of different ways to do something like this--from heads-down hacking to workshops and breakouts and beyond--we've designed this to be as open a system as possible. Here's what we're looking for:
+    
 * We want to get more developers building around journalistic problemsets, so there needs to be a journalistic frame to your hackday. That doesn’t mean “hack the news”—a frame that’s far too generic—it means “build geolocational tools for information gathering.”
 * We want tangible outcomes—things should come out of this that can be shared, distributed, forked, and maybe even launched.
 * We’d like you to keep track of how many people were there, and have a way of getting back in touch with them.
@@ -21,15 +25,10 @@ Well, “many more” is now a mandate in the OpenNews project. We have plans (a
 
 That’s not much. In fact, it’s designed to be as straightforward as possible: you want to hack, we want to help.
 
-Here’s a great example of how this flows:
+Maybe you’ve already got something in the works, but you want to have a two-day hackfest instead of one. Maybe you’ve got everything lined up, but you want to offer travel grants to your event. Maybe you need help getting organized. Maybe you want to bring us in to do something from scratch. There are any number of variations on how this can work—the key element is that it brings awesome hacking into the community.
 
-This weekend in Chicago, the Code for America fellows will host the Chicago Civic IdeaHack a hack day dedicated to develop tools for accessing civic data. The CfA fellows that are working with the City of Chicago this year organized the hackday, but needed help covering the costs associated with the day. Enter OpenNews: There’s tons of overlap between the civic data and journo-hacker community. In reality, they are two sides of the same coin. Getting developers interesting in working with civic datasets and building tools that help inform a community is, at its essence, getting them interested in journalism. The journalistic frame was there, so we reached out and offered to cover the costs for the day. And, boom, a better hack day was had for everyone.
+<a href="https://donate.mozilla.org/page/s/knight-mozilla-news-hack-day">We’ve set up a form so you can let us know what you’re thinking and we can talk about how we can most effectively help</a>. So let's do this. 
 
-We want to do this again and again and again this year. Each one will be different; each one will be awesome.
-
-We’ve been talking with people from Hacks/Hackers, from various news organizations, from universities, and others about helping out on hackdays. But, we also want to hear from you. Really. We’ve set up a form so you can let us know what you’re thinking and we can talk about how we can most effectively help. Maybe you’ve already got something in the works, but you want to have a two-day hackfest instead of one. Maybe you’ve got everything lined up, but you want to offer travel grants to your event. Maybe you need help getting organized. Maybe you want to bring us in to do something from scratch. There are any number of variations on how this can work—the key element is that it brings awesome hacking into the journalism community.
-
-That’s the best thing about our hackday plan is that it’s scalable: we want to work with you the way you want to work with us. So let’s do this. 
 
 <script type="text/javascript" src="media/js/tabletop.js"></script>
 
