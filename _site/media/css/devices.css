@@ -428,6 +428,8 @@ display: none;
 }
 
 #hackcalbox {
+min-height: 100px;
+margin-bottom: 50px;
 }
 
 #hackcalbox table {

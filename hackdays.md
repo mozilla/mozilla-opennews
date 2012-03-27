@@ -65,7 +65,7 @@ $('#nav li a.hackdays').addClass('active');
             };
  		});
  		
- 		$('#hackcalbox').show();
+ 		$('#hackcal').show();
  		         
       };
       
