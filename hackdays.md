@@ -37,12 +37,14 @@ That’s the best thing about our hackday plan is that it’s scalable: we want 
 
 $(document).ready(function () { 
 $('#nav li a.hackdays').addClass('active');
+
 });
 
 
 </script>
 
 <script type="text/javascript">
+    
       window.onload = function() { init() };
 
       var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
@@ -64,8 +66,7 @@ $('#nav li a.hackdays').addClass('active');
             hack_li.addClass('hide');
             };
  		});
- 		
- 		$('#hackcal').show();
+ 		 		
  		         
       };
       
