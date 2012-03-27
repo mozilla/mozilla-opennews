@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>{{ page.title }} | Knight-Mozilla OpenNews</title>
+     <meta name="Description" content="Knight-Mozilla OpenNews is about creating a diverse ecosystem to help journalism thrive on the open web. It's about producing open source code that solves real problems in news. It's about supporting communities of developers and journalists as they make, learn, and invent together. And it's about deploying fellows&mdash;and code&mdash;into news organizations to collaborate in new ways..">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
+<link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
+    <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
+    <script type="text/javascript"src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <link rel="stylesheet" media="screen" href="media/css/desktop.css" />
+    <![endif]-->
+    
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28825500-1']);
+  _gaq.push(['_setDomainName', 'mozillaopennews.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  </head>
+  <body>
+<script type="text/javascript">
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
+    </script>
+    <header class="masthead">
+        <div class="busta">
+            <h1 id="brand">
+                <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" /></a>
+            </h1>
+            <div id="nav">
+                 {% include navigation.html %}
+			</div>
+            <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
+        </div>
+    </header>
+     <div id="newsline">
+     </div>
+    <div role="main" class="home" id="home">
+               
+
+        <div class="busta">
+
+        <article>
+            {{ content }}
+             <aside class="challengebox fellowsbox box">
+            {% include sidebar_update.html %}
+            </aside>
+        </article>
+        </div>
+    </div>
+    <aside>
+        <section class="partners">
+          {% include footer.html %}
+        </section>
+    </aside>
+</body>
+</html>
+
+
