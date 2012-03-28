@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fellowship_post
 title: The Knight-Mozilla Fellowships
 ---
 
