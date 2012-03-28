@@ -61,20 +61,31 @@
         <div class="busta">
 
         <article>
-            <div id="fellowside">
+            <div class="article_body">
+<div id="fellowside">
 <ul>
-<li><a href="/fellowships">Fellowship Home</a></li>
-<li><a href="apply.html">2012/13 Fellowship Application</a></li>
-<li><a href="2011meet.html">Meet the 2011/12 Fellows</a></li>
-<li><a href="info.html">Fellowship Benefits</a></li>
+<li><a href="/fellowships" class="home">fellowship home</a></li>
+<li><a href="apply.html" class="apply">2012/13 fellowship application</a></li>
+<li><a href="2011meet.html" class="meet">meet the 2011/12 fellows</a></li>
+<li><a href="info.html" class="benefits">fellowship benefits</a></li>
 </ul>
 </div>
 <h2>Apply to become a 2012/13 Knight-Mozilla Fellow</h2>
-<div class="article_body">
 <p class="bodybig">Are you a developer, technologist, engineer, or programmer that wants to change the world of journalism? Apply to become a 2012/13 Knight-Mozilla Fellow and spend ten months embedded in some of the best newsrooms in the world creating innovative solutions to some of journalism's toughest problems.</p>
 
 
 <p>Application Form to be inserted here</p>
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function () { 
+$('#nav li a.fellowships').addClass('active');
+$('#fellowside li a.apply').addClass('active');
+
+});
+</script>
 
 
 </div>

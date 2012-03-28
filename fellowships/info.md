@@ -1,6 +1,6 @@
 ---
 layout: fellowship_post
-title: Information about the Knight-Mozilla Fellowships
+title: Knight-Mozilla Fellowship Benefits
 ---
 
 <p class="bodybig">The Knight-Mozilla fellowships present an unique opportunity for technologists and developers who want to influence the future of journalism on the web. Working inside of some of the world’s leading newsrooms, your fellowship experience will be a transformative opportunity.</p>
@@ -81,5 +81,6 @@ Mozilla will work directly with News Partners to secure temporary work visas as 
 <script type="text/javascript">
 $(document).ready(function () { 
 $('#nav li a.fellowships').addClass('active');
+$('#fellowside li a.benefits').addClass('active');
 });
 </script>

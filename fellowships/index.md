@@ -8,5 +8,7 @@ title: The Knight-Mozilla Fellowships
 <script type="text/javascript">
 $(document).ready(function () { 
 $('#nav li a.fellowships').addClass('active');
+$('#fellowside li a.home').addClass('active');
+
 });
 </script>
