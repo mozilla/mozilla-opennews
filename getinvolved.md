@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Get Involved with OpenNews
+section: getinvolved
 ---
 <p class="bodybig">OpenNews is about growing the community around open development in journalism. As a result, it's only as successful as you make it. That's why we need you involved at every step of the way. So please, join in.</p>
 
@@ -19,9 +20,3 @@ We run OpenNews in the open, and would love for you to join in our weekly calls,
 <li><a href="http://www.twitter.com/opennews">OpenNews on Twitter</a>, ask questions, find out what we're up to, and let us know what you're doing.
 <li><a href="https://lists.mozilla.org/listinfo/community-mojo">OpenNews Mailing List</a>. Join the mailing list and engage with a great community.
 </ul>
-
-<script type="text/javascript">
-$(document).ready(function () { 
-$('#nav li a.community').addClass('active');
-});
-</script>

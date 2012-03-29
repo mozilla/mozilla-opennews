@@ -27,7 +27,7 @@ aside {
 .box {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    box-sizing: border-box;
+    box-sizing: border-box;:52;
 }
 .busta {
     margin: 0 10px;
@@ -406,7 +406,8 @@ margin-bottom: 50px;
 	margin: 0px;
 	text-align: left;
 	display: inline;
-}#nav li {
+}
+#nav li {
 
 	padding: 0px;
 
@@ -446,6 +447,12 @@ display: inline;
 }
  #nav li a:hover, #nav li a:active, #nav li a.active, #fellowside li a:hover, #fellowside li a.active {
 	color: #3e3e3e;
+}
+.fellowships #fellowships a,
+.hackdays #hackdays a,
+.getinvolved #getinvolved a,
+.news #news a {
+    color: #3e3e3e;
 }
  #nav li a.active, #fellowside li a.active {
  cursor:default;
@@ -514,6 +521,12 @@ margin-top: 20px;
 color: #999999;
 text-decoration: none;
 
+}
+.fellows_home #fellow_home,
+.fellows_apply #fellow_apply,
+.fellows_2011 #fellow_meet,
+.fellows_info #fellow_benefits {
+    color: #3E3E3E;
 }
 
 iframe {

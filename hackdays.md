@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Writing Code with OpenNews
+section: hackdays
 ---
 
 <p class="bodybig">OpenNews is sponsoring more than a dozen hack days around the world to write code that helps to solve real-world journalistic problems. From Africa to the Americas, we're looking for partners to hack the news with us. If you want to host a hack day or a developer who wants to attend one, <a href="https://donate.mozilla.org/page/s/knight-mozilla-news-hack-day">we want to hear from you.</a></p>
@@ -31,16 +32,6 @@ Maybe you’ve already got something in the works, but you want to have a two-da
 
 
 <script type="text/javascript" src="media/js/tabletop.js"></script>
-
-<script type="text/javascript">
-
-$(document).ready(function () { 
-$('#nav li a.hackdays').addClass('active');
-
-});
-
-
-</script>
 
 <script type="text/javascript">
     

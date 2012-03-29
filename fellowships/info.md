@@ -1,6 +1,8 @@
 ---
 layout: fellowship_post
 title: Knight-Mozilla Fellowship Benefits
+section: fellowships
+sub-section: fellows_info
 ---
 
 <p class="bodybig">The Knight-Mozilla fellowships present an unique opportunity for technologists and developers who want to influence the future of journalism on the web. Fellows receive a slate of stipends and benefits to ensure the experience will be a transformative one.</p>
@@ -76,11 +78,3 @@ All approved Fellowship trips – domestic and international – are covered. Ad
 
 <h3>Visa Assistance</h3>
 Mozilla will work directly with News Partners to secure temporary work visas as required on behalf of Fellows who require them.
-
-
-<script type="text/javascript">
-$(document).ready(function () { 
-$('#nav li a.fellowships').addClass('active');
-$('#fellowside li a.benefits').addClass('active');
-});
-</script>
