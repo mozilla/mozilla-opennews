@@ -189,7 +189,7 @@ article header h2 {
     font-size: 28px;
 }
 article header p {
-	font-size: 22px;
+	font-size: 23px;
 	line-height: 1.7;
 }
 .fellowsbox h3 {
@@ -359,7 +359,7 @@ margin-bottom: 15px;
 }
 
 .bodybig {
-font-size: 22px;
+font-size: 23px;
 line-height: 1.7;
 margin-bottom: 50px;
 }
@@ -488,3 +488,7 @@ text-decoration: none;
 
 }
 
+iframe {
+margin-top: 20px;
+border: 1px solid black;
+}
