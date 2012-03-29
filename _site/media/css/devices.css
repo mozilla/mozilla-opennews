@@ -27,7 +27,7 @@ aside {
 .box {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    box-sizing: border-box;
+    box-sizing: border-box;:52;
 }
 .busta {
     margin: 0 10px;
@@ -251,10 +251,15 @@ article header p {
 	line-height: 1.3em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 }
-
-#involved, #minifellows, #newsbox {
-	margin-bottom: 50px;
+.external iframe {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
 }
+#involved, #minifellows, #newsbox {
+    margin-bottom: 50px;
+}
+
 #involved ul, #involved p, #newsbox ul {
 	font-size: 1em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
@@ -285,7 +290,30 @@ div[role="main"] .opengraph a:hover {
     margin-right: 50px;
     float: right;
 }
+div.article_body {
+    margin-bottom: 50px;
+}
+#newsline {
+    font-family: "MetaWebPro-Black";
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid rgb(198, 198, 198);
+    border-width: 1px 0;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
 
+#newsline a {
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(103, 103, 103);
+    display: block;
+}
+
+#newsline a:hover {
+    background-color: rgb(255, 91, 36);
+    color: #fff;
+}
 div.article_body {
 margin-bottom: 50px;
 }
@@ -378,7 +406,8 @@ margin-bottom: 50px;
 	margin: 0px;
 	text-align: left;
 	display: inline;
-}#nav li {
+}
+#nav li {
 
 	padding: 0px;
 
@@ -418,6 +447,12 @@ display: inline;
 }
  #nav li a:hover, #nav li a:active, #nav li a.active, #fellowside li a:hover, #fellowside li a.active {
 	color: #3e3e3e;
+}
+.fellowships #fellowships a,
+.hackdays #hackdays a,
+.getinvolved #getinvolved a,
+.news #news a {
+    color: #3e3e3e;
 }
  #nav li a.active, #fellowside li a.active {
  cursor:default;
@@ -486,6 +521,12 @@ margin-top: 20px;
 color: #999999;
 text-decoration: none;
 
+}
+.fellows_home #fellow_home,
+.fellows_apply #fellow_apply,
+.fellows_2011 #fellow_meet,
+.fellows_info #fellow_benefits {
+    color: #3E3E3E;
 }
 
 iframe {
