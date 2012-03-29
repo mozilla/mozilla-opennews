@@ -537,3 +537,12 @@ border: 1px solid black;
 #newsline {
 display: none;
 }
+
+#partnerbox {
+float: right;
+margin-right: 20px;
+}
+
+#partnerbox h4 {
+text-align: center;
+}
