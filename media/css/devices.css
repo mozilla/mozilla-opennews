@@ -189,7 +189,7 @@ article header h2 {
     font-size: 28px;
 }
 article header p {
-	font-size: 22px;
+	font-size: 23px;
 	line-height: 1.7;
 }
 .fellowsbox h3 {
@@ -346,7 +346,9 @@ font-family: Helvetica, Verdana, Arial, sans-serif;
 
 #involved:hover  {
 	margin-bottom: 24px;
-}table  {
+}
+
+table  {
 	width: 80%;
 	line-height: 1.6em;
 	font-size: 18px;
@@ -385,7 +387,7 @@ margin-bottom: 15px;
 }
 
 .bodybig {
-font-size: 22px;
+font-size: 23px;
 line-height: 1.7;
 margin-bottom: 50px;
 }
@@ -442,6 +444,79 @@ text-decoration: none;
 color: #999999;
 display: inline;
 }
- #nav li a:hover, #nav li a:active, #nav li a.active {
+ #nav li a:hover, #nav li a:active, #nav li a.active, #fellowside li a:hover, #fellowside li a.active {
 	color: #3e3e3e;
+}
+ #nav li a.active, #fellowside li a.active {
+ cursor:default;
+}
+
+.hide {
+display: none;
+}
+
+#hackcalbox {
+min-height: 100px;
+margin-bottom: 30px;
+}
+
+#hackcalbox table {
+width: 98%;
+}
+
+#hackcalbox table tr td:nth-child(2)  {
+	text-align: left;
+} 
+
+h3 {
+margin-top: 40px;
+margin-bottom: 10px;
+}
+
+#fellowside {
+padding-bottom: 5px;
+padding-top: 5px;
+margin: 0px;
+margin-bottom: 20px;
+font-family: Helvetica, Verdana, Arial, sans-serif;
+width: 100%;
+margin-top: 20px;
+}
+
+#fellowside ul {
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+#fellowside li {
+	border-right-color: #b1b1b1;
+	border-right-style: solid;
+	border-right-width: 1px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 9px;
+	margin-top: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-right: 9px;
+	padding-top: 0px;
+	display: inline;
+	font-size: 0.8em;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	list-style-type: none;
+}
+ #fellowside li:last-child {
+	border-right-width: 0px;
+}
+
+#fellowside li a {
+color: #999999;
+text-decoration: none;
+
+}
+
+iframe {
+margin-top: 20px;
+border: 1px solid black;
 }
