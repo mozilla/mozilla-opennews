@@ -541,8 +541,11 @@ display: none;
 #partnerbox {
 float: right;
 margin-right: 20px;
+margin-left: 10px;
+height: 800px;
 }
 
 #partnerbox h4 {
 text-align: center;
+color: #3E3E3E;
 }
