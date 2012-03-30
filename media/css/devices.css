@@ -622,4 +622,26 @@ background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -545px
 }
 
 
+ul.fellowslist, ul.fellowstats {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+ul.fellowslist li, ul.fellowstats li {
+display: inline;
+padding-right: 7px;
+padding-left: 7px;
+margin-right: 7px;
+border-right: 1px solid black;
+}
+
+ul.fellowslist li:first-child, ul.fellowstats li:first-child {
+padding-left: 0px;
+}
+ul.fellowslist li:last-child, ul.fellowstats li:last-child {
+border-right: 0;
+}
+
+
 
