@@ -326,7 +326,7 @@ display: inline;
 border: 1px solid #454545;
 }
 
-#minifellows p, #involved p {
+#minifellows p, #involved p, #newsbox p {
 font-size: 0.9em;
 font-family: Helvetica, Verdana, Arial, sans-serif;
 }
