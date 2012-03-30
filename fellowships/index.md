@@ -9,7 +9,15 @@ sub-section: fellows_home
 
 <div id="partnerbox">
 <h4>Our 2012/13 Partners</h4>
-<img src="/media/img/partner_logos_temp.png">
+<a href="http://www.bbc.co.uk/news/" class="logo-bbc"></a>
+<a href="http://www.nytimes.com/" class="logo-nyt"></a>
+<a href="http://www.guardian.co.uk/" class="logo-guardian"></a>
+<a href="http://www.zeit.de/" class="logo-zeit"></a>
+<a href="http://www.nacion.com/" class="logo-nacion"></a>
+<a href="http://www.spiegel.de/" class="logo-spiegel"></a>
+<a href="http://www.bostonglobe.com/" class="logo-boston"></a>
+<a href="http://www.propublica.org/" class="logo-propublica"></a>
+
 </div>
 
 <h3>Embedded in the Newsroom</h3>
