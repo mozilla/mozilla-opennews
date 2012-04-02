@@ -356,9 +356,6 @@ table tr td:nth-child(2)  {
 	text-align: right;
 }
 
-#minifellows:hover img  {
-opacity: .85;
-}
 
 img.meet {
 float: left; 
