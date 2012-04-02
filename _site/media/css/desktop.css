@@ -52,7 +52,7 @@ Default template CSS - if you change anything here then updating will be a bit m
 }
 .fellowsbox {
     padding-bottom: 20px;
-    padding-right: 0px;
+    padding-right: 10px;
     padding-top: 18px;
     margin-top: 20px;
     width: 30%;
