@@ -324,6 +324,10 @@ margin-bottom: 50px;
 #minifellows ul li {
 display: inline;
 }
+#minifellows a {
+    margin-top: 1em;
+    display: block;
+}
 
 #minifellows ul li img {
 border: 1px solid #454545;
@@ -332,23 +336,6 @@ border: 1px solid #454545;
 #minifellows p, #involved p, #newsbox p {
 font-size: 0.9em;
 font-family: Helvetica, Verdana, Arial, sans-serif;
-}
-
-#minifellows:hover, #involved:hover, #newsbox:hover  {
-	padding-left: 24px;
-	padding-bottom: 10px;
-	padding-right: 10px;
-	padding-top: 10px;
-	margin-left: -24px;
-	margin-right: -10px;
-	margin-top: -10px;
-	background-color: #f0f0f0;
-	cursor: pointer;
-	margin-bottom: 26px;
-}
-
-#involved:hover  {
-	margin-bottom: 24px;
 }
 
 table  {
@@ -397,8 +384,7 @@ margin-bottom: 50px;
 
 #nav {
 	margin-top: 5px;
-	left: 440px;
-	text-align: right;
+	right: 138px;
 	top: 8px;
 	position: absolute;
 	font-family: Helvetica, Verdana, Arial, sans-serif
@@ -541,6 +527,9 @@ iframe {
 margin-top: 30px;
 border: 1px solid black;
 }
+article iframe {
+    width: 98%;
+}
 
 #newsline {
 display: none;
@@ -650,6 +639,71 @@ padding-left: 0px;
 ul.fellowslist li:last-child, ul.fellowstats li:last-child {
 border-right: 0;
 }
-
-
-
+/* application form */
+#signup {
+    /* 
+    to cover up the empty <p></p> that markdown seems insistent to include above the form 
+    */ 
+    margin-top: -2em;
+}
+#signup label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5em;
+    width: 80%;
+}
+#signup input, 
+#signup textarea {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 90%;
+}
+#signup input[type="submit"] {
+    text-transform: uppercase;
+    color: #fff !important;
+    border: none;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background: #EF4619;
+    background-image: linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+    background-image: -o-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+    background-image: -moz-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+    background-image: -webkit-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+    padding: 0.4em 24px;
+    font-size: 20px;
+    box-shadow: 0 0 0.3em #dbdbdb;
+    display: inline-block;
+    letter-spacing: 0.6px;
+    /* Using important so line-height based on containers doesnt't screw stuff up */
+    line-height: 1 !important;
+    width: auto;
+}
+#signup input[type="submit"]:hover {
+    background-image: linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+    background-image: -o-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+    background-image: -moz-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+    background-image: -webkit-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+    text-decoration: none;
+}
+#signup input[type="submit"]:active {
+    box-shadow: none;
+    background: #e54821;
+    text-decoration: none;
+}
+.fieldset {
+    margin-bottom: 1em;
+}
+.sec-title {
+    border-top: 1px solid #C6C6C6;
+    line-height: 1;
+    padding-top: 1em;
+    color: #FC6E1F;
+    text-transform: uppercase;
+    font-family: "MetaWebPro-Black",Helvetica,Verdana,Arial, sans-serif;
+    font-size: 23px;
+}
+.required {
+    color: red;
+}
