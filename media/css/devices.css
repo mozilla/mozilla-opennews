@@ -656,6 +656,14 @@ border-right: 0;
     box-sizing: border-box;
     width: 90%;
 }
+#signup input[type="checkbox"] {
+    float: left;
+    width: auto;
+    margin-right: 10px;
+}
+#signup input[type="checkbox"] + label {
+    float: left;
+}
 #signup input[type="submit"] {
     text-transform: uppercase;
     color: #fff !important;
@@ -691,6 +699,7 @@ border-right: 0;
 }
 .fieldset {
     margin-bottom: 1em;
+    overflow: hidden;
 }
 .sec-title {
     border-top: 1px solid #C6C6C6;
