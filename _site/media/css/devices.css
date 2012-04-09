@@ -257,7 +257,8 @@ article header p {
 .external iframe {
     display: inline-block;
     vertical-align: middle;
-    margin-left: 10px;
+    margin: 0 0 0 10px;
+    border: none;
 }
 #involved, #minifellows, #newsbox {
     margin-bottom: 50px;
