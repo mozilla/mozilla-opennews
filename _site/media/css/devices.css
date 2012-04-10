@@ -524,8 +524,13 @@ iframe {
 margin-top: 30px;
 border: 1px solid black;
 }
+
 article iframe {
     width: 98%;
+}
+
+#videobox iframe {
+margin-top: 8px;
 }
 
 #newsline {
