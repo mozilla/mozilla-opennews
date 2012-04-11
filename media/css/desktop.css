@@ -21,6 +21,12 @@ Default template CSS - if you change anything here then updating will be a bit m
     float: right;
     margin-right: 130px;
 }
+#nav {
+	margin-top: 5px;
+	right: 138px;
+	top: 8px;
+	position: absolute;
+}
 /**= Overrides from devices.css */
 .busta {
     max-width: 980px;
@@ -77,4 +83,7 @@ header.opengraph {
 
 #ONlogo {
 margin-right: 40px;
+}
+#fellowside {
+    border-top: none;
 }

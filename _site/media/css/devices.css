@@ -159,7 +159,7 @@ aside {
 /* Main content */
 div[role=main] {
     background: #fff;
-    margin: 0.625em 0;
+    margin: 0 0 0.625em;
 }
 
 /**= And now time for your styles */
@@ -381,13 +381,8 @@ margin-bottom: 50px;
 }
 
 #nav {
-	margin-top: 5px;
-	right: 138px;
-	top: 8px;
-	position: absolute;
 	font-family: Helvetica, Verdana, Arial, sans-serif
 }
-
 #nav ul {
 	padding: 0px;
 	margin: 0px;
@@ -473,12 +468,13 @@ margin-bottom: 10px;
 
 #fellowside {
 padding-bottom: 5px;
-padding-top: 5px;
+padding-top: 18px;
 margin: 0px;
 margin-bottom: 20px;
 font-family: Helvetica, Verdana, Arial, sans-serif;
 width: 100%;
 margin-top: 20px;
+border-top: 1px solid #C6C6C6;
 }
 
 #fellowside ul {
