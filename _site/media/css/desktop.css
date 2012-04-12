@@ -27,6 +27,9 @@ Default template CSS - if you change anything here then updating will be a bit m
 	top: 8px;
 	position: absolute;
 }
+#nav li a {
+    padding: 1em 15px;
+}
 /**= Overrides from devices.css */
 .busta {
     max-width: 980px;
