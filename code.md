@@ -7,7 +7,55 @@ section: code
 <p class="bodybig">A key element to the OpenNews project is to put code out into the world that will help make better journalism. Our <a href="/fellowships">Knight-Mozilla Fellows</a> are pushing commits to GitHub regularly, and the <a href="/hackdays.html">hack days</a> we're sponsoring around the world are creating code to solve specific problems.</p>
 <div id="fellowcode">
 <h2>Fellows Projects and Code</h2>
+<ul>
+<li>Chocolate bar sweet roll powder chocolate cake liquorice tiramisu cotton candy. Oat cake bonbon toffee jelly-o toffee. Carrot cake pudding lollipop fruitcake apple pie biscuit cupcake. Donut gummi bears topping brownie gingerbread gummies tart chocolate bar.
+
+<li>Gingerbread topping sweet roll macaroon bear claw fruitcake. Cheesecake pie jelly. Chocolate tart sugar plum apple pie candy chocolate bar biscuit chocolate bar wafer.
+
+<li>Applicake cupcake ice cream jelly carrot cake gingerbread. Gummi bears faworki apple pie fruitcake. Caramels dragée chupa chups tiramisu. Pie toffee gummi bears.
+
+<li>Dragée caramels chocolate bar jujubes. Jelly beans jelly chupa chups bear claw gingerbread jelly pie. Sugar plum tiramisu muffin cake marshmallow halvah sweet marzipan.
+
+<li>Marshmallow brownie sweet roll oat cake marzipan topping pastry muffin icing. Powder fruitcake chupa chups powder halvah. Candy cotton candy sweet roll.
+
+<li>Powder halvah faworki wafer gummies tootsie roll apple pie. Jelly-o cookie gummi bears apple pie. Halvah dragée faworki lemon drops.
+</ul>
 </div>
-<div id="hackcode">
 <h2>Code from Hack Days</h2>
+<p>The <a href="/hackdays.html">global hack days</a> we're helping to sponsor are producing all sorts of interesting code. Feel free to explore the many projects spawned at OpenNews Hack Days.  
+<div id="hackcode" class="multicolumn">
+<ul id="daycode">
+</ul>
 </div>
+
+<script type="text/javascript" src="media/js/tabletop.js"></script>
+
+<script type="text/javascript">
+
+$('<div id="preload"></div>').html('<img src="/media/img/ajax-loader.gif" alt="loading data" />').prependTo($('#hackcode'));
+    
+      window.onload = function() { init() };
+
+      var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
+
+      $(document).ready( function() {
+        Tabletop.init( { key: public_spreadshseet_url,
+                         callback: showInfo,
+                         debug: true } )
+      });
+      
+        
+      function showInfo() {   
+      
+       $('#preload').hide();     
+        
+        $.each( Tabletop.sheets("projects").all(), function(i, codeday) {
+          var code_li = $('<li><a href="' + codeday.repo +'">' + codeday.name + '</a><br>' + codeday.description + '<br><small>Created at <a href="' + codeday.daylink + '">' + codeday.hackday +'</small></li>')
+          code_li.appendTo("#daycode");
+          
+ 		});
+ 		 		
+ 		         
+      };
+      
+</script>

@@ -715,3 +715,23 @@ border-right: 0;
 .required {
     color: red;
 }
+
+#hackcode li {
+display: block;
+list-style-position: inside;
+padding-left: 0px;
+margin-left: 0px;
+list-style-type: none;
+margin-bottom: 12px;
+font-size: 14px;
+
+}
+
+#hackcode ul {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	padding: 0px;
+}
+
+#preload {
+	text-align: center;
+}
