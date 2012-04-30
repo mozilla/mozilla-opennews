@@ -8,9 +8,19 @@ section: code
 <div id="fellowcode">
 <h2>Fellows Projects and Code</h2>
 <ul>
-<li>Chocolate bar sweet roll powder chocolate cake liquorice tiramisu cotton candy. Oat cake bonbon toffee jelly-o toffee. Carrot cake pudding lollipop fruitcake apple pie biscuit cupcake. Donut gummi bears topping brownie gingerbread gummies tart chocolate bar.
+<li><a href="http://truthgoggl.es" class="fellowhack">Truth Goggles</a>
+<br>A credibility layer / automatic BS detector for the internet.
+It helps catalyse critical thinking by reminding people when it is
+most important to be cautious.
+<br><a href="http://truthgoggl.es">On the web</a> | <a href="https://github.com/slifty/truth-goggles">On Github</a> 
 
-<li>Gingerbread topping sweet roll macaroon bear claw fruitcake. Cheesecake pie jelly. Chocolate tart sugar plum apple pie candy chocolate bar biscuit chocolate bar wafer.
+<li><a href="http://newsjack.in" class="fellowhack">NewsJack</a>
+<br>Leverages Hackasaurus to let anyone remix the news.  NewsJack
+instigates questions about what it means to be credible online,
+reminds us how important it is to challenge digital messages
+regardless of their appearance, and promotes conversation about brand
+and media literacy.
+<br><a href="http://newsjack.in">On the web</a> | <a href="https://github.com/slifty/newsjack">On Github</a>
 
 <li>Applicake cupcake ice cream jelly carrot cake gingerbread. Gummi bears faworki apple pie fruitcake. Caramels dragée chupa chups tiramisu. Pie toffee gummi bears.
 

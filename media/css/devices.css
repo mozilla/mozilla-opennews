@@ -735,3 +735,17 @@ font-size: 14px;
 #preload {
 	text-align: center;
 }
+
+#fellowcode ul {
+	padding: 0px;
+}
+
+#fellowcode ul li {
+	margin-bottom: 20px;
+	list-style-type: none;
+}
+
+.fellowhack {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	font-size: 1.1em;
+}
