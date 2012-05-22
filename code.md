@@ -9,13 +9,13 @@ section: code
 <h2>Fellows Projects and Code</h2>
 <ul>
 <li><a href="http://truthgoggl.es" class="fellowhack">Truth Goggles</a>
-<br>A credibility layer / automatic BS detector for the internet.
+<br>Dan Schultz has built a credibility layer / automatic BS detector for the internet.
 It helps catalyse critical thinking by reminding people when it is
 most important to be cautious.
 <br><a href="http://truthgoggl.es">On the web</a> | <a href="https://github.com/slifty/truth-goggles">On Github</a> 
 
 <li><a href="http://newsjack.in" class="fellowhack">NewsJack</a>
-<br>Leverages Hackasaurus to let anyone remix the news.  NewsJack
+<br>Dan Schultz's project leverages Hackasaurus to let anyone remix the news.  NewsJack
 instigates questions about what it means to be credible online,
 reminds us how important it is to challenge digital messages
 regardless of their appearance, and promotes conversation about brand
