@@ -8,11 +8,17 @@ section: code
 <div id="fellowcode">
 <h3>Projects by the Knight-Mozilla Fellows</h3>
 <ul>
-<li><a href="http://truthgoggl.es" class="fellowhack">Truth Goggles</a>
-<br>Dan Schultz has built a credibility layer / automatic BS detector for the internet.
-It helps catalyse critical thinking by reminding people when it is
-most important to be cautious.
-<br><a href="http://truthgoggl.es">On the web</a> | <a href="https://github.com/slifty/truth-goggles">On Github</a> 
+<li><a href="http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html" class="fellowhack">Contextual Video Player</a>
+<br>Mark Boas created the Contextual Video Player to enrich the experience of a web-based video player by augmenting additional info, various viewing modes and integrating social media sharing. The editor's role should be fast and straightforward and to this end, an editor edits and stores data in a Google Docs Spreadsheet. The ongoing aim is to create a framework that can evolve for use with similar projects and also create a general web-based stand-alone player linked to AJE's documentary material.
+<br>Key libraries : Popcorn.js, jPlayer and Tabletop.js
+<br><a href="http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html">On the web</a> | <a https://github.com/maboa/contextual-video">On Github</a>
+</li>
+
+<li><a href="http://happyworm.com/clientarea/hyperaudio/hap/v22/pad.htm" class="fellowhack">Hyperaudio Pad</a>
+<br>Mark Boas' Hyperaudio Pad is a tool to facilitate the easy assemblage of audio and video programs from their underlying transcripts. The ongoing aims are to create something usable that works with both audio and video and allows transitions and overlaying to be specified via in-pad natural language instructions and to build up a library of material and to integrate with other third-parties such as Amara (formerly Universal Subtitles)
+<br>Key libraries: Popcorn.js, jPlayer
+<br><a href="http://happyworm.com/clientarea/hyperaudio/hap/v22/pad.htm">On the web</a> | <a href="https://github.com/maboa/hyperaudiopad">On Github</a>
+</li>
 
 <li><a href="http://newsjack.in" class="fellowhack">NewsJack</a>
 <br>Dan Schultz's project leverages Hackasaurus to let anyone remix the news.  NewsJack
@@ -22,13 +28,19 @@ regardless of their appearance, and promotes conversation about brand
 and media literacy.
 <br><a href="http://newsjack.in">On the web</a> | <a href="https://github.com/slifty/newsjack">On Github</a>
 
-<li>Applicake cupcake ice cream jelly carrot cake gingerbread. Gummi bears faworki apple pie fruitcake. Caramels dragée chupa chups tiramisu. Pie toffee gummi bears.
 
-<li>Dragée caramels chocolate bar jujubes. Jelly beans jelly chupa chups bear claw gingerbread jelly pie. Sugar plum tiramisu muffin cake marshmallow halvah sweet marzipan.
+<li><a href="http://truthgoggl.es" class="fellowhack">Truth Goggles</a>
+<br>Dan Schultz has built a credibility layer / automatic BS detector for the internet.
+It helps catalyze critical thinking by reminding people when it is
+most important to be cautious.
+<br><a href="http://truthgoggl.es">On the web</a> | <a href="https://github.com/slifty/truth-goggles">On Github</a> 
 
-<li>Marshmallow brownie sweet roll oat cake marzipan topping pastry muffin icing. Powder fruitcake chupa chups powder halvah. Candy cotton candy sweet roll.
+<li><a href="http://www.aljazeera.com/indepth/features/2012/04/2012418162237555962.html" class="fellowhack">YouSlide</a>
+<br>Mark Boas sought to make image-based slideshows more compelling by allowing images to be zoomed and faded and an audio track to be added. The ongoing aim is to create a tool that will allow anybody to create audio slideshows from YouTube based audio and Creative Commons licensed images.
+<br>Key libraries : Popcorn.js, jPlayer
+<br><a href="http://www.aljazeera.com/indepth/features/2012/04/2012418162237555962.html">On the web</a> | <a href="https://github.com/maboa/YouSlide"> On Github</a>
+</li>
 
-<li>Powder halvah faworki wafer gummies tootsie roll apple pie. Jelly-o cookie gummi bears apple pie. Halvah dragée faworki lemon drops.
 </ul>
 </div>
 <h3>Code from Hack Days</h3>
