@@ -6,7 +6,7 @@ section: code
 
 <p class="bodybig">A key element to the OpenNews project is to put code out into the world that will help make better journalism. Our <a href="/fellowships">Knight-Mozilla Fellows</a> are pushing commits to GitHub regularly, and the <a href="/hackdays.html">hack days</a> we're sponsoring around the world are creating code to solve specific problems.</p>
 <div id="fellowcode">
-<h2>Fellows Projects and Code</h2>
+<h3>Projects by the Knight-Mozilla Fellows</h3>
 <ul>
 <li><a href="http://truthgoggl.es" class="fellowhack">Truth Goggles</a>
 <br>Dan Schultz has built a credibility layer / automatic BS detector for the internet.
@@ -31,7 +31,7 @@ and media literacy.
 <li>Powder halvah faworki wafer gummies tootsie roll apple pie. Jelly-o cookie gummi bears apple pie. Halvah dragée faworki lemon drops.
 </ul>
 </div>
-<h2>Code from Hack Days</h2>
+<h3>Code from Hack Days</h3>
 <p>The <a href="/hackdays.html">global hack days</a> we're helping to sponsor are producing all sorts of interesting code. Feel free to explore the many projects spawned at OpenNews Hack Days.  
 <div id="hackcode" class="multicolumn">
 <ul id="daycode">
