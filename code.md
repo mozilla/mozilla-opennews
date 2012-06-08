@@ -15,7 +15,7 @@ section: code
 </li>
 
 <li><a href="https://github.com/openNews/amo" class="fellowhack">Amo</a>
-<br>Amo was born out of a need to be able to track in real time multiple stories across the web. It works by checking to see how many times a url has been shared. Once you have the number of shares for a particular url at any given time then you can record those and really start to see which stories the social world is grabbing abhold of.
+<br>Amo was born out of a need to be able to track multiple stories across the web in real time. It works by checking to see how many times a url has been shared on Facebook, Google Plus and Twitter. Once you have the number of shares for a particular url at any given time then you can record those and really start to see which stories the social world likes and it talking about the most.
 <br>Key libraries : jsdom, node and jQuery
 <br><a href="https://github.com/openNews/amo">On Github</a>
 </li>
