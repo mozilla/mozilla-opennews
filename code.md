@@ -16,8 +16,7 @@ section: code
 </li>
 
 <li><a href="http://toys.namebound.com/Arrow/" class="fellowhack">Arrow</a>
-<br>Laurian Gridinoc’s work in progress on how to play sound slides created with <a href="http://soundslides.com">soundslides.com</a> in a Flash-free environment. 
-<br>The current example is a proof-of-concept based on the <a href="http://www.bbc.co.uk/news/uk-10714688">Siegfried Sassoon</a> BBC SoundSlides-authored audio slideshow. This project might merge later with Mark Boas’ aforementioned YouSlide.
+<br>Laurian Gridinoc’s work in progress on how to play sound slides created with <a href="http://soundslides.com">soundslides.com</a> in a Flash-free environment. The current example is a proof-of-concept based on the <a href="http://www.bbc.co.uk/news/uk-10714688">Siegfried Sassoon</a> BBC SoundSlides-authored audio slideshow. This project might merge later with Mark Boas’ YouSlide.
 <br>Key libraries: <a href="http://popcornjs.org">Popcorn.js</a>, <a href="http://mediaelementjs.com">MediaElement.js</a>
 <br><a href="http://toys.namebound.com/Arrow/">On the web</a> | <a href="https://github.com/Laurian/Arrow">On GitHub</a>
 </li>
