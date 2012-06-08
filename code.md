@@ -14,6 +14,12 @@ section: code
 <br><a href="http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html">On the web</a> | <a https://github.com/maboa/contextual-video">On Github</a>
 </li>
 
+<li><a href="https://github.com/openNews/amo" class="fellowhack">Amo</a>
+<br>Amo was born out of a need to be able to track in real time multiple stories across the web. It works by checking to see how many times a url has been shared. Once you have the number of shares for a particular url at any given time then you can record those and really start to see which stories the social world is grabbing abhold of.
+<br>Key libraries : jsdom, node and jQuery
+<br><a href="https://github.com/openNews/amo">On Github</a>
+</li>
+
 <li><a href="http://happyworm.com/clientarea/hyperaudio/hap/v22/pad.htm" class="fellowhack">Hyperaudio Pad</a>
 <br>Mark Boas' Hyperaudio Pad is a tool to facilitate the easy assemblage of audio and video programs from their underlying transcripts. The ongoing aims are to create something usable that works with both audio and video and allows transitions and overlaying to be specified via in-pad natural language instructions and to build up a library of material and to integrate with other third-parties such as Amara (formerly Universal Subtitles)
 <br>Key libraries: Popcorn.js, jPlayer
