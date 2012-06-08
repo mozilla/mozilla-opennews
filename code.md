@@ -8,10 +8,18 @@ section: code
 <div id="fellowcode">
 <h3>Projects by the Knight-Mozilla Fellows</h3>
 <ul>
+
 <li><a href="https://github.com/openNews/amo" class="fellowhack">Amo</a>
 <br>Cole Gillespie's Amo was born out of a need to be able to track multiple stories across the web in real time. It works by checking to see how many times a url has been shared on Facebook, Google Plus and Twitter. Once you have the number of shares for a particular url at any given time then you can record those and really start to see which stories the social world likes and it talking about the most.
 <br>Key libraries : jsdom, node and jQuery
 <br><a href="https://github.com/openNews/amo">On Github</a>
+</li>
+
+<li><a href="http://toys.namebound.com/Arrow/" class="fellowhack">Arrow</a>
+<br>Laurian Gridinoc’s work in progress on how to play sound slides created with <a href="http://soundslides.com">soundslides.com</a> in a Flash-free environment. 
+<br>The current example is a proof-of-concept based on the <a href="http://www.bbc.co.uk/news/uk-10714688">Siegfried Sassoon</a> BBC SoundSlides-authored audio slideshow. This project might merge later with Mark Boas’ aforementioned YouSlide.
+<br>Key libraries: <a href="http://popcornjs.org">Popcorn.js</a>, <a href="http://mediaelementjs.com">MediaElement.js</a>
+<br><a href="http://toys.namebound.com/Arrow/">On the web</a> | <a href="https://github.com/Laurian/Arrow">On GitHub</a>
 </li>
 
 <li><a href="http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html" class="fellowhack">Contextual Video Player</a>
@@ -24,6 +32,12 @@ section: code
 <br>Mark Boas' Hyperaudio Pad is a tool to facilitate the easy assemblage of audio and video programs from their underlying transcripts. The ongoing aims are to create something usable that works with both audio and video and allows transitions and overlaying to be specified via in-pad natural language instructions and to build up a library of material and to integrate with other third-parties such as Amara (formerly Universal Subtitles)
 <br>Key libraries: Popcorn.js, jPlayer
 <br><a href="http://happyworm.com/clientarea/hyperaudio/hap/v22/pad.htm">On the web</a> | <a href="https://github.com/maboa/hyperaudiopad">On Github</a>
+</li>
+
+<li><a href=" http://toys.namebound.com/d3/ex/choropleth.html" class="fellowhack">IE6 Compatible Choropleth Map with D3 & Raphaël</a>
+<br>Laurian Gridinoc’s experiment in creating a choropleth map with D3.js and Raphaël.js that works even in Internet Explorer 6. Based on <a href="http://github.com/strongriley">Riley Strong’s</a> <a href="http://strongriley.github.com/d3/ex/calendar.html">D3/IE6 work</a>.
+<br>Key libraries: <a href="http://d3js.org">D3.js</a>, <a href="http://raphaeljs.com">Raphaël.js</a>
+<br><a href="http://toys.namebound.com/d3/ex/choropleth.html">On the web</a> | <a href="http://github.com/Laurian/d3">On GitHub</a>
 </li>
 
 <li><a href="http://newsjack.in" class="fellowhack">NewsJack</a>
@@ -45,19 +59,6 @@ most important to be cautious.
 <br>Mark Boas sought to make image-based slideshows more compelling by allowing images to be zoomed and faded and an audio track to be added. The ongoing aim is to create a tool that will allow anybody to create audio slideshows from YouTube based audio and Creative Commons licensed images.
 <br>Key libraries : Popcorn.js, jPlayer
 <br><a href="http://www.aljazeera.com/indepth/features/2012/04/2012418162237555962.html">On the web</a> | <a href="https://github.com/maboa/YouSlide"> On Github</a>
-</li>
-
-<li><a href=" http://toys.namebound.com/d3/ex/choropleth.html" class="fellowhack">IE6 compatible choropleth map with D3 & Raphaël</a>
-<br>Laurian Gridinoc’s experiment in creating a choropleth map with D3.js and Raphaël.js that works even in Internet Explorer 6. Based on <a href="http://github.com/strongriley">Riley Strong’s</a> <a href="http://strongriley.github.com/d3/ex/calendar.html">D3/IE6 work</a>.
-<br>Key libraries: <a href="http://d3js.org">D3.js</a>, <a href="http://raphaeljs.com">Raphaël.js</a>
-<br><a href="http://toys.namebound.com/d3/ex/choropleth.html">On the web</a> | <a href="http://github.com/Laurian/d3">On GitHub</a>
-</li>
-
-<li><a href="http://toys.namebound.com/Arrow/" class="fellowhack">Arrow</a>
-<br>Laurian Gridinoc’s work in progress on how to play sound slides created with <a href="http://soundslides.com">soundslides.com</a> in a Flash-free environment. 
-<br>The current example is a proof-of-concept based on the <a href="http://www.bbc.co.uk/news/uk-10714688">Siegfried Sassoon</a> BBC SoundSlides-authored audio slideshow. This project might merge later with Mark Boas’ aforementioned YouSlide.
-<br>Key libraries: <a href="http://popcornjs.org">Popcorn.js</a>, <a href="http://mediaelementjs.com">MediaElement.js</a>
-<br><a href="http://toys.namebound.com/Arrow/">On the web</a> | <a href="https://github.com/Laurian/Arrow">On GitHub</a>
 </li>
 
 </ul>
