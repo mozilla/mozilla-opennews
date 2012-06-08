@@ -48,13 +48,13 @@ most important to be cautious.
 </li>
 
 <li><a href=" http://toys.namebound.com/d3/ex/choropleth.html" class="fellowhack">IE6 compatible choropleth map with D3 & Raphaël</a>
-<br>A experiment in creating a choropleth map with D3.js and Raphaël.js that works even in Internet Explorer 6. Based on <a href="http://github.com/strongriley">Riley Strong’s</a> <a href="http://strongriley.github.com/d3/ex/calendar.html">D3/IE6 work</a>.
+<br>Laurian Gridinoc’s experiment in creating a choropleth map with D3.js and Raphaël.js that works even in Internet Explorer 6. Based on <a href="http://github.com/strongriley">Riley Strong’s</a> <a href="http://strongriley.github.com/d3/ex/calendar.html">D3/IE6 work</a>.
 <br>Key libraries: <a href="http://d3js.org">D3.js</a>, <a href="http://raphaeljs.com">Raphaël.js</a>
 <br><a href="http://toys.namebound.com/d3/ex/choropleth.html">On the web</a> | <a href="http://github.com/Laurian/d3">On GitHub</a>
 </li>
 
 <li><a href="http://toys.namebound.com/Arrow/" class="fellowhack">Arrow</a>
-<br>A work in progress code sample (will be a tutorial in the end) on how to play soundslides created with <a href="http://soundslides.com">soundslides.com</a> in a Flash-free environment. 
+<br>Laurian Gridinoc’s work in progress on how to play sound slides created with <a href="http://soundslides.com">soundslides.com</a> in a Flash-free environment. 
 <br>The current example is a proof-of-concept based on the <a href="http://www.bbc.co.uk/news/uk-10714688">Siegfried Sassoon</a> BBC SoundSlides-authored audio slideshow. This project might merge later with Mark Boas’ aforementioned YouSlide.
 <br>Key libraries: <a href="http://popcornjs.org">Popcorn.js</a>, <a href="http://mediaelementjs.com">MediaElement.js</a>
 <br><a href="http://toys.namebound.com/Arrow/">On the web</a> | <a href="https://github.com/Laurian/Arrow">On GitHub</a>
