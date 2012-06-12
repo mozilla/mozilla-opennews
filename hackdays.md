@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing Code with OpenNews
+title: OpenNews Hack Days
 section: hackdays
 ---
 
