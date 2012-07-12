@@ -66,6 +66,11 @@ most important to be cautious.
 <p>The <a href="/hackdays.html">global hack days</a> we're helping to sponsor are producing all sorts of interesting code. Feel free to explore the many projects spawned at OpenNews Hack Days.  
 <div id="hackcode" class="multicolumn">
 <ul id="daycode">
+<li><a href="https://github.com/Laurian/NewsTuner" class="fellowhack">NewsTuner</a>
+<br>At the Mozilla Hack Jam "Data Live" in Dundee, Laurian Gridinoc prototyped  a tuner that permits the user to manually tune in several news video channels, bringing back to the web the analog radio serendipity. The project will continue as soon as more hardware will be delivered.
+<br>Key libraries : Duino (Arduino framework for Node.js), Node.js, Socket.io, Seriously.js
+<br><a href="https://github.com/Laurian/NewsTuner">On Github</a>
+</li>
 </ul>
 </div>
 
