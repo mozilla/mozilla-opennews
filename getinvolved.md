@@ -17,7 +17,7 @@ We're helping to sponsor journalism-themed hack days around the world this year,
 We run OpenNews in the open, and would love for you to join in our weekly calls, our mailing list, or interact with us on Twitter. 
 <ul>
 <li><a href="https://wiki.mozilla.org/OpenNews/Calls">OpenNews Community Calls</a> every second Wednesday at 11am EST.</li>
-<li><a href="http://www.twitter.com/opennews">OpenNews on Twitter</a>, ask questions, find out what we're up to, and let us know what you're doing.
-<li><a href="https://lists.mozilla.org/listinfo/community-mojo">OpenNews Mailing List</a>. Join the mailing list and engage with a great community.
-<li><a href="https://wiki.mozilla.org/OpenNews">OpenNews Wiki</a>. Check out archival content and other information.
+<li><a href="http://www.twitter.com/opennews">OpenNews on Twitter</a>, ask questions, find out what we're up to, and let us know what you're doing.</li>
+<li><a href="https://lists.mozilla.org/listinfo/community-mojo">OpenNews Mailing List</a>. Join the mailing list and engage with a great community.</li>
+<li><a href="https://wiki.mozilla.org/OpenNews">OpenNews Wiki</a>. Check out archival content and other information.</li>
 </ul>
