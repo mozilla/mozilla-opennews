@@ -24,7 +24,7 @@ section: code
 <li><a href="http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html" class="fellowhack">Contextual Video Player</a>
 <br>Mark Boas created the Contextual Video Player to enrich the experience of a web-based video player by augmenting additional info, various viewing modes and integrating social media sharing. The editor's role should be fast and straightforward and to this end, an editor edits and stores data in a Google Docs Spreadsheet. The ongoing aim is to create a framework that can evolve for use with similar projects and also create a general web-based stand-alone player linked to AJE's documentary material.
 <br>Key libraries : Popcorn.js, jPlayer and Tabletop.js
-<br><a href="http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html">On the web</a> | <a https://github.com/maboa/contextual-video">On Github</a>
+<br><a href="http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html">On the web</a> | <a href="https://github.com/maboa/contextual-video">On Github</a>
 </li>
 
 <li><a href="http://happyworm.com/clientarea/hyperaudio/hap/v22/pad.htm" class="fellowhack">Hyperaudio Pad</a>
