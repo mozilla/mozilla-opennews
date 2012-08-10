@@ -4,7 +4,6 @@ title: Apply to become a 2012/13 Knight-Mozilla Fellow
 section: fellowships
 sub-section: fellows_apply
 ---
-<div id="videobox"><iframe width="669" height="398" src="//www.youtube.com/embed/OEkH8qWmjBQ" frameborder="0" allowfullscreen></iframe></div>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Are you a developer, technologist, engineer, or programmer that wants to change the world of journalism? Apply to become a 2012/13 Knight-Mozilla Fellow and spend ten months embedded in some of the best newsrooms in the world creating innovative solutions to some of journalism's toughest problems. <strong>Application deadline:</strong> August 11, 2012 at 11:59 p.m. EDT</p>
-{% include signup_form.html %}
+<h4>The application to become a 2013 Knight-Mozilla Fellow is closed.</h4>
+<p>The interest in the Knight-Mozilla Fellowships program has been overwhelming! Thanks so much for your continued excitement about what we're up to. Please get involved in our many other projects by visiting our <a href="../getinvolved.html">"Get Involved" page</a>. Thanks!</p>

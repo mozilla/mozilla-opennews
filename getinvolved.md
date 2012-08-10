@@ -6,7 +6,7 @@ section: getinvolved
 <p class="bodybig">OpenNews is about growing the community around open development in journalism. As a result, it's only as successful as you make it. That's why we need you involved at every step of the way. So please, join in.</p>
 
 <h3>Become a Knight-Mozilla Fellow</h3>
-The core of our program is the <a href="/fellowships">Knight-Mozilla Fellowships</a>. Spend 10 months embedded in one of the best newsrooms in the world helping to build the next generation of journalism. If you think you have the chops, we'd love to hear from you--the application to become a 2012/13 Knight-Mozilla Fellow is now open.
+The core of our program is the <a href="/fellowships">Knight-Mozilla Fellowships</a>. Spend 10 months embedded in one of the best newsrooms in the world helping to build the next generation of journalism. While the opportunity to apply for 2013 is closed, we will announce our 2013 Knight-Mozilla Fellows at the <a href="https://www.mozillafestival.org/">Mozilla Festival</a> in early November.
 <h3>Build With Us</h3>
 We're helping to sponsor journalism-themed hack days around the world this year, and would love for you to take part.
 <ul> 
