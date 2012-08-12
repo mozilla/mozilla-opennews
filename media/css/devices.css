@@ -436,6 +436,7 @@ display: inline;
 }
 .fellowships #fellowships a,
 .hackdays #hackdays a,
+.code #code a,
 .getinvolved #getinvolved a,
 .news #news a {
     color: #3e3e3e;
