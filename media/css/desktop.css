@@ -58,7 +58,7 @@ Default template CSS - if you change anything here then updating will be a bit m
 .article_body {
     position: relative;
     padding-right: 32%;
-    /* min-height: 1000px;*/
+    min-height: 1000px;
 }
 .fellowsbox {
     padding-bottom: 20px;
