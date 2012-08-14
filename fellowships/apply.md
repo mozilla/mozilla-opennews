@@ -5,5 +5,5 @@ section: fellowships
 sub-section: fellows_apply
 ---
 <h2>{{ page.title }}</h2>
-<h4>The application to become a 2013 Knight-Mozilla Fellow is closed.</h4>
+<h3><strong>The application to become a 2013 Knight-Mozilla Fellow is closed</strong>.</h3>
 <p>The interest in the Knight-Mozilla Fellowships program has been overwhelming! Thanks so much for your continued excitement about what we're up to. Please get involved in our many other projects by visiting our <a href="../getinvolved.html">"Get Involved" page</a>. Thanks!</p>
