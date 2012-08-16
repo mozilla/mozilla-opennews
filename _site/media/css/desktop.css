@@ -55,10 +55,9 @@ Default template CSS - if you change anything here then updating will be a bit m
 #brand img {
     width: auto;
 }
-.article_body {
-    position: relative;
-    padding-right: 32%;
-    min-height: 1000px;
+.main_col {
+    width: 68%;
+    float: left;
 }
 .fellowsbox {
     padding-bottom: 20px;
@@ -66,12 +65,9 @@ Default template CSS - if you change anything here then updating will be a bit m
     padding-top: 18px;
     margin-top: 20px;
     width: 30%;
-    position: absolute;
-    top: 0;
-    right: 0;
+    float: right;
     padding-left: 24px;
     border-left: 1px solid #C6C6C6;
-    margin-left: 30px;
 }
 .fellowsbox .photo {
     width: 40%;
