@@ -4,7 +4,7 @@ title: Code Sprint Grants
 section: codesprints
 ---
 <p class="bodybig">
-At OpenNews, we want to help build great tools to do journalism, and we want those tools to be open-souced and freely available to everyone. But we know  that some of the most useful tools are the simplest and so we've created Code Sprint Grants to assist in creating some of those simple tools for journalism.
+At OpenNews, we want to help build great tools to do journalism, and we want those tools to be open-sourced and freely available to everyone. But we know  that some of the most useful tools are the simplest and so we've created Code Sprint Grants to assist in creating some of those simple tools for journalism.
 </p>
 <h3>Small Tools with Big Impact</h3>
 <p>We think that tools are built best when they're rooted in real needs, so we're partnering with news organizations from around the world to write great code forged from the daily demands of the newsroom. We're looking to help create small tools that make big impacts, tools like:
