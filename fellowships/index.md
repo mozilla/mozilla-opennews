@@ -26,5 +26,5 @@ sub-section: fellows_home
 <h3>Working in the Open</h3>
 <p>Knight-Mozilla Fellows share the work they're doing with the world outside of the newsroom. By blogging their experiences, pushing code to open repositories, taking part in the OpenNews community calls, and engaging with other developers, the Knight-Mozilla Fellows are helping to spread the code they're making and strengthen the journalism-developer community.
 
-<h3>Apply to Become a 2012/13 Fellow</h3>
-<p>Eight newsrooms around the world will be hosting Knight-Mozilla Fellows in 2012/13. Now is your chance to be one of them. Starting on April 9, 2012 and closing August 11, we are looking for developers and technologists who want to change the world of journalism for the better. <a href="apply.html">Apply now to become a 2012/13 Fellow</a>.
+<h3>The 2013 Knight-Mozilla Fellowships</h3>
+<p>Eight newsrooms around the world will be hosting Knight-Mozilla Fellows in 2013. We'll be announcing the eight 2013 Knight-Mozilla Fellows at the <a href="http://mozillafestival.org/">Mozilla Festival</a> in London November 9-11, 2012.
