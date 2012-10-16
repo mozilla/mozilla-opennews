@@ -80,7 +80,7 @@ most important to be cautious.
 
 $('<div id="preload"></div>').html('<img src="/media/img/ajax-loader.gif" alt="loading data" />').prependTo($('#hackcode'));
     
-      window.onload = function() { init() };
+      //window.onload = function() { init() };
 
       var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
 

@@ -35,29 +35,36 @@
 </script>
 <script type="text/javascript" src="//www.google.com/jsapi"></script>
 <script type="text/javascript">
-  google.load("feeds", "1");
-
-  function initialize() {
-    var feed_url = document.getElementById("feed_url"),
-        feed = new google.feeds.Feed($(feed_url).attr('href'));
-    feed.setNumEntries(5);
-    feed.load(function(result) {
-      if (!result.error) {
-        var feed_list = "<ul>";
-        for (var i = 0; i < result.feed.entries.length; i++) {
-          var entry = result.feed.entries[i],
-              chunks = entry.title.split(':'),
-              name = chunks.shift();
-          feed_list += "<li><a href='" + entry.link + "'>";
-          feed_list += chunks.toString() + "</a> by " + name.toString();
-          feed_list += "</li>";
-        }
-        feed_list += "</ul>";
-        $(feed_url).parent().before($(feed_list));
-      }
-    });
-  }
-  google.setOnLoadCallback(initialize);
+    google.load("feeds", "1");
+    function initialize() {
+        var feed_urls = $("a.feed_url");
+        $.each(feed_urls, function() {
+            var current = $(this),
+                feed = new google.feeds.Feed(current.attr('href'));
+            feed.setNumEntries(4);
+            feed.load(function(result) {
+                if (!result.error) {
+                    var feed_list = "<ul>";
+                    for (var i = 0; i < result.feed.entries.length; i++) {
+                        var entry = result.feed.entries[i],
+                            url = entry.link;
+                        feed_list += "<li><a href='" + url + "'>";
+                        if (url.indexOf('source') !== -1) {
+                            feed_list += entry.title + "</a>";
+                        } else {
+                            var chunks = entry.title.split(':'),
+                            name = chunks.shift();
+                            feed_list += chunks.toString() + "</a> by " + name.toString();
+                        }
+                        feed_list += "</li>";
+                    }
+                    feed_list += "</ul>";
+                    current.parent().before($(feed_list));
+                }
+            });
+        });
+    }
+    google.setOnLoadCallback(initialize);
 </script>
 </head>
 <body class="getinvolved ">
@@ -72,8 +79,9 @@
             <div id="nav">
                  <ul>
 <li id="fellowships"><a href="/fellowships">fellowships</a></li>
-<li id="code sprints"><a href="/codesprints.html">code sprints</a></li> 
+<li id="codesprints"><a href="/codesprints.html">code sprints</a></li> 
 <li id="hackdays"><a href="/hackdays.html">hack days</a></li>
+<li id="source"><a href="/source.html">source</a>
 <li id="code"><a href="/code.html">code</a></li>
 <li id="getinvolved"><a href="/getinvolved.html">get involved</a></li>
 </ul>
@@ -98,10 +106,11 @@
 
 
 
+<!-- 
 <h3>Become a Knight-Mozilla Fellow</h3>
+The core of our program is the <a href="/fellowships">Knight-Mozilla Fellowships</a>. Spend 10 months embedded in one of the best newsrooms in the world helping to build the next generation of journalism. While the opportunity to apply for 2013 is closed, we will announce our 2013 Knight-Mozilla Fellows at the <a href="https://www.mozillafestival.org/">Mozilla Festival</a> in early November. 
+-->
 
-
-<p>The core of our program is the <a href="/fellowships">Knight-Mozilla Fellowships</a>. Spend 10 months embedded in one of the best newsrooms in the world helping to build the next generation of journalism. While the opportunity to apply for 2013 is closed, we will announce our 2013 Knight-Mozilla Fellows at the <a href="https://www.mozillafestival.org/">Mozilla Festival</a> in early November.</p>
 
 <h3>Build With Us</h3>
 
@@ -111,6 +120,17 @@
 <ul> 
 <li>We're actively <a href="https://donate.mozilla.org/page/s/knight-mozilla-news-hack-day">looking for partners to host hack days</a>, so let us know what you're up to. 
 <li>If you're a developer who wants to hack with us, check our <a href="/hackdays.html">hack day page</a> to find out what's happening near you.
+</ul>
+
+
+<h3>Contribute to Source</h3>
+
+
+<p><a href="http://source.mozillaopennews.org">Source</a> is our site dedicated to journalism code and the community around it. We run regular features delving deeply into news code, as well as work to index all of the code that&rsquo;s out there in the journalism space. We can&rsquo;t do it without your help.</p>
+
+<ul>
+<li>If you're writing code in the journalism space and want to document your work for Source, or if you're a writer that wants to help document others' work, we want to <a href="https://source-dev.mozillalabs.com/en-US/contribute/">hear from you</a>.
+<li>If you're a coder who wants their open code listed in the <a href="http://source.mozillaopennews.org/code">Source Code Index</a>, <a href="https://source-dev.mozillalabs.com/en-US/contribute/">submit to get it listed</a>.
 </ul>
 
 
@@ -134,9 +154,9 @@
              <h3>Get Involved</h3>
             <p>The success of OpenNews depends on people like you! Join in:</p>
             <ul>
-                <li><a href="/fellowships">Learn about the Fellowships</a></li>
+            	<li><a href="/source.html">Engage with Source</a></li>
                 <li><a href="/hackdays.html">Hold a Journalism Hack Day</a></li>
-                <li><a href="/getinvolved.html">Join the Community</a></li>
+                <li><a href="/getinvolved.html">Join our Community</a></li>
             </ul>
             </div>
 <div id="minifellows">
@@ -153,7 +173,9 @@
 
 <div id="newsbox">
 <h3>The latest from the OpenNews team</h3>
-<p>Read all our news in our <a id="feed_url" href="http://planet.drumbeat.org/mojo/rss20.xml">OpenNews feed</a></p>
+<p>Read all our news in our <a class="feed_url" href="http://planet.mozillaopennews.org/rss20.xml">OpenNews feed</a></p>
+<h3>The latest from Source</h3>
+<p>Read all our news in our <a class="feed_url" href="https://source-dev.mozillalabs.com/rss/">Source feed</a></p>
 </div>
             </aside>
         </article>
