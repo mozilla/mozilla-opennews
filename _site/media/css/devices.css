@@ -437,9 +437,10 @@ display: inline;
 .fellowships #fellowships a,
 .hackdays #hackdays a,
 .code #code a,
-.codesprints #codesprints a,
 .getinvolved #getinvolved a,
-.news #news a {
+.news #news a,
+.codesprints #codesprints a,
+.source #source a  {
     color: #3e3e3e;
 }
  #nav li a.active, #fellowside li a.active {
