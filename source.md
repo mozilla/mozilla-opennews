@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Source&#058;  journalism code, community, and context
-section: news
+section: source
 ---
 
 <p class="bodybig">The code being written in journalism is driving innovation across the web, and the community writing it is talented, vibrant, and growing. <a href="http://source.mozillaopennews.org">Source</a> is dedicated to spotlighting that community and diving deep into the code it's making.</p>
