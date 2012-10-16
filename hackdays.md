@@ -35,7 +35,7 @@ Maybe you’ve already got something in the works, but you want to have a two-da
 
 <script type="text/javascript">
     
-      window.onload = function() { init() };
+      //window.onload = function() { init() };
 
       var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
 
