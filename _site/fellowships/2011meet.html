@@ -35,29 +35,36 @@
 </script>
 <script type="text/javascript" src="//www.google.com/jsapi"></script>
 <script type="text/javascript">
-  google.load("feeds", "1");
-
-  function initialize() {
-    var feed_url = document.getElementById("feed_url"),
-        feed = new google.feeds.Feed($(feed_url).attr('href'));
-    feed.setNumEntries(5);
-    feed.load(function(result) {
-      if (!result.error) {
-        var feed_list = "<ul>";
-        for (var i = 0; i < result.feed.entries.length; i++) {
-          var entry = result.feed.entries[i],
-              chunks = entry.title.split(':'),
-              name = chunks.shift();
-          feed_list += "<li><a href='" + entry.link + "'>";
-          feed_list += chunks.toString() + "</a> by " + name.toString();
-          feed_list += "</li>";
-        }
-        feed_list += "</ul>";
-        $(feed_url).parent().before($(feed_list));
-      }
-    });
-  }
-  google.setOnLoadCallback(initialize);
+    google.load("feeds", "1");
+    function initialize() {
+        var feed_urls = $("a.feed_url");
+        $.each(feed_urls, function() {
+            var current = $(this),
+                feed = new google.feeds.Feed(current.attr('href'));
+            feed.setNumEntries(4);
+            feed.load(function(result) {
+                if (!result.error) {
+                    var feed_list = "<ul>";
+                    for (var i = 0; i < result.feed.entries.length; i++) {
+                        var entry = result.feed.entries[i],
+                            url = entry.link;
+                        feed_list += "<li><a href='" + url + "'>";
+                        if (url.indexOf('source') !== -1) {
+                            feed_list += entry.title + "</a>";
+                        } else {
+                            var chunks = entry.title.split(':'),
+                            name = chunks.shift();
+                            feed_list += chunks.toString() + "</a> by " + name.toString();
+                        }
+                        feed_list += "</li>";
+                    }
+                    feed_list += "</ul>";
+                    current.parent().before($(feed_list));
+                }
+            });
+        });
+    }
+    google.setOnLoadCallback(initialize);
 </script>
 </head>
 <body class="fellowships fellows_2011">
@@ -71,12 +78,12 @@
             </h1>
             <div id="nav">
                  <ul>
-<li id="fellowships"><a href="/fellowships">fellowships</a>
-<li id="codesprints"><a href="/codesprints.html">code sprints</a> 
-<li id="hackdays"><a href="/hackdays.html">hack days</a> 
+<li id="fellowships"><a href="/fellowships">fellowships</a></li>
+<li id="codesprints"><a href="/codesprints.html">code sprints</a></li> 
+<li id="hackdays"><a href="/hackdays.html">hack days</a></li>
 <li id="source"><a href="/source.html">source</a>
-<li id="code"><a href="/code.html">code</a>
-<li id="getinvolved"><a href="/getinvolved.html">get involved</a> 
+<li id="code"><a href="/code.html">code</a></li>
+<li id="getinvolved"><a href="/getinvolved.html">get involved</a></li>
 </ul>
 
 			</div>
@@ -307,7 +314,9 @@ journalism today?</em></p>
 
 <div id="newsbox">
 <h3>The latest from the OpenNews team</h3>
-<p>Read all our news in our <a id="feed_url" href="http://planet.drumbeat.org/mojo/rss20.xml">OpenNews feed</a></p>
+<p>Read all our news in our <a class="feed_url" href="http://planet.mozillaopennews.org/rss20.xml">OpenNews feed</a></p>
+<h3>The latest from the Source team</h3>
+<p>Read all our news in our <a class="feed_url" href="http://source.mozillaopennews.org/en-US/rss/">Source feed</a></p>
 </div>
             </aside>
         </article>
