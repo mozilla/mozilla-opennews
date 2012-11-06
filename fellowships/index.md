@@ -20,11 +20,11 @@ sub-section: fellows_home
 
 </div>
 
+<h3>Meet the 2013 Knight-Mozilla Fellows</h3>
+Our 2013 Knight-Mozilla Fellows will be embedded in eight world-class newsrooms to create new, open-source projects, tools, and experiments to drive innovation in news forward. Learn more about our 2013 fellows today.
+
 <h3>Embedded in the Newsroom</h3>
 <p>The Knight-Mozilla Fellows are able to experience the day-to-day energy of some of the best newsrooms in the world. Being present as news breaks, writing code for the day's headlines, and taking a step back to solve real-world journalistic problemsets, the Knight-Mozilla Fellows' work is as real-world as it gets.
 
 <h3>Working in the Open</h3>
 <p>Knight-Mozilla Fellows share the work they're doing with the world outside of the newsroom. By blogging their experiences, pushing code to open repositories, taking part in the OpenNews community calls, and engaging with other developers, the Knight-Mozilla Fellows are helping to spread the code they're making and strengthen the journalism-developer community.
-
-<h3>The 2013 Knight-Mozilla Fellowships</h3>
-<p>Eight newsrooms around the world will be hosting Knight-Mozilla Fellows in 2013. We'll be announcing the eight 2013 Knight-Mozilla Fellows at the <a href="http://mozillafestival.org/">Mozilla Festival</a> in London November 9-11, 2012.
