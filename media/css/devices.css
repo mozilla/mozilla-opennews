@@ -758,3 +758,11 @@ font-size: 14px;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 	font-size: 1.1em;
 }
+
+.frontpic {
+	width: 154px;
+	height: 154px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border: 1px solid black;
+}
