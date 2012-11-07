@@ -11,12 +11,13 @@ section: hackdays
     <table id="hackcal">
     </table>
     </div>
-We're partnering with organizations across the globe to help enable making awesome code. Attend one of the hack days in the list above, or find out how to host your own below.
+We’re partnering with organizations across the globe to help enable making awesome code. Attend one of the hack days in the list above, or find out how to host your own below.
 
 <h3>We Want to Hack with You</h3>
-We want to grow the journalism code community and one way we're doing it is by giving small grants to organizations, universities, newsrooms, and even individuals, to host journalism-themed hack days.
 
-Because we understand that there are a lot of different ways to do something like this-from heads-down hacking to workshops and breakouts and beyond-we've designed this to be as open a system as possible. Here's what we're looking for:
+We want to grow the journalism code community, and one way we’re doing it is by giving small grants to organizations, universities, newsrooms, and even individuals, to host journalism-themed hack days.
+
+Because we understand that there are a lot of different ways to do something like this—from heads-down hacking to workshops and breakouts and beyond—we’ve designed this to be as open a system as possible. Here’s what we’re looking for:
     
 * We want to get more developers building around journalistic problemsets, so there needs to be a journalistic frame to your hackday. That doesn’t mean “hack the news”—a frame that’s far too generic—it means “build geolocational tools for information gathering.”
 * We want <a href="/code.html">tangible outcomes</a>—things should come out of this that can be shared, distributed, forked, and maybe even launched.
@@ -33,7 +34,6 @@ Maybe you’ve already got something in the works, but you want to have a two-da
 <h3>Join in the hacking</h3>
 
 If you're looking to get more involved in the journalism-technology community, participating in a hack day is one of the best ways to get connected. Keep an eye on the schedule above for OpenNews-sponsored hack days, and keep up with Source for a <a href="http://source.mozillaopennews.org/en-US/articles/tags/events/">weekly listing</a> of hack days and other community events. <a href="mailto:opennews@mozillafoundation.org">Get in touch</a> if you know of an event that isn't listed or if you want to tell us about an event you attended.
-
 
 <script type="text/javascript" src="media/js/tabletop.js"></script>
 
