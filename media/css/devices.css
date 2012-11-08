@@ -520,7 +520,8 @@ text-decoration: none;
 }
 .fellows_home #fellow_home,
 .fellows_apply #fellow_apply,
-.fellows_2011 #fellow_meet,
+.fellows_2011 #fellow_12,
+.fellows_2013 #fellow_13,
 .fellows_info #fellow_benefits {
     color: #3E3E3E;
 }
@@ -757,4 +758,12 @@ font-size: 14px;
 .fellowhack {
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 	font-size: 1.1em;
+}
+
+.frontpic {
+	width: 154px;
+	height: 154px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border: 1px solid black;
 }
