@@ -73,6 +73,9 @@ The Fellowship also offers a supplemental allowance for families with children o
 <h3>Research/Equipment</h3>
 Up to $3,000 annually will be given towards the purchase of laptop computers, digital cameras, recorders, fees for Continuing Studies or other courses related to the Fellowship, computer software, research fees or payments, and travel expenses for conferences or other research related to the Fellow's research or study. 
 
+<h3>Server Allowance</h3>
+Up to $250 to cover the server costs associated with deploying projects such as fees for Heroku, Amazon Web Services, and domain registration. 
+
 <h3>Travel Allowance</h3>
 All approved Fellowship trips – domestic and international – are covered. Additional travel required by the News Partners will be covered by them.
 
