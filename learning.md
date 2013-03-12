@@ -4,23 +4,22 @@ title: Learning
 section: learning
 ---
 <p class="bodybig">
-At OpenNews, we want to help build great tools to do journalism, and we want those tools to be open-sourced and freely available to everyone. But we know  that some of the most useful tools are the simplest and so we've created Code Sprints to assist in creating some of those simple tools for journalism.
+At the core of the Knight-Mozilla OpenNews project is a desire to pull back the curtain on how code is made in journalism so that more developers can get involved. OpenNews Learning takes that desire and places it straight into our Source project.
 </p>
-<h3>Small Tools with Big Impact</h3>
+<h3>Making the Invisible Visible</h3>
 <p>We think that tools are built best when they're rooted in real needs, so we're partnering with news organizations from around the world to fund great code forged from the daily demands of the newsroom. We're looking to help create small tools that make big impacts, tools like:
-<ul>
-<li><a href="https://github.com/jsoma/tabletop">Tabletop.js</a>: Easier display of spreadsheet data
-<li><a href="http://propublica.github.com/timeline-setter/">Timelinesetter</a>: Easier timelines
-<li><a href="http://misoproject.com/dataset/">Dataset</a>: Easier management of data for visualization
-</ul>
 
-<h3>How it Works</h3>
+
+<h3>A team of expert guides</h3>
+<p>We've assembled an amazing team to lead up our Learning efforts. Lead by Kio Stark, who has literally written the book on independent learning, our advisory board includes some of the most important names in journalism code:
 <ul>
-<li>Code Sprints are grants for $10,000 to fund small-scale utilities and tools that help solve specific, repeatable journalistic problems.
-<li>News organizations collaborate with OpenNews to define Code Sprint projects, outline their technical needs, and find the right person to write the code.
-<li>The news organization is the project lead and should be able to both project-manage the development and shepherd the continued  life of the open-sourced code.
-<li>OpenNews pays the coder (or team) and stays involved in the development process.
-<li>All Code Sprint-funded code is documented and open-sourced on completion.
+<li><a href="https://twitter.com/harrisj">Jacob Harris</a>, Senior Software Architect at the New York Times
+<li><a href="https://twitter.com/adrianholovaty">Adrian Holovaty</a>, co-creator of Django and founder of Everyblock and Soundslice
+<li><a href="https://twitter.com/jacqui">Jacqui Maher</a>, Assistant Editor, Interactive News, at the New York Times
+<li><a href="https://twitter.com/jmm">Miranda Mulligan</a>, Director of the KnightLab at Northwestern University
+<li><a href="https://twitter.com/mattwaite">Matt Waite</a>, founder of the Drone Journalism Lab at the University of Nebraska
 </ul>
-<h3>Apply today</h3>
-<p>If you're a news organization (big or small) that thinks they've got a good idea, get in touch by filling our our simple, <a href="https://donate.mozilla.org/page/signup/opennews-code-sprint-grant-application">six-question form</a>. It's easy to get started, and we'll be evaluating applications on a rolling basis through 2013.
+<p>Our advisors will be recruiting others from the journalism-code world to write additional case studies for OpenNews Learning. And, of course, we <a href="http://source.mozillaopennews.org/en-US/contribute/">welcome submissions</a> as well.
+
+<h3>Come learn today</h3>
+<p>Learning is live now on Source, with updated content rolling out regularly. Go ahead and visit the Learning home on Source, subscribe to the RSS feed, or follow @Source on Twitter for the latest updates.
