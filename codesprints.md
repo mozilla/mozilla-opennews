@@ -35,7 +35,7 @@ OpenNews Code Sprints offer $10,000 to fund small-scale utilities and tools that
 <p>We're looking for three distinct applicants for our Code Sprints, and have a simple form for each. We'll be evaluating applications on a rolling basis through 2013:
 
 <ul>
-<li>Coders with projects
-<li>Newsrooms with projects
-<li>Newsrooms that want to test
+<li><a href="https://sendto.mozilla.org/page/signup/opennews-code-sprint-developer-project-application">Coders with projects</a>
+<li><a href="https://sendto.mozilla.org/page/s/opennews-code-sprint-grant-application">Newsrooms with projects</a>
+<li><a href="https://sendto.mozilla.org/page/signup/opennews-code-sprint-newsroom-tester-application">Newsrooms that want to betatest</a>
 </ul>
