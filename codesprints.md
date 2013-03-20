@@ -11,7 +11,7 @@ At OpenNews, we want to help build great tools to do journalism, and we want tho
 We think that tools are built best when they're rooted in real needs, and so we want to forge relationships between newsrooms and coders to help drive newsroom-driven development. That means that some of the ideas we fund will be proposed by newsrooms, while others will be driven by coders who will then be paired with newsrooms for testing and implementation.
 
 <h3>Small Tools with Big Impact</h3>
-<p>We're not funding startups, we're not funding products, we're funding small, open-source tools that fill real-world needs in newsrooms around the globe. We're looking to help create small tools that make big impacts, tools like: 
+<p>We're not funding startups, we're not funding products, we're funding small, open-source tools that fill real-world needs in newsrooms around the globe. We're looking to help create small tools that make big impacts, tools like:</p>
 <ul>
 <li><a href="https://github.com/jsoma/tabletop">Tabletop.js</a>: Easier display of spreadsheet data
 <li><a href="http://propublica.github.com/timeline-setter/">Timelinesetter</a>: Easier timelines
