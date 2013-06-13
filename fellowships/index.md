@@ -1,5 +1,5 @@
 ---
-layout: fellowship_post
+layout: fellowship_index
 title: The Knight-Mozilla Fellowships
 section: fellowships
 sub-section: fellows_home
@@ -13,7 +13,7 @@ sub-section: fellows_home
 <img src="/media/img/fellows/sonya.jpg" class="frontpic" alt="Sonya Song">
 <img src="/media/img/fellows/mike.jpg" class="frontpic" alt="Mike Tigas">
 <img src="/media/img/fellows/noah.jpg" class="frontpic" alt="Noah Veltman">
-<p style="font-family: sans-serif; font-size: .8em; text-align: right; margin-right: 12px; margin-top: -10px;">Our 2013 Knight Mozilla Fellows. WE HAVE EXTRA TEXT WE CAN USE HERE.</small></p>
+<p class="caption">Our 2013 Knight Mozilla Fellows. WE HAVE EXTRA TEXT WE CAN USE HERE.</small></p>
 <h2>Become a Knight-Mozilla Fellow</h2>
 <p class="bodybig">Knight-Mozilla Fellows spend 10 months embedded in partner newsrooms. They are developers, technologists, civic hackers, and data crunchers who are [paid](benefitslink) to work with the community inside and outside of their newsroom to develop and share open-source projects. Fellows work in the open by sharing their code and their discoveries, helping to strengthen and build journalism's toolbox. Fellows develop projects that respond to needs in their host newsroom and in the broader journalism community.</p>
 </p>

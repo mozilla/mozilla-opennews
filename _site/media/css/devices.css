@@ -562,6 +562,15 @@ font-weight: normal;
     height: 90px;
 }
 
+.caption {
+font-family: sans-serif; 
+font-size: .8em; 
+text-align: right; 
+margin-right: 12px; 
+margin-top: -10px;
+margin-bottom: 40px;
+}
+
 .logo-bbc {
 background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px 0px transparent;
 }

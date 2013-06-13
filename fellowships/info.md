@@ -4,13 +4,6 @@ title: Knight-Mozilla Fellowship Benefits
 section: fellowships
 sub-section: fellows_info
 ---
-
-#FINANCIAL BENEFITS
-
-
-
-
-
 <p class="bodybig">The Knight-Mozilla fellowships present a unique opportunity for people who like to code and who want to influence the future of journalism on the web. Fellows receive a slate of stipends and benefits to ensure the experience will be a transformative one.</p>
 
 <h3>Financial Benefits</h3>

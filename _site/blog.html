@@ -3,7 +3,7 @@
 <html class="no-js">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Application received | Knight-Mozilla OpenNews</title>
+    <title>OpenNews Blog | Knight-Mozilla OpenNews</title>
     <link rel="alternate" type="application/atom+xml" title="Atom 0.3"  href="http://planet.drumbeat.org/mojo/atom.xml" />
      <meta name="Description" content="Knight-Mozilla OpenNews is about creating a diverse ecosystem to help journalism thrive on the open web. It's about producing open source code that solves real problems in news. It's about supporting communities of developers and journalists as they make, learn, and invent together. And it's about deploying fellows&mdash;and code&mdash;into news organizations to collaborate in new ways..">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -66,7 +66,7 @@
     google.setOnLoadCallback(initialize);
 </script>
 </head>
-<body class="fellowships fellows_apply">
+<body class="blog ">
 <script type="text/javascript">
         document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
     </script>
@@ -98,19 +98,30 @@
 
         <article>
             <div class="main_col">
-            <div class="article_body">
-<div id="fellowside">
-<ul>
-<li><a href="/fellowships" id="fellow_home">the fellowships</a></li>
-<li><a href="/apply.html" id="apply">fellowship application</a></li>
-<li><a href="community.html" id="fellow_13">the fellowship community</a></li>
-<li><a href="info.html" id="fellow_benefits">fellowship benefits</a></li>
-<li><a href="faq.html" id="faq">faq</a></li>
-</ul>
-</div>
+            <h2>OpenNews Blog</h2>
+<div class="article_body">
+<p class="bodybig">The latest new about journalism innovation and the OpenNews project from the OpenNews team and Knight-Mozilla Fellows. Follow all our posts on the <a href="http://planet.mozillaopennews.org/rss20.xml">OpenNews feed</a> or <a href="http://www.twitter.com/opennews">@opennews</a>.
 
-<h2>Application received</h2>
-<p>Thanks very much for applying. Be kept informed of our latest news by subscribing to our <a href="http://planet.drumbeat.org/mojo/rss20.xml">news RSS feed</a>.</p>
+<div id="rss-feeds"></div>
+<div id="feed">Read more by <a href="http://planet.mozillaopennews.org/rss20.xml">subscribing to the OpenNews feed</a></div>
+
+
+<script type="text/javascript" src="media/js/jquery.rss.js"></script>
+<script src="https://raw.github.com/timrwood/moment/1.7.2/min/moment.min.js"></script>
+
+<script>
+  $(function($) {
+    $("#rss-feeds").rss("http://planet.mozillaopennews.org/rss20.xml", {
+      limit: 10,
+      tokens: {
+        prettyDate: function(entry, tokens) {
+          return moment(tokens.date).format("dddd, MMM DD YYYY")
+            }
+        },
+      entryTemplate: '<li class="blogentry"><p class="date">{prettyDate}</p><h1><a href="{url}">{title}</a></h1><p>{body}</li>',
+    })
+  })
+</script>
 
 
 </div>
