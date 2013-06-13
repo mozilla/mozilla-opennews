@@ -15,7 +15,7 @@ sub-section: fellows_home
 <img src="/media/img/fellows/noah.jpg" class="frontpic" alt="Noah Veltman">
 <p class="caption">Our 2013 Knight Mozilla Fellows are hacking the news around the world. <a href="/apply.html">Join the fellowship community in 2014.</a></small></p>
 <h2>Become a Knight-Mozilla Fellow</h2>
-<p class="bodybig">Knight-Mozilla Fellows spend 10 months embedded in partner newsrooms. They are developers, technologists, civic hackers, and data crunchers who are [paid](benefitslink) to work with the community inside and outside of their newsroom to develop and share open-source projects. Fellows work in the open by sharing their code and their discoveries, helping to strengthen and build journalism's toolbox.</p>
+<p class="bodybig">Knight-Mozilla Fellows spend 10 months embedded in partner newsrooms. They are developers, technologists, civic hackers, and data crunchers who are <a href="/info.html">paid</a> to work with the community inside and outside of their newsroom to develop and share open-source projects. Fellows work in the open by sharing their code and their discoveries, helping to strengthen and build journalism's toolbox.</p>
 </p>
 
 <div id="partnerbox">

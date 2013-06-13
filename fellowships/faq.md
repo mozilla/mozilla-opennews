@@ -49,3 +49,7 @@ Because news is at the center of many people's web use, this is an opportunity t
 
 The [John S. and James L. Knight Foundation](http://knightfoundation.org) advances journalism in the digital age and invests in the vitality of communities where the Knight brothers owned newspapers. Knight Foundation focuses on projects that promote informed and engaged communities and lead to transformational change.
 
+** How do I contact you? **
+
+We're very reachable. You can [e-mail us](mailto:opennews@mozillafoundation.org), find us on [Twitter](https://twitter.com/opennews), reach us at our [biweekly community calls](https://wiki.mozilla.org/OpenNews/Calls), and even catch us on IRC via the #opennews channel on irc.mozilla.org. We'd love to hear from you and are happy to answer any questions you may have.
+

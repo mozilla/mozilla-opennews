@@ -572,46 +572,6 @@ margin-top: -10px;
 margin-bottom: 40px;
 }
 
-.logo-bbc {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px 0px transparent;
-}
-
-.logo-bbc:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px 0px transparent;
-}
-
-.logo-guardian {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -155px transparent;
-}
-
-.logo-guardian:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -155px transparent;
-}
-
-.logo-zeit {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -235px transparent;
-}
-
-.logo-zeit:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -235px transparent;
-}
-
-.logo-spiegel {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -390px transparent;
-}
-
-.logo-spiegel:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -390px transparent;
-}
-
-.logo-boston {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -470px transparent;
-}
-
-.logo-boston:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -470px transparent;
-}
-
 
 .logo-nyt {
 background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px 0px transparent;
