@@ -260,16 +260,16 @@ article header p {
     margin: 0 0 0 10px;
     border: none;
 }
-#involved, #minifellows, #newsbox {
+#involved, #minifellows, #newsbox, #sourcebox {
     margin-bottom: 50px;
 }
 
-#involved ul, #involved p, #newsbox ul {
+#involved ul, #involved p, #newsbox ul, #sourcebox ul {
 	font-size: 1em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 
-#involved li, #newsbox li {
+#involved li, #newsbox li, #sourcebox li {
 	list-style-image: url(../img/css/arrow.png);
 	list-style-position: inside;
 	margin-bottom: 8px;
@@ -335,7 +335,7 @@ display: inline;
 border: 1px solid #454545;
 }
 
-#minifellows p, #involved p, #newsbox p {
+#minifellows p, #involved p, #newsbox p, #sourcebox p {
 font-size: 0.9em;
 font-family: Helvetica, Verdana, Arial, sans-serif;
 }
@@ -369,7 +369,7 @@ margin-right: 15px;
 margin-top: 50px;
 }
 
-#newsbox li {
+#newsbox li, #sourcebox li {
 list-style: none;
 line-height: 1.4em;
 margin-bottom: 15px;

@@ -10,3 +10,5 @@ sub-section: community
 <p class="bodybig">Knight-Mozilla Fellows spend 10 months working in partner news organizations and collaborating with the journalism-technology community in their host cities and around the world. Each group of Fellows enters their newsroom with the support of the rest of their cohort as well as a growing alumni community.</p>
 
 more stuff will go here
+<p><a href="/fellowships/2013meet.html">Meet the 2013 Fellows</a>
+<p><a href="/fellowships/2013meet.html">Meet the 2012 Fellows</a>
