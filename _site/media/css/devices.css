@@ -547,7 +547,7 @@ display: none;
 float: right;
 margin-right: 20px;
 margin-left: 10px;
-height: 500px;
+height: 600px;
 }
 
 #partnerbox h4 {
@@ -559,7 +559,8 @@ font-weight: normal;
 #partnerbox a {
     display: block;
     width: 220px;
-    height: 90px;
+    height: 70px;
+    margin-bottom: 20px;
 }
 
 .caption {
@@ -579,14 +580,6 @@ background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px 0px tr
 background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px 0px transparent;
 }
 
-.logo-nyt {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -75px transparent;
-}
-
-.logo-nyt:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -75px transparent;
-}
-
 .logo-guardian {
 background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -155px transparent;
 }
@@ -601,14 +594,6 @@ background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -235px
 
 .logo-zeit:hover {
 background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -235px transparent;
-}
-
-.logo-nacion {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -315px transparent;
-}
-
-.logo-nacion:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -315px transparent;
 }
 
 .logo-spiegel {
@@ -627,13 +612,58 @@ background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -470px
 background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -470px transparent;
 }
 
+
+.logo-nyt {
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px 0px transparent;
+}
+
+.logo-nyt:hover {
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px 0px transparent;
+}
+
 .logo-propublica {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -545px transparent;
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -70px transparent;
 }
 
 .logo-propublica:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -545px transparent;
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -70px transparent;
 }
+
+.logo-texas {
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -142px transparent;
+}
+
+.logo-texas:hover {
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -142px transparent;
+}
+
+.logo-nacion {
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -223px transparent;
+}
+
+.logo-nacion:hover {
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -223px transparent;
+}
+
+.logo-ushahidi {
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -295px transparent;
+}
+
+.logo-ushahidi:hover {
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -295px transparent;
+}
+
+.logo-internews {
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -360px transparent;
+}
+
+.logo-internews:hover {
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -360px transparent;
+}
+
+
+
+
 
 
 ul.fellowslist, ul.fellowstats {
