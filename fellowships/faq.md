@@ -6,7 +6,7 @@ sub-section: fellows_faq
 ---
 ** What is a "fellow" anyway? **
 
-A fellow is someone who "shares a particular activity, quality, or condition with someone." Fellowship programs bring together men and women with shared skills and experiences to spend time and collaborate together.
+When we say "fellow" we don't mean "man." A fellow is someone who "shares a particular activity, quality, or condition with someone." Fellowship programs bring together a diverse collection of people with shared skills and experiences to spend time and collaborate together.
 
 ** What skills and experience are you looking for in a Knight-Mozilla Fellow?**
 
