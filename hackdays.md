@@ -4,7 +4,7 @@ title: OpenNews Hack Days
 section: hackdays
 ---
 
-<p class="bodybig">OpenNews is sponsoring more than a dozen hack days around the world to write code that helps to solve real-world journalistic problems. From Africa to the Americas, we're looking for <a href="https://donate.mozilla.org/page/s/knight-mozilla-news-hack-day">partners to hack the news with us</a>.</p>
+<p class="bodybig">OpenNews sponsors hack days around the world to write code that helps to solve real-world journalistic problems. From Africa to the Americas, we're looking for <a href="https://donate.mozilla.org/page/s/knight-mozilla-news-hack-day">partners to hack the news with us</a>.</p>
 
 <div id="hackcalbox">
     <h3>Upcoming OpenNews Hack Days</h3>

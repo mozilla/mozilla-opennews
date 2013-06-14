@@ -11,16 +11,18 @@ At OpenNews, we want to help build great tools to do journalism, and we want tho
 We think that tools are built best when they're rooted in real needs, and so we want to forge relationships between newsrooms and coders to help drive newsroom-driven development. That means that some of the ideas we fund will be proposed by newsrooms, while others will be driven by coders who will then be paired with newsrooms for testing and implementation.
 
 <h3>Small Tools with Big Impact</h3>
-<p>We're not funding startups, we're not funding products, we're funding small, open-source tools that fill real-world needs in newsrooms around the globe. We're looking to help create small tools that make big impacts, tools like:</p>
+<p>We're not funding startups, we're not funding products, we're funding small, open-source tools that fill real-world needs in newsrooms around the globe. We're looking to help create small tools that make big impacts. </p>
+<p>Some of our latest Code Sprint projects include:</p>
 <ul>
-<li><a href="https://github.com/jsoma/tabletop">Tabletop.js</a>: Easier display of spreadsheet data
-<li><a href="http://propublica.github.com/timeline-setter/">Timelinesetter</a>: Easier timelines
-<li><a href="http://misoproject.com/dataset/">Dataset</a>: Easier management of data for visualization
+<li><a href="https://github.com/jlord/sheetsee.js">Sheetsee.js</a>: Easy data visualizations using a simple spreadsheet backend.
+<li><a href="https://github.com/open-city/dedupe">Dedupe</a>: A library for deduplication, entity resolution, record linkage, and author disambiguation of big datasets.
+<li><a href="https://github.com/csvsoundsystem/fms_parser">FMS Parser</a>: A parser and API for the daily cash balance updates from the US Treasury.
+<li><a href="https://github.com/wnyc/election_california_2012">California Election Parser</a>: A parser for election data used by over 200 California news sites in 2012.
 </ul>
 
 
 <h3>So Let's Do This</h3>
-OpenNews Code Sprints offer $10,000 to fund small-scale utilities and tools that help solve  specific, repeatable journalistic problems. These as quick projects--two months, max--that are documented on Source, tested in the newsroom, and open-sourced for others to use.
+<p>OpenNews Code Sprints offer $10,000 to fund small-scale utilities and tools that help solve  specific, repeatable journalistic problems. These as quick projects--two months, max--that are documented on Source, tested in the newsroom, and open-sourced for others to use.
 
 <h3>How it Works</h3>
 <ul>
