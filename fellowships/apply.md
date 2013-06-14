@@ -4,7 +4,7 @@ title: Apply to become a 2014 Knight-Mozilla Fellow
 section: fellowships
 sub-section: fellows_apply
 ---
-<iframe width="650" height="366" src="http://www.youtube.com/embed/R7T8pozx9K0"  allowfullscreen></iframe>
+<iframe width="650" height="366" src="//www.youtube.com/embed/R7T8pozx9K0"  allowfullscreen></iframe>
 
 <h2>{{ page.title }}</h2>
 
