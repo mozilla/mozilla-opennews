@@ -4,7 +4,7 @@ title: Apply to become a 2014 Knight-Mozilla Fellow
 section: fellowships
 sub-section: fellows_apply
 ---
-<iframe width="650" height="366" src="http://www.youtube.com/embed/R7T8pozx9K0" frameborder="0" allowfullscreen></iframe>
+<iframe width="650" height="366" src="http://www.youtube.com/embed/R7T8pozx9K0"  allowfullscreen></iframe>
 
 <h2>{{ page.title }}</h2>
 
@@ -32,7 +32,7 @@ sub-section: fellows_apply
 </div>
 <div class="form-row">
     <label class="field" for="city">City:<span class="required">*</span></label>
-    <input id="city" name="city" type="text" required="true" aria-required>
+    <input id="city" name="city" type="text" required aria-required="true">
 </div>
 <div class="form-row">
     <label class="field" for="phone">Phone:<span class="required">*</span></label>

@@ -562,6 +562,8 @@ font-weight: normal;
     width: 220px;
     height: 70px;
     margin-bottom: 20px;
+    text-indent: -9999em;
+    overflow: hidden;
 }
 
 .caption {

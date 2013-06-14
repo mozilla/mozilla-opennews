@@ -4,11 +4,11 @@ title: Meet the Knight-Mozilla Fellowship Community
 section: fellowships
 sub-section: community
 ---
-<img src="/media/img/opennews-family.jpg" width=100%>
+<img src="/media/img/opennews-family.jpg" alt="The Opennews Family" style="width: 100%;">
 <p class="caption">The 2012 and 2013 Knight-Mozilla Fellows and News Partners at the 2013 Mozilla Festival in London. (photo: Paul Clarke)</p>
 <h2>{{ page.title }}</h2>
 <p class="bodybig">Knight-Mozilla Fellows spend 10 months working in partner news organizations and collaborating with the journalism-technology community around the world. Each group of Fellows enters their newsroom with the support of the rest of their cohort as well as a growing alumni community.
-</br/><br/>
+<br/><br/>
 <a href="/fellowships/meet2013.html">Meet our 2013 Fellows</a> | <a href="/fellowships/meet2011.html">Meet our 2012 Alumni</a></p>
 
 ###THINGS THEY MAKE
