@@ -2,7 +2,7 @@
 layout: fellowship_post
 title: FAQ&colon; the Knight-Mozilla Fellowships
 section: fellowships
-sub-section: fellows_home
+sub-section: fellows_faq
 ---
 ** What is a "fellow" anyway? **
 

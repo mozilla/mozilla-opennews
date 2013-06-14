@@ -436,6 +436,7 @@ display: inline;
 }
 .fellowships #fellowships a,
 .hackdays #hackdays a,
+.learning #learning a,
 .code #code a,
 .getinvolved #getinvolved a,
 .news #news a,
@@ -519,9 +520,9 @@ text-decoration: none;
 
 }
 .fellows_home #fellow_home,
-.fellows_apply #fellow_apply,
-.fellows_2011 #fellow_12,
-.fellows_2013 #fellow_13,
+.fellows_apply #apply,
+.community #community,
+.fellows_faq #faq,
 .fellows_info #fellow_benefits {
     color: #3E3E3E;
 }
