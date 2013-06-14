@@ -652,13 +652,16 @@ border-right: 0;
     /* 
     to cover up the empty <p></p> that markdown seems insistent to include above the form 
     */ 
-    margin-top: -2em;
+    margin-top: 0;
 }
 #signup label {
     font-weight: bold;
     display: block;
     margin-bottom: 0.5em;
     width: 80%;
+}
+#signup input+label {
+    font-weight: normal;
 }
 #signup input, 
 #signup textarea {
@@ -708,12 +711,14 @@ border-right: 0;
     background: #e54821;
     text-decoration: none;
 }
-.fieldset {
+.form-row {
     margin-bottom: 1em;
     overflow: hidden;
 }
-.sec-title {
-    border-top: 1px solid #C6C6C6;
+fieldset {
+    border: 0;
+}
+legend span {
     line-height: 1;
     padding-top: 1em;
     color: #FC6E1F;
