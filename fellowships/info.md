@@ -4,15 +4,14 @@ title: Knight-Mozilla Fellowship Benefits
 section: fellowships
 sub-section: fellows_info
 ---
-
-<p class="bodybig">The Knight-Mozilla fellowships present an unique opportunity for technologists and developers who want to influence the future of journalism on the web. Fellows receive a slate of stipends and benefits to ensure the experience will be a transformative one.</p>
+<p class="bodybig">The Knight-Mozilla fellowships present a unique opportunity for people who like to code and who want to influence the future of journalism on the web. Fellows receive a slate of stipends and benefits to ensure the experience will be a transformative one.</p>
 
 <h3>Financial Benefits</h3>
-The Knight-Mozilla Fellowship is designed to allow flexibility for both Fellows and News Partners. <b>The standard Fellowship offers a stipend of $60,000, paid in 10 monthly installments</b>. Fellows are responsible for remitting all applicable taxes and other government payments as required. 
+The Knight-Mozilla Fellowship is designed to allow flexibility for both Fellows and News Partners. **The standard Fellowship offers a stipend of $60,000, paid in 10 monthly installments.** Fellows are responsible for remitting all applicable taxes and other government payments as required.
 
 Mozilla may, in consultation with Fellows and News Partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
 
-To help offset cost of living in the News Partner location cities, the Fellowship also provides supplements for housing, childcare, health insurance, moving expenses and helps pay for research/equipment and books. 
+To help offset cost of living in the News Partner location cities, the Fellowship also provides supplements for housing, childcare, health insurance, moving expenses, and helps pay for research/equipment and books. The Fellowship also covers the costs of required travel for Fellowship activities.
 
 Supplements below listed as yearly maximums.
 
