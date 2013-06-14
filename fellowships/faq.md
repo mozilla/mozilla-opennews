@@ -4,33 +4,45 @@ title: FAQ&colon; the Knight-Mozilla Fellowships
 section: fellowships
 sub-section: fellows_home
 ---
+** What is a "fellow" anyway? **
+
+A fellow is someone who "shares a particular activity, quality, or condition with someone." Fellowship programs bring together men and women with shared skills and experiences to spend time and collaborate together.
+
 ** What skills and experience are you looking for in a Knight-Mozilla Fellow?**
 
 The Knight-Mozilla Fellowship program is designed specifically to engage developers, hackers, engineers, technologists, data crunchers, and other people who like to code and bring them into the newsroom as Fellows. Fellows have come from a variety of backgrounds including academia, software engineering, open source coding, and newsroom development.
 
-** What type of applicants are you looking for? If I am not sure if I should apply, how can I figure that out?**
+** What type of applicants are you looking for? **
 
-If you have a knack for coding and an interest in contributing your skills to journalistic projects, you should apply. Over the two-month application period, OpenNews will have several opportunities to ask questions and learn more about the Fellowship program. You can always [ask us](mailto:opennews@mozillafoundation.org) about any specific concerns as well. 
+If you have a knack for coding and an interest in contributing your skills to journalistic projects, you should apply. There is no "typical" Fellow. Most of our Fellows did not major in Computer Science. Many of our Fellows never visited a newsroom before their Fellowship. 
 
-We are an inclusive community and seek Fellows that reflect the diversity of the communities we serve. Women and other under-represented participants in technology are strongly encouraged to apply for a Knight-Mozilla Fellowship.
-
-There is no "typical" Fellow. Most of our Fellows did not major in Computer Science. Many of our Fellows never visited a newsroom before their fellowship. Each Fellow brings a new mix of skills and experiences that has brought her to the point that she can spend 10 months developing great projects with an inspiring News Partner. 
+We are an inclusive program and seek Fellows that reflect the diversity of the communities we serve. Women and other under-represented participants in technology are strongly encouraged to apply for a Knight-Mozilla Fellowship.
 
 ** I don't speak English very well or live in the U.S. Can I still participate?**
 
-While there are aspects of our program that may be challenging to participate in without a working knowledge of English, we are an inclusive community and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We work with Fellows to handle any necessary visa applications for working and traveling during the Fellowship.
+We are an international program (our six news partners cover three continents) and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist Fellows with any necessary visa applications for working and traveling during the Fellowship. Perfect English is not a requirement, however please be aware that it may be challenging to participate in some aspects of our program if your English is limited.
 
 We strive for OpenNews to be an international program. Our six news partners cover three continents.
 
 ** Where will the fellows be based? How are the fellows matched with news organizations?**
 
-Fellows are based, unless special circumstances dictate, in the town of their host news organization. We make every attempt to match skills of Fellows with needs of news organizations when matching Fellow to organization.
+Fellows are based, unless special circumstances dictate, in the town of their host news organization. 
 
-** What happens after the fellowship deadline closes?**
+In 2014, the Fellows will be based with:
 
-After August 17, 2013 all applications will be reviewed by a small reviewing panel. By early September, a final batch of 20-30 semifinalists will be selected and interviews conducted. Finalists will be notified by early October and a public announcement of our 2014 fellows will be made at the Mozilla Festival in London October 25.
+* [The New York Times](http://www.nytimes.com)
+* [ProPublica](http://www.propublica.com) in New York
+* [The Texas Tribune](http://www.texastribune.com) in Austin, Texas
+* [La Nacion](http://www.lanacion.com.ar/) in Buenos Aires
+* and a joint fellowship with [Ushahidi](http://www.ushahidi.com) and [Internews Kenya](http://www.internewskenya.org/dataportal/)
 
-** What is the timeline for the fellowship?**
+We make every attempt to match skills of Fellows with needs of news organizations when matching Fellow to organization.
+
+** What happens after the Fellowship deadline closes?**
+
+After August 17, 2013 all applications will be reviewed by a small reviewing panel. By early September, a final batch of 20-30 semifinalists will be selected and interviews conducted. Finalists will be notified by early October and a public announcement of our 2014 fellows will be made at the Mozilla Festival in London October 25, 2013.
+
+** What is the timeline for the Fellowship?**
 
 2014 Fellowships begin in calendar year 2014 and last for 10 months. Each fellows' start date will be individualized for the needs of that fellow and the news organization, but generally fellowships will begin in Jan/Feb 2014.
 
