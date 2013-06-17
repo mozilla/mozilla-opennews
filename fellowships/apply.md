@@ -110,6 +110,17 @@ sub-section: fellows_apply
 </div>
 </fieldset>
 <fieldset>
+<legend><span>Additional information</span></legend>
+<div class="form-row">
+    <label class="field" for="custom-2104">Do you speak any languages other than English? If yes, please list them.</label>
+    <input size="10" id="custom-2104" name="custom-2104" type="text">
+</div>
+<div class="form-row">
+    <label class="field" for="custom-2105">How did you hear about the fellowship?</label>
+    <input size="10" id="custom-2105" name="custom-2105" type="text">
+</div>
+</fieldset>
+<fieldset>
 <legend><span>In closing</span></legend>
 <p>We're committed to recruiting a group of Fellows that reflects the diversity of the communities we work in. Women and other under-represented participants in technology are strongly encouraged to apply.</p>
 <div class="form-row">
