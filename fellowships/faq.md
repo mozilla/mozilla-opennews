@@ -22,8 +22,6 @@ We are an inclusive program and seek Fellows that reflect the diversity of the c
 
 We are an international program (our six news partners cover three continents) and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist Fellows with any necessary visa applications for working and traveling during the Fellowship. Perfect English is not a requirement, however please be aware that it may be challenging to participate in some aspects of our program if your English is limited.
 
-We strive for OpenNews to be an international program. Our six news partners cover three continents.
-
 ** Where will the fellows be based? How are the fellows matched with news organizations?**
 
 Fellows are based, unless special circumstances dictate, in the town of their host news organization. 
@@ -37,6 +35,10 @@ In 2014, the Fellows will be based with:
 * and a joint fellowship with [Ushahidi](http://www.ushahidi.com) and [Internews Kenya](http://www.internewskenya.org/dataportal/)
 
 We make every attempt to match skills of Fellows with needs of news organizations when matching Fellow to organization.
+
+** What do I need to do to apply? **
+
+The application is designed to be quick: Just a quick five question application, plus some links to stuff you've made. There are no recommendations to hunt down and no trick questions. <a href="/fellowships/apply.html">Apply now.</a>
 
 ** What happens after the Fellowship deadline closes?**
 
