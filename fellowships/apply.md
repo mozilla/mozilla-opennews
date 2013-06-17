@@ -113,8 +113,8 @@ sub-section: fellows_apply
 <legend><span>In closing</span></legend>
 <p>We're committed to recruiting a group of Fellows that reflects the diversity of the communities we work in. Women and other under-represented participants in technology are strongly encouraged to apply.</p>
 <div class="form-row">
-    <input type="checkbox" value="1" name="custom-custom-2100" id="custom-custom-2100" aria-required="true" required>
-    <label for="custom-custom-2100">I'm OK with you handling this info as you explain in the <a href="http://www.mozilla.org/about/policies/privacy-policy.html">Mozilla privacy policy</a> <span class="required">*</span></label>
+    <input type="checkbox" value="1" name="custom-2100" id="custom-2100" aria-required="true" required>
+    <label for="custom-2100">I'm OK with you handling this info as you explain in the <a href="http://www.mozilla.org/about/policies/privacy-policy.html">Mozilla privacy policy</a> <span class="required">*</span></label>
 </div>
 <div id="bsd-field-email_opt_in" class="form-row">
     <input type="checkbox" value="1" name="email_opt_in" id="email_opt_in">
