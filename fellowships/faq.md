@@ -10,13 +10,13 @@ When we say "fellow" we don't mean "man." A fellow is someone who "shares a part
 
 ** What skills and experience are you looking for in a Knight-Mozilla Fellow?**
 
-The Knight-Mozilla Fellowship program is designed specifically to engage developers, hackers, engineers, technologists, data crunchers, and other people who like to code and bring them into the newsroom as Fellows. Fellows have come from a variety of backgrounds including academia, software engineering, open source coding, and newsroom development.
+The <a href="/fellowships">Knight-Mozilla Fellowship</a> program is designed specifically to engage developers, hackers, engineers, technologists, data crunchers, and other people who like to code and bring them into the newsroom as Fellows. Fellows have come from a variety of backgrounds including academia, software engineering, open source coding, and newsroom development.
 
 ** What type of applicants are you looking for? **
 
-If you have a knack for coding and an interest in contributing your skills to journalistic projects, you should apply. There is no "typical" Fellow. Most of our Fellows did not major in Computer Science. Many of our Fellows never visited a newsroom before their Fellowship. 
+If you have a knack for coding and an interest in contributing your skills to journalistic projects, <a href="/fellowships/apply.html">you should apply</a>. There is no "typical" Fellow. Most of our Fellows did not major in Computer Science. Many of our Fellows never visited a newsroom before their Fellowship. 
 
-We are an inclusive program and seek Fellows that reflect the diversity of the communities we serve. Women and other under-represented participants in technology are strongly encouraged to apply for a Knight-Mozilla Fellowship.
+We are an inclusive program and seek Fellows that reflect the diversity of the communities we serve. Women and other under-represented participants in technology are strongly encouraged to <a href="/fellowships/apply.html">apply for a Knight-Mozilla Fellowship</a>.
 
 ** I don't speak English very well or live in the U.S. Can I still participate?**
 
@@ -40,7 +40,7 @@ We make every attempt to match skills of Fellows with needs of news organization
 
 ** What happens after the Fellowship deadline closes?**
 
-After August 17, 2013 all applications will be reviewed by a small reviewing panel. By early September, a final batch of 20-30 semifinalists will be selected and interviews conducted. Finalists will be notified by early October and a public announcement of our 2014 fellows will be made at the Mozilla Festival in London October 25, 2013.
+The <a href="/fellowships/apply.html">Fellowship application</a> opened on June 17 and closes August 17, 2013. After August 17 all applications will be reviewed by a small reviewing panel. By early September, a final batch of 20-30 semifinalists will be selected and interviews conducted. Finalists will be notified by early October and a public announcement of our 2014 fellows will be made at the Mozilla Festival in London October 25, 2013.
 
 ** What is the timeline for the Fellowship?**
 
