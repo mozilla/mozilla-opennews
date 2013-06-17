@@ -260,16 +260,16 @@ article header p {
     margin: 0 0 0 10px;
     border: none;
 }
-#involved, #minifellows, #newsbox {
+#involved, #minifellows, #newsbox, #sourcebox {
     margin-bottom: 50px;
 }
 
-#involved ul, #involved p, #newsbox ul {
+#involved ul, #involved p, #newsbox ul, #sourcebox ul {
 	font-size: 1em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 
-#involved li, #newsbox li {
+#involved li, #newsbox li, #sourcebox li {
 	list-style-image: url(../img/css/arrow.png);
 	list-style-position: inside;
 	margin-bottom: 8px;
@@ -335,7 +335,7 @@ display: inline;
 border: 1px solid #454545;
 }
 
-#minifellows p, #involved p, #newsbox p {
+#minifellows p, #involved p, #newsbox p, #sourcebox p {
 font-size: 0.9em;
 font-family: Helvetica, Verdana, Arial, sans-serif;
 }
@@ -369,7 +369,7 @@ margin-right: 15px;
 margin-top: 50px;
 }
 
-#newsbox li {
+#newsbox li, #sourcebox li {
 list-style: none;
 line-height: 1.4em;
 margin-bottom: 15px;
@@ -436,6 +436,7 @@ display: inline;
 }
 .fellowships #fellowships a,
 .hackdays #hackdays a,
+.learning #learning a,
 .code #code a,
 .getinvolved #getinvolved a,
 .news #news a,
@@ -519,9 +520,9 @@ text-decoration: none;
 
 }
 .fellows_home #fellow_home,
-.fellows_apply #fellow_apply,
-.fellows_2011 #fellow_12,
-.fellows_2013 #fellow_13,
+.fellows_apply #apply,
+.community #community,
+.fellows_faq #faq,
 .fellows_info #fellow_benefits {
     color: #3E3E3E;
 }
@@ -547,7 +548,7 @@ display: none;
 float: right;
 margin-right: 20px;
 margin-left: 10px;
-height: 800px;
+height: 600px;
 }
 
 #partnerbox h4 {
@@ -559,72 +560,73 @@ font-weight: normal;
 #partnerbox a {
     display: block;
     width: 220px;
-    height: 90px;
+    height: 70px;
+    margin-bottom: 20px;
+    text-indent: -9999em;
+    overflow: hidden;
 }
 
-.logo-bbc {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px 0px transparent;
+.caption {
+font-family: sans-serif; 
+font-size: .8em; 
+text-align: right; 
+margin-right: 12px; 
+margin-top: -10px;
+margin-bottom: 40px;
 }
 
-.logo-bbc:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px 0px transparent;
-}
 
 .logo-nyt {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -75px transparent;
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px 0px transparent;
 }
 
 .logo-nyt:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -75px transparent;
-}
-
-.logo-guardian {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -155px transparent;
-}
-
-.logo-guardian:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -155px transparent;
-}
-
-.logo-zeit {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -235px transparent;
-}
-
-.logo-zeit:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -235px transparent;
-}
-
-.logo-nacion {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -315px transparent;
-}
-
-.logo-nacion:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -315px transparent;
-}
-
-.logo-spiegel {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -390px transparent;
-}
-
-.logo-spiegel:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -390px transparent;
-}
-
-.logo-boston {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -470px transparent;
-}
-
-.logo-boston:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -470px transparent;
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px 0px transparent;
 }
 
 .logo-propublica {
-background: url("/media/img/partner_logos_gray.png") no-repeat scroll 0px -545px transparent;
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -70px transparent;
 }
 
 .logo-propublica:hover {
-background: url("/media/img/partner_logos_temp.png") no-repeat scroll 0px -545px transparent;
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -70px transparent;
 }
+
+.logo-texas {
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -142px transparent;
+}
+
+.logo-texas:hover {
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -142px transparent;
+}
+
+.logo-nacion {
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -223px transparent;
+}
+
+.logo-nacion:hover {
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -223px transparent;
+}
+
+.logo-ushahidi {
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -295px transparent;
+}
+
+.logo-ushahidi:hover {
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -295px transparent;
+}
+
+.logo-internews {
+background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -360px transparent;
+}
+
+.logo-internews:hover {
+background: url("/media/img/partner_strip.png") no-repeat scroll 0px -360px transparent;
+}
+
+
+
+
 
 
 ul.fellowslist, ul.fellowstats {
@@ -652,13 +654,16 @@ border-right: 0;
     /* 
     to cover up the empty <p></p> that markdown seems insistent to include above the form 
     */ 
-    margin-top: -2em;
+    margin-top: 0;
 }
 #signup label {
     font-weight: bold;
     display: block;
     margin-bottom: 0.5em;
     width: 80%;
+}
+#signup input+label {
+    font-weight: normal;
 }
 #signup input, 
 #signup textarea {
@@ -708,12 +713,14 @@ border-right: 0;
     background: #e54821;
     text-decoration: none;
 }
-.fieldset {
+.form-row {
     margin-bottom: 1em;
     overflow: hidden;
 }
-.sec-title {
-    border-top: 1px solid #C6C6C6;
+fieldset {
+    border: 0;
+}
+legend span {
     line-height: 1;
     padding-top: 1em;
     color: #FC6E1F;
