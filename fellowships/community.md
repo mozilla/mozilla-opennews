@@ -9,7 +9,7 @@ sub-section: community
 <h2>{{ page.title }}</h2>
 <p class="bodybig">Knight-Mozilla Fellows spend 10 months working in partner news organizations and collaborating with the journalism-technology community around the world. Each group of Fellows enters their newsroom with the support of the rest of their cohort as well as a growing alumni community.
 <br/><br/>
-<a href="/fellowships/meet2013.html">Meet our 2013 Fellows</a> | <a href="/fellowships/meet2011.html">Meet our 2012 Alumni</a></p>
+<a href="/fellowships/2013meet.html">Meet our 2013 Fellows</a> | <a href="/fellowships/2011meet.html">Meet our 2012 Alumni</a></p>
 
 ###THINGS THEY MAKE
 Knight-Mozilla Fellows work on projects with their newsroom colleagues, with each other, with new friends at hack days, and yes, sometimes even in an over-caffeinated blur alone at their laptops. Fellows have had [bylines](http://www.spiegel.de/wissenschaft/medizin/gesundheitsoekonomen-fordern-qualitaetsmessung-im-system-a-882665.html) on newsroom projects and spurred the development of [new tools](https://github.com/jazzido/tabula). They've [won hack days](https://review.wizehive.com/voting/view/elaustria2013/13692/1166806) and pursued [passion projects](http://source.mozillaopennews.org/articles/mapping-history-street-names/). They've [done research](http://sonya2song.blogspot.com/2013/06/talk-on-news-censorship.html) that gives us a better understanding of journalism and [its impact](http://brianabelson.com/open-news/2013/03/18/A-Metric-For-News-Apps.html). Fellows get to spend 10 months working on projects that matter. 
