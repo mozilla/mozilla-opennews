@@ -83,7 +83,7 @@ sub-section: fellows_apply
 </fieldset>
 <fieldset>
 <legend><span>Three things you've built.</span></legend>
-<p>(If a team-based project, give a clear sense of your contributions in the discription.)</p>
+<p>(If a team-based project, give a clear sense of your contributions in the description.)</p>
 <div class="form-row">
     <label class="field" for="custom-2093">URL (project 1)<span class="required">*</span></label>
     <input size="10" id="custom-2093" name="custom-2093" type="url" aria-required="true" required>
@@ -112,12 +112,12 @@ sub-section: fellows_apply
 <fieldset>
 <legend><span>Additional information</span></legend>
 <div class="form-row">
-    <label class="field" for="custom-2104">Do you speak any languages other than English? If yes, please list them.</label>
-    <input size="10" id="custom-2104" name="custom-2104" type="text">
+    <label class="field" for="custom-2104">Do you speak any languages other than English? If yes, please list them.<span class="required">*</span></label>
+    <input size="10" id="custom-2104" name="custom-2104" aria-required="true" type="text">
 </div>
 <div class="form-row">
-    <label class="field" for="custom-2105">How did you hear about the fellowship?</label>
-    <input size="10" id="custom-2105" name="custom-2105" type="text">
+    <label class="field" for="custom-2105">How did you hear about the fellowship?<span class="required">*</span></label>
+    <input size="10" id="custom-2105" name="custom-2105" aria-required="true" type="text">
 </div>
 </fieldset>
 <fieldset>
