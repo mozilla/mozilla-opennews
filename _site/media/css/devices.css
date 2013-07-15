@@ -436,6 +436,7 @@ display: inline;
 }
 .fellowships #fellowships a,
 .hackdays #hackdays a,
+.learning #learning a,
 .code #code a,
 .getinvolved #getinvolved a,
 .news #news a,
@@ -519,9 +520,9 @@ text-decoration: none;
 
 }
 .fellows_home #fellow_home,
-.fellows_apply #fellow_apply,
-.fellows_2011 #fellow_12,
-.fellows_2013 #fellow_13,
+.fellows_apply #apply,
+.community #community,
+.fellows_faq #faq,
 .fellows_info #fellow_benefits {
     color: #3E3E3E;
 }
@@ -561,6 +562,8 @@ font-weight: normal;
     width: 220px;
     height: 70px;
     margin-bottom: 20px;
+    text-indent: -9999em;
+    overflow: hidden;
 }
 
 .caption {
@@ -651,13 +654,16 @@ border-right: 0;
     /* 
     to cover up the empty <p></p> that markdown seems insistent to include above the form 
     */ 
-    margin-top: -2em;
+    margin-top: 0;
 }
 #signup label {
     font-weight: bold;
     display: block;
     margin-bottom: 0.5em;
     width: 80%;
+}
+#signup input+label {
+    font-weight: normal;
 }
 #signup input, 
 #signup textarea {
@@ -707,12 +713,14 @@ border-right: 0;
     background: #e54821;
     text-decoration: none;
 }
-.fieldset {
+.form-row {
     margin-bottom: 1em;
     overflow: hidden;
 }
-.sec-title {
-    border-top: 1px solid #C6C6C6;
+fieldset {
+    border: 0;
+}
+legend span {
     line-height: 1;
     padding-top: 1em;
     color: #FC6E1F;
