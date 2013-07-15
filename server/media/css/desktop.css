@@ -1,0 +1,100 @@
+/*
+Default template CSS - if you change anything here then updating will be a bit more tricky than you might want
+*/
+/**= Desktop only */
+.columns {
+    margin-left: -10px;
+}
+.col {
+    float: left;
+    padding: 10px;
+    width: 33%;
+}
+.col img {
+    width: 100%;
+}
+.external .col:first-child {
+    padding-left: 0;
+}
+/* Masthead */
+.masthead nav {
+    float: right;
+    margin-right: 130px;
+}
+#nav {
+	margin-top: 5px;
+	right: 138px;
+	top: 8px;
+	position: absolute;
+}
+#nav li a {
+    padding: 1em 15px;
+}
+/**= Overrides from devices.css */
+.busta {
+    max-width: 980px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+.partners h2 {
+    line-height: 75px;
+    margin-bottom: 1em;
+}
+.partners ul {
+    margin: 1.1125em 0 1.1125em 20px;
+}
+
+/**= And now time for your styles */
+/* Template overrides */
+#ONlogo {
+    display: block;
+}
+.partners h2 {
+    line-height: 50px;
+}
+#brand img {
+    width: auto;
+}
+.main_col {
+    width: 68%;
+    float: left;
+}
+.fellowsbox {
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-top: 18px;
+    margin-top: 20px;
+    width: 30%;
+    float: right;
+    padding-left: 24px;
+    border-left: 1px solid #C6C6C6;
+}
+.fellowsbox .photo {
+    width: 40%;
+}
+
+#brand img {
+    margin-top: 80px;
+}
+
+header.opengraph {
+    margin-bottom: 40px;
+}
+
+#ONlogo {
+margin-right: 40px;
+}
+#fellowside {
+    border-top: none;
+}
+
+
+
+.multicolumn {
+	-moz-column-count: 3;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 20px;
+	column-count: 3;
+	column-gap: 20px;
+}

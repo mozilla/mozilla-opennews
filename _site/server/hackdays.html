@@ -1,0 +1,256 @@
+<!DOCTYPE HTML>
+
+<html class="no-js">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>OpenNews Hack Days | Knight-Mozilla OpenNews</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom 0.3"  href="http://planet.drumbeat.org/mojo/atom.xml" />
+     <meta name="Description" content="Knight-Mozilla OpenNews is about creating a diverse ecosystem to help journalism thrive on the open web. It's about producing open source code that solves real problems in news. It's about supporting communities of developers and journalists as they make, learn, and invent together. And it's about deploying fellows&mdash;and code&mdash;into news organizations to collaborate in new ways..">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel="icon" href="/favicon.ico" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
+<link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
+    <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <link rel="stylesheet" media="screen" href="media/css/desktop.css" />
+    <![endif]-->
+    
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28825500-1']);
+  _gaq.push(['_setDomainName', 'mozillaopennews.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript">
+    google.load("feeds", "1");
+    function initialize() {
+        var feed_urls = $("a.feed_url");
+        $.each(feed_urls, function() {
+            var current = $(this),
+                feed = new google.feeds.Feed(current.attr('href'));
+            feed.setNumEntries(4);
+            feed.load(function(result) {
+                if (!result.error) {
+                    var feed_list = "<ul>";
+                    for (var i = 0; i < result.feed.entries.length; i++) {
+                        var entry = result.feed.entries[i],
+                            url = entry.link;
+                        feed_list += "<li><a href='" + url + "'>";
+                        if (url.indexOf('source') !== -1) {
+                            feed_list += entry.title + "</a>";
+                        } else {
+                            var chunks = entry.title.split(':'),
+                            name = chunks.shift();
+                            feed_list += chunks.toString() + "</a> by " + name.toString();
+                        }
+                        feed_list += "</li>";
+                    }
+                    feed_list += "</ul>";
+                    current.parent().before($(feed_list));
+                }
+            });
+        });
+    }
+    google.setOnLoadCallback(initialize);
+</script>
+</head>
+<body class="hackdays ">
+<script type="text/javascript">
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
+    </script>
+    <header class="masthead">
+        <div class="busta">
+            <h1 id="brand">
+                <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" /></a>
+            </h1>
+            <div id="nav">
+                 <ul>
+<li id="fellowships"><a href="/fellowships">fellowships</a></li>
+<li id="codesprints"><a href="/codesprints.html">code sprints</a></li> 
+<li id="hackdays"><a href="/hackdays.html">hack days</a></li>
+<li id="source"><a href="/source.html">source</a>
+<li id="code"><a href="/code.html">code</a></li>
+<li id="getinvolved"><a href="/getinvolved.html">get involved</a></li>
+</ul>
+
+			</div>
+            <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
+        </div>
+    </header>
+     <div id="newsline">
+     </div>
+    <div role="main" class="home" id="home">
+               
+
+        <div class="busta">
+
+        <article>
+            <div class="main_col">
+            <h2>OpenNews Hack Days</h2>
+<div class="article_body">
+<p class="bodybig">OpenNews is sponsoring more than a dozen hack days around the world to write code that helps to solve real-world journalistic problems. From Africa to the Americas, we're looking for <a href="https://donate.mozilla.org/page/s/knight-mozilla-news-hack-day">partners to hack the news with us</a>.</p>
+
+
+
+
+<div id="hackcalbox">
+    <h3>Upcoming OpenNews Hack Days</h3>
+    <table id="hackcal">
+    </table>
+    </div>
+
+
+<p>We’re partnering with organizations across the globe to help enable making awesome code. Attend one of the hack days in the list above, or find out how to host your own below.</p>
+
+<h3>We Want to Hack with You</h3>
+
+
+<p>We want to grow the journalism code community, and one way we’re doing it is by giving small grants to organizations, universities, newsrooms, and even individuals, to host journalism-themed hack days.</p>
+
+<p>Because we understand that there are a lot of different ways to do something like this—from heads-down hacking to workshops and breakouts and beyond—we’ve designed this to be as open a system as possible. Here’s what we’re looking for:</p>
+
+<ul>
+<li>We want to get more developers building around journalistic problemsets, so there needs to be a journalistic frame to your hackday. That doesn’t mean “hack the news”—a frame that’s far too generic—it means “build geolocational tools for information gathering.”</li>
+<li>We want <a href="/code.html">tangible outcomes</a>—things should come out of this that can be shared, distributed, forked, and maybe even launched.</li>
+<li>We’d like you to keep track of how many people were there, and have a way of getting back in touch with them.</li>
+<li>We’re dying to hear what happened, so we’ll want a blog post that documents the day and links to the code that was made. We’d love for you to join us on the <a href="https://wiki.mozilla.org/Webmakers/Community_Calls">Mozilla Webmaker community call</a> and/or the <a href="https://wiki.mozilla.org/OpenNews/Calls">OpenNews community call</a> as well to talk about the day. And, it&rsquo;d be great if you could share a report from your event via a <a href="http://source.mozillaopennews.org/en-US/contribute/">post on Source</a>.</li>
+<li>And, obviously, we get to get our name in as a sponsor.</li>
+</ul>
+
+
+<p>That’s not much. In fact, it’s designed to be as straightforward as possible: you want to hack, we want to help.</p>
+
+<p>Maybe you’ve already got something in the works, but you want to have a two-day hackfest instead of one. Maybe you’ve got everything lined up, but you want to offer travel grants to your event. Maybe you need help getting organized. Maybe you want to bring us in to do something from scratch. There are any number of variations on how this can work—the key element is that it brings awesome hacking into the community.</p>
+
+<p><a href="https://donate.mozilla.org/page/s/knight-mozilla-news-hack-day">We’ve set up a form so you can let us know what you’re thinking and we can talk about how we can most effectively help</a>. So let&rsquo;s do this.</p>
+
+<h3>Join in the hacking</h3>
+
+
+<p>If you&rsquo;re looking to get more involved in the journalism-technology community, participating in a hack day is one of the best ways to get connected. Keep an eye on the schedule above for OpenNews-sponsored hack days, and keep up with Source for a <a href="http://source.mozillaopennews.org/en-US/articles/tags/events/">weekly listing</a> of hack days and other community events. <a href="mailto:opennews@mozillafoundation.org">Get in touch</a> if you know of an event that isn&rsquo;t listed or if you want to tell us about an event you attended.</p>
+
+<script type="text/javascript" src="media/js/tabletop.js"></script>
+
+
+
+
+<script type="text/javascript">
+    
+      //window.onload = function() { init() };
+
+      var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
+
+      $(document).ready( function() {
+        Tabletop.init( { key: public_spreadshseet_url,
+                         callback: showInfo,
+                         debug: true } )
+      });
+      
+        
+      function showInfo() {        
+        
+        $.each( Tabletop.sheets("Sheet1").all(), function(i, hackday) {
+          var hack_li = $('<tr><td class="date">' + hackday.date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.title + '</a></td><td class="location">' + hackday.location + '</td></tr>')
+          hack_li.appendTo("#hackcal");
+          
+       if (hackday.status != 'happening') {
+            hack_li.addClass('hide');
+            };
+        });
+                
+                 
+      };
+      
+</script>
+
+
+</div>
+          </div>
+             <aside class="challengebox fellowsbox box">
+            <div id="involved">
+             <h3>Get Involved</h3>
+            <p>The success of OpenNews depends on people like you! Join in:</p>
+            <ul>
+            	<li><a href="/source.html">Engage with Source</a></li>
+                <li><a href="/hackdays.html">Hold a Journalism Hack Day</a></li>
+                <li><a href="/getinvolved.html">Join our Community</a></li>
+            </ul>
+            </div>
+<div id="minifellows">
+                <h3>Meet the 2011/12 <br>Knight-Mozilla Fellows </h3> 
+                <ul>
+                <li><img src="/media/img/fellows/mark_small.jpg" alt=""></li>
+                <li><img src="/media/img/fellows/cole_small.jpg" alt=""></li>
+                <li><img src="/media/img/fellows/laurian_small.jpg" alt=""></li>
+                <li><img src="/media/img/fellows/nicola_small.jpg" alt=""></li>
+                <li><img src="/media/img/fellows/dan_small.jpg" alt=""></li>
+                </ul>
+                <p>Our 2011/12 Knight-Mozilla Fellows are hacking the news at the BBC, the Guardian, Zeit Online, Al Jazeera English, and the Boston Globe. <a href="/fellowships/2011meet.html">Learn more about their experience.</a></p>
+</div>
+
+<div id="newsbox">
+<h3>The latest from the OpenNews team</h3>
+<p>Read all our news in our <a class="feed_url" href="http://planet.mozillaopennews.org/rss20.xml">OpenNews feed</a></p>
+<h3>The latest from the Source team</h3>
+<p>Read all our news in our <a class="feed_url" href="http://source.mozillaopennews.org/en-US/rss/">Source feed</a></p>
+</div>
+            </aside>
+        </article>
+        </div>
+    </div>
+    <aside>
+        <section class="partners">
+           <div class="busta">
+            <h2>Our partner</h2>
+            <ul>
+                <li><a href="http://www.knightfoundation.org/"><img alt="Knight Foundation" src="/media/img/partners/knight.png" height="50" width="300" /></a></li>
+                </ul>
+            </div>
+        </section>
+        <section class="external">
+            <div class="busta">
+            <div class="col box opennews">
+                <h2>Connect with OpenNews</h2>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                <ul>
+                <li>Get the latest by <a href="http://planet.drumbeat.org/mojo/">subscribing to our news feed</a></li>        
+                <li>Connect on Twitter <a href="http://twitter.com/opennews" class="twitter-follow-button" data-show-count="false">@opennews</a></li>
+                
+                <li>Check our our <a href="https://wiki.mozilla.org/OpenNews">Wiki</a></li>
+               <li>Join our <a href="https://lists.mozilla.org/listinfo/community-mojo">mailing list</a></li>
+                <li><a href="mailto:opennews@mozillafoundation.org">Contact us</a></li>
+                </ul>
+            </div>
+            <div class="col box knight">
+                <h2>About Knight</h2>
+ <p>Knight Foundation supports transformational ideas that promote quality
+journalism, advance media innovation, engage communities and foster the
+arts. The foundation believes that democracy thrives when people and communities are
+informed and engaged.
+<p>For more, visit <a href="http://www.knightfoundation.org" target="_blank">knightfoundation.org</a> </p>            </div>
+            <div class="col box mozilla">
+                <h2>About Mozilla</h2>
+                <p>Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good&mdash;by creating great software and fostering communities that build and grow the open web.
+<p><a href="http://donate.mozilla.org/email">Sign up to hear more</a>, and, if you're willing, please<a href="http://donate.mozilla.org/join"> join Mozilla.</a>
+            </div>
+            </div>
+
+        </section>
+    </aside>
+</body>
+</html>
+
+
