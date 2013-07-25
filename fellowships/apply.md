@@ -86,7 +86,7 @@ sub-section: fellows_apply
 <p>(If a team-based project, give a clear sense of your contributions in the description.)</p>
 <div class="form-row">
     <label class="field" for="custom-2093">URL (project 1)<span class="required">*</span></label>
-    <input size="10" id="custom-2093" name="custom-2093" type="url" aria-required="true" required>
+    <input size="10" id="custom-2093" name="custom-2093" type="text" aria-required="true" required>
 </div>
 <div class="form-row">
     <label class="field" for="custom-2094">Description (project 1)<span class="required">*</span></label>
@@ -94,7 +94,7 @@ sub-section: fellows_apply
 </div>
 <div class="form-row">
     <label class="field" for="custom-2095">URL (project 2)<span class="required">*</span></label>
-    <input size="10" id="custom-2095" name="custom-2095" type="url" aria-required="true" required >
+    <input size="10" id="custom-2095" name="custom-2095" type="text" aria-required="true" required >
 </div>
 <div class="form-row">
     <label class="field" for="custom-2096">Description (project 2)<span class="required">*</span></label>
@@ -102,7 +102,7 @@ sub-section: fellows_apply
 </div>
 <div class="form-row">
     <label class="field" for="custom-2097">URL (project 3)<span class="required">*</span></label>
-    <input size="10" id="custom-2097" name="custom-2097" type="url" aria-required="true" required />
+    <input size="10" id="custom-2097" name="custom-2097" type="text" aria-required="true" required />
 </div>
 <div class="form-row">
     <label class="field" for="custom-2098">Description (project 3)<span class="required">*</span></label>
