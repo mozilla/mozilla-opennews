@@ -14,7 +14,7 @@ sub-section: fellows_home
 <img src="/media/img/fellows/mike.jpg" class="frontpic" alt="Mike Tigas">
 <img src="/media/img/fellows/noah.jpg" class="frontpic" alt="Noah Veltman">
 <p class="caption">Our 2013 Knight Mozilla Fellows are hacking the news around the world. </p>
-
+<h2>{{ page.title }}</h2>
 <p class="bodybig">Knight-Mozilla Fellows spend 10 months embedded with our partner newsrooms. Our Fellows are developers, technologists, civic hackers, and data crunchers who are <a href="/fellowships/info.html">paid</a> to work with the community inside and outside of their newsroom to develop open-source projects. Fellows work in the open by sharing their code and their discoveries, helping to strengthen and build journalism's toolbox.</p>
 
 <div id="partnerbox">
@@ -27,7 +27,7 @@ sub-section: fellows_home
 <a href="http://www.internewskenya.org/dataportal/" class="logo-internews">Internews Kenya</a>
 </div>
 ###The 2014 Fellowships
-Six news organizations around the world will be hosting our five Knight-Mozilla Fellows in 2014. We will be announcing our new Knight-Mozilla Fellows at the <a href="http://mozillafestival.org/">2013 Mozilla Festival in London October 25-27</a>.
+Six news organizations around the world will be hosting our five Knight-Mozilla Fellows in 2014. After a global search, we will be announcing our new Knight-Mozilla Fellows at the <a href="http://mozillafestival.org/">2013 Mozilla Festival in London October 25-27</a>.
 
 ###Be Embedded in the Newsroom
 Knight-Mozilla Fellows experience the day-to-day energy of some of the best newsrooms in the world: being present as news breaks, writing code for the day’s headlines, wrangling thorny datasets, and taking a step back to solve real-world journalistic problems. Our Fellows' work is rooted in developing projects that help us better understand our world. 
