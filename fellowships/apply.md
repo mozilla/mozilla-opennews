@@ -4,6 +4,7 @@ title: Apply to become a 2014 Knight-Mozilla Fellow
 section: fellowships
 sub-section: fellows_apply
 ---
+<div class="alert">Application Deadline: 11:59:59 pm EST, August 17</div> 
 <iframe width="650" height="366" src="//www.youtube.com/embed/R7T8pozx9K0"  allowfullscreen></iframe>
 
 <h2>{{ page.title }}</h2>
