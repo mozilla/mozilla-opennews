@@ -6,8 +6,9 @@ section: getinvolved
 <p class="bodybig">OpenNews is about growing the community around open development in journalism. As a result, it's only as successful as you make it. That's why we need you involved at every step of the way. So please, join in.</p>
 
 
-<h3>Become a Knight-Mozilla Fellow</h3>
+<!-- <h3>Become a Knight-Mozilla Fellow</h3>
 The core of our program is the <a href="/fellowships">Knight-Mozilla Fellowships</a>. Spend 10 months embedded with news organizations around the world helping to build the next generation of journalism. <a href="/fellowships">Learn more about the Fellowships and apply now</a>. 
+-->
 
 <h3>Build With Us</h3>
 Our Code Sprints initiative is designed for developers and newsrooms that want to make small, open-source tools that fill real-world needs in newsrooms around the globe. Through Code Sprints, we've helped fund data visualization tools, election data parsers, civic data scrapers and more. <a href="/codesprints.html">Find out more and pitch your idea.</a>
