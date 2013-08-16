@@ -784,4 +784,6 @@ font-size: 14px;
 	padding: 5px;
 	text-align: center;
 	margin-bottom: -10px;
+	border-radius: 5px;
+	width: 97%;
 }
