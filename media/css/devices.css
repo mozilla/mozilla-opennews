@@ -774,3 +774,16 @@ font-size: 14px;
 	margin-bottom: 5px;
 	border: 1px solid black;
 }
+
+.alert {
+	font-family: 'Open Sans',Helvetica,Verdana,Arial, sans-serif;
+	background-color: #b54f06;
+	color: white;
+	font-weight: bold;
+	font-size: 1.5em;
+	padding: 5px;
+	text-align: center;
+	margin-bottom: -10px;
+	border-radius: 5px;
+	width: 97%;
+}
