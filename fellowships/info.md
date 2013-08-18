@@ -79,4 +79,4 @@ Up to $250 to cover the server costs associated with deploying projects such as 
 All approved Fellowship trips – domestic and international – are covered. Additional travel required by the News Partners will be covered by them.
 
 <h3>Visa Assistance</h3>
-Mozilla will work directly with News Partners to secure temporary work visas as required on behalf of Fellows who require them.
+Mozilla will work directly with News Partners to secure temporary work visas on behalf of Fellows who require them.
