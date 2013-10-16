@@ -3,31 +3,28 @@ layout: post
 title: Get Involved with OpenNews
 section: getinvolved
 ---
-<p class="bodybig">OpenNews is about growing the community around open development in journalism. As a result, it's only as successful as you make it. That's why we need you involved at every step of the way. So please, join in.</p>
+<p class="bodybig">OpenNews is about growing the community around open source code in journalism. No matter how you got interested in jouralism code, we're here to help you connect, build, and lead that community. Join us.</p>
 
 
-<!-- <h3>Become a Knight-Mozilla Fellow</h3>
-The core of our program is the <a href="/fellowships">Knight-Mozilla Fellowships</a>. Spend 10 months embedded with news organizations around the world helping to build the next generation of journalism. <a href="/fellowships">Learn more about the Fellowships and apply now</a>. 
--->
+<h3>Connect</h3>
+Are you just starting out in the journalism code community? Still trying to figure out what this is all about? We have plenty of ways for you to learn more--and get connected with--OpenNews and the work of the journalism code community around the world.
 
-<h3>Build With Us</h3>
-Our Code Sprints initiative is designed for developers and newsrooms that want to make small, open-source tools that fill real-world needs in newsrooms around the globe. Through Code Sprints, we've helped fund data visualization tools, election data parsers, civic data scrapers and more. <a href="/codesprints.html">Find out more and pitch your idea.</a>
+* <a href="http://source.opennews.org">Check out Source</a>: learn about new projects, dive into in-depth case studies, or find a journalism code project to fork on GitHub.
+* <a href="https://wiki.mozilla.org/OpenNews/Calls">Join in a call</a>: we hold a community call every other Wednesday at 11am EST where journalism coders discuss projects, event organizers reportback on their hack days, and the Knight-Mozilla Fellows detail their adventures.
+* <a href="/hackdays.html">Participate in a hack day</a>: we support hack events all over the world and there may be one happening near you soon.
+* <a href="http://www.twitter.com/opennews">Follow us on Twitter</a>: ask questions, find out what we're up to, and let us know what you're doing.
 
-We also sponsor journalism-themed hack days around the world this year, and would love for you to take part.
+<h3>Build</h3>
+If you're already excited about open data and journalism development, now's the time to increase your involvement in this amazing, inviting community. How?
 
-* We're actively <a href="https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day">looking for partners to host hack days</a>, so let us know what you're up to. 
-* If you're a developer who wants to hack with us, check our <a href="/hackdays.html">hack day page</a> to find out what's happening near you.
+* <a href="https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day">Host a hack day</a>: we're looking for partners to host local hack days. Organizing an event is a great way to deepen your involvement with your local community, and when you share back what you've learned and built at your hack day, you help improve hack days for the entire journalism code community.
+* <a href="http://source.opennews.org/en-US/contribute/">Write for Source</a>: you're already involved in journalism development, so tell the rest of the community what you've created. We're here to help you document and share that work.
+* <a href="/codesprints.html">Make that idea a reality</a>: do you have a small project you've been meaning to finish? An idea from a hack day that needs a little extra attention to get to beta? Apply for a Code Sprint grant to help push that project over the finish line.
 
-<h3>Contribute to Source</h3>
-<a href="http://source.mozillaopennews.org">Source</a> is our site dedicated to journalism code and the community around it. We run regular features delving deeply into news code, as well as work to index all of the code that's out there in the journalism space. We can't do it without your help.
+<h3>Lead</h3>
+As this community continues to grow, we're here to support you in becoming a leader not only within a news organization, but in this international community.
 
-* If you're writing code in the journalism space and want to document your work for Source, or if you're a writer that wants to help document others' work, we want to <a href="http://source.mozillaopennews.org/en-US/contribute/">hear from you</a>.
-* If you're a coder who wants their open code listed in the <a href="http://source.mozillaopennews.org/code">Source Code Index</a>, <a href="http://source.mozillaopennews.org/en-US/contribute/">submit to get it listed</a>.
-
-<h3>Join our Community</h3>
-We run OpenNews in the open, and would love for you to join in our weekly calls, our mailing list, or interact with us on Twitter. 
-
-* <a href="https://wiki.mozilla.org/OpenNews/Calls">OpenNews Community Calls</a> every other Wednesday at 11am EST.
-* <a href="http://www.twitter.com/opennews">OpenNews on Twitter</a>, ask questions, find out what we're up to, and let us know what you're doing.
-* <a href="https://lists.mozilla.org/listinfo/community-mojo">OpenNews Mailing List</a>. Join the mailing list and engage with a great community.
-* <a href="https://wiki.mozilla.org/OpenNews">OpenNews Wiki</a>. Check out archival content and other information.
+* <a href="http://source.opennews.org/learning/">Write for Source Learning</a>: experienced journalism developers share their expertise via in-depth case studies in Source Learning, and we'd love to share your projects with Source's tens of thousands of readers.
+* <a href="http://source.opennews.org/en-US/articles/tags/events/">Participate at international events</a>: share the wealth of your knowledge at events like the Mozilla Festival in London, the Hacks/Hackers Buenos Aires Media Party, or the first OpenNews Source Conference coming up in 2014.
+* <a href="/fellowships">Become a Fellow</a>: Knight-Mozilla Fellows are paid to spend 10 months working with a fantastic news organization and traveling to learn from and collaborate with news nerds around the world. We'll start looking for our 2015 fellows next summer. 
+* <a href="http://www.newsnerdjobs.com/">Join a newsroom</a>: news organizations need skilled developers and data wranglers to do journalism development full time.
