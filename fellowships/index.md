@@ -29,8 +29,8 @@ sub-section: fellows_home
 ###The 2014 Fellowships
 Six news organizations around the world will be hosting our five Knight-Mozilla Fellows in 2014. After a global search, we will be announcing our new Knight-Mozilla Fellows at the <a href="http://mozillafestival.org/">2013 Mozilla Festival in London October 25-27</a>.
 
-###Be Embedded in the Newsroom
+###Embedded in the Newsroom
 Knight-Mozilla Fellows experience the day-to-day energy of some of the best newsrooms in the world: being present as news breaks, writing code for the day’s headlines, wrangling thorny datasets, and taking a step back to solve real-world journalistic problems. Our Fellows' work is rooted in developing projects that help us better understand our world. 
 
-###Work in the Open
+###Working in the Open
 Knight-Mozilla Fellows share the work they're doing with the world outside of the newsroom. By blogging their experiences, pushing code to open repositories, taking part in the OpenNews [community calls](https://wiki.mozilla.org/OpenNews/Calls), and engaging with other developers, our Fellows are helping to spread the code they're making and strengthen the journalism-developer community. And given that news is such a large part of the web, the open work of the Fellows contributes to a more transparent, open, and accessible web.
