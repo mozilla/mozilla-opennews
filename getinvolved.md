@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: post_notitle
 title: Get Involved with OpenNews
 section: getinvolved
 ---
-<p class="bodybig">OpenNews is about growing the community around open source code in journalism. No matter how you got interested in jouralism code, we're here to help you connect, build, and lead that community. Join us.</p>
+<img src="/media/img/getinvolved.jpg" class="topline">
+<p class="caption">An OpenNews Hack Day at the MIT Media Lab (photo/Laurian Gridinoc)</p>
 
+<h2>{{ page.title }}</h2>
+<p class="bodybig">OpenNews is about growing the community around open source code in journalism. No matter how you got interested in jouralism code, we're here to help you connect, build, and lead that community. Join us.</p>
 
 <h3>Connect</h3>
 Are you just starting out in the journalism code community? Still trying to figure out what this is all about? We have plenty of ways for you to learn more--and get connected with--OpenNews and the work of the journalism code community around the world.
