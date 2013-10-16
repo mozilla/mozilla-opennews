@@ -787,3 +787,8 @@ font-size: 14px;
 	border-radius: 5px;
 	width: 97%;
 }
+
+img.topline {
+	width: 100%;
+	border: 1px solid black;
+}
