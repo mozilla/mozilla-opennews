@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: post_notitle
 title: OpenNews Hack Days
 section: hackdays
 ---
 <img src="/media/img/hackdays.jpg" class="topline">
-<p class="caption">Heads-down at the 2013 Hack Jersey Hack Day (photo/deb)</p>
+<p class="caption">Conversing at the Chicago Crime Hack Day (photo/Daniel X O'neil)</p>
 
+<h2>{{ page.title }}</h2>
 <p class="bodybig">Communities around the world organize hack days to bring together coders and journalists to learn from each other and tackle problems. OpenNews offers financial and planning support to local organizers, and <a href="https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day">we'd love to help with your event</a>.</p>
 
 <div id="hackcalbox">

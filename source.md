@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: post_notitle
 title: Source&#058;  journalism code, community, and context
 section: source
 ---
+<img src="/media/img/sourcephoto.jpg" class="topline">
 
+<h2>{{ page.title }}</h2>
 <p class="bodybig">The code being written in journalism is driving innovation across the web, and the community writing it is talented, vibrant, and growing. <a href="http://source.opennews.org">Source</a> is dedicated to spotlighting that community and diving deep into the code it's making.</p>
 <h3>Revealing the context around the code</h3>
 Code isn't written in a vacuum. That's true for any line of code that's been written, and it's especially true in journalism, where the news of the day influences the lines of code written to report it. <a href="http://source.opennews.org/articles/">Our features</a> connect the code with its context, using the journalistic approach of "Who, What, Why, When, and How" to exploring the motivations, ideas, and innovations behind the lines of code.
