@@ -25,6 +25,6 @@ If you're already excited about open data and journalism development, now's the 
 As this community continues to grow, we're here to support you in becoming a leader not only within a news organization, but in this international community.
 
 * <a href="http://source.opennews.org/learning/">Write for Source Learning</a>: experienced journalism developers share their expertise via in-depth case studies in Source Learning, and we'd love to share your projects with Source's tens of thousands of readers.
-* <a href="http://source.opennews.org/en-US/articles/tags/events/">Participate at international events</a>: share the wealth of your knowledge at events like the Mozilla Festival in London, the Hacks/Hackers Buenos Aires Media Party, or the first OpenNews Source Conference coming up in 2014.
+* <a href="http://source.opennews.org/en-US/articles/tags/events/">Present at international events</a>: share the wealth of your knowledge at events like the Mozilla Festival in London, the Hacks/Hackers Buenos Aires Media Party, or the first OpenNews Source Conference coming up in 2014.
 * <a href="/fellowships">Become a Fellow</a>: Knight-Mozilla Fellows are paid to spend 10 months working with a fantastic news organization and traveling to learn from and collaborate with news nerds around the world. We'll start looking for our 2015 fellows next summer. 
 * <a href="http://www.newsnerdjobs.com/">Join a newsroom</a>: news organizations need skilled developers and data wranglers to do journalism development full time.
