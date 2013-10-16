@@ -4,7 +4,7 @@ title: Get Involved with OpenNews
 section: getinvolved
 ---
 <img src="/media/img/getinvolved.jpg" class="topline">
-<p class="caption">An OpenNews Hack Day at the MIT Media Lab (photo/Laurian Gridinoc)</p>
+<p class="caption">Leading programming training with Code With Us (photo/Pete Karl II)</p>
 
 <h2>{{ page.title }}</h2>
 <p class="bodybig">OpenNews is about growing the community around open source code in journalism. No matter how you got interested in jouralism code, we're here to help you connect, build, and lead that community. Join us.</p>
