@@ -6,104 +6,57 @@ section: code
 <img src="/media/img/code.jpg" class="topline">
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig">A key element to the OpenNews project is to put code out into the world that will help make better journalism. Our <a href="/fellowships">Knight-Mozilla Fellows</a> are pushing commits to GitHub regularly, and the <a href="/hackdays.html">hack days</a> we're sponsoring around the world are creating code to solve specific problems.</p>
+<p class="bodybig">OpenNews supports developers inside and outside of newsrooms in creating code that helps journalism thrive on the open web. We believe that the code being written in news transforms not only the industry, but the web itself.</p>
 <div id="fellowcode">
 <h3>Projects by the Knight-Mozilla Fellows</h3>
+<p>Our <a href="/fellowships/community.html">Fellows</a> spend ten months hacking in some of the best newsrooms in the world, following their passions and creating compelling open-source projects. Here are just a few of the many things <a href="https://github.com/opennews">they've developed</a>:</p>
+<ul class="fellowcode">
+<li><a href="http://tabula.nerdpower.org/" class="fellowhack">Tabula</a>
+<br>Tabula is a tool to extract tabular data from PDFs. The project was created by 2013 Knight-Mozilla Fellow Manuel Aristarán, with the help of 2013 Knight-Mozilla Fellow Mike Tigas and his colleague at ProPublica Jeremy B. Merrill. 
+<br>Key libraries : 
+<br><a href="http://tabula.nerdpower.org/">On the web</a> | <a href="https://github.com/jazzido/tabula">On GitHub</a>
+</li>
+
+<li><a href="http://hyperaud.io/" class="fellowhack">Hyperaudio</a>
+<br>Mark Boas' Hyperaudio is a tool to facilitate the easy assemblage of audio and video programs from their underlying transcripts. The ongoing aims are to create something usable that works with both audio and video and allows transitions and overlaying to be specified via in-pad natural language instructions and to build up a library of material and to integrate with other third-parties such as Amara (formerly Universal Subtitles). Hyperaudio is currently a project with <a href="https://webfwd.org/portfolio">Mozilla's WebFWD</a>. In addition to Mark Boas, 2012 Knight-Mozilla Fellow Daniel Schultz and Matteo Spinelli are on the development team.
+<br><a href="http://hyperaud.io/">On the web</a> | <a href="https://github.com/hyperaudio-dev">On GitHub</a>
+</li>
+
+<li><a href="https://dataset.readthedocs.org/en/latest/" class="fellowhack">Dataset</a>
+<br>Dataset is a tool from 2013 Knight-Mozilla Fellow Friedrich Lindenberg and Gregor Aisch to make it easier to manage databases in Python. Dataset makes it easier to import and export databases: "databases for lazy people."
+<br><a href="https://dataset.readthedocs.org/en/latest/">On the web</a> | <a href="https://github.com/pudo/dataset">On GitHub</a>
+</li>
+
+<li><a href="https://github.com/veltman/learninglunches" class="fellowhack">Learning Lunches</a>
+<br>2013 Knight-Mozilla Fellow Noah Veltman began organizing informal discussions with colleagues about technical topics. He's shared the materials from these discussions on GitHub. Topics have included databases, maps, and web scraping. 
+<br><a href="https://github.com/veltman/learninglunches">On GitHub</a>
+</li>
+
+</ul>
+</div>
+<h3>Code from Code Sprints</h3>
+We developed Code Sprints to help create some of the small, simple tools that can have a big impact in newsrooms.
+
+<p>Our Code Sprint projects include:</p>
 <ul>
-
-<li><a href="https://github.com/openNews/amo" class="fellowhack">Amo</a>
-<br>Cole Gillespie's Amo was born out of a need to be able to track multiple stories across the web in real time. It works by checking to see how many times a url has been shared on Facebook, Google Plus and Twitter. Once you have the number of shares for a particular url at any given time then you can record those and really start to see which stories the social world likes and it talking about the most.
-<br>Key libraries : jsdom, node and jQuery
-<br><a href="https://github.com/openNews/amo">On Github</a>
-</li>
-
-<li><a href="http://toys.namebound.com/Arrow/" class="fellowhack">Arrow</a>
-<br>Laurian Gridinoc’s work in progress on how to play sound slides created with <a href="http://soundslides.com">soundslides.com</a> in a Flash-free environment. The current example is a proof-of-concept based on the <a href="http://www.bbc.co.uk/news/uk-10714688">Siegfried Sassoon</a> BBC SoundSlides-authored audio slideshow. This project might merge later with Mark Boas’ YouSlide.
-<br>Key libraries: <a href="http://popcornjs.org">Popcorn.js</a>, <a href="http://mediaelementjs.com">MediaElement.js</a>
-<br><a href="http://toys.namebound.com/Arrow/">On the web</a> | <a href="https://github.com/Laurian/Arrow">On GitHub</a>
-</li>
-
-<li><a href="http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html" class="fellowhack">Contextual Video Player</a>
-<br>Mark Boas created the Contextual Video Player to enrich the experience of a web-based video player by augmenting additional info, various viewing modes and integrating social media sharing. The editor's role should be fast and straightforward and to this end, an editor edits and stores data in a Google Docs Spreadsheet. The ongoing aim is to create a framework that can evolve for use with similar projects and also create a general web-based stand-alone player linked to AJE's documentary material.
-<br>Key libraries : Popcorn.js, jPlayer and Tabletop.js
-<br><a href="http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html">On the web</a> | <a href="https://github.com/maboa/contextual-video">On Github</a>
-</li>
-
-<li><a href="http://happyworm.com/clientarea/hyperaudio/hap/v22/pad.htm" class="fellowhack">Hyperaudio Pad</a>
-<br>Mark Boas' Hyperaudio Pad is a tool to facilitate the easy assemblage of audio and video programs from their underlying transcripts. The ongoing aims are to create something usable that works with both audio and video and allows transitions and overlaying to be specified via in-pad natural language instructions and to build up a library of material and to integrate with other third-parties such as Amara (formerly Universal Subtitles)
-<br>Key libraries: Popcorn.js, jPlayer
-<br><a href="http://happyworm.com/clientarea/hyperaudio/hap/v22/pad.htm">On the web</a> | <a href="https://github.com/maboa/hyperaudiopad">On Github</a>
-</li>
-
-<li><a href=" http://toys.namebound.com/d3/ex/choropleth.html" class="fellowhack">IE6 Compatible Choropleth Map with D3 & Raphaël</a>
-<br>Laurian Gridinoc’s experiment in creating a choropleth map with D3.js and Raphaël.js that works even in Internet Explorer 6. Based on <a href="http://github.com/strongriley">Riley Strong’s</a> <a href="http://strongriley.github.com/d3/ex/calendar.html">D3/IE6 work</a>.
-<br>Key libraries: <a href="http://d3js.org">D3.js</a>, <a href="http://raphaeljs.com">Raphaël.js</a>
-<br><a href="http://toys.namebound.com/d3/ex/choropleth.html">On the web</a> | <a href="http://github.com/Laurian/d3">On GitHub</a>
-</li>
-
-<li><a href="http://newsjack.in" class="fellowhack">NewsJack</a>
-<br>Dan Schultz's project leverages Hackasaurus to let anyone remix the news.  NewsJack
-instigates questions about what it means to be credible online,
-reminds us how important it is to challenge digital messages
-regardless of their appearance, and promotes conversation about brand
-and media literacy.
-<br><a href="http://newsjack.in">On the web</a> | <a href="https://github.com/slifty/newsjack">On Github</a>
-
-<li><a href="https://github.com/Laurian/NewsTuner" class="fellowhack">NewsTuner</a>
-<br>At the Mozilla Hack Jam "Data Live" in Dundee, Laurian Gridinoc prototyped a tuner that permits the user to manually tune in several news video channels, bringing analog radio serendipity back to the web. This hardware-based project is in ongoing development.
-<br>Key libraries : Duino (Arduino framework for Node.js), Node.js, Socket.io, Seriously.js
-<br><a href="https://github.com/Laurian/NewsTuner">On Github</a>
-</li>
-
-<li><a href="http://truthgoggl.es" class="fellowhack">Truth Goggles</a>
-<br>Dan Schultz has built a credibility layer / automatic BS detector for the internet.
-It helps catalyze critical thinking by reminding people when it is
-most important to be cautious.
-<br><a href="http://truthgoggl.es">On the web</a> | <a href="https://github.com/slifty/truth-goggles">On Github</a> 
-
-<li><a href="http://www.aljazeera.com/indepth/features/2012/04/2012418162237555962.html" class="fellowhack">YouSlide</a>
-<br>Mark Boas sought to make image-based slideshows more compelling by allowing images to be zoomed and faded and an audio track to be added. The ongoing aim is to create a tool that will allow anybody to create audio slideshows from YouTube based audio and Creative Commons licensed images.
-<br>Key libraries : Popcorn.js, jPlayer
-<br><a href="http://www.aljazeera.com/indepth/features/2012/04/2012418162237555962.html">On the web</a> | <a href="https://github.com/maboa/YouSlide"> On Github</a>
-</li>
-
+<li><a href="https://github.com/jlord/sheetsee.js">Sheetsee.js</a>: Easy data visualizations using a simple spreadsheet backend.
+<li><a href="https://github.com/open-city/dedupe">Dedupe</a>: A library for deduplication, entity resolution, record linkage, and author disambiguation of big datasets.
+<li><a href="http://treasury.io/">Treasury.io</a>: A parser and API for the daily cash balance updates from the US Treasury.
+<li><a href="https://github.com/wnyc/election_california_2012">California Election Parser</a>: A parser for election data used by over 200 California news sites in 2012.
 </ul>
-</div>
+
+We'd love to develop more Code Sprints. <a href="/codesprints.html">Learn more about the program and apply</a>.
+
 <h3>Code from Hack Days</h3>
-<p>The <a href="/hackdays.html">global hack days</a> we're helping to sponsor are producing all sorts of interesting code. Feel free to explore the many projects spawned at OpenNews Hack Days.  
-<div id="hackcode" class="multicolumn">
-<ul id="daycode">
-</ul>
-</div>
+We've sponsored more than 40 <a href="/hackdays.html">hack days</a> around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more. 
 
-<script type="text/javascript" src="media/js/tabletop.js"></script>
+Some projects that got their start at hack days include:
+<ul>
+<li><a href="http://www.civomega.com/">CivOmega</a>: this project got its start at the 2013 Knight-MIT-Mozilla hack day. It allows people to ask questions of legislative data and was recently awarded a Sunlight Foundation OpenGov Grant.</li>
+<li><a href="http://hackdash.org/">HackDash</a>: was originally developed at the 2012 Hacks/Hackers Buenos Aires Media Party and a year later, this tool for organizing hackathon projects powered the hack day at the 2013 event.</li>
+<li><a href="http://newsdiffs.org/">NewsDiffs</a>: began at the 2012 Knight-MIT-Mozilla hack day as a way to track changes to articles and headlines. It now tracks an archives changes to articles on five news sites.</li>
+<li><a href="http://treasury.io/">Treasury.io</a>: began as a project called FMS parser at the Bicoastal Datafest. It was developed by the CSV Soundsystem hacker team, which includes 2013 Knight-Mozilla Fellow Brian Abelson, to help track the US government's virtual checkbook.</li></ul>
 
-<script type="text/javascript">
+<h3>Code Convenings</h3>
 
-$('<div id="preload"></div>').html('<img src="/media/img/ajax-loader.gif" alt="loading data" />').prependTo($('#hackcode'));
-    
-      //window.onload = function() { init() };
-
-      var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
-
-      $(document).ready( function() {
-        Tabletop.init( { key: public_spreadshseet_url,
-                         callback: showInfo,
-                         debug: true } )
-      });
-      
-        
-      function showInfo() {   
-      
-       $('#preload').hide();     
-        
-        $.each( Tabletop.sheets("projects").all(), function(i, codeday) {
-          var code_li = $('<li><a href="' + codeday.repo +'">' + codeday.name + '</a><br>' + codeday.description + '<br><small>Created at <a href="' + codeday.daylink + '">' + codeday.hackday +'</small></li>')
-          code_li.appendTo("#daycode");
-          
- 		});
- 		 		
- 		         
-      };
-      
-</script>
+Starting in 2014, OpenNews plans to gather groups of journalism developers and open-source contributors to collaborate on shared codebases and libraries so that we can stop continually reinventing the wheel on needed infrastructure, like election parsers, opsec, visualizations, and more. We'll have more information soon and look forward to this new way to create code that will help news organizations.
