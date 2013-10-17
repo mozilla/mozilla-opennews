@@ -135,7 +135,7 @@ aside {
 }
 /* Partners */
 .partners {
-    background: url("../img/css/bg_partners.png") repeat-x scroll 0 0 #ececec;
+    background-color: #ececec;
 }
 .partners h2 {
     float: left;
