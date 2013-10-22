@@ -5,15 +5,15 @@ section: fellowships
 sub-section: fellows_home
 ---
 
-<img src="/media/img/fellows/brian.jpg" class="frontpic" alt="Brian Abelson">
-<img src="/media/img/fellows/manuel.jpg" class="frontpic" alt="Manuel Aristarán">
-<img src="/media/img/fellows/annabel.jpg" class="frontpic" alt="Annabel Church">
-<img src="/media/img/fellows/stijn.jpg" class="frontpic" alt="Stijn Debrouwere">
-<img src="/media/img/fellows/friedrich.jpg" class="frontpic" alt="Friedrich Lindenberg">
-<img src="/media/img/fellows/sonya.jpg" class="frontpic" alt="Sonya Song">
-<img src="/media/img/fellows/mike.jpg" class="frontpic" alt="Mike Tigas">
-<img src="/media/img/fellows/noah.jpg" class="frontpic" alt="Noah Veltman">
-<p class="caption">Our <a href="community.html">2013 Knight Mozilla Fellows</a> hack the news around the world. </p>
+<div id="picwrap">
+<img src="/media/img/fellows/2014-fellows/marcos-220.png" class="frontpic" alt="Marcos">
+<img src="/media/img/fellows/2014-fellows/gabriela-220.png" class="frontpic" alt="Gabriela">
+<img src="/media/img/fellows/2014-fellows/logo-220.png" class="frontpic noborder" alt="OpenNews">
+<img src="/media/img/fellows/2014-fellows/aurelia-220.png" class="frontpic" alt="Aurelia Moser">
+<img src="/media/img/fellows/2014-fellows/harlo-220.png" class="frontpic" alt="Harlo Holmes">
+<img src="/media/img/fellows/2014-fellows/brian-220.png" class="frontpic" alt="Brian">
+</div>
+<p class="caption"><a href="2014meet.html">Meet our 2014 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
 <h2>{{ page.title }}</h2>
 <p class="bodybig">Knight-Mozilla Fellows spend 10 months embedded with our partner newsrooms. Our Fellows are developers, technologists, civic hackers, and data crunchers who are <a href="/fellowships/info.html">paid</a> to work with the community inside and outside of their newsroom to develop open-source projects. Fellows work in the open by sharing their code and their discoveries, helping to strengthen and build journalism's toolbox.</p>
 
@@ -27,7 +27,7 @@ sub-section: fellows_home
 <a href="http://www.internewskenya.org/dataportal/" class="logo-internews">Internews Kenya</a>
 </div>
 ###The 2014 Fellowships
-Six news organizations around the world will be hosting our five Knight-Mozilla Fellows in 2014. After a global search, we will be announcing our new Knight-Mozilla Fellows at the <a href="http://mozillafestival.org/">2013 Mozilla Festival in London October 25-27</a>.
+Six news organizations around the world will be hosting our five Knight-Mozilla Fellows in 2014. After a global search with over 270 applications, you can <a href="2014meet.html">meet our 2014 Knight-Mozilla Fellows now.</a>
 
 ###Embedded in the Newsroom
 Knight-Mozilla Fellows experience the day-to-day energy of some of the best newsrooms in the world: being present as news breaks, writing code for the day’s headlines, wrangling thorny datasets, and taking a step back to solve real-world journalistic problems. Our Fellows' work is rooted in developing projects that help us better understand our world. 

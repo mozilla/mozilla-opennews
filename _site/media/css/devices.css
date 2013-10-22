@@ -365,6 +365,11 @@ border: 1px solid black;
 margin-right: 15px;
 }
 
+img.meet14 {
+	width: 22%;
+	margin-top: 10px;
+}
+
 .spacer {
 margin-top: 50px;
 }
@@ -768,8 +773,8 @@ font-size: 14px;
 }
 
 .frontpic {
-	max-width: 210px;
-	max-height: 210px;
+	width: 31%;
+	height: 31%;
 	margin-right: 5px;
 	margin-bottom: 5px;
 	border: 1px solid black;
@@ -777,6 +782,11 @@ font-size: 14px;
 
 .noborder {
 	border: none;
+}
+
+#picwrap {
+	width: 100%;
+	margin-top: 18px;
 }
 
 .alert {
