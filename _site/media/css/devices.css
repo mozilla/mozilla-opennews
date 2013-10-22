@@ -768,11 +768,15 @@ font-size: 14px;
 }
 
 .frontpic {
-	width: 154px;
-	height: 154px;
+	max-width: 210px;
+	max-height: 210px;
 	margin-right: 5px;
 	margin-bottom: 5px;
 	border: 1px solid black;
+}
+
+.noborder {
+	border: none;
 }
 
 .alert {
