@@ -6,14 +6,14 @@ sub-section: fellows_home
 ---
 
 <div id="picwrap">
-<img src="/media/img/fellows/2014-fellows/marcos-220.png" class="frontpic" alt="Marcos">
-<img src="/media/img/fellows/2014-fellows/gabriela-220.png" class="frontpic" alt="Gabriela">
+<img src="/media/img/fellows/2014-fellows/harlo-220.png" class="frontpic" alt="Harlo Holmes">
+<img src="/media/img/fellows/2014-fellows/brian-220.png" class="frontpic" alt="Brian Jacobs">
 <img src="/media/img/fellows/2014-fellows/logo-220.png" class="frontpic noborder" alt="OpenNews">
 <img src="/media/img/fellows/2014-fellows/aurelia-220.png" class="frontpic" alt="Aurelia Moser">
-<img src="/media/img/fellows/2014-fellows/harlo-220.png" class="frontpic" alt="Harlo Holmes">
-<img src="/media/img/fellows/2014-fellows/brian-220.png" class="frontpic" alt="Brian">
+<img src="/media/img/fellows/2014-fellows/gabriela-220.png" class="frontpic" alt="Gabriela Rodriguez">
+<img src="/media/img/fellows/2014-fellows/marcos-220.png" class="frontpic" alt="Marcos Vanetta">
+<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2014meet.html">Meet our 2014 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
 </div>
-<p class="caption"><a href="2014meet.html">Meet our 2014 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
 <h2>{{ page.title }}</h2>
 <p class="bodybig">Knight-Mozilla Fellows spend 10 months embedded with our partner newsrooms. Our Fellows are developers, technologists, civic hackers, and data crunchers who are <a href="/fellowships/info.html">paid</a> to work with the community inside and outside of their newsroom to develop open-source projects. Fellows work in the open by sharing their code and their discoveries, helping to strengthen and build journalism's toolbox.</p>
 
