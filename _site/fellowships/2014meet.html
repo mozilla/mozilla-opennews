@@ -1,0 +1,235 @@
+<!DOCTYPE HTML>
+
+<html class="no-js">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Meet the 2014 Knight-Mozilla Fellows | Knight-Mozilla OpenNews</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom 0.3"  href="http://planet.mozillaopennews.org/atom.xml" />
+     <meta name="Description" content="Knight-Mozilla OpenNews is about creating a diverse ecosystem to help journalism thrive on the open web. It's about producing open source code that solves real problems in news. It's about supporting communities of developers and journalists as they make, learn, and invent together. And it's about deploying fellows&mdash;and code&mdash;into news organizations to collaborate in new ways..">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel="icon" href="/favicon.ico" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
+<link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
+    <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
+    <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <link rel="stylesheet" media="screen" href="media/css/desktop.css" />
+    <![endif]-->
+    <script type="text/javascript">
+        // new mozilla GA account
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-35433268-15']);
+        _gaq.push(['_setDomainName', 'mozillaopennews.org']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript">
+    google.load("feeds", "1");
+    function initialize() {
+        var feed_urls = $("a.feed_url");
+        $.each(feed_urls, function() {
+            var current = $(this),
+                feed = new google.feeds.Feed(current.attr('href'));
+            feed.setNumEntries(4);
+            feed.load(function(result) {
+                if (!result.error) {
+                    var feed_list = "<ul>";
+                    for (var i = 0; i < result.feed.entries.length; i++) {
+                        var entry = result.feed.entries[i],
+                            url = entry.link;
+                        feed_list += "<li><a href='" + url + "'>";
+                        if (url.indexOf('source') !== -1) {
+                            feed_list += entry.title + "</a>";
+                        } else {
+                            var chunks = entry.title.split(':'),
+                            name = chunks.shift();
+                            feed_list += chunks.toString() + "</a> by " + name.toString();
+                        }
+                        feed_list += "</li>";
+                    }
+                    feed_list += "</ul>";
+                    current.parent().before($(feed_list));
+                }
+            });
+        });
+    }
+    google.setOnLoadCallback(initialize);
+</script>
+<script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
+</head>
+<body class="fellowships fellows_2014">
+<script type="text/javascript">
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
+    </script>
+    <header class="masthead">
+        <div class="busta">
+            <a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>
+            <h1 id="brand">
+                <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" /></a>
+            </h1>
+            <div id="nav">
+                 <ul>
+<li id="fellowships"><a href="/fellowships">fellowships</a></li>
+<li id="hackdays"><a href="/hackdays.html">hack days</a></li>
+<li id="code"><a href="/code.html">code</a></li> 
+<li id="source"><a href="/source.html">source</a>
+<li id="getinvolved"><a href="/getinvolved.html">get involved</a></li>
+</ul>
+
+			</div>
+        </div>
+    </header>
+     <div id="newsline">
+     </div>
+    <div role="main" class="home" id="home">
+               
+
+        <div class="busta">
+
+        <article>
+            <div class="main_col">
+            <div class="article_body">
+<div id="fellowside">
+<ul>
+<li><a href="/fellowships" id="fellow_home">the fellowships</a></li>
+<li><a href="2014meet.html" id="2014_meet">meet the 2014 fellows</a></li>
+<li><a href="community.html" id="community">the fellowship community</a></li>
+<li><a href="info.html" id="fellow_benefits">fellowship benefits</a></li>
+<li><a href="faq.html" id="faq">faq</a></li>
+</ul>
+</div>
+
+<p><img src="/media/img/fellows/2014-fellows/2014group.png" alt="our 2014 fellows" style="width: 100%; border: 1px solid black;"></p>
+
+<h2>Meet the 2014 Knight-Mozilla Fellows</h2>
+
+
+<p class="bodybig">Activists, academics, hackers, and makers--our 2014 Knight-Mozilla Fellows come from around the world and bring their many skills to journalism for 10 months. Bringing ideas to the New York Times, ProPublica, the Texas Tribune, La Nacion, Ushahidi and Internews Kenya, the 2014 Knight-Mozilla Fellows are helping to lead journalism forward.</p>
+
+
+<ul class="fellowslist">
+<li><a href="#harlo">Harlo Holmes </a>
+<li><a href="#brian">Brian Jacobs </a>
+<li><a href="#aurelia">Aurelia Moser </a>
+<li><a href="#gabriela">Gabriela Rodriguez </a>
+<li><a href="#marcos">Marcos Vanetta </a>
+</ul>
+
+
+
+
+<p><p><img src="/media/img/fellows/2014-fellows/harlo-220.png" class="meet meet14" alt="">
+<h3 id="harlo">Harlo Holmes | New York Times</h3></p>
+
+<p><p>Harlo Holmes is a media scholar, software programmer, and activist. As research fellow with <a href="https://guardianproject.info">The Guardian Project</a>, she primarily investigates topics in digital media steganography, metadata, and the standards surrounding technology in the social sciences. She harnesses her multi-faceted background in service of responding to the growing technological needs of human rights workers, journalists, and other do-gooders around the world. Follow her <a href="http://www.twitter.com/harlo">@harlo</a> or at <a href="http://harloholm.es">harloholm.es</a></p></p>
+
+<p><p><img src="/media/img/fellows/2014-fellows/brian-220.png" class="meet meet14" alt="">
+<h3 id="brian">Brian Jacobs | ProPublica</h3></p>
+
+<p><p>Brian Jacobs is a designer and interactive developer. He&rsquo;s passionate about multi-faceted visual tools that are civic-minded, scientific, journalistic, or otherwise educational, to benefit the people and their habitat. He&rsquo;s worked in commercial and academic contexts, on GIS projects in West Virginia, web apps in Philadelphia, and towards an urban data processing and visualization platform for the MIT SENSEable City Lab, in Singapore. He&rsquo;s excited about the future of open data, particularly collaborative and semantic web initiatives that can afford reproducible access to cleaner, more interdisciplinary data. Brian is also intensely interested in bagels, hikes, and sci-fi camp. Follow him <a href="http://www.twitter.com/btjakes">@btjakes</a>.</p></p>
+
+<p><p><img src="/media/img/fellows/2014-fellows/aurelia-220.png" class="meet meet14" alt="">
+<h3 id="aurelia">Aurelia Moser | Ushahidi / Internews Kenya</h3></p>
+
+<p><p>Aurelia Moser is a data munger and code monkey based in New York City. With a background in library metadata and lab work, she builds visualizations and narratives around data, supported dually by passions for data preservation and open information. Equal part experimenter and educator, she organizes NYC Nodebots meetups and coordinates curricula for Girl Develop It, a non-profit teaching women how to code in low-cost classes. For fun, she runs a radio show based on the semantic web, and digs studying, silent discos, and shoegaze. Follow her <a href="http://www.twitter.com/auremoser">@auremoser</a> or at <a href="http://www.algorhyth.ms">algorhyth.ms</a>.</p>
+
+<p><p><img src="/media/img/fellows/2014-fellows/gabriela-220.png" class="meet meet14" alt="">
+<h3 id="gabriela">Gabriela Rodriguez | La Nacion</h3></p>
+
+<p><p>Gabriela Rodriguez is an activist and hacker who loves the intersection between media and technology. She grew up in Uruguay and now lives in Portland, OR (USA). She is a software developer with passion for free software and open knowledge. She co-founded the Uruguayan nonprofit DATA that works with open data and transparency in South America. Follow her <a href="http://www.twitter.com/gaba">@gaba</a>.</p>
+
+<p><p><img src="/media/img/fellows/2014-fellows/marcos-220.png" class="meet meet14" alt="">
+<h3 id="marcos">Marcos Vanetta | Texas Tribune</h3></p>
+
+<p><p>Marcos Vanetta is a biomedical engineer truly passionate about software and technology. He is an experienced web developer and an open source enthusiast. Marcos is an active member of the Hacks/Hackers community in Buenos Aires and the lead developer of Mapa76 (aka Analice.me). You can find him in a rock &amp; roll concert or at your closest hackathon. Follow him <a href="http://www.twitter.com/malev">@malev</a> or at <a href="http://malev.com.ar">malev.com.ar</a>.</p>
+
+</div>
+          </div>
+             <aside class="challengebox fellowsbox box">
+            <div id="involved">
+             <h3>Get Involved</h3>
+            <p>The success of OpenNews depends on people like you! Join in:</p>
+            <ul>
+            	<li><a href="/source.html">Help with Source</a></li>
+                <li><a href="/hackdays.html">Hold a Journalism Hack Day</a></li>
+                <li><a href="/getinvolved.html">Join our Community</a></li>
+            </ul>
+            </div>
+<div id="minifellows">
+                <h3>Meet the 2014 <br>Knight-Mozilla Fellows </h3> 
+                <ul>
+                <li><img src="/media/img/fellows/2014-fellows/harlo-47.png" alt="Harlo Holmes"></li>
+<li><img src="/media/img/fellows/2014-fellows/brian-47.png" alt="Brian Jacobs"></li>
+<li><img src="/media/img/fellows/2014-fellows/aurelia-47.png" alt="Aurelia Moser"></li>
+<li><img src="/media/img/fellows/2014-fellows/gabriela-47.png" alt="Gabriela Rodriguez"></li>
+<li><img src="/media/img/fellows/2014-fellows/marcos-47.png" alt="Marcos Vanetta"></li>
+                </ul>
+                <p>Our 2014 Knight-Mozilla Fellows will hack the news at the New York Times, ProPublica, the Texas Tribune, La Nacion, Ushahidi and Internews Kenya. <a href="/fellowships/2014meet.html">Learn more about their experience.</a></p>
+</div>
+
+<div id="newsbox">
+<h3>The latest from the OpenNews team</h3>
+<p>Read all our news in our <a class="feed_url" href="http://planet.mozillaopennews.org/rss20.xml">OpenNews feed</a></p>
+</div>
+<div id="sourcebox">
+<h3>The latest from Source</h3>
+<p>Read more at <a href="http://source.mozillaopennews.org">Source</a> or subscribe to the <a class="feed_url" href="http://source.opennews.org/en-US/rss/">Source feed</a></p>
+</div>
+            </aside>
+        </article>
+        </div>
+    </div>
+    <aside>
+        <section class="partners">
+           <div class="busta">
+            <h2>Our partner</h2>
+            <ul>
+                <li><a href="http://www.knightfoundation.org/"><img alt="Knight Foundation" src="/media/img/partners/knight.png" height="50" width="300" /></a></li>
+                </ul>
+            </div>
+        </section>
+        <section class="external">
+            <div class="busta">
+            <div class="col box opennews">
+                <h2>Connect with OpenNews</h2>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                <ul>
+                <li>Get the latest by <a href="http://planet.mozillaopennews.org/rss20.xml">subscribing to our news feed</a></li>        
+                <li>Connect on Twitter <a href="http://twitter.com/opennews" class="twitter-follow-button" data-show-count="false">@opennews</a></li>
+                
+                <li>Check our our <a href="https://wiki.mozilla.org/OpenNews">Wiki</a></li>
+               <li>Join our <a href="https://lists.mozilla.org/listinfo/community-mojo">mailing list</a></li>
+                <li><a href="mailto:opennews@mozillafoundation.org">Contact us</a></li>
+                </ul>
+            </div>
+            <div class="col box knight">
+                <h2>About Knight</h2>
+ <p>Knight Foundation supports transformational ideas that promote quality
+journalism, advance media innovation, engage communities and foster the
+arts. The foundation believes that democracy thrives when people and communities are
+informed and engaged.
+<p>For more, visit <a href="http://www.knightfoundation.org" target="_blank">knightfoundation.org</a> </p>            </div>
+            <div class="col box mozilla">
+                <h2>About Mozilla</h2>
+                <p>Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good&mdash;by creating great software and fostering communities that build and grow the open web.
+<p><a href="https://sendto.mozilla.org/page/s/sign-up-for-mozilla">Sign up to hear more</a>, and, if you're willing, please<a href="https://sendto.mozilla.org/page/contribute/join-mozilla"> join Mozilla.</a>
+            </div>
+            </div>
+
+        </section>
+    </aside>
+</body>
+</html>
+
+

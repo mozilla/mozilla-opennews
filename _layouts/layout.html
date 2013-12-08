@@ -13,6 +13,7 @@
     <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
 <link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
     <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
+    <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <!--[if lt IE 9]>
         <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -65,6 +66,7 @@
     }
     google.setOnLoadCallback(initialize);
 </script>
+<script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
 </head>
 <body class="{{ page.section }} {{ page.sub-section }}">
 <script type="text/javascript">
@@ -72,13 +74,13 @@
     </script>
     <header class="masthead">
         <div class="busta">
+            <a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>
             <h1 id="brand">
                 <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" /></a>
             </h1>
             <div id="nav">
                  {% include navigation.html %}
 			</div>
-            <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
         </div>
     </header>
      <div id="newsline">

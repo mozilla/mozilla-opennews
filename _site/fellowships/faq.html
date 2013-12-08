@@ -13,6 +13,7 @@
     <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
 <link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
     <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
+    <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <!--[if lt IE 9]>
         <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -65,6 +66,7 @@
     }
     google.setOnLoadCallback(initialize);
 </script>
+<script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
 </head>
 <body class="fellowships fellows_faq">
 <script type="text/javascript">
@@ -72,21 +74,20 @@
     </script>
     <header class="masthead">
         <div class="busta">
+            <a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>
             <h1 id="brand">
                 <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" /></a>
             </h1>
             <div id="nav">
                  <ul>
 <li id="fellowships"><a href="/fellowships">fellowships</a></li>
-<li id="codesprints"><a href="/codesprints.html">code sprints</a></li> 
 <li id="hackdays"><a href="/hackdays.html">hack days</a></li>
-<li id="learning"><a href="/learning.html">learning</a>
+<li id="code"><a href="/code.html">code</a></li> 
 <li id="source"><a href="/source.html">source</a>
 <li id="getinvolved"><a href="/getinvolved.html">get involved</a></li>
 </ul>
 
 			</div>
-            <a href="http://www.mozilla.org" class="tab">mozilla.org</a>
         </div>
     </header>
      <div id="newsline">
@@ -102,7 +103,7 @@
 <div id="fellowside">
 <ul>
 <li><a href="/fellowships" id="fellow_home">the fellowships</a></li>
-<li><a href="apply.html" id="apply">fellowship application</a></li>
+<li><a href="2014meet.html" id="2014_meet">meet the 2014 fellows</a></li>
 <li><a href="community.html" id="community">the fellowship community</a></li>
 <li><a href="info.html" id="fellow_benefits">fellowship benefits</a></li>
 <li><a href="faq.html" id="faq">faq</a></li>
@@ -110,6 +111,10 @@
 </div>
 
 <h2>FAQ&colon; the Knight-Mozilla Fellowships</h2>
+<p><strong> Is it too late to apply to become a 2014 Knight-Mozilla Fellow? </strong></p>
+
+<p>Yes it is. Our application window closed at 12:01am August 18, 2013. We are no longer accepting applications to become a 2014 Knight-Mozilla Fellow, and will be announcing our new fellows at the <a href="http://www.mozillafestival.org">2013 Mozilla Festival</a> in London, October 25-27. Applications for 2015 will open in mid-2014.</p>
+
 <p><strong> What is a &ldquo;fellow&rdquo; anyway? </strong></p>
 
 <p>When we say &ldquo;fellow&rdquo; we don&rsquo;t mean &ldquo;man.&rdquo; A fellow is someone who &ldquo;shares a particular activity, quality, or condition with someone.&rdquo; Fellowship programs bring together a diverse collection of people with shared skills and experiences to spend time and collaborate together.</p>
@@ -120,13 +125,13 @@
 
 <p><strong> I only know [insert programming language here] or only have [back end/front end/design/mapping/data] development experience, should I still apply?</strong></p>
 
-<p>Absolutely! There is no requirement for a particular programming language or development skillset. A lot of news app development happens in front end, especially mapping and visualization, and people with those skills are highly sought after. Statistics, data, and even hard math skills are also great. If you have built something with code and you&rsquo;re curious about the Fellowship, <a href="/fellowships/apply.html">apply</a>.</p>
+<p>Absolutely! There is no requirement for a particular programming language or development skillset. A lot of news app development happens in front end, especially mapping and visualization, and people with those skills are highly sought after. Statistics, data, and even hard math skills are also great.</p>
 
 <p><strong> What type of applicants are you looking for? </strong></p>
 
-<p>If you have a knack for coding and an interest in contributing your skills to journalistic projects, <a href="/fellowships/apply.html">you should apply</a>. There is no &ldquo;typical&rdquo; Fellow. Most of our Fellows did not major in Computer Science. Many of our Fellows never visited a newsroom before their Fellowship.</p>
+<p>If you have a knack for coding and an interest in contributing your skills to journalistic projects, you are the type of person we are looking for. There is no &ldquo;typical&rdquo; Fellow. Most of our Fellows did not major in Computer Science. Many of our Fellows never visited a newsroom before their Fellowship.</p>
 
-<p>We are an inclusive program and seek Fellows that reflect the diversity of the communities we serve. Women and other under-represented participants in technology are strongly encouraged to <a href="/fellowships/apply.html">apply for a Knight-Mozilla Fellowship</a>.</p>
+<p>We are an inclusive program and seek Fellows that reflect the diversity of the communities we serve. Women and other under-represented participants in technology are strongly encouraged to apply for a Knight-Mozilla Fellowship.</p>
 
 <p><strong> I don&rsquo;t speak English very well or live in the U.S. Can I still participate?</strong></p>
 
@@ -149,9 +154,10 @@
 
 <p>We make every attempt to match skills of Fellows with needs of news organizations when matching Fellow to organization.</p>
 
-<p><strong> What do I need to do to apply? </strong></p>
+<!-- ** What do I need to do to apply? **
 
-<p>The application is designed to be quick: Just a quick five question application, plus some links to stuff you&rsquo;ve made. There are no recommendations to hunt down and no trick questions. <a href="/fellowships/apply.html">Apply now.</a></p>
+The application is designed to be quick: Just a quick five question application, plus some links to stuff you've made. There are no recommendations to hunt down and no trick questions. <a href="/fellowships/apply.html">Apply now.</a> -->
+
 
 <p><strong> What are you looking for with the example projects on the application? </strong></p>
 
@@ -163,7 +169,7 @@
 
 <p><strong> What is the timeline after the Fellowship deadline closes?</strong></p>
 
-<p>The <a href="/fellowships/apply.html">Fellowship application</a> opened on June 17 and closes August 17, 2013. After August 17, all applications will be reviewed by a small reviewing panel. By early September, a final batch of 20-30 semifinalists will be selected and interviews conducted. Finalists will be notified by early October and a public announcement of our 2014 fellows will be made at the Mozilla Festival in London October 25, 2013.</p>
+<p>The Fellowship application opened on June 17 and closes August 17, 2013. After August 17, all applications will be reviewed by a small reviewing panel. By early September, a final batch of 20-30 semifinalists will be selected and interviews conducted. Finalists will be notified by early October and a public announcement of our 2014 fellows will be made at the Mozilla Festival in London October 25, 2013.</p>
 
 <p><strong> What kind of competition are you expecting with the Fellowship?</strong></p>
 
@@ -198,9 +204,10 @@
 
 <p>That is dictated by the news organization and the Fellow. Fellows work on a range of projects including data, mapping, research, and analysis of impact. If you already have ideas of things that interest you, whether it be news games or civic data crunching, that&rsquo;s great. We&rsquo;re looking for talented people who want to experiment with technology in journalism. In collaboration with OpenNews, the other Fellows, and the news partner, Fellows get a lot of room to figure out what those experiments will be.</p>
 
-<p><strong> I&rsquo;m still on the fence about applying.</strong></p>
+<!-- ** I'm still on the fence about applying.**
 
-<p>You should apply. As <a href="https://twitter.com/jmm">Miranda Mulligan</a> said during a <a href="https://etherpad.mozilla.org/opennews-calls-June26">Q&amp;A</a> about the Fellowship: &ldquo;Applying is not making a decision to do [the fellowship] and getting an offer does not mean you have to take an offer!&rdquo; If you have experience with code and an interest in journalism and you&rsquo;re curious about applying, do so. As current Fellow <a href="https://twitter.com/veltman">Noah Veltman</a> pointed out, many people who are now Fellows thought their application was a long shot. <a href="/fellowships/apply.html">Apply today</a>.</p>
+You should apply. As <a href="https://twitter.com/jmm">Miranda Mulligan</a> said during a <a href="https://etherpad.mozilla.org/opennews-calls-June26">Q&A</a> about the Fellowship: "Applying is not making a decision to do [the fellowship] and getting an offer does not mean you have to take an offer!" If you have experience with code and an interest in journalism and you're curious about applying, do so. As current Fellow <a href="https://twitter.com/veltman">Noah Veltman</a> pointed out, many people who are now Fellows thought their application was a long shot. <a href="/fellowships/apply.html">Apply today</a>. -->
+
 
 <p><strong> Are you still accepting applications for host newsrooms?</strong></p>
 
@@ -227,24 +234,21 @@
              <h3>Get Involved</h3>
             <p>The success of OpenNews depends on people like you! Join in:</p>
             <ul>
-            	<li><a href="/fellowships">Become a 2014 Fellow</a></li>
+            	<li><a href="/source.html">Help with Source</a></li>
                 <li><a href="/hackdays.html">Hold a Journalism Hack Day</a></li>
                 <li><a href="/getinvolved.html">Join our Community</a></li>
             </ul>
             </div>
 <div id="minifellows">
-                <h3>Meet the 2013 <br>Knight-Mozilla Fellows </h3> 
+                <h3>Meet the 2014 <br>Knight-Mozilla Fellows </h3> 
                 <ul>
-                <li><img src="/media/img/fellows/brian_small.jpg" alt="Brian Abelson"></li>
-                <li><img src="/media/img/fellows/manuel_small.jpg" alt="Manuel Aristarán"></li>
-                <li><img src="/media/img/fellows/annabel_small.jpg" alt="Annabel Church"></li>
-                <li><img src="/media/img/fellows/stijn_small.jpg" alt="Stijn Debrouwere"></li>
-                <li><img src="/media/img/fellows/friedrich_small.jpg" alt="Friedrich Lindenberg"></li>
-                <li><img src="/media/img/fellows/sonya_small.jpg" alt="Sonya Song"></li>
-                <li><img src="/media/img/fellows/mike_small.jpg" alt="Mike Tigas"></li>
-                <li><img src="/media/img/fellows/noah_small.jpg" alt="Noah Veltman"></li>
+                <li><img src="/media/img/fellows/2014-fellows/harlo-47.png" alt="Harlo Holmes"></li>
+<li><img src="/media/img/fellows/2014-fellows/brian-47.png" alt="Brian Jacobs"></li>
+<li><img src="/media/img/fellows/2014-fellows/aurelia-47.png" alt="Aurelia Moser"></li>
+<li><img src="/media/img/fellows/2014-fellows/gabriela-47.png" alt="Gabriela Rodriguez"></li>
+<li><img src="/media/img/fellows/2014-fellows/marcos-47.png" alt="Marcos Vanetta"></li>
                 </ul>
-                <p>Our 2013 Knight-Mozilla Fellows are hacking the news at the New York Times, the BBC, the Guardian, Zeit Online, Spiegel Online, the Boston Globe, ProPublica, and La Nacion. <a href="/fellowships/2013meet.html">Learn more about their experience.</a></p>
+                <p>Our 2014 Knight-Mozilla Fellows will hack the news at the New York Times, ProPublica, the Texas Tribune, La Nacion, Ushahidi and Internews Kenya. <a href="/fellowships/2014meet.html">Learn more about their experience.</a></p>
 </div>
 
 <div id="newsbox">
@@ -253,7 +257,7 @@
 </div>
 <div id="sourcebox">
 <h3>The latest from Source</h3>
-<p>Read more at <a href="http://source.mozillaopennews.org">Source</a> or subscribe to the <a class="feed_url" href="http://source.mozillaopennews.org/en-US/rss/">Source feed</a></p>
+<p>Read more at <a href="http://source.mozillaopennews.org">Source</a> or subscribe to the <a class="feed_url" href="http://source.opennews.org/en-US/rss/">Source feed</a></p>
 </div>
             </aside>
         </article>
@@ -274,7 +278,7 @@
                 <h2>Connect with OpenNews</h2>
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                 <ul>
-                <li>Get the latest by <a href="http://planet.mozillaopennews.org/">subscribing to our news feed</a></li>        
+                <li>Get the latest by <a href="http://planet.mozillaopennews.org/rss20.xml">subscribing to our news feed</a></li>        
                 <li>Connect on Twitter <a href="http://twitter.com/opennews" class="twitter-follow-button" data-show-count="false">@opennews</a></li>
                 
                 <li>Check our our <a href="https://wiki.mozilla.org/OpenNews">Wiki</a></li>
@@ -292,7 +296,7 @@ informed and engaged.
             <div class="col box mozilla">
                 <h2>About Mozilla</h2>
                 <p>Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good&mdash;by creating great software and fostering communities that build and grow the open web.
-<p><a href="http://donate.mozilla.org/email">Sign up to hear more</a>, and, if you're willing, please<a href="http://donate.mozilla.org/join"> join Mozilla.</a>
+<p><a href="https://sendto.mozilla.org/page/s/sign-up-for-mozilla">Sign up to hear more</a>, and, if you're willing, please<a href="https://sendto.mozilla.org/page/contribute/join-mozilla"> join Mozilla.</a>
             </div>
             </div>
 
