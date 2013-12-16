@@ -40,7 +40,7 @@ We're also working on some <a href="https://github.com/erikao/journohackdays">do
 
 If you're looking to get more involved in the journalism code community, participating in a hack day is one of the best ways to get connected. At hack days, you learn from people who, like you, have a ton of amazing skills, meet new collaborators, and get to spend time working on interesting problems. 
 
-Keep an eye on the schedule above for OpenNews-sponsored hack days, and keep up with Source for a <a href="http://source.mozillaopennews.org/en-US/articles/tags/events/">weekly listing</a> of hack days and other community events. <a href="mailto:opennews@mozillafoundation.org">Get in touch</a> if you know of an event that isn't listed or if you want to tell us about an event you attended.
+Keep an eye on the schedule above for OpenNews-sponsored hack days, and keep up with Source for a <a href="http://source.opennews.org/en-US/articles/tags/events/">weekly listing</a> of hack days and other community events. <a href="mailto:opennews@mozillafoundation.org">Get in touch</a> if you know of an event that isn't listed or if you want to tell us about an event you attended.
 
 <script type="text/javascript" src="media/js/tabletop.js"></script>
 
