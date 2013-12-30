@@ -553,7 +553,7 @@ display: none;
 float: right;
 margin-right: 20px;
 margin-left: 10px;
-height: 600px;
+height: 670px;
 }
 
 #partnerbox h4 {
@@ -582,51 +582,59 @@ margin-bottom: 40px;
 
 
 .logo-nyt {
-background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px 0px transparent;
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px 0px transparent;
 }
 
 .logo-nyt:hover {
-background: url("/media/img/partner_strip.png") no-repeat scroll 0px 0px transparent;
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px 0px transparent;
 }
 
 .logo-propublica {
-background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -70px transparent;
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -70px transparent;
 }
 
 .logo-propublica:hover {
-background: url("/media/img/partner_strip.png") no-repeat scroll 0px -70px transparent;
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -70px transparent;
 }
 
 .logo-texas {
-background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -142px transparent;
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -142px transparent;
 }
 
 .logo-texas:hover {
-background: url("/media/img/partner_strip.png") no-repeat scroll 0px -142px transparent;
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -142px transparent;
 }
 
 .logo-nacion {
-background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -223px transparent;
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -223px transparent;
 }
 
 .logo-nacion:hover {
-background: url("/media/img/partner_strip.png") no-repeat scroll 0px -223px transparent;
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -223px transparent;
 }
 
 .logo-ushahidi {
-background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -295px transparent;
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -295px transparent;
 }
 
 .logo-ushahidi:hover {
-background: url("/media/img/partner_strip.png") no-repeat scroll 0px -295px transparent;
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -295px transparent;
 }
 
 .logo-internews {
-background: url("/media/img/partner_strip_gray.png") no-repeat scroll 0px -360px transparent;
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -360px transparent;
 }
 
 .logo-internews:hover {
-background: url("/media/img/partner_strip.png") no-repeat scroll 0px -360px transparent;
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -360px transparent;
+}
+
+.logo-wp {
+background: url("/media/img/partner_strip_gray-2014.png") no-repeat scroll 0px -415px transparent;
+}
+
+.logo-wp:hover {
+background: url("/media/img/partner_strip-2014.png") no-repeat scroll 0px -415px transparent;
 }
 
 

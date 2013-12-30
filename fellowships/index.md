@@ -20,6 +20,7 @@ sub-section: fellows_home
 <div id="partnerbox">
 <h4>Our 2014 Partners</h4>
 <a href="http://www.nytimes.com/" class="logo-nyt">New York Times</a>
+<a href="http://www.washingtonpost.com/" class="logo-wp">Washington Post</a>
 <a href="http://www.propublica.org/" class="logo-propublica">Propublica</a>
 <a href="http://www.texastribune.org/" class="logo-texas">Texas Tribune</a>
 <a href="http://www.lanacion.com.ar/" class="logo-nacion">La Nacion</a>
