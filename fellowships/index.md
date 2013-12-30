@@ -6,9 +6,9 @@ sub-section: fellows_home
 ---
 
 <div id="picwrap">
+<img src="/media/img/fellows/2014-fellows/ben-220.png" class="frontpic" alt="Ben Chartoff">
 <img src="/media/img/fellows/2014-fellows/harlo-220.png" class="frontpic" alt="Harlo Holmes">
 <img src="/media/img/fellows/2014-fellows/brian-220.png" class="frontpic" alt="Brian Jacobs">
-<img src="/media/img/fellows/2014-fellows/logo-220.png" class="frontpic noborder" alt="OpenNews">
 <img src="/media/img/fellows/2014-fellows/aurelia-220.png" class="frontpic" alt="Aurelia Moser">
 <img src="/media/img/fellows/2014-fellows/gabriela-220.png" class="frontpic" alt="Gabriela Rodriguez">
 <img src="/media/img/fellows/2014-fellows/marcos-220.png" class="frontpic" alt="Marcos Vanetta">
