@@ -28,7 +28,7 @@ sub-section: fellows_home
 <a href="http://www.internewskenya.org/dataportal/" class="logo-internews">Internews Kenya</a>
 </div>
 ###The 2014 Fellowships
-Six news organizations around the world will be hosting our five Knight-Mozilla Fellows in 2014. After a global search with over 270 applications, you can <a href="2014meet.html">meet our 2014 Knight-Mozilla Fellows now.</a>
+Seven news organizations around the world will be hosting our six Knight-Mozilla Fellows in 2014. After a global search with over 270 applications, you can <a href="2014meet.html">meet our 2014 Knight-Mozilla Fellows now.</a>
 
 ###Embedded in the Newsroom
 Knight-Mozilla Fellows experience the day-to-day energy of some of the best newsrooms in the world: being present as news breaks, writing code for the day’s headlines, wrangling thorny datasets, and taking a step back to solve real-world journalistic problems. Our Fellows' work is rooted in developing projects that help us better understand our world. 
