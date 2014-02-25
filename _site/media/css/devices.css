@@ -820,3 +820,7 @@ ul.fellowcode {
 	font-size: 1em;
 	margin-left: 25px;
 }
+
+.snapdrawers, .hidden {
+	display: none;
+}
