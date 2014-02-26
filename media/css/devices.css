@@ -827,7 +827,7 @@ ul.fellowcode {
 }
 
 .hamburger {
-		font-size: 1.2em;
+		font-size: 1em;
 		display: inline;
 		float: left;
 		margin-top: 10px;
@@ -895,5 +895,9 @@ ul.fellowcode {
 	
 	.challengebox {
 		display: none;
+	}
+	
+	h1#brand {
+		margin-bottom: 0px;
 	}
 }
