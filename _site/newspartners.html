@@ -1,0 +1,208 @@
+<!DOCTYPE HTML>
+
+<html class="no-js">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>OpenNews News Partnerships | Knight-Mozilla OpenNews</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom 0.3"  href="http://planet.mozillaopennews.org/atom.xml" />
+     <meta name="Description" content="Knight-Mozilla OpenNews is about creating a diverse ecosystem to help journalism thrive on the open web. It's about producing open source code that solves real problems in news. It's about supporting communities of developers and journalists as they make, learn, and invent together. And it's about deploying fellows&mdash;and code&mdash;into news organizations to collaborate in new ways..">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel="icon" href="/favicon.ico" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
+<link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
+    <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
+    <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <link rel="stylesheet" media="screen" href="media/css/desktop.css" />
+    <![endif]-->
+    <script type="text/javascript">
+        // new mozilla GA account
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-35433268-15']);
+        _gaq.push(['_setDomainName', 'opennews.org']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript">
+    google.load("feeds", "1");
+    function initialize() {
+        var feed_urls = $("a.feed_url");
+        $.each(feed_urls, function() {
+            var current = $(this),
+                feed = new google.feeds.Feed(current.attr('href'));
+            feed.setNumEntries(4);
+            feed.load(function(result) {
+                if (!result.error) {
+                    var feed_list = "<ul>";
+                    for (var i = 0; i < result.feed.entries.length; i++) {
+                        var entry = result.feed.entries[i],
+                            url = entry.link;
+                        feed_list += "<li><a href='" + url + "'>";
+                        if (url.indexOf('source') !== -1) {
+                            feed_list += entry.title + "</a>";
+                        } else {
+                            var chunks = entry.title.split(':'),
+                            name = chunks.shift();
+                            feed_list += chunks.toString() + "</a> by " + name.toString();
+                        }
+                        feed_list += "</li>";
+                    }
+                    feed_list += "</ul>";
+                    current.parent().before($(feed_list));
+                }
+            });
+        });
+    }
+    google.setOnLoadCallback(initialize);
+</script>
+<script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
+</head>
+<body class="partnerships ">
+<script type="text/javascript">
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
+    </script>
+    <header class="masthead">
+        <div class="busta">
+            <a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>
+            <h1 id="brand">
+                <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" /></a>
+            </h1>
+            <div id="nav">
+                 <ul>
+<li id="fellowships"><a href="/fellowships">fellowships</a></li>
+<li id="hackdays"><a href="/hackdays.html">hack days</a></li>
+<li id="code"><a href="/code.html">code</a></li> 
+<li id="source"><a href="/source.html">source</a>
+<li id="newspartners"><a href="/newspartners.html">news partners</a></li>
+<li id="getinvolved"><a href="/getinvolved.html">get involved</a></li>
+</ul>
+
+			</div>
+        </div>
+    </header>
+     <div id="newsline">
+     </div>
+    <div role="main" class="home" id="home">
+               
+
+        <div class="busta">
+
+        <article>
+            <div class="main_col">
+            <h2>OpenNews News Partnerships</h2>
+<div class="article_body">
+<p class="bodybig">At OpenNews, we believe in building <i>with</i> our community, not simply <i>for</i> it. To do that, we establish partnerships with news organizations around the world to help shape, guide, and implement our programs. As the hosts of our flagship Knight-Mozilla Fellowship program, as contributors to Source, as participants in Code Convenings, as organizers of hack days, our news partners are a crucial part of OpenNews. 
+<br>
+<br>
+Here's how you can get involved:</p>
+
+
+<h3>Guiding new leaders</h3>
+
+<p>Our <a href="/fellowships">Knight-Mozilla Fellowship</a> program brings talented developers into newsrooms to research, experiment, and try new things. Our fellows have been hosted by news organizations around the world that welcome inquisitive outsiders and act as leaders in the journalism code community.Whether large or small, there are a few principles we look for in fellowship partners. If your newsroom is interested in hosting a fellow, please look over our <a href="/partnerguidelines.html">fellowship partner guidelines</a>.</p>
+
+<h3>Sharing knowledge</h3>
+
+<p>From visualization libraries to data extractors and presentation templates, newsrooms are creating some of the most exciting code on the internet right now. We highlight that work on <a href="http://source.opennews.org">Source</a>, our website dedicated to the code in journalism and the people who write it. On Source, news organizations share the code, process, and thinking behind news applications and interactives. The resources on the site are a direct result of the generosity and efforts of the developers, designers, and newsrooms who are willing to show their work. Join them by <a href="https://source.opennews.org/en-US/contribute/">sharing your contributions</a> today.</p>
+
+<h3>Building together</h3>
+
+<p>In 2014 OpenNews will host two <a href="/code.html">Code Convenings</a>, new events that bring together some of the best newsroom developers in the world with leading independent talents to work together to on a particular topic. Code convening teams will open-source newsroom code and build new applications and libraries to address journalistic problems. Want to take part? <a href="mailto:opennews@mozillafoundation.org?Subject=code%20convenings">Let us know you&rsquo;re interested</a> and we&rsquo;ll keep you posted on these events as they develop.</p>
+
+<h3>Creating community</h3>
+
+<p>We partner with news organizations and others around the world to foster journalism-code collaboration by hosting and organizing <a href="/hackdays.html">news-themed hack days</a>. If you&rsquo;d like us to help with your hack day, <a href="https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day">tell us about</a> your proposed event. Starting in 2014, we will also begin organizing training events, particularly with smaller news organizations. If you think we may be able to help suport the journalism-code community in your news organization or town, <a href="mailto:opennews@mozillafoundation.org?Subject=training%20events">drop us a line</a>.</p>
+
+<p>We also directly support the creation and build-out of newsroom technology teams through <a href="http://source.opennews.org/jobs">Source Jobs</a>, a listings service that allows newsrooms to post and edit news apps and data journalism jobs, as well as administering their overall presence on Source. <a href="https://source.opennews.org/en-US/jobs/#about-jobs">Get started</a> by designating a jobs contact for your organization.</p>
+
+</div>
+          </div>
+             <aside class="challengebox fellowsbox box">
+            <div id="involved">
+             <h3>Get Involved</h3>
+            <p>The success of OpenNews depends on people like you! Join in:</p>
+            <ul>
+            	<li><a href="/source.html">Help with Source</a></li>
+                <li><a href="/hackdays.html">Hold a Journalism Hack Day</a></li>
+                <li><a href="/getinvolved.html">Join our Community</a></li>
+            </ul>
+            </div>
+<div id="minifellows">
+                <h3>Meet the 2014 <br>Knight-Mozilla Fellows </h3> 
+                <ul>
+<li><img src="/media/img/fellows/2014-fellows/ben-60.png" alt="Ben Chartoff"></li>
+<li><img src="/media/img/fellows/2014-fellows/harlo-60.png" alt="Harlo Holmes"></li>
+<li><img src="/media/img/fellows/2014-fellows/brian-60.png" alt="Brian Jacobs"></li>
+<li><img src="/media/img/fellows/2014-fellows/aurelia-60.png" alt="Aurelia Moser"></li>
+<li><img src="/media/img/fellows/2014-fellows/gabriela-60.png" alt="Gabriela Rodriguez"></li>
+<li><img src="/media/img/fellows/2014-fellows/marcos-60.png" alt="Marcos Vanetta"></li>
+                </ul>
+                <p>Our 2014 Knight-Mozilla Fellows will hack the news at the New York Times, ProPublica, the Texas Tribune, La Nacion, Ushahidi and Internews Kenya. <a href="/fellowships/2014meet.html">Learn more about their experience.</a></p>
+</div>
+
+<div id="newsbox">
+<h3>The latest from the OpenNews team</h3>
+<p>Read all our news in our <a class="feed_url" href="http://planet.mozillaopennews.org/rss20.xml">OpenNews feed</a></p>
+</div>
+<div id="sourcebox">
+<h3>The latest from Source</h3>
+<p>Read more at <a href="http://source.opennews.org">Source</a> or subscribe to the <a class="feed_url" href="http://source.opennews.org/en-US/rss/">Source feed</a></p>
+</div>
+            </aside>
+        </article>
+        </div>
+    </div>
+    <aside>
+        <section class="partners">
+           <div class="busta">
+            <h2>Our partner</h2>
+            <ul>
+                <li><a href="http://www.knightfoundation.org/"><img alt="Knight Foundation" src="/media/img/partners/knight.png" height="50" width="300" /></a></li>
+                </ul>
+            </div>
+        </section>
+        <section class="external">
+            <div class="busta">
+            <div class="col box opennews">
+                <h2>Connect with OpenNews</h2>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                <ul>
+                <li>Get the latest by <a href="http://planet.mozillaopennews.org/rss20.xml">subscribing to our news feed</a></li>        
+                <li>Connect on Twitter <a href="http://twitter.com/opennews" class="twitter-follow-button" data-show-count="false">@opennews</a></li>
+                
+                <li>Check our our <a href="https://wiki.mozilla.org/OpenNews">Wiki</a></li>
+               <li>Join our <a href="https://lists.mozilla.org/listinfo/community-mojo">mailing list</a></li>
+                <li><a href="mailto:opennews@mozillafoundation.org">Contact us</a></li>
+                </ul>
+            </div>
+            <div class="col box knight">
+                <h2>About Knight</h2>
+ <p>Knight Foundation supports transformational ideas that promote quality
+journalism, advance media innovation, engage communities and foster the
+arts. The foundation believes that democracy thrives when people and communities are
+informed and engaged.
+<p>For more, visit <a href="http://www.knightfoundation.org" target="_blank">knightfoundation.org</a> </p>            </div>
+            <div class="col box mozilla">
+                <h2>About Mozilla</h2>
+                <p>Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good&mdash;by creating great software and fostering communities that build and grow the open web.
+<p><a href="https://sendto.mozilla.org/page/s/sign-up-for-mozilla">Sign up to hear more</a>, and, if you're willing, please<a href="https://sendto.mozilla.org/page/contribute/join-mozilla"> join Mozilla.</a>
+            </div>
+            </div>
+
+        </section>
+    </aside>
+</body>
+</html>
+
+
