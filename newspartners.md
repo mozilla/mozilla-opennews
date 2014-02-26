@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post_notitle
 title: OpenNews News Partnerships
 section: partnerships
 ---
 
 <img src="/media/img/newspartner.png" class="topline">
 <p class="caption">From the Knight-Mozilla Fellowships to Source and our Hack Days, it always comes back to the newsroom. (photo/Erin McCann)</p>
-
+<h2>{{ page.title }}</h2>
 <p class="bodybig">At OpenNews, we believe in building <i>with</i> our community, not simply <i>for</i> it. To do that, we establish partnerships with news organizations around the world to help shape, guide, and implement our programs. As the hosts of our flagship Knight-Mozilla Fellowship program, as contributors to Source, as participants in Code Convenings, as organizers of hack days, our news partners are a crucial part of OpenNews. 
 <br>
 <br>
