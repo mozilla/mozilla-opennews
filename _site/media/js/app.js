@@ -1,4 +1,5 @@
 // snap.js nav pane
+
 var navPane = new Snap({
 	element: document.getElementById('snap-content-wrapper'),
 	disable: 'right',
