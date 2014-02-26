@@ -132,4 +132,12 @@ margin-right: 40px;
 	#nav {
 		display: none;
 	}
+	
+	#brand img {
+		width: 100%;
+	}
+	
+	img.frontpic {
+		width: 30%;
+	}
 }
