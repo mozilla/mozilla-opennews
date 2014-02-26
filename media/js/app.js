@@ -5,6 +5,7 @@ var navPane = new Snap({
 	disable: 'right',
 	slideIntent: 30,
 	minDragDistance: 20,
+	maxPosition: 150,
 	minPosition: -205
 });
 
@@ -18,6 +19,20 @@ $('.toggle-navigation').on('click', function() {
 	return false;
 });
 
+// only enable the snap.js nav pane if appropriate for browser width
+var applyNavPane = function() {
+	window.browserWidth = document.documentElement.clientWidth;
+
+	if (browserWidth <= 720) {
+		navPane.enable();
+		$('.snap-drawers').removeClass('hidden')
+	} else {
+		navPane.disable();
+		$('.snap-drawers').addClass('hidden')
+	}
+}
+// initial page load
+applyNavPane();
 
 // new mozilla GA account
     	var _gaq = _gaq || [];
