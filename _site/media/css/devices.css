@@ -865,7 +865,7 @@ ul.fellowcode {
 }
 
 	.hamburger {
-		font-size: 1em;
+		font-size: 1.1em;
 		display: inline;
 		float: left;
 		margin-top: 10px;
@@ -890,6 +890,6 @@ ul.fellowcode {
 
 @media screen and (max-width: 450px) {
 	img.frontpic {
-		width: 45%;
+		width: 30%;
 	}	
 }
