@@ -827,10 +827,28 @@ ul.fellowcode {
 }
 
 .hamburger {
-	float: left;
-	margin-top: 8px;
-	color: rgba(0, 0, 0, 0.540)
-}
+		font-size: 1.2em;
+		display: inline;
+		float: left;
+		margin-top: 10px;
+		margin-right: 10px;
+		padding-left: 20px;
+		position: relative;
+		color: rgba(0, 0, 0, 0.540)
+	}
+	
+.hamburger:before {
+	  content: "";
+	  position: absolute;
+	  left: 0;
+	  top: 3px;
+	  width: 1em;
+	  height: 0.15em;
+	  background:#8d8d8d;
+	  box-shadow: 
+		0 0.25em 0 0 #8d8d8d,
+		0 0.5em 0 0 #8d8d8d;
+	}
 
 .snap-drawers {
 	background-color: #eee;
