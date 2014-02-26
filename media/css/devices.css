@@ -2,193 +2,193 @@
 Default template CSS - if you change anything here then updating will be a bit more tricky than you might want
 */
 @font-face {
-    font-family: MetaWebPro-Black;
-    src: url(../fonts/MetaWebPro-Black.woff) format('woff');
+	font-family: MetaWebPro-Black;
+	src: url(../fonts/MetaWebPro-Black.woff) format('woff');
 }
 body {
-    font-family: Helvetica, Arial, sans-serif;
-    color: #515151 
+	font-family: Helvetica, Arial, sans-serif;
+	color: #515151 
 }
 a:link, 
 a:visited,
 a:focus,
 a:hover,
 a:active {
-    color: #ad3121;
-    text-decoration: none;
+	color: #ad3121;
+	text-decoration: none;
 }
 a:hover,
 a:focus,
 a:active {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 aside {
-    position: relative;
+	position: relative;
 }
 .box {
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;:52;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;:52;
 }
 .busta {
-    margin: 0 10px;
-    position: relative;
-    overflow: hidden;
+	margin: 0 10px;
+	position: relative;
+	overflow: hidden;
 }
 .columns {
-    overflow: hidden;
-    padding-left: 0;
-    margin-top: 0;
-    clear: both;
+	overflow: hidden;
+	padding-left: 0;
+	margin-top: 0;
+	clear: both;
 }
 .col {
-    list-style-type: none;
-    overflow: hidden;
+	list-style-type: none;
+	overflow: hidden;
 }
 /**= Sections */
 /* Masthead */
 .masthead {
-    background-color: white;
-    border-top: 2px solid #686868;
-    color: #fff;
+	background-color: white;
+	border-top: 2px solid #686868;
+	color: #fff;
 }
 .tab {
-    position: absolute;
-    top: 0;
-    right: 20px;
-    display: block;
-    text-indent: -9999em;
-    background: transparent url(../img/css/icons.png) no-repeat 0 0;
-    width: 118px;
-    height: 48px;
-    overflow: hidden;
+	position: absolute;
+	top: 0;
+	right: 20px;
+	display: block;
+	text-indent: -9999em;
+	background: transparent url(../img/css/icons.png) no-repeat 0 0;
+	width: 118px;
+	height: 48px;
+	overflow: hidden;
 }
 .masthead ul {
-    overflow: hidden;
-    margin: 0;
-    padding-left: 0;
+	overflow: hidden;
+	margin: 0;
+	padding-left: 0;
 }
 .masthead ul li {
-    float: left;
-     padding: 1em;
-    display: block;
-    font-size: 12px;
+	float: left;
+	 padding: 1em;
+	display: block;
+	font-size: 12px;
 }
 .masthead ul li:first-child {
-    border-left: none;
-    padding-left: 0;
+	border-left: none;
+	padding-left: 0;
 }
 .masthead ul a {
-    padding: 1em;
-    display: block;
-    font-size: 12px;
+	padding: 1em;
+	display: block;
+	font-size: 12px;
 }
 .masthead ul li:first-child a {
-    padding-left: 0;
+	padding-left: 0;
 }
 .masthead ul a:link,
 .masthead ul a:visited,
 .masthead ul a:focus,
 .masthead ul a:hover,
 .masthead ul a:active {
-    color: white;
+	color: white;
 }
 /* External links */
 .external {
-    background-color: #FFFFFF;
-    font-family: Georgia;
+	background-color: #FFFFFF;
+	font-family: Georgia;
 }
 .external h2 {
-    padding-top: 40px;
-    font-family: 'Open Sans', sans-serif;
-    background: transparent url(../img/css/icons.png) no-repeat top left;
-    color: #2e2e2d;
-    text-transform: uppercase;
-    font-size: 18px;
-    font-weight: 300;
+	padding-top: 40px;
+	font-family: 'Open Sans', sans-serif;
+	background: transparent url(../img/css/icons.png) no-repeat top left;
+	color: #2e2e2d;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 300;
 }
 .external .tweet h2 {
-    background-position: 0 -140px;
+	background-position: 0 -140px;
 }
 .external .mozilla h2 {
-    background-position: 0 -290px;
+	background-position: 0 -290px;
 }
 .external .learn h2 {
-    background-position: 0 -440px;
+	background-position: 0 -440px;
 }
 .external p {
-    font-size: 14px;
-    color: #454545;
+	font-size: 14px;
+	color: #454545;
 }
 .external ul {
-    padding-left: 0;
+	padding-left: 0;
 }
 .external li {
-    list-style-type: none;
-    border-top: 1px solid #D8DADC;
-    padding: 0.5em 0;
-    font-size: 14px;
+	list-style-type: none;
+	border-top: 1px solid #D8DADC;
+	padding: 0.5em 0;
+	font-size: 14px;
 }
 .external li:first-child {
-    border-top: none;
-    padding-top: 0;
+	border-top: none;
+	padding-top: 0;
 }
 /* Partners */
 .partners {
-    background-color: #ececec;
+	background-color: #ececec;
 }
 .partners h2 {
-    float: left;
-    margin: 1em 0 0; /* 1em = 18px; */
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
-    text-transform: uppercase;
-    font-size: 18px;
+	float: left;
+	margin: 1em 0 0; /* 1em = 18px; */
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+	font-size: 18px;
 }
 .partners ul {
-    float: left;
-    margin: 0;
-    padding-left: 0;
+	float: left;
+	margin: 0;
+	padding-left: 0;
 
 }
 .partners li {
-    float: left;
-    margin-right: 20px;
-    list-style-type: none;
+	float: left;
+	margin-right: 20px;
+	list-style-type: none;
 }
 /* Main content */
 div[role=main] {
-    background: #fff;
-    margin: 0 0 0.625em;
+	background: #fff;
+	margin: 0 0 0.625em;
 }
 
 /**= And now time for your styles */
 #brand img {
-    margin-top: 1em;
-    width: 80%;
-    height: auto;
+	margin-top: 1em;
+	width: 80%;
+	height: auto;
 }
 #ONlogo {
-    display: none;
+	display: none;
 }
 div[role="main"] a {
-    color: #ad3121;
+	color: #ad3121;
 }
 div[role="main"] h1,
 div[role="main"] h2 {
-    text-transform: capitalize;
-    color: #fc6e1f;
-    font-family: "Open Sans", Helvetica, Verdana, Arial, sans-serif;
-    font-weight: 400;
+	text-transform: capitalize;
+	color: #fc6e1f;
+	font-family: "Open Sans", Helvetica, Verdana, Arial, sans-serif;
+	font-weight: 400;
 }
 article p,
 article ul {
-    font-family: Georgia, "Times New Roman", Times, serif;
-    line-height: 1.6;
-    font-size: 18px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	line-height: 1.6;
+	font-size: 18px;
 }
 article header h2 {
-    font-size: 28px;
+	font-size: 28px;
 }
 article header p {
 	font-size: 23px;
@@ -196,72 +196,72 @@ article header p {
 }
 
 .fellowsbox h3 {
-    text-transform: uppercase;
-    margin-top: 0;
-    color: #676767;
-    font-size: 17px;
-    line-height: 1.1em;
-    font-family: "Open Sans", Helvetica, Verdana, Arial, sans-serif;
-    font-weight: 300;
+	text-transform: uppercase;
+	margin-top: 0;
+	color: #676767;
+	font-size: 17px;
+	line-height: 1.1em;
+	font-family: "Open Sans", Helvetica, Verdana, Arial, sans-serif;
+	font-weight: 300;
 }
 .fellowsbox ul {
-    margin-top: 0;
-    padding-left: 0;
-    list-style-type: none;
+	margin-top: 0;
+	padding-left: 0;
+	list-style-type: none;
 }
 .fellowsbox .vcard {
-    overflow: hidden;
-    margin-bottom: 1em;
+	overflow: hidden;
+	margin-bottom: 1em;
 }
 .fellowsbox .vcard p,
 .fellowsbox .vcard ul {
-    font-family: Arial;
-    font-size: 14px;
-    margin: 0 0 1em;
+	font-family: Arial;
+	font-size: 14px;
+	margin: 0 0 1em;
 }
 .fellowsbox .photo {
-    border: 1px solid black;
-    float: left;
-    margin-right:10px;
+	border: 1px solid black;
+	float: left;
+	margin-right:10px;
 }
 .fellowsbox p.fn {
-    font-family: Helvetica;
-    font-size: 16px;
-    font-weight: bold;
-    margin-bottom: 0;
+	font-family: Helvetica;
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 0;
 }
 .fellows_links {
-    overflow: hidden;
-    margin-top: 5px;
+	overflow: hidden;
+	margin-top: 5px;
 }
 .fellows_links li {
-    float: left;
+	float: left;
 }
 .fellows_links li:first-child {
-    margin-right: 5px;
+	margin-right: 5px;
 }
 .fellows_links li:first-child:after {
-    content: "/";
-    padding-left: 5px;
+	content: "/";
+	padding-left: 5px;
 }
 .external .opennews h2 {
-    background-position: 0 -440px;
+	background-position: 0 -440px;
 }
 .external .knight h2 {
-    background-position: 0 -590px;
+	background-position: 0 -590px;
 }
 .external p, .external ul {
 	line-height: 1.3em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 .external iframe {
-    display: inline-block;
-    vertical-align: middle;
-    margin: 0 0 0 10px;
-    border: none;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 0 10px;
+	border: none;
 }
 #involved, #minifellows, #newsbox, #sourcebox {
-    margin-bottom: 50px;
+	margin-bottom: 50px;
 }
 
 #involved ul, #involved p, #newsbox ul, #sourcebox ul {
@@ -290,34 +290,34 @@ div[role="main"] .opengraph a:hover {
 }
 
 #ONlogo {
-    padding-right: 130px;
-    margin-right: 50px;
-    float: right;
+	padding-right: 130px;
+	margin-right: 50px;
+	float: right;
 }
 div.article_body {
-    margin-bottom: 50px;
+	margin-bottom: 50px;
 }
 #newsline {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 18px;
-    text-align: center;
-    border: 1px solid rgb(198, 198, 198);
-    border-width: 1px 0;
-    text-transform: uppercase;
-    font-weight: 300;
-    margin: 10px 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	border: 1px solid rgb(198, 198, 198);
+	border-width: 1px 0;
+	text-transform: uppercase;
+	font-weight: 300;
+	margin: 10px 0;
 }
 
 #newsline a {
-    padding: 10px;
-    text-decoration: none;
-    color: rgb(103, 103, 103);
-    display: block;
+	padding: 10px;
+	text-decoration: none;
+	color: rgb(103, 103, 103);
+	display: block;
 }
 
 #newsline a:hover {
-    background-color: rgb(255, 91, 36);
-    color: #fff;
+	background-color: rgb(255, 91, 36);
+	color: #fff;
 }
 div.article_body {
 margin-bottom: 50px;
@@ -327,8 +327,8 @@ margin-bottom: 50px;
 display: inline;
 }
 #minifellows a {
-    margin-top: 1em;
-    display: block;
+	margin-top: 1em;
+	display: block;
 }
 
 #minifellows ul li img {
@@ -387,7 +387,8 @@ margin-bottom: 50px;
 }
 
 #nav {
-	font-family: Helvetica, Verdana, Arial, sans-serif
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	display: none;
 }
 #nav ul {
 	padding: 0px;
@@ -415,7 +416,7 @@ margin-bottom: 50px;
 
 }
 #nav li:first-child a {
-    padding-left: 0;
+	padding-left: 0;
 }
  #nav li:last-child {
 
@@ -447,7 +448,7 @@ display: inline;
 .news #news a,
 .codesprints #codesprints a,
 .source #source a  {
-    color: #3e3e3e;
+	color: #3e3e3e;
 }
  #nav li a.active, #fellowside li a.active {
  cursor:default;
@@ -529,7 +530,7 @@ text-decoration: none;
 .community #community,
 .fellows_faq #faq,
 .fellows_info #fellow_benefits {
-    color: #3E3E3E;
+	color: #3E3E3E;
 }
 
 iframe {
@@ -538,7 +539,7 @@ border: 1px solid black;
 }
 
 article iframe {
-    width: 98%;
+	width: 98%;
 }
 
 #videobox iframe {
@@ -563,12 +564,12 @@ font-weight: normal;
 }
 
 #partnerbox a {
-    display: block;
-    width: 220px;
-    height: 70px;
-    margin-bottom: 20px;
-    text-indent: -9999em;
-    overflow: hidden;
+	display: block;
+	width: 220px;
+	height: 70px;
+	margin-bottom: 20px;
+	text-indent: -9999em;
+	overflow: hidden;
 }
 
 .caption {
@@ -665,86 +666,86 @@ border-right: 0;
 }
 /* application form */
 #signup {
-    /* 
-    to cover up the empty <p></p> that markdown seems insistent to include above the form 
-    */ 
-    margin-top: 0;
+	/* 
+	to cover up the empty <p></p> that markdown seems insistent to include above the form 
+	*/ 
+	margin-top: 0;
 }
 #signup label {
-    font-weight: bold;
-    display: block;
-    margin-bottom: 0.5em;
-    width: 80%;
+	font-weight: bold;
+	display: block;
+	margin-bottom: 0.5em;
+	width: 80%;
 }
 #signup input+label {
-    font-weight: normal;
+	font-weight: normal;
 }
 #signup input, 
 #signup textarea {
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    width: 90%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 90%;
 }
 #signup input[type="checkbox"] {
-    float: left;
-    width: auto;
-    margin-right: 10px;
+	float: left;
+	width: auto;
+	margin-right: 10px;
 }
 #signup input[type="checkbox"] + label {
-    float: left;
+	float: left;
 }
 #signup input[type="submit"] {
-    text-transform: uppercase;
-    color: #fff !important;
-    border: none;
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px;
-    border-radius: 4px;
-    background: #EF4619;
-    background-image: linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
-    background-image: -o-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
-    background-image: -moz-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
-    background-image: -webkit-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
-    padding: 0.4em 24px;
-    font-size: 20px;
-    box-shadow: 0 0 0.3em #dbdbdb;
-    display: inline-block;
-    letter-spacing: 0.6px;
-    /* Using important so line-height based on containers doesnt't screw stuff up */
-    line-height: 1 !important;
-    width: auto;
+	text-transform: uppercase;
+	color: #fff !important;
+	border: none;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	background: #EF4619;
+	background-image: linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+	background-image: -o-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+	background-image: -moz-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+	background-image: -webkit-linear-gradient(bottom, rgb(239,50,25) 30%, rgb(239,72,25) 47%);
+	padding: 0.4em 24px;
+	font-size: 20px;
+	box-shadow: 0 0 0.3em #dbdbdb;
+	display: inline-block;
+	letter-spacing: 0.6px;
+	/* Using important so line-height based on containers doesnt't screw stuff up */
+	line-height: 1 !important;
+	width: auto;
 }
 #signup input[type="submit"]:hover {
-    background-image: linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
-    background-image: -o-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
-    background-image: -moz-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
-    background-image: -webkit-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
-    text-decoration: none;
+	background-image: linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+	background-image: -o-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+	background-image: -moz-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+	background-image: -webkit-linear-gradient(bottom, rgb(239,75,35) 40%, rgb(244,136,75) 82%);
+	text-decoration: none;
 }
 #signup input[type="submit"]:active {
-    box-shadow: none;
-    background: #e54821;
-    text-decoration: none;
+	box-shadow: none;
+	background: #e54821;
+	text-decoration: none;
 }
 .form-row {
-    margin-bottom: 1em;
-    overflow: hidden;
+	margin-bottom: 1em;
+	overflow: hidden;
 }
 fieldset {
-    border: 0;
+	border: 0;
 }
 legend span {
-    line-height: 1;
-    padding-top: 1em;
-    color: #FC6E1F;
-    text-transform: capitalize;
-    font-family: 'Open Sans',Helvetica,Verdana,Arial, sans-serif;
-    font-size: 20px;
-    font-weight: 300;
+	line-height: 1;
+	padding-top: 1em;
+	color: #FC6E1F;
+	text-transform: capitalize;
+	font-family: 'Open Sans',Helvetica,Verdana,Arial, sans-serif;
+	font-size: 20px;
+	font-weight: 300;
 }
 .required {
-    color: red;
+	color: red;
 }
 
 #hackcode li {
@@ -819,4 +820,76 @@ img.topline {
 ul.fellowcode {
 	font-size: 1em;
 	margin-left: 25px;
+}
+
+.hidden {
+ display: none;
+}
+
+.hamburger {
+	float: left;
+	margin-top: 8px;
+	color: rgba(0, 0, 0, 0.540)
+}
+
+.snap-drawers {
+	background-color: #eee;
+}
+
+.snap-drawers li {
+	list-style: none;
+	margin: 0;
+	border-bottom: 1px solid #ccc;
+}
+
+.snap-drawers li:last-child {
+	border-bottom: none;
+}
+
+.snap-drawers li a {
+	color: #939393;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block;
+}
+
+.snap-drawers li a:hover {
+	background-color: #cdcdcd;
+	text-decoration: none;
+}
+
+.snap-drawers ul {
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+	.hamburger {
+		font-size: 1.1em;
+		display: inline;
+		float: left;
+		margin-top: 10px;
+		margin-right: 10px;
+		padding-left: 20px;
+		position: relative;
+		color: rgba(0, 0, 0, 0.540)
+	}
+
+	.hamburger:before {
+	  content: "";
+	  position: absolute;
+	  left: 0;
+	  top: 3px;
+	  width: 1em;
+	  height: 0.15em;
+	  background:#8d8d8d;
+	  box-shadow: 
+		0 0.25em 0 0 #8d8d8d,
+		0 0.5em 0 0 #8d8d8d;
+	}
+
+@media screen and (max-width: 450px) {
+	img.frontpic {
+		width: 30%;
+	}	
 }

@@ -3,89 +3,90 @@ Default template CSS - if you change anything here then updating will be a bit m
 */
 /**= Desktop only */
 .columns {
-    margin-left: -10px;
+	margin-left: -10px;
 }
 .col {
-    float: left;
-    padding: 10px;
-    width: 33%;
+	float: left;
+	padding: 10px;
+	width: 33%;
 }
 .col img {
-    width: 100%;
+	width: 100%;
 }
 .external .col:first-child {
-    padding-left: 0;
+	padding-left: 0;
 }
 /* Masthead */
 .masthead nav {
-    float: right;
-    margin-right: 130px;
+	float: right;
+	margin-right: 130px;
 }
 #nav {
 	margin-top: 5px;
 	right: 138px;
 	top: 8px;
 	position: absolute;
+	display: inline;
 }
 #nav li a {
-    padding: 1em 15px;
+	padding: 1em 15px;
 }
 /**= Overrides from devices.css */
 .busta {
-    max-width: 980px;
-    padding: 0 10px;
-    margin: 0 auto;
+	max-width: 980px;
+	padding: 0 10px;
+	margin: 0 auto;
 }
 .partners h2 {
-    line-height: 75px;
-    margin-bottom: 1em;
+	line-height: 75px;
+	margin-bottom: 1em;
 }
 .partners ul {
-    margin: 1.1125em 0 1.1125em 20px;
+	margin: 1.1125em 0 1.1125em 20px;
 }
 
 /**= And now time for your styles */
 /* Template overrides */
 #ONlogo {
-    display: block;
+	display: block;
 }
 .partners h2 {
-    line-height: 50px;
+	line-height: 50px;
 }
 #brand img {
-    width: auto;
+	width: auto;
 }
 .main_col {
-    width: 68%;
-    float: left;
+	width: 68%;
+	float: left;
 }
 .fellowsbox {
-    padding-bottom: 20px;
-    padding-right: 10px;
-    padding-top: 18px;
-    margin-top: 20px;
-    width: 30%;
-    float: right;
-    padding-left: 24px;
-    border-left: 1px solid #C6C6C6;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	padding-top: 18px;
+	margin-top: 20px;
+	width: 30%;
+	float: right;
+	padding-left: 24px;
+	border-left: 1px solid #C6C6C6;
 }
 .fellowsbox .photo {
-    width: 40%;
+	width: 40%;
 }
 
 #brand img {
-    margin-top: 80px;
+	margin-top: 80px;
 }
 
 header.opengraph {
-    margin-bottom: 40px;
+	margin-bottom: 40px;
 }
 
 #ONlogo {
 margin-right: 40px;
 }
 #fellowside {
-    border-top: none;
+	border-top: none;
 }
 
 
@@ -97,4 +98,38 @@ margin-right: 40px;
 	-webkit-column-gap: 20px;
 	column-count: 3;
 	column-gap: 20px;
+}
+
+.hamburger {
+	display: none;
+}
+
+@media screen and (max-width: 720px) {
+	.hamburger {
+		font-size: 1em;
+		display: inline;
+		float: left;
+		margin-top: 10px;
+		margin-right: 10px;
+		padding-left: 20px;
+		position: relative;
+		color: rgba(0, 0, 0, 0.540)
+	}
+
+	.hamburger:before {
+	  content: "";
+	  position: absolute;
+	  left: 0;
+	  top: 3px;
+	  width: 1em;
+	  height: 0.15em;
+	  background:#8d8d8d;
+	  box-shadow: 
+		0 0.25em 0 0 #8d8d8d,
+		0 0.5em 0 0 #8d8d8d;
+	}
+
+	#nav {
+		display: none;
+	}
 }
