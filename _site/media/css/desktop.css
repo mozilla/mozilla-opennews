@@ -140,4 +140,8 @@ margin-right: 40px;
 	img.frontpic {
 		width: 30%;
 	}
+	
+	#involved li {
+		list-style: none;
+	}
 }
