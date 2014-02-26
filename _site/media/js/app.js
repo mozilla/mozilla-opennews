@@ -47,7 +47,6 @@ applyNavPane();
 			s.parentNode.insertBefore(ga, s);
 		})();
 
-
 // ross's feed loader
 	google.load("feeds", "1");
 	function initialize() {
