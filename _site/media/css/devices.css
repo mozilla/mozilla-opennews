@@ -821,6 +821,12 @@ ul.fellowcode {
 	margin-left: 25px;
 }
 
-.snapdrawers, .hidden {
-	display: none;
+.hidden {
+ display: none;
+}
+
+.hamburger {
+	float: left;
+	margin-right: 200px; 
+	color: rgba(0, 0, 0, 0.540)
 }
