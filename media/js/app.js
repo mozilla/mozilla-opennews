@@ -6,6 +6,8 @@ var navPane = new Snap({
 	minDragDistance: 20,
 	minPosition: -205
 });
+
+//snap.js toggle button
 $('.toggle-navigation').on('click', function() {
 	if (navPane.state().state == 'left') {
 		navPane.close();
@@ -14,9 +16,6 @@ $('.toggle-navigation').on('click', function() {
 	}
 	return false;
 });
-
-
-// this is legacy ross stuff
 
 
 // new mozilla GA account
@@ -32,6 +31,8 @@ $('.toggle-navigation').on('click', function() {
     		s.parentNode.insertBefore(ga, s);
     	})();
 
+
+// ross's feed loader
 	google.load("feeds", "1");
 	function initialize() {
 		var feed_urls = $("a.feed_url");
