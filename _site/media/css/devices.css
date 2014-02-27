@@ -888,6 +888,23 @@ ul.fellowcode {
 }
 
 
+	ul#fellowmenu {
+	display: none;
+	}
+
+	#fellowside select {
+	display: inline-block;
+	font-size: .9em;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	}
+
+	#fellowside {
+	border-top: none;
+	padding-top: none;
+	}
+
+
 @media screen and (max-width: 450px) {
 	img.frontpic {
 			width: 30%;
@@ -906,16 +923,4 @@ ul.fellowcode {
 		margin-bottom: 0px;
 	}
 
-	ul#fellowmenu {
-	display: none;
-	}
-
-	#fellowside select {
-	display: inline-block;
-	}
-
-	#fellowside {
-	border-top: none;
-	padding-top: none;
-	}
 }

@@ -104,6 +104,10 @@ margin-right: 40px;
 	display: none;
 }
 
+#fellowside ul {
+display: inline;
+}
+
 
 @media screen and (max-width: 720px) {
 	.hamburger {
@@ -145,4 +149,12 @@ margin-right: 40px;
 	#involved li {
 		list-style: none;
 	}
+
+	#fellowside select {
+	display: inline-block;}
+
+	#fellowside ul {
+	display: none;
+	}
+
 }
