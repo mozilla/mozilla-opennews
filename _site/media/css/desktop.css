@@ -100,9 +100,10 @@ margin-right: 40px;
 	column-gap: 20px;
 }
 
-.hamburger {
+.hamburger, #fellowside select {
 	display: none;
 }
+
 
 @media screen and (max-width: 720px) {
 	.hamburger {
@@ -124,7 +125,7 @@ margin-right: 40px;
 	  width: 1em;
 	  height: 0.15em;
 	  background:#8d8d8d;
-	  box-shadow: 
+	  box-shadow:
 		0 0.25em 0 0 #8d8d8d,
 		0 0.5em 0 0 #8d8d8d;
 	}
@@ -132,15 +133,15 @@ margin-right: 40px;
 	#nav {
 		display: none;
 	}
-	
+
 	#brand img {
 		width: 100%;
 	}
-	
+
 	img.frontpic {
 		width: 30%;
 	}
-	
+
 	#involved li {
 		list-style: none;
 	}

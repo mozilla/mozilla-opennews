@@ -883,6 +883,10 @@ ul.fellowcode {
 	padding-left: 0px;
 }
 
+#fellowside select {
+	margin-left: 5px;
+}
+
 
 @media screen and (max-width: 450px) {
 	img.frontpic {
@@ -900,5 +904,18 @@ ul.fellowcode {
 
 	h1#brand {
 		margin-bottom: 0px;
+	}
+
+	ul#fellowmenu {
+	display: none;
+	}
+
+	#fellowside select {
+	display: inline-block;
+	}
+
+	#fellowside {
+	border-top: none;
+	padding-top: none;
 	}
 }
