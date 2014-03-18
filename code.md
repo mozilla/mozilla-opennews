@@ -34,18 +34,7 @@ section: code
 
 </ul>
 </div>
-<h3>Code from Code Sprints</h3>
-We developed Code Sprints to help create some of the small, simple tools that can have a big impact in newsrooms.
-
-<p>Our Code Sprint projects include:</p>
-<ul>
-<li><a href="https://github.com/jlord/sheetsee.js">Sheetsee.js</a>: Easy data visualizations using a simple spreadsheet backend.
-<li><a href="https://github.com/open-city/dedupe">Dedupe</a>: A library for deduplication, entity resolution, record linkage, and author disambiguation of big datasets.
-<li><a href="http://treasury.io/">Treasury.io</a>: A parser and API for the daily cash balance updates from the US Treasury.
-<li><a href="https://github.com/wnyc/election_california_2012">California Election Parser</a>: A parser for election data used by over 200 California news sites in 2012.
-</ul>
-
-We'd love to develop more Code Sprints. <a href="/codesprints.html">Learn more about the program and apply</a>.
+</a>.
 
 <h3>Code from Hack Days</h3>
 We've sponsored more than 40 <a href="/hackdays.html">hack days</a> around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more.
@@ -59,4 +48,17 @@ Some projects that got their start at hack days include:
 
 <h3>Code Convenings</h3>
 
-Twice a year, OpenNews brings together groups of newsroom developers and other open-source contributors to collaborate on shared codebases and libraries. Whether it is spending time open-sourcing work already built in the newsroom so that others can benefit from it too or working on new projects together, we believe that collaborating on shared codebases helps move newsroom development--and the web--forward. 
+Twice a year, OpenNews brings together groups of newsroom developers and other open-source contributors to collaborate on shared codebases and libraries. Whether it is spending time open-sourcing work already built in the newsroom so that others can benefit from it too or working on new projects together, we believe that collaborating on shared codebases helps move newsroom development--and the web--forward.
+
+<h3>Code from Code Sprints</h3>
+We developed Code Sprints to help create some of the small, simple tools that can have a big impact in newsrooms.
+
+<p>Our Code Sprint projects include:</p>
+<ul>
+<li><a href="https://github.com/jlord/sheetsee.js">Sheetsee.js</a>: Easy data visualizations using a simple spreadsheet backend.
+<li><a href="https://github.com/open-city/dedupe">Dedupe</a>: A library for deduplication, entity resolution, record linkage, and author disambiguation of big datasets.
+<li><a href="http://treasury.io/">Treasury.io</a>: A parser and API for the daily cash balance updates from the US Treasury.
+<li><a href="https://github.com/wnyc/election_california_2012">California Election Parser</a>: A parser for election data used by over 200 California news sites in 2012.
+</ul>
+
+We'd love to develop more Code Sprints. <a href="/codesprints.html">Learn more about the program and apply
