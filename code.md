@@ -12,8 +12,8 @@ section: code
 <p>Our <a href="/fellowships/community.html">Fellows</a> spend ten months hacking in some of the best newsrooms in the world, following their passions and creating compelling open-source projects. Here are just a few of the many things <a href="https://github.com/opennews">they've developed</a>:</p>
 <ul class="fellowcode">
 <li><a href="http://tabula.nerdpower.org/" class="fellowhack">Tabula</a>
-<br>Tabula is a tool to extract tabular data from PDFs. The project was created by 2013 Knight-Mozilla Fellow Manuel Aristarán, with the help of 2013 Knight-Mozilla Fellow Mike Tigas and his colleague at ProPublica Jeremy B. Merrill. 
-<br>Key libraries : 
+<br>Tabula is a tool to extract tabular data from PDFs. The project was created by 2013 Knight-Mozilla Fellow Manuel Aristarán, with the help of 2013 Knight-Mozilla Fellow Mike Tigas and his colleague at ProPublica Jeremy B. Merrill.
+<br>Key libraries :
 <br><a href="http://tabula.nerdpower.org/">On the web</a> | <a href="https://github.com/jazzido/tabula">On GitHub</a>
 </li>
 
@@ -28,7 +28,7 @@ section: code
 </li>
 
 <li><a href="https://github.com/veltman/learninglunches" class="fellowhack">Learning Lunches</a>
-<br>2013 Knight-Mozilla Fellow Noah Veltman began organizing informal discussions with colleagues about technical topics. He's shared the materials from these discussions on GitHub. Topics have included databases, maps, and web scraping. 
+<br>2013 Knight-Mozilla Fellow Noah Veltman began organizing informal discussions with colleagues about technical topics. He's shared the materials from these discussions on GitHub. Topics have included databases, maps, and web scraping.
 <br><a href="https://github.com/veltman/learninglunches">On GitHub</a>
 </li>
 
@@ -48,7 +48,7 @@ We developed Code Sprints to help create some of the small, simple tools that ca
 We'd love to develop more Code Sprints. <a href="/codesprints.html">Learn more about the program and apply</a>.
 
 <h3>Code from Hack Days</h3>
-We've sponsored more than 40 <a href="/hackdays.html">hack days</a> around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more. 
+We've sponsored more than 40 <a href="/hackdays.html">hack days</a> around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more.
 
 Some projects that got their start at hack days include:
 <ul>
@@ -59,4 +59,4 @@ Some projects that got their start at hack days include:
 
 <h3>Code Convenings</h3>
 
-Starting in 2014, OpenNews plans to gather groups of journalism developers and open-source contributors to collaborate on shared codebases and libraries so that we can stop continually reinventing the wheel on needed infrastructure, like election parsers, opsec, visualizations, and more. We'll have more information soon and look forward to this new way to create code that will help news organizations.
+Twice a year, OpenNews brings together groups of newsroom developers and other open-source contributors to collaborate on shared codebases and libraries. Whether it is spending time open-sourcing work already built in the newsroom so that others can benefit from it too or working on new projects together, we believe that collaborating on shared codebases helps move newsroom development--and the web--forward. 
