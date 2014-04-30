@@ -31,10 +31,8 @@ section: code
 <br>2013 Knight-Mozilla Fellow Noah Veltman began organizing informal discussions with colleagues about technical topics. He's shared the materials from these discussions on GitHub. Topics have included databases, maps, and web scraping.
 <br><a href="https://github.com/veltman/learninglunches">On GitHub</a>
 </li>
-
 </ul>
 </div>
-</a>.
 
 <h3>Code from Hack Days</h3>
 We've sponsored more than 40 <a href="/hackdays.html">hack days</a> around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more.
@@ -48,7 +46,7 @@ Some projects that got their start at hack days include:
 
 <h3>Code Convenings</h3>
 
-Twice a year, OpenNews brings together groups of newsroom developers and other open-source contributors to collaborate on shared codebases and libraries. Whether it is spending time open-sourcing work already built in the newsroom so that others can benefit from it too or working on new projects together, we believe that collaborating on shared codebases helps move newsroom development--and the web--forward.
+OpenNews also <a href="https://source.opennews.org/en-US/articles/learned-first-convening/">brings together groups of newsroom developers and other open-source contributors to collaborate on shared codebases and libraries</a>. Whether it is spending time open-sourcing work already built in the newsroom so that others can benefit from it too or working on new projects together, we believe that collaborating on shared codebases helps move newsroom development--and the web--forward.
 
 <h3>Code from Code Sprints</h3>
 We developed Code Sprints to help create some of the small, simple tools that can have a big impact in newsrooms.
