@@ -49,6 +49,9 @@
         <div class="busta">
             <!--<a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>-->
             <div class="toggle-navigation hamburger">menu</div>
+            <!--SRCCON LOGO HERE-->
+            <a href="http://www.srccon.org"><img alt="SRCCON wheee!" src = "/media/img/srccon_flag.png" class="srccon"></a>
+            <!--END SRCCON LOGO -->
             <h1 id="brand">
                 <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" /></a>
             </h1>
@@ -136,7 +139,7 @@
 
 
 <script type="text/javascript">
-    
+
       //window.onload = function() { init() };
 
       var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
@@ -146,22 +149,23 @@
                          callback: showInfo,
                          debug: true } )
       });
-      
-        
-      function showInfo() {        
-        
+
+
+      function showInfo() {
+
         $.each( Tabletop.sheets("Sheet1").all(), function(i, hackday) {
+
           var hack_li = $('<tr><td class="date">' + hackday.date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.title + '</a></td><td class="location">' + hackday.location + '</td></tr>')
           hack_li.appendTo("#hackcal");
-          
+
        if (hackday.status != 'happening') {
             hack_li.addClass('hide');
             };
         });
-                
-                 
+
+
       };
-      
+
 </script>
 
 
@@ -192,7 +196,7 @@
 
 <div id="newsbox">
 <h3>The latest from the OpenNews team</h3>
-<p>Read all our news in our <a class="feed_url" href="http://planet.opennews.org/rss">OpenNews feed</a></p>
+<p>Read all our news in our <a class="feed_url" href="http://planet.mozillaopennews.org/rss20.xml">OpenNews feed</a></p>
 </div>
 <div id="sourcebox">
 <h3>The latest from Source</h3>

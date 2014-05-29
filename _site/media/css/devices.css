@@ -904,8 +904,17 @@ ul.fellowcode {
 	padding-top: none;
 	}
 
+	.srccon {
+		width: 190px;
+		float: right;
+		margin-right: 80px;
+		position: relative;
+		top: 120px;
+	}
 
-@media screen and (max-width: 450px) {
+
+@media screen and (max-width: 480px) {
+
 	img.frontpic {
 			width: 30%;
 		}
@@ -921,6 +930,10 @@ ul.fellowcode {
 
 	h1#brand {
 		margin-bottom: 0px;
+	}
+
+	.srccon {
+		display: none;
 	}
 
 }
