@@ -3,7 +3,7 @@ layout: post_notitle
 title: SRCCON 2014, the first OpenNews Source conference
 section: source
 ---
-<img src="/media/img/sourcephoto.jpg" class="topline">
+<img src="/media/img/srccon.jpg" class="topline">
 
 <h2>{{ page.title }}<br>July 24–25, Philadelphia</h2>
 
