@@ -34,6 +34,11 @@ var applyNavPane = function() {
 // initial page load
 applyNavPane();
 
+// dropdown for mobile fellowship page browsing
+$("#fellowside select").change(function() {
+  window.location = $(this).find("option:selected").val();
+});
+
 // new mozilla GA account
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-35433268-15']);

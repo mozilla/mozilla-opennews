@@ -15,7 +15,7 @@ sub-section: fellows_home
 <p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2014meet.html">Meet our 2014 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
 </div>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Knight-Mozilla Fellows spend 10 months embedded with our partner newsrooms. Our Fellows are developers, technologists, civic hackers, and data crunchers who are <a href="/fellowships/info.html">paid</a> to work with the community inside and outside of their newsroom to develop open-source projects. Fellows work in the open by sharing their code and their discoveries, helping to strengthen and build journalism's toolbox.</p>
+<p class="bodybig">Knight-Mozilla Fellows spend 10 months embedded with our <a href="/newspartners.html">partner newsrooms</a>. Our Fellows are developers, technologists, civic hackers, and data crunchers who are <a href="/fellowships/info.html">paid</a> to work with the community inside and outside of their newsroom to develop open-source projects. Fellows work in the open by sharing their code and their discoveries, helping to strengthen and build journalism's toolbox.</p>
 
 <div id="partnerbox">
 <h4>Our 2014 Partners</h4>

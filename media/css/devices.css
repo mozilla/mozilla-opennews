@@ -7,9 +7,9 @@ Default template CSS - if you change anything here then updating will be a bit m
 }
 body {
 	font-family: Helvetica, Arial, sans-serif;
-	color: #515151 
+	color: #515151
 }
-a:link, 
+a:link,
 a:visited,
 a:focus,
 a:hover,
@@ -165,7 +165,7 @@ div[role=main] {
 /**= And now time for your styles */
 #brand img {
 	margin-top: 1em;
-	width: 80%;
+	width: 100%;
 	height: auto;
 }
 #ONlogo {
@@ -360,7 +360,7 @@ table tr td:nth-child(2)  {
 
 
 img.meet {
-float: left; 
+float: left;
 border: 1px solid black;
 margin-right: 15px;
 }
@@ -469,7 +469,7 @@ width: 98%;
 
 #hackcalbox table tr td:nth-child(2)  {
 	text-align: left;
-} 
+}
 
 h3 {
 color: #0d0d0d;
@@ -573,10 +573,10 @@ font-weight: normal;
 }
 
 .caption {
-font-family: sans-serif; 
-font-size: .8em; 
-text-align: right; 
-margin-right: 12px; 
+font-family: sans-serif;
+font-size: .8em;
+text-align: right;
+margin-right: 12px;
 margin-top: -10px;
 margin-bottom: 40px;
 }
@@ -666,9 +666,9 @@ border-right: 0;
 }
 /* application form */
 #signup {
-	/* 
-	to cover up the empty <p></p> that markdown seems insistent to include above the form 
-	*/ 
+	/*
+	to cover up the empty <p></p> that markdown seems insistent to include above the form
+	*/
 	margin-top: 0;
 }
 #signup label {
@@ -680,7 +680,7 @@ border-right: 0;
 #signup input+label {
 	font-weight: normal;
 }
-#signup input, 
+#signup input,
 #signup textarea {
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
@@ -827,10 +827,28 @@ ul.fellowcode {
 }
 
 .hamburger {
-	float: left;
-	margin-top: 8px;
-	color: rgba(0, 0, 0, 0.540)
-}
+		font-size: 1em;
+		display: inline;
+		float: left;
+		margin-top: 10px;
+		margin-right: 10px;
+		padding-left: 20px;
+		position: relative;
+		color: rgba(0, 0, 0, 0.540)
+	}
+
+.hamburger:before {
+	  content: "";
+	  position: absolute;
+	  left: 0;
+	  top: 6px;
+	  width: 1em;
+	  height: 0.15em;
+	  background:#8d8d8d;
+	  box-shadow:
+		0 0.25em 0 0 #8d8d8d,
+		0 0.5em 0 0 #8d8d8d;
+	}
 
 .snap-drawers {
 	background-color: #eee;
@@ -852,6 +870,7 @@ ul.fellowcode {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	display: block;
+	width: 148px;
 }
 
 .snap-drawers li a:hover {
@@ -864,31 +883,57 @@ ul.fellowcode {
 	padding-left: 0px;
 }
 
-	.hamburger {
-		font-size: 1.1em;
-		display: inline;
-		float: left;
-		margin-top: 10px;
-		margin-right: 10px;
-		padding-left: 20px;
-		position: relative;
-		color: rgba(0, 0, 0, 0.540)
-	}
-	.hamburger:before {
-	  content: "";
-	  position: absolute;
-	  left: 0;
-	  top: 3px;
-	  width: 1em;
-	  height: 0.15em;
-	  background:#8d8d8d;
-	  box-shadow: 
-		0 0.25em 0 0 #8d8d8d,
-		0 0.5em 0 0 #8d8d8d;
+#fellowside select {
+	margin-left: 5px;
+}
+
+
+	ul#fellowmenu {
+	display: none;
 	}
 
-@media screen and (max-width: 450px) {
+	#fellowside select {
+	display: inline-block;
+	font-size: .9em;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	}
+
+	#fellowside {
+	border-top: none;
+	padding-top: none;
+	}
+
+	.srccon {
+		width: 190px;
+		float: right;
+		margin-right: 80px;
+		position: relative;
+		top: 120px;
+	}
+
+
+@media screen and (max-width: 480px) {
+
 	img.frontpic {
-		width: 30%;
-	}	
+			width: 30%;
+		}
+	.bodybig {
+	font-size: 18px;
+	line-height: 1.7;
+	margin-bottom: 50px;
+	}
+
+	.challengebox {
+		display: none;
+	}
+
+	h1#brand {
+		margin-bottom: 0px;
+	}
+
+	.srccon {
+		display: none;
+	}
+
 }
