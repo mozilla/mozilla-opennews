@@ -5,7 +5,7 @@ section: source
 ---
 <img src="/media/img/sourcephoto.jpg" class="topline">
 
-<h2>{{ page.title }} | July 24–25, Philadelphia</h2>
+<h2>{{ page.title }}<br>July 24–25, Philadelphia</h2>
 
 <p class="bodybig"><a href="http://srccon.org">SRCCON</a> is an OpenNews event for developers, interactive designers, and others who love to code in and near newsrooms. In a nutshell, SRCCON is a conference built around conversations and collaboration, not lectures and onstage demos. Sessions will run as facilitated conversations and workshops rather than traditional conference talks.</p>
 
