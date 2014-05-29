@@ -32,20 +32,20 @@ Because we understand that there are a lot of different ways to do something lik
 
 That’s not much. In fact, it’s designed to be as straightforward as possible: you want to hack, we want to help.
 
-We're also working on some <a href="https://github.com/erikao/journohackdays">documentation</a> to help you in planning, organizing, and facilitating hack day events. Your questions and feedback are a critical part of making the documentation more useful for everyone. 
+We're also working on some <a href="https://github.com/erikao/journohackdays">documentation</a> to help you in planning, organizing, and facilitating hack day events. Your questions and feedback are a critical part of making the documentation more useful for everyone.
 
-<a href="https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day">We’ve set up a form so you can let us know what you’re thinking and we can talk about how we can most effectively help</a>. So let's do this. 
+<a href="https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day">We’ve set up a form so you can let us know what you’re thinking and we can talk about how we can most effectively help</a>. So let's do this.
 
 <h3>Join in the hacking</h3>
 
-If you're looking to get more involved in the journalism code community, participating in a hack day is one of the best ways to get connected. At hack days, you learn from people who, like you, have a ton of amazing skills, meet new collaborators, and get to spend time working on interesting problems. 
+If you're looking to get more involved in the journalism code community, participating in a hack day is one of the best ways to get connected. At hack days, you learn from people who, like you, have a ton of amazing skills, meet new collaborators, and get to spend time working on interesting problems.
 
 Keep an eye on the schedule above for OpenNews-sponsored hack days, and keep up with Source for a <a href="http://source.mozillaopennews.org/en-US/articles/tags/events/">weekly listing</a> of hack days and other community events. <a href="mailto:opennews@mozillafoundation.org">Get in touch</a> if you know of an event that isn't listed or if you want to tell us about an event you attended.
 
 <script type="text/javascript" src="media/js/tabletop.js"></script>
 
 <script type="text/javascript">
-    
+
       //window.onload = function() { init() };
 
       var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
@@ -55,20 +55,21 @@ Keep an eye on the schedule above for OpenNews-sponsored hack days, and keep up 
                          callback: showInfo,
                          debug: true } )
       });
-      
-        
-      function showInfo() {        
-        
+
+
+      function showInfo() {
+
         $.each( Tabletop.sheets("Sheet1").all(), function(i, hackday) {
+
           var hack_li = $('<tr><td class="date">' + hackday.date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.title + '</a></td><td class="location">' + hackday.location + '</td></tr>')
           hack_li.appendTo("#hackcal");
-          
+
        if (hackday.status != 'happening') {
             hack_li.addClass('hide');
             };
  		});
- 		 		
- 		         
+
+
       };
-      
+
 </script>
