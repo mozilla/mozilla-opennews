@@ -9,8 +9,6 @@ section: source
 
 <p class="bodybig"><a href="http://srccon.org">SRCCON</a> is an OpenNews event for developers, interactive designers, and others who love to code in and near newsrooms. In a nutshell, SRCCON is a conference built around conversations and collaboration, not lectures and onstage demos. Sessions will run as facilitated conversations and workshops rather than traditional conference talks.</p>
 
-[Registration is open now](http://srccon.org/register), and [session proposals are open](http://srccon.org/sessions) until June 9. Tickets cost $150, and we expect them to go quickly, so if you're interested in attending, [get over there](http://srccon.org/register).
-
 ###Who Should Attend?
 Newsroom developers and designers are at the center of our work at Source, but if you work or play with code as a journalist, civic hacker, open data technologist, or related role, you’ll absolutely fit in.We expressly invite participation from underrepresented groups, and welcome all. We believe in the news code community’s goodwill, and we also believe conference organizers are responsible for providing clear expectations and processes for problems that arise. We take our [code of conduct](http://srccon.org/conduct) seriously, and if you come to Philly and feel vulnerable, we will have your back.
 
