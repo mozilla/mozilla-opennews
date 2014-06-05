@@ -67,17 +67,15 @@ $("#fellowside select").change(function() {
 						var entry = result.feed.entries[i],
 							url = entry.link;
 						feed_list += "<li><a href='" + url + "'>";
+						var chunks = entry.title.split(':');
 						/*
-							Bugfix for https://github.com/mozilla/mozilla-opennews/issues/130
-							------------------------------------------------------------------
-							If you ever want to switch back to the original feed (because it contains)
-							author names in the title, and that was kind nice then you can do.
-							As things currently stand the simpler title and no author, as was already used for
-							the source feed is as good as can be done; but you do at least gets links now :)
+							to support our varying formats for feeds:
+							Those from planet.opennews have the format {author} : {title}
+							and everything else just has {title}.
+							If this changes then BOOM - we reap the benefits
 						*/
-						if (url.indexOf('mozillaopennews') !== -1) {
-							var chunks = entry.title.split(':'),
-							name = chunks.shift();
+						if (chunks.length !== 1) {
+							var name = chunks.shift();
 							feed_list += chunks.toString() + "</a> by " + name.toString();
 						} else {
 							feed_list += entry.title + "</a>";
