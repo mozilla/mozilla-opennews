@@ -5,8 +5,7 @@ section: fellowships
 sub-section: fellows_faq
 ---
 
-<p class="bodybig">The application to become a 2015 Knight-Mozilla Fellow opened on June 16 and closes August 16, 2014</p>
-<p class="bodybig">The application is designed to be quick: just five questions plus some links to stuff you’ve made. There are no recommendations to hunt down and no trick questions. <a href="/fellowships/apply.html">Apply now.</a>
+<p class="bodybig">The application to become a 2015 Knight-Mozilla Fellow opened on June 16 and closes August 16, 2014. The application is designed to be quick: just five questions plus some links to stuff you’ve made. There are no recommendations to hunt down and no trick questions. <a href="/fellowships/apply.html">Apply now.</a>
 
 ###How does the application review and matching process work?
 Applications are submitted through a Screendoor form and are visible at the time they are submitted, but formal review does not begin until after the application deadline closes on August 16.

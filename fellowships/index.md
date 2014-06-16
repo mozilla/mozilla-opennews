@@ -15,9 +15,7 @@ sub-section: fellows_home
 <p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2014meet.html">Meet our 2014 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
 </div>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Each year, we select a group of developers, technologists, civic hackers, and data crunchers to spend 10 months working as Knight-Mozilla Fellows embedded in our partner newsrooms. Fellowships are paid positions, and emphasize open-source development that strengthens specific newsrooms and the larger journalism-code community.
-
-<p class="bodybig"><a href="apply.html">Applications for the 2015 Fellowships are open now</a>, and the deadline to apply is August 16 at midnight EDT.</p>
+<p class="bodybig">Each year, we select a group of developers, technologists, civic hackers, and data crunchers to spend 10 months working as Knight-Mozilla Fellows embedded in our partner newsrooms. Fellowships are paid positions, and emphasize open-source development that strengthens specific newsrooms and the larger journalism-code community. <a href="apply.html">Applications for the 2015 Fellowships are open now</a>, and the deadline to apply is August 16 at midnight EDT.</p>
 </p>
 
 <div id="partnerbox">
