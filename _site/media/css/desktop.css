@@ -108,6 +108,11 @@ margin-right: 40px;
 display: inline;
 }
 
+img.fellowssmall {
+	display: none;
+}
+
+
 @media screen and (max-width: 890px) {
 	.srccon {
 		display: none;
