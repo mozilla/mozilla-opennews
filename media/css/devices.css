@@ -636,10 +636,9 @@ background: url("/media/img/partner_strip-2015_gray.png") no-repeat scroll 0px -
 background: url("/media/img/partner_strip-2015.png") no-repeat scroll 0px -420px transparent;
 }
 
-
-
-
-
+header img#2015fellows {
+	width: 100%;
+}
 
 ul.fellowslist, ul.fellowstats {
 	font-family: Helvetica, Verdana, Arial, sans-serif;
