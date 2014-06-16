@@ -1,6 +1,6 @@
 ---
 layout: fellowship_post
-title: Knight-Mozilla Fellowship Program Details
+title: The Knight-Mozilla Fellowships&colon; Program Details
 section: fellowships
 sub-section: fellows_info
 ---
