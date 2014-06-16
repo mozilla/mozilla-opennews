@@ -12,6 +12,7 @@ sub-section: fellows_info
 ###FELLOWSHIP LOCATIONS
 Fellows are based, unless special circumstances dictate, in the town of their host news organization.
 In 2015, the Fellows will be based with:
+
 * The Guardian in London, UK
 * La Nacion in Buenos Aires, Argentina
 * NPR in Washington, DC
@@ -23,11 +24,11 @@ In 2015, the Fellows will be based with:
 We make every attempt to match skills of Fellows with needs of news organizations when matching Fellow to organization.
 
 ###STIPEND AND FINANCIAL BENEFITS
-The Knight-Mozilla Fellowship is designed to allow flexibility for both Fellows and News Partners. **The standard Fellowship offers a stipend of $60,000, paid in 10 monthly installments.*** Fellows are responsible for remitting all applicable taxes and other government payments as required.
+The Knight-Mozilla Fellowship is designed to allow flexibility for both Fellows and Fellowship Partners. **The standard Fellowship offers a stipend of $60,000, paid in 10 monthly installments.** Fellows are responsible for remitting all applicable taxes and other government payments as required.
 
-Mozilla may, in consultation with Fellows and News Partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
+Mozilla may, in consultation with Fellows and Fellowship Partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
 
-To help offset cost of living in the News Partner location cities, the Fellowship also provides supplements for housing, childcare, health insurance, moving expenses, and helps pay for research/equipment and books. The Fellowship also covers the costs of required travel for Fellowship activities.
+To help offset cost of living in the Fellowship Partner location cities, the Fellowship also provides supplements for housing, childcare, health insurance, moving expenses, and helps pay for research/equipment and books. The Fellowship also covers the costs of required travel for Fellowship activities.
 
 Supplements below listed as yearly maximums.
 
@@ -90,9 +91,9 @@ Up to $3,000 annually will be given towards the purchase of laptop computers, di
 Up to $250 to cover the server costs associated with deploying projects such as fees for Heroku, Amazon Web Services, and domain registration.
 
 <h3>Travel Allowance</h3>
-All approved Fellowship trips – domestic and international – are covered. Additional travel required by the News Partners will be covered by them.
+All approved Fellowship trips – domestic and international – are covered. Additional travel required by the Fellowship Partners will be covered by them.
 
 <h3>Visa Assistance</h3>
-Mozilla will work directly with News Partners to secure temporary work visas on behalf of Fellows who require them.
+Mozilla will work directly with Fellowship Partners to secure temporary work visas on behalf of Fellows who require them.
 
 The application process is easy and brief. [Apply now](/fellowships/apply.html) or [learn more about how it works](/fellowships/faq.html).
