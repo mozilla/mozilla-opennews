@@ -1,0 +1,29 @@
+.fb-field-wrapper input, .fb-field-wrapper select, .fb-field-wrapper textarea  {
+  width: 90%;
+}
+
+.response-field-text .rf-size-small, .response-field-website .rf-size-small, .response-field-paragraph .rf-size-large, .response-field-paragraph textarea.rf-size-small, .response-field-paragraph .rf-size-small  {
+  width: 90%;
+}
+
+.fb-field-wrapper input#response_fields_2838 {
+  width: 90%;
+}
+
+ .fb-field-wrapper .fb-option input[type=text] {
+  width: 200px;
+}
+
+.fb-field-wrapper input[type=checkbox] {
+  width: auto;
+}
+
+.button.primary {
+  background-color: #FC6E1F;
+  border-color: #FC6E1F;
+}
+
+.button.primary:hover {
+  background-color: #bd5325;
+  border-color: #bd5325;
+}
