@@ -523,8 +523,8 @@ border-top: 1px solid #C6C6C6;
 #fellowside li a {
 color: #999999;
 text-decoration: none;
-
 }
+
 .fellows_home #fellow_home,
 .fellows_apply #apply,
 .community #community,
@@ -635,11 +635,6 @@ background: url("/media/img/partner_strip-2015_gray.png") no-repeat scroll 0px -
 .logo-wp:hover {
 background: url("/media/img/partner_strip-2015.png") no-repeat scroll 0px -420px transparent;
 }
-
-
-
-
-
 
 ul.fellowslist, ul.fellowstats {
 	font-family: Helvetica, Verdana, Arial, sans-serif;
@@ -912,6 +907,13 @@ ul.fellowcode {
 
 
 @media screen and (max-width: 480px) {
+img.fellowsmall {
+	display: inline;
+}
+
+img.fellowsbig {
+	display: none;
+}
 
 	img.frontpic {
 			width: 30%;
