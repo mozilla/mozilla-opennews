@@ -28,7 +28,7 @@ The Knight-Mozilla Fellowship is designed to allow flexibility for both Fellows 
 
 Mozilla may, in consultation with Fellows and Fellowship Partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
 
-To help offset cost of living in the Fellowship Partner location cities, the Fellowship also provides supplements for housing, childcare, health insurance, moving expenses, and helps pay for research/equipment and books. The Fellowship also covers the costs of required travel for Fellowship activities.
+To help offset cost of living, the Fellowship also provides supplements for childcare and health insurance, and helps pay for research/equipment and books. If you relocate for a fellowship, we will also supplement your housing and moving expenses. The Fellowship also covers the costs of required travel for Fellowship activities. 
 
 Supplements below listed as yearly maximums.
 
