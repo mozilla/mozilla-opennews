@@ -32,7 +32,7 @@ sub-section: fellows_home
 Seven news organizations around the world will be hosting our six Knight-Mozilla Fellows in 2015: the Guardian, La Nacion, NPR, Vox Media, the Center for Investigative Reporting, the New York Times, and the Washington Post.
 
 ###The Fellowship Experience
-Knight-Mozilla Fellows work in some of the best newsrooms in the world: they're present as news breaks, write code for the day’s headlines, wrangle thorny datasets, and get to take a step back to build better newsroom tools and practices. As a Fellow, you would live and work for 10 months in the city where your host newsroom is located (travel and housing is paid as part of the Fellowship) and work as a member of the newsroom team.
+Knight-Mozilla Fellows work in some of the best newsrooms in the world: they're present as news breaks, write code for the day’s headlines, wrangle thorny datasets, and get to take a step back to build better newsroom tools and practices. As a Fellow, you would live and work for 10 months in the city where your host newsroom is located (relocation is supplemented as part of the Fellowship) and work as a member of the newsroom team.
 
 The kinds of projects Fellows work on day-to-day are dictated by the news organization and the Fellow, and include projects focused on data, mapping, research, and impact analysis. If you already have ideas of things that interest you, whether it be news games or civic data crunching, that’s great. We’re looking for people who want to experiment with technology in journalism, and Fellows get plentiful room to figure out what those experiments should be.
 
