@@ -15,7 +15,7 @@ sub-section: fellows_home
 <p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2014meet.html">Meet our 2014 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
 </div>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The Knight- Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsrooms. The applications for 2015 are now closed. Thank you to everyone who applied. The 2015 cohort of Fellows will be announced at the <a href="http://2014.mozillafestival.org">Mozilla Festival</a>.</p>
+<p class="bodybig">The Knight- Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsrooms. The applications for 2015 are now closed. Thank you to everyone who applied. We will announce our 2015 Fellows at the <a href="http://2014.mozillafestival.org">Mozilla Festival</a> in London, October 24-26.</p>
 </p>
 
 <div id="partnerbox">
