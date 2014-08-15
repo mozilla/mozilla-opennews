@@ -1,0 +1,29 @@
+.form_renderer_response_field input, .form_renderer_response_field select, .form_renderer_response_field textarea {
+width: 90%;
+}
+
+.response_field_text .rf-size-small, .response_field_website .rf-size-small, .response_field_paragraph .rf-size-large, .response_field_paragraph textarea.rf-size-small, .response_field_paragraph .rf-size-small {
+width: 90%;
+}
+
+.form_renderer_response_field input#response_fields_2838 {
+width: 90%;
+}
+
+.form_renderer_response_field .fb-option input[type=text] {
+width: 200px;
+}
+
+.form_renderer_response_field input[type=checkbox] {
+width: auto;
+}
+
+.button.primary {
+background-color: #FC6E1F;
+border-color: #FC6E1F;
+}
+
+.button.primary:hover {
+background-color: #bd5325;
+border-color: #bd5325;
+}

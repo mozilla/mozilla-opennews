@@ -1,10 +1,14 @@
 ---
 layout: fellowship_index
-title: The 2014 Knight-Mozilla Fellowship Search has closed
+title: Apply to become a 2015 Knight-Mozilla Fellow
 section: fellowships
 sub-section: fellows_apply
 ---
 
 <h2>{{ page.title }}</h2>
 
-<p>Thank you for your interest in the Knight-Mozilla Fellowships. As of 12:01am August 18, 2013, we have ended the search for our Knight-Mozilla Fellows. We will be announcing our new fellows at the <a href="http://mozillafestival.org/">2013 Mozilla Festival in London</a>.</p>
+Are you a developer, technologist, civic hacker, or data cruncher who wants to help change the world of journalism? Apply to become a 2015 Knight-Mozilla Fellow and spend ten months embedded in one of the best newsrooms in the world, writing open code and becoming a leader in the international journalism tech community.
+
+###Application is open until August 16, 2014
+
+<iframe id='frame' width='500px' height='3500px' src='http://screendoor.dobt.co/embedded/projects/271/responses/new' frameborder='0' marginheight='0' marginwidth='0'></iframe>
