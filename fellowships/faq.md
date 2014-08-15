@@ -5,7 +5,7 @@ section: fellowships
 sub-section: fellows_faq
 ---
 
-<p class="bodybig">The application to become a 2015 Knight-Mozilla Fellow opened on June 16 and closes August 16, 2014. The application is designed to be quick: just five questions plus some links to stuff you’ve made. There are no recommendations to hunt down and no trick questions. <a href="/fellowships/apply.html">Apply now.</a>
+<p class="bodybig">The application to become a 2015 Knight-Mozilla Fellow opened on June 16 and closed August 16, 2014. We are currently reviewing applications and will announce our 2015 Fellows at the <a href="http://www.mozillafestival.org">Mozilla Festival</a> in London, October 24-26.</a>
 
 ###How does the application review and matching process work?
 Applications are submitted through a Screendoor form and are visible at the time they are submitted, but formal review does not begin until after the application deadline closes on August 16.
@@ -62,10 +62,6 @@ This is the fourth year of the Fellowship search process. For the past two years
 This year, we have seven Fellowship slots available and expect that the process will remain highly competitive. We thoroughly review each application we receive, which gives us an opportunity to get to know you better. We seek out ways to keep in touch and work with the many highly skilled applicants who do not become Fellows.
 
 In terms of assessing the applicant pool, what has remained consistent each year is that we are committed to matching the skills of the Fellow to the needs of the news organization. It’s a very individualized matching process.
-
-**I’m still on the fence about applying.**
-
-You should apply. If you have experience with code and an interest in journalism and you’re curious about applying, do so. As former Fellow Noah Veltman [pointed out](http://veltman.tumblr.com/post/56132893301/code-the-newsroom-and-self-doubt), many people who are now Fellows thought their application was a long shot. [Apply today](/fellowships/apply.html).
 
 **Are you still accepting applications for host newsrooms?**
 
