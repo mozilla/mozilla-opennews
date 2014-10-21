@@ -15,7 +15,7 @@ sub-section: fellows_home
 <p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2014meet.html">Meet our 2014 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
 </div>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Each year, we select a group of developers, technologists, civic hackers, and data crunchers to spend 10 months working as Knight-Mozilla Fellows embedded in our partner newsrooms. Fellowships are paid positions, and emphasize open-source development that strengthens specific newsrooms and the larger journalism-code community. <a href="apply.html">Applications for the 2015 Fellowships are open now</a>, and the deadline to apply is August 16 at midnight EDT.</p>
+<p class="bodybig">The Knight- Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsrooms. The applications for 2015 are now closed. Thank you to everyone who applied. We will announce our 2015 Fellows at the <a href="http://2014.mozillafestival.org">Mozilla Festival</a> in London, October 24-26.</p>
 </p>
 
 <div id="partnerbox">
@@ -43,10 +43,3 @@ News is at the center of many people’s web use, and the technology decisions n
 
 ###Working in the Open
 Knight-Mozilla Fellows share their work beyond their host newsrooms. By blogging their experiences, pushing code to open repositories, and taking part in other OpenNews initiatives, our Fellows help strengthen the entire journalism-developer community and contribute to a more transparent, secure, and accessible internet.
-
-###Who Should Apply
-The Knight-Mozilla Fellowship program is designed to engage people who like to code and bring them—and their varied expertise—into newsroom. If you have a knack for coding and an interest in contributing your skills to journalistic projects, you are the type of person we are looking for.
-
-There is no “typical” Fellow, and previous Fellows have come from a variety of backgrounds including academia, software engineering, open source coding, and newsroom development. Most of our Fellows did not major in Computer Science, and many had never visited a newsroom before their Fellowship. We are an inclusive program and seek Fellows who reflect the diversity of the communities we serve. Women and other under-represented participants in technology are strongly encouraged to apply.
-
-[Apply now!](/fellowships/apply.html)
