@@ -5,15 +5,15 @@ section: fellowships
 sub-section: fellows_home
 ---
 
+---
 <div id="picwrap">
-<img src="/media/img/fellows/2014-fellows/ben-220.png" class="frontpic" alt="Ben Chartoff">
-<img src="/media/img/fellows/2014-fellows/harlo-220.png" class="frontpic" alt="Harlo Holmes">
-<img src="/media/img/fellows/2014-fellows/brian-220.png" class="frontpic" alt="Brian Jacobs">
-<img src="/media/img/fellows/2014-fellows/aurelia-220.png" class="frontpic" alt="Aurelia Moser">
-<img src="/media/img/fellows/2014-fellows/gabriela-220.png" class="frontpic" alt="Gabriela Rodriguez">
-<img src="/media/img/fellows/2014-fellows/marcos-220.png" class="frontpic" alt="Marcos Vanetta">
-<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2014meet.html">Meet our 2014 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
-</div>
+<img src="/media/img/fellows/2015-fellows/tara220.jpg" class="frontpic" alt="Tara Adiseshan">
+<img src="/media/img/fellows/2015-fellows/juan220.jpg" class="frontpic" alt="Juan Elosua">
+<img src="/media/img/fellows/2015-fellows/livia220.jpg" class="frontpic" alt="Livia Labate">
+<img src="/media/img/fellows/2015-fellows/linda220.jpg" class="frontpic" alt="Linda Sandvik">
+<img src="/media/img/fellows/2015-fellows/julia220.jpg" class="frontpic" alt="Julia Smith">
+<img src="/media/img/fellows/2015-fellows/francis220.jpg" class="frontpic" alt="Francis Tseng">
+<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2014meet.html">Meet our 2015 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The Knight- Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsrooms. The applications for 2015 are now closed. Thank you to everyone who applied. We will announce our 2015 Fellows at the <a href="http://2014.mozillafestival.org">Mozilla Festival</a> in London, October 24-26.</p>
 </p>
