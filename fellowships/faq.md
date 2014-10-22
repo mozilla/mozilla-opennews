@@ -5,7 +5,7 @@ section: fellowships
 sub-section: fellows_faq
 ---
 
-<p class="bodybig">The application to become a 2015 Knight-Mozilla Fellow opened on June 16 and closed August 16, 2014. We are currently reviewing applications and will announce our 2015 Fellows at the <a href="http://www.mozillafestival.org">Mozilla Festival</a> in London, October 24-26.</a>
+<p class="bodybig">The application to become a 2015 Knight-Mozilla Fellow opened on June 16 and closed August 16, 2014. We announced our 2015 Fellows at the <a href="http://www.mozillafestival.org">Mozilla Festival</a> in London, October 24-26. We will start our search for our 2016 Fellows in early summer, 2015.</a>
 
 ###How does the application review and matching process work?
 Applications are submitted through a Screendoor form and are visible at the time they are submitted, but formal review does not begin until after the application deadline closes on August 16.

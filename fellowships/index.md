@@ -11,9 +11,10 @@ sub-section: fellows_home
 <img src="/media/img/fellows/2015-fellows/linda220.jpg" class="frontpic" alt="Linda Sandvik">
 <img src="/media/img/fellows/2015-fellows/julia220.jpg" class="frontpic" alt="Julia Smith">
 <img src="/media/img/fellows/2015-fellows/francis220.jpg" class="frontpic" alt="Francis Tseng">
-<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2014meet.html">Meet our 2015 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
+</div>
+<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2015meet.html">Meet our 2015 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The Knight- Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsrooms. The applications for 2015 are now closed. Thank you to everyone who applied. We will announce our 2015 Fellows at the <a href="http://2014.mozillafestival.org">Mozilla Festival</a> in London, October 24-26.</p>
+<p class="bodybig">The Knight- Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsroom. Knight-Mozilla Fellows write code, spread ideas, and help build community during their fellowship year.
 </p>
 
 <div id="partnerbox">
@@ -27,7 +28,7 @@ sub-section: fellows_home
 <a href="http://cironline.org/" class="logo-cir">Center for Investigative Reporting</a>
 </div>
 ###The 2015 Fellowships
-Seven news organizations around the world will be hosting our six Knight-Mozilla Fellows in 2015: the Guardian, La Nacion, NPR, Vox Media, the Center for Investigative Reporting, the New York Times, and the Washington Post.
+Seven news organizations around the world will host our Knight-Mozilla Fellows in 2015: the Guardian, La Nacion, NPR, Vox Media, the Center for Investigative Reporting, the New York Times, and the Washington Post.
 
 ###The Fellowship Experience
 Knight-Mozilla Fellows work in some of the best newsrooms in the world: they're present as news breaks, write code for the day’s headlines, wrangle thorny datasets, and get to take a step back to build better newsroom tools and practices. As a Fellow, you would live and work for 10 months in the city where your host newsroom is located (relocation is supplemented as part of the Fellowship) and work as a member of the newsroom team.
