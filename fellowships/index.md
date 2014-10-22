@@ -12,9 +12,10 @@ sub-section: fellows_home
 <img src="/media/img/fellows/2015-fellows/julia220.jpg" class="frontpic" alt="Julia Smith">
 <img src="/media/img/fellows/2015-fellows/francis220.jpg" class="frontpic" alt="Francis Tseng">
 </div>
-<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2015meet.html">Meet our 2015 Knight Mozilla Fellows</a> as they hack the news around the world. </p>
+<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2015meet.html">Meet our 2015 Knight Mozilla Fellows</a> as they hack the news around the world.</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The Knight- Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsroom. Knight-Mozilla Fellows write code, spread ideas, and help build community during their fellowship year.
+<p class="bodybig">The Knight-Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsroom. Knight-Mozilla Fellows write code, spread ideas, and help build community during their fellowship year.
+<p><a href="2015meet.html">Meet our 2015 Knight Mozilla Fellows</a>
 </p>
 
 <div id="partnerbox">
