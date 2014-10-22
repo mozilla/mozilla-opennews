@@ -4,8 +4,6 @@ title: The Knight-Mozilla Fellowships
 section: fellowships
 sub-section: fellows_home
 ---
-
----
 <div id="picwrap">
 <img src="/media/img/fellows/2015-fellows/tara220.jpg" class="frontpic" alt="Tara Adiseshan">
 <img src="/media/img/fellows/2015-fellows/juan220.jpg" class="frontpic" alt="Juan Elosua">
