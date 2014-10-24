@@ -13,7 +13,7 @@
     }, 
     {
         "id": "2", 
-        "title": "How to find insight hidden in speeches, scripts and books with computers", 
+        "title": "Words, Words, Words: How to find insight hidden in speeches, scripts, and emails with computers", 
         "room": "803", 
         "length": "1 hour", 
         "time": "4-5pm", 
@@ -21,7 +21,7 @@
         "scheduleblock": "saturday-pm-2", 
         "everyone": "", 
         "leader": "Al Johri, Dhrumil Mehta", 
-        "description": ""
+        "description": "Learn how to extract insights from natural language data such as movie transcripts, the congressional record, or your own emails. Prior experience with python recommended! Please install the Python Anaconda Distribution before the session http://continuum.io/downloads (takes about 10 minutes)."
     }, 
     {
         "id": "3", 
@@ -64,9 +64,9 @@
         "title": "Let's Make Public Records Requests Better!", 
         "room": "800", 
         "length": "1 hour", 
-        "time": "11am-12pm", 
-        "day": "Sunday", 
-        "scheduleblock": "sunday-am-1", 
+        "time": "10-11am", 
+        "day": "Saturday", 
+        "scheduleblock": "saturday-am-1", 
         "everyone": "", 
         "leader": "Jeremia Kimelman, Drew Wilson", 
         "description": "Public record systems were designed when information was measured in page count, not gigabytes. Let's spend some time making some simulated public records requests  to figure out how we could improve the system so that respects both the citizens who request records and the civil servants tasked with fulfilling them"
@@ -105,7 +105,7 @@
         "scheduleblock": "saturday-pm-1", 
         "everyone": "", 
         "leader": "Laura Cochran", 
-        "description": "Design is iterative and it is messy. Sometimes --\nbecause we are humans -- we end up designing a feature or an entirely new to\nthe world platform without understanding who it is for, what they need and why.\n\n\n\n\nToday, we are all designers. Lets talk through\nsome of the communication tools you can use along the way -- user interviews,\nempathy mapping, personas -- to create a common language and mission for the\nproject that focuses on the user's needs and motivations, the person you are\ndesigning for. "
+        "description": "Design is iterative and it is messy. Sometimes -- because we are humans -- we end up designing a feature or an entirely new to the world platform without understanding who it is for, what they need and why."
     }, 
     {
         "id": "10", 
@@ -117,7 +117,7 @@
         "scheduleblock": "saturday-am-1", 
         "everyone": "", 
         "leader": "Sisi Wei, Ryann Grochowski Jones", 
-        "description": "We will do a very brief demo of what types of stories algorithms have written already and what we want to do differently. Then we’ll jump straight into brainstorming, followed by work time for all the groups. We’d love to have people with coding experience so we can build the prototypes, but just as importantly we want anyone who thinks this is a cool idea to come and help brainstorm ways we can use sentient articles in news. The more participants we have, the more prototyping groups we’ll split into. We can brainstorm as a collective up to about 50 participants; if there are more, we would have two brainstorming groups, one led by each facilitator. Note: If you plan on helping us prototype via coding, please make sure to bring a laptop!"
+        "description": "We will do a very brief demo of what types of stories algorithms have written already and what we want to do differently. Then we'll jump straight into brainstorming, followed by work time for all the groups. We'd love to have people with coding experience so we can build the prototypes, but just as importantly we want anyone who thinks this is a cool idea to come and help brainstorm ways we can use sentient articles in news. The more participants we have, the more prototyping groups we'll split into. We can brainstorm as a collective up to about 50 participants; if there are more, we would have two brainstorming groups, one led by each facilitator. Note: If you plan on helping us prototype via coding, please make sure to bring a laptop!"
     }, 
     {
         "id": "11", 
@@ -129,7 +129,7 @@
         "scheduleblock": "sunday-pm-2", 
         "everyone": "", 
         "leader": "Joanna Geary, Sarah Marshall, Cassie Werber", 
-        "description": ""
+        "description": "Hacks/Hackers,  a meetup of journalists and technologists, is now entering its fifth  year.  We'll discuss moving forward as individual groups and how we can  best collaborate globally. This conversation will be of interest not only to those already involved in  Hacks/Hackers chapters around the world, but to anyone thinking about  how developers and reporters can best work together."
     }, 
     {
         "id": "12", 
@@ -201,7 +201,7 @@
         "scheduleblock": "saturday-am-1", 
         "everyone": "", 
         "leader": "Melody Kramer", 
-        "description": ""
+        "description": "If you build the world’s best tool, but your audience isn’t ready for the tool/can’t find time to use it/doesn’t understand it, then what’s the point? In this interactive workshop, we’ll talk about how to integrate the people from your workplace into the development process so that you launch your product with enthusiastic and optimistic supporters. We’ll brainstorm strategies, talk about UX principles and sketch out ways to create a product launch that will be successful from the start. Oh yeah, and we'll do so by playing a version of Werewolf—a game of \"accusations, lying, bluffing, second-guessing, assassination, and mob hysteria.\""
     }, 
     {
         "id": "18", 
@@ -213,7 +213,7 @@
         "scheduleblock": "saturday-pm-2", 
         "everyone": "", 
         "leader": "Jacob Harris, Aurelia Moser, Chris Keller, Nikolas Iubel, Erin Kissane", 
-        "description": ""
+        "description": "In the world of software development, data smells is a term for those telltale signs that indicate bad software needs to be refactored. As data journalists, we encounter common types of data smells in the data we work with on every project. It's time to get organized. In this session, let's design a site to collect and categorize these data smells. A wiki seems like an obvious choice, but how does an entry look? How do we organize and collect these smells? What can we do to automate the tedious process of vetting a data set? We'll explore these questions and more."
     }, 
     {
         "id": "19", 
@@ -237,7 +237,7 @@
         "scheduleblock": "sunday-pm-1", 
         "everyone": "", 
         "leader": "Kaeti Hinck", 
-        "description": ""
+        "description": "Imagine what newsrooms and journalistic organizations could look like—and what we could accomplish—if we opened up the editorial process and not just the final product. In this session, we'll work together to brainstorm ways to fundamentally shift journalism's one-sided relationship with its readers. Together, we'll identify specific areas where journalistic organizations could open their process, work more transparently, or loop readers into the lifecycle of a story. Then we'll start designing tools to make those things possible."
     }, 
     {
         "id": "21", 
@@ -249,7 +249,7 @@
         "scheduleblock": "sunday-am-2", 
         "everyone": "", 
         "leader": "Dave Riordan", 
-        "description": ""
+        "description": "As journalists, data scientists, scientist scientists, researchers, historians, entrepreneurs, civic activists, and Thomas Pikketty work with and publish \"datasets,\" they're increasingly having the challenge of finding the right data they need for analysis, even if it's already been published. Certain fields have created their own dataset description systems but they're not well used outside them or we swap weird datasets amongst ourselves and discuss how to use them on reddit.com/r/datasets. Let's get together and figure out the best way to fuse these approaches: the best of search technology, classic library technology and data description, and community support and learning, which can drive forward the way we collectively work with and discover and use data sets in data catalogs."
     }, 
     {
         "id": "22", 
@@ -261,7 +261,7 @@
         "scheduleblock": "sunday-pm-1", 
         "everyone": "", 
         "leader": "Mallory Busch", 
-        "description": ""
+        "description": "\"Listicles\" and other shareable forms of storytelling are among the most popular on the web today and provide significant traffic to websites. In this session we'll embrace the listicle and come up with different ideas to adapt the format for \"serious\" news."
     }, 
     {
         "id": "14", 
@@ -273,7 +273,7 @@
         "scheduleblock": "saturday-am-2", 
         "everyone": "", 
         "leader": "Laurenellen McCann", 
-        "description": ""
+        "description": "In this session, we'll explore the role of open data in place-based communities, examining creative examples of community data collection, prioritization, and participation efforts that bridge traditional \"technical\" and \"non-technical\" actors. We'll also workshop ideas and diversity challenges participants have in their respective organizational or personal open data efforts."
     }, 
     {
         "id": "24", 
@@ -285,7 +285,7 @@
         "scheduleblock": "sunday-pm-2", 
         "everyone": "", 
         "leader": "Joe Germuska", 
-        "description": ""
+        "description": "\"Data\" is everywhere these days. There's a growing audience for stories based on interesting data sets and savvy analysis. This audience is coming to expect news organizations to be more transparent about which data substantiates a story and how it was analyzed. And, in many cases, the news organization goes to great lengths to obtain or create a data set, but doesn't have the resources to report all the stories therein. In this session, we'll discuss examples of smart audience critiques of data journalism, and ways that news organizations could be more transparent about their sources and methods. We'll look for examples of folks trying to do it right already, in journalism and in other fields. Finally, we'll try to lay out a reasonable list of best practices towards which data journalism organizations can aim."
     }, 
     {
         "id": "25", 
@@ -297,7 +297,7 @@
         "scheduleblock": "sunday-pm-1", 
         "everyone": "", 
         "leader": "Gabriela Rodriguez, Flor Coelho", 
-        "description": ""
+        "description": "Come to our session to talk about resolving the problem of almost-impossible-to-process-PDFs. We will share the project VozData from La Nacion in Argentina, that tries to tackle this problem. VozData also crowdsource the search for news in a set of documents from the government. Which questions we going to ask from the documents we want to process? We will also show the data analysis from our first project regarding the Public Expenditure of the Senate, years 2010-2012."
     }, 
     {
         "id": "26", 
@@ -430,18 +430,6 @@
         "everyone": "", 
         "leader": "Jennifer LaFleur", 
         "description": "Let’s just face it: Most data is a mess.  Before you can even start to tell a story with data, you have to interview it, background it and know its flaws.  We’ll put some data through a few rigorous workouts to make sure it can tell the story we think it can. Bring your laptop and dig in."
-    }, 
-    {
-        "id": "37", 
-        "title": "Hacks/Hackers London Investigathon", 
-        "room": "800", 
-        "length": "1 hour", 
-        "time": "10-11am", 
-        "day": "Saturday", 
-        "scheduleblock": "saturday-am-1", 
-        "everyone": "", 
-        "leader": "Joanna Geary", 
-        "description": ""
     }, 
     {
         "id": "38", 
