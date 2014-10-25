@@ -206,13 +206,13 @@
     {
         "id": "18", 
         "title": "Data Smells", 
-        "room": "805", 
+        "room": "800", 
         "length": "1 hour", 
-        "time": "4-5pm", 
-        "day": "Saturday", 
-        "scheduleblock": "saturday-pm-2", 
+        "time": "11am-12pm", 
+        "day": "Sunday", 
+        "scheduleblock": "sunday-am-1", 
         "everyone": "", 
-        "leader": "Jacob Harris, Aurelia Moser, Chris Keller, Nikolas Iubel, Erin Kissane", 
+        "leader": "Jacob Harris, Aurelia Moser", 
         "description": "In the world of software development, data smells is a term for those telltale signs that indicate bad software needs to be refactored. As data journalists, we encounter common types of data smells in the data we work with on every project. It's time to get organized. In this session, let's design a site to collect and categorize these data smells. A wiki seems like an obvious choice, but how does an entry look? How do we organize and collect these smells? What can we do to automate the tedious process of vetting a data set? We'll explore these questions and more."
     }, 
     {
