@@ -381,7 +381,7 @@
         "scheduleblock": "saturday-pm-1", 
         "everyone": "", 
         "leader": "Aaron Williams", 
-        "description": "Journalists use browsers, email and much more to research and report their stories. But, what if their browser could diff specific pages and alert them with changes? Could we build a better email client that uses PGP by default? In three hours, let's reimagine the software journalists use daily and tailor those tools for their use."
+        "description": "Journalists use browsers, email and much more to research and report their stories. But, what if their browser could diff specific pages and alert them with changes? Could we build a better email client that uses PGP by default? In three hours, let's reimagine the software journalists use daily and tailor those tools for their use.\n\nThis session will be broken up into two parts. Part one is thinking and talking. Part two is hacking. Feel free stay for one or both, exit after part 1 or enter for part 2.\n\nPART 1 (1 - 1.5 hours)\n\n- Intro\n- Crowdsource tools to reinvent\n- Break into groups and spec out ideas\n- Groups present ideas to reinvent\n\nBreak (10 - 15 mins)\n\nPART 2 (1 - 1.5 hours)\n\n- HACK\n- Present?\n- Follow-up / next steps after MozFest\n"
     }, 
     {
         "id": "33", 
