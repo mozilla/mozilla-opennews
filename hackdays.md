@@ -7,7 +7,7 @@ section: hackdays
 <p class="caption">Conversing at the Chicago Crime Hack Day (photo/Daniel X O'neil)</p>
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Communities around the world organize hack days to bring together coders and journalists to learn from each other and tackle problems. OpenNews offers financial and planning support to local organizers, and <a href="https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day">we'd love to help with your event</a>.</p>
+<p class="bodybig">Communities around the world organize hack days to bring together coders and journalists to learn from each other and tackle problems. OpenNews offers financial and planning support to local organizers, and <a href="https://docs.google.com/forms/d/1XGWKDHc8YYzmkUSdicPwyyCyaYeHUnY92XwlLAV1i1E/viewform">we'd love to help with your event</a>.</p>
 
 <div id="hackcalbox">
     <h3>Upcoming OpenNews Hack Days</h3>
@@ -34,7 +34,7 @@ That’s not much. In fact, it’s designed to be as straightforward as possible
 
 We're also working on some <a href="https://github.com/erikao/journohackdays">documentation</a> to help you in planning, organizing, and facilitating hack day events. Your questions and feedback are a critical part of making the documentation more useful for everyone.
 
-<a href="https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day">We’ve set up a form so you can let us know what you’re thinking and we can talk about how we can most effectively help</a>. So let's do this.
+<a href="https://docs.google.com/forms/d/1XGWKDHc8YYzmkUSdicPwyyCyaYeHUnY92XwlLAV1i1E/viewform">We’ve set up a form so you can let us know what you’re thinking and we can talk about how we can most effectively help</a>. So let's do this.
 
 <h3>Join in the hacking</h3>
 
