@@ -20,7 +20,7 @@ Are you just starting out in the journalism code community? Still trying to figu
 <h3>Build</h3>
 If you're already excited about open data and journalism development, now's the time to increase your involvement in this amazing, inviting community. How?
 
-* <a href="https://sendto.mozilla.org/page/s/knight-mozilla-news-hack-day">Host a hack day</a>: we're looking for partners to host local hack days. Organizing an event is a great way to deepen your involvement with your local community, and when you share back what you've learned and built at your hack day, you help improve hack days for the entire journalism code community.
+* <a href="https://docs.google.com/forms/d/1XGWKDHc8YYzmkUSdicPwyyCyaYeHUnY92XwlLAV1i1E/viewform">Host a hack day</a>: we're looking for partners to host local hack days. Organizing an event is a great way to deepen your involvement with your local community, and when you share back what you've learned and built at your hack day, you help improve hack days for the entire journalism code community.
 * <a href="http://source.opennews.org/en-US/contribute/">Write for Source</a>: you're already involved in journalism development, so tell the rest of the community what you've created. We're here to help you document and share that work.
 * <a href="/codesprints.html">Make that idea a reality</a>: do you have a small project you've been meaning to finish? An idea from a hack day that needs a little extra attention to get to beta? Apply for a Code Sprint grant to help push that project over the finish line.
 
