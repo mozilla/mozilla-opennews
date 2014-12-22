@@ -1,5 +1,5 @@
 auto: true
 markdown: rdiscount
-permalink: /blog/:year/:month/:title
+permalink: /blog/:title
 rdiscount:
   extensions: [smart]
