@@ -1,0 +1,15 @@
+---
+layout: layout
+---
+
+<h2>{{ page.title }}</h2>
+<h3>by {{ page.author }}</h3>
+<div class="article_body">
+{{ content }}
+</div>
+<small>posted {{ page.date }} | posted in
+{% if page.tags.size > 0 %}
+  {% for tag in page.tags %}
+  {{ tag }}&nbsp;
+    {% endfor %}
+            {% endif %}
