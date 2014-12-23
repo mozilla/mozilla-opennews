@@ -84,7 +84,11 @@
 <ul>
   
     <li>
-      <a href="/blog/test-post">test post</a>
+      <a href="/blog/test-two">another test post</a> | posted <abbr class="timeago" title="2014-12-23 10:45:00 -0600">2014-12-23 10:45:00 -0600</abbr>
+    </li>
+  
+    <li>
+      <a href="/blog/test-post">test post</a> | posted <abbr class="timeago" title="2014-12-22 03:52:46 -0600">2014-12-22 03:52:46 -0600</abbr>
     </li>
   
 </ul>
@@ -171,5 +175,11 @@ informed and engaged.
     <script type="text/javascript" src="/media/js/overthrow.js"></script>
     <script type="text/javascript" src="/media/js/snap.js"></script>
     <script type="text/javascript" src="/media/js/app.js"></script>
+    <script type="text/javascript">
+    jQuery(document).ready(function() {
+      jQuery("abbr.timeago").timeago();
+    });
+    </script>
+
 </body>
 </html>

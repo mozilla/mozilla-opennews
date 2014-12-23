@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenNews Blog Tags
-permalink: /blog/tags.html
+permalink: /blog/tags/index.html
 ---
 
 {% capture tags %}
@@ -12,10 +12,10 @@ permalink: /blog/tags.html
 {% assign sortedtags = tags | split:' ' | sort %}
 
 {% for tag in sortedtags %}
-  <h3 id="{{ tag }}"><a href="/tag/{{ tag }}">{{ tag }}</a></h3>
+  <h3 id="{{ tag }}"><a href="{{ tag }}">{{ tag }}</a></h3>
   <ul>
-  {% for page in site.tags[tag] %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% for post in site.tags[tag] %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> | posted <abbr class="timeago" title="{{ post.date }}">{{ post.date }}</abbr></li>
   {% endfor %}
   </ul>
 {% endfor %}

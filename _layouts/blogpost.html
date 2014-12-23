@@ -7,9 +7,9 @@ layout: layout
 <div class="article_body">
 {{ content }}
 </div>
-<small>posted {{ page.date }} | posted in
+<small>posted <abbr class="timeago" title="{{ page.date }}">{{ page.date }}</abbr> | posted in
 {% if page.tags.size > 0 %}
   {% for tag in page.tags %}
-  {{ tag }}&nbsp;
+  <a href="/blog/tags/{{ tag }}">{{ tag }}</a>&nbsp;
     {% endfor %}
             {% endif %}
