@@ -1,0 +1,15 @@
+---
+layout: layout
+---
+
+<h2>{{ page.title }}</h2>
+<h3>by {{ page.author }}</h3>
+<div class="article_body">
+{{ content }}
+</div>
+<small>posted <abbr class="timeago" title="{{ page.date }}">{{ page.date }}</abbr> | posted in
+{% if page.tags.size > 0 %}
+  {% for tag in page.tags %}
+  <a href="/blog/tags/{{ tag }}">{{ tag }}</a>&nbsp;
+    {% endfor %}
+            {% endif %}
