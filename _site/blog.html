@@ -3,7 +3,7 @@
 <html class="no-js">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>another test post | Knight-Mozilla OpenNews</title>
+    <title>OpenNews Blog | Knight-Mozilla OpenNews</title>
     <link rel="alternate" type="application/atom+xml" title="Atom 0.3"  href="http://planet.opennews.org/rss" />
      <meta name="Description" content="Knight-Mozilla OpenNews is about creating a diverse ecosystem to help journalism thrive on the open web. It's about producing open source code that solves real problems in news. It's about supporting communities of developers and journalists as they make, learn, and invent together. And it's about deploying fellows&mdash;and code&mdash;into news organizations to collaborate in new ways..">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -27,7 +27,7 @@
     <![endif]-->
     <!-- end scripts -->
 </head>
-<body class=" ">
+<body class="blog ">
  <div class="snap-drawers">
      <div class="snap-drawer snap-drawer-left">
          <ul>
@@ -37,7 +37,6 @@
 <li id="source"><a href="/source.html">source</a>
 <li id="srccon"><a href="/srccon.html">srccon</a>
 <li id="newspartners"><a href="/newspartners.html">news partners</a></li>
-<li id="blog"><a href="/blog">blog</a></li>
 <li id="getinvolved"><a href="/getinvolved.html">get involved</a></li>
 </ul>
 
@@ -65,7 +64,6 @@
 <li id="source"><a href="/source.html">source</a>
 <li id="srccon"><a href="/srccon.html">srccon</a>
 <li id="newspartners"><a href="/newspartners.html">news partners</a></li>
-<li id="blog"><a href="/blog">blog</a></li>
 <li id="getinvolved"><a href="/getinvolved.html">get involved</a></li>
 </ul>
 
@@ -81,21 +79,31 @@
 
         <article>
             <div class="main_col">
-            <h2>another test post</h2>
-<h3>by Dan Sinker</h3>
+            <h2>OpenNews Blog</h2>
 <div class="article_body">
-<p>This is another new post</p>
+<p><p class="bodybig">The latest new about journalism innovation and the OpenNews project from the OpenNews team and Knight-Mozilla Fellows. Follow all our posts on the <a href="http://planet.mozillaopennews.org/rss20.xml">OpenNews feed</a> or <a href="http://www.twitter.com/opennews">@opennews</a>.</p>
+
+<p><div id="rss-feeds"></div>
+<div id="feed">Read more by <a href="http://planet.mozillaopennews.org/rss20.xml">subscribing to the OpenNews feed</a></div></p>
+
+<p><script type="text/javascript" src="media/js/jquery.rss.js"></script>
+<script src="https://raw.github.com/timrwood/moment/1.7.2/min/moment.min.js"></script></p>
+
+<p><script>
+  $(function($) {
+    $(&ldquo;#rss-feeds&rdquo;).rss(&ldquo;http://planet.mozillaopennews.org/rss20.xml&rdquo;, {
+      limit: 10,
+      tokens: {
+        prettyDate: function(entry, tokens) {
+          return moment(tokens.date).format(&ldquo;dddd, MMM DD YYYY&rdquo;)
+            }
+        },
+      entryTemplate: &lsquo;<li class="blogentry"><p class="date">{prettyDate}</p><h1><a href="{url}">{title}</a></h1><p>{body}</li>&rsquo;,
+    })
+  })
+</script></p>
 
 </div>
-<small>posted <abbr class="timeago" title="2014-12-23 10:45:00 -0600">2014-12-23 10:45:00 -0600</abbr> | posted in
-
-  
-  <a href="/blog/tags/huh">huh</a>&nbsp;
-    
-  <a href="/blog/tags/whoo">whoo</a>&nbsp;
-    
-            
-
           </div>
              <aside class="challengebox fellowsbox box">
             <div id="involved">
@@ -176,11 +184,5 @@ informed and engaged.
     <script type="text/javascript" src="/media/js/overthrow.js"></script>
     <script type="text/javascript" src="/media/js/snap.js"></script>
     <script type="text/javascript" src="/media/js/app.js"></script>
-    <script type="text/javascript">
-    jQuery(document).ready(function() {
-      jQuery("abbr.timeago").timeago();
-    });
-    </script>
-
 </body>
 </html>
