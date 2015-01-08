@@ -17,19 +17,35 @@ Default template CSS - if you change anything here then updating will be a bit m
 	padding-left: 0;
 }
 /* Masthead */
-.masthead nav {
-	float: right;
-	margin-right: 130px;
-}
+
 #nav {
-	margin-top: 5px;
-	right: 138px;
-	top: 8px;
+	width: 100%;
+	background-color: black;
+	margin-top: 0px;
+	top: 0px;
+	height: 50px;
 	position: absolute;
 	display: inline;
 }
+
+#nav #navblock {
+	display: block;
+	margin: 0 auto;
+	margin-top: 15px;
+	width: 980px;
+}
+
+#nav ul {
+	color: white;
+	font-size: .9em;
+}
+nav li {
+	padding-top: 15px;
+}
 #nav li a {
+	color: white;
 	padding: 1em 15px;
+
 }
 /**= Overrides from devices.css */
 .busta {
@@ -110,6 +126,14 @@ display: inline;
 
 img.fellowssmall {
 	display: none;
+}
+
+#navlist h3.first {
+	margin-top: 20px;
+}
+
+#navlist ul {
+	padding-left: 10px;
 }
 
 

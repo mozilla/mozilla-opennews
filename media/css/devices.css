@@ -260,11 +260,11 @@ article header p {
 	margin: 0 0 0 10px;
 	border: none;
 }
-#involved, #minifellows, #newsbox, #sourcebox {
+#involved, #minifellows, #newsbox, #sourcebox, #sidenav {
 	margin-bottom: 50px;
 }
 
-#involved ul, #involved p, #newsbox ul, #sourcebox ul {
+#involved ul, #involved p, #newsbox ul, #sourcebox ul, #sidenav ul {
 	font-size: 1em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 }
