@@ -24,8 +24,6 @@ Default template CSS - if you change anything here then updating will be a bit m
 	margin-top: 0px;
 	top: 0px;
 	height: 50px;
-	position: absolute;
-	display: inline;
 }
 
 #nav #navblock {
@@ -41,6 +39,7 @@ Default template CSS - if you change anything here then updating will be a bit m
 }
 nav li {
 	padding-top: 15px;
+	display: inline;
 }
 #nav li a {
 	color: white;

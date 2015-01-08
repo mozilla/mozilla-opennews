@@ -16,7 +16,7 @@
     <link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
     <link rel="stylesheet" href="/media/css/snap.css" />
     <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
-  <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" />
     <!-- endstylesheets -->
     <!-- script calls -->
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -29,6 +29,7 @@
     <!-- end scripts -->
 </head>
 <body class="fellowships fellows_2015">
+<!-- removing the snap drawer for now
  <div class="snap-drawers">
      <div class="snap-drawer snap-drawer-left">
          <div id="navblock">
@@ -43,10 +44,14 @@
      </div>
  </div>
 <div id="snap-content-wrapper" class="snap-content overthrow">
+-->
 <script type="text/javascript">
         document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
     </script>
-    <div id="nav">
+  <div id="moztab">
+    <a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>
+  </div>
+    <div id="kissanenav">
          <div id="navblock">
 <ul>
 <li><a href="/whatwedo.html">what we do</a></li>
@@ -57,25 +62,15 @@
 </div>
 
     </div>
-    <header class="masthead">
-        <div class="busta">
-            <a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>
+    <header>
             <div class="toggle-navigation hamburger">menu</div>
             <!--SRCCON LOGO HERE-->
             <!--<a href="http://www.srccon.org"><img alt="SRCCON wheee!" src = "/media/img/srccon_flag.png" class="srccon"></a>-->
             <!--END SRCCON LOGO -->
-            <h1 id="brand">
-                <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470" height="140" /></a>
+            <h1>
+                <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470"  /></a>
             </h1>
-        </div>
     </header>
-     <div id="newsline">
-     </div>
-    <div role="main" class="home" id="home">
-
-
-        <div class="busta">
-
         <article>
             <div class="main_col">
             <div class="article_body">
@@ -159,8 +154,9 @@
 <p>Follow Francis on Twitter at <a href="http://www.twitter.com/frnsys">@frnsys</a></p>
 
 </div>
+
           </div>
-             <aside class="challengebox fellowsbox box">
+             <div class="sidebox">
             <div id="sidenav">
   <h3>OpenNews Programs</h3>
   <div id="navlist">
@@ -222,12 +218,10 @@
 <p>Read more at <a href="http://source.opennews.org">Source</a> or subscribe to the <a class="feed_url" href="http://source.opennews.org/en-US/rss/">Source feed</a></p>
 </div>
 
-            </aside>
+          </div>
         </article>
-        </div>
-    </div>
-    <aside>
-        <section class="partners">
+
+        <footer>
            <div class="busta">
             <h2>Our partner</h2>
             <ul>
@@ -263,9 +257,9 @@ informed and engaged.
             </div>
             </div>
 
-        </section>
-    </aside>
-</div>
+        </footer>
+
+<!-- scripts here -->
     <script type="text/javascript" src="/media/js/overthrow.js"></script>
     <script type="text/javascript" src="/media/js/snap.js"></script>
     <script type="text/javascript" src="/media/js/app.js"></script>
