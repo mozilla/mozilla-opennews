@@ -333,6 +333,8 @@ display: inline;
 
 #minifellows ul li img {
 border: 1px solid #454545;
+width: 20%;
+height: 20%;
 }
 
 #minifellows p, #involved p, #newsbox p, #sourcebox p {
@@ -790,6 +792,11 @@ font-size: 14px;
 #picwrap {
 	width: 100%;
 	margin-top: 18px;
+}
+
+#picwrap img {
+	width: 22%;
+	height: 22%;
 }
 
 .alert {
