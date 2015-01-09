@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-<title>Knight-Mozilla OpenNews</title>
-<description>The blog for the Knight-Mozilla OpenNews project</description>
-<link>http://www.opennews.org/blog</link>
-<atom:link href="http://www.opennews.org/blog/feed.xml" rel="self" type="application/rss+xml" />
+<title></title>
+<description></description>
+<link></link>
+<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
 <title>another test post</title>
@@ -14,8 +14,8 @@
 </description>
 
 <pubDate>Tue, 23 Dec 2014 10:45:00 -0600</pubDate>
-<link>http://www.opennews.org/blog/blog/test-two</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/blog/test-two</guid>
+<link>/2014/12/23/test-two</link>
+<guid isPermaLink="true">/2014/12/23/test-two</guid>
 </item>
 
 <item>
@@ -26,8 +26,8 @@
 </description>
 
 <pubDate>Mon, 22 Dec 2014 03:52:46 -0600</pubDate>
-<link>http://www.opennews.org/blog/blog/test-post</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/blog/test-post</guid>
+<link>/2014/12/22/test-post</link>
+<guid isPermaLink="true">/2014/12/22/test-post</guid>
 </item>
 
 </channel>
