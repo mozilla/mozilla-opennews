@@ -164,9 +164,7 @@ div[role=main] {
 
 /**= And now time for your styles */
 #brand img {
-	margin-top: 1em;
 	width: 100%;
-	height: auto;
 }
 #ONlogo {
 	display: none;
@@ -260,11 +258,11 @@ article header p {
 	margin: 0 0 0 10px;
 	border: none;
 }
-#involved, #minifellows, #newsbox, #sourcebox {
+#involved, #minifellows, #newsbox, #sourcebox, #sidenav {
 	margin-bottom: 50px;
 }
 
-#involved ul, #involved p, #newsbox ul, #sourcebox ul {
+#involved ul, #involved p, #newsbox ul, #sourcebox ul, #sidenav ul {
 	font-size: 1em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 }
@@ -928,9 +926,6 @@ img.fellowsbig {
 		display: none;
 	}
 
-	h1#brand {
-		margin-bottom: 0px;
-	}
 
 	.srccon {
 		display: none;
@@ -940,4 +935,88 @@ img.fellowsbig {
 		display: none;
 	}
 
+}
+
+/******* UPDATED CSS STUFF BECAUSE JESUS CHRIST THIS IS A MESS *********/
+
+article, header, #navblock, #moztab {
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header img {
+		width: auto;
+		margin-top: 60px;
+}
+
+#kissanenav {
+	width: 100%;
+	background-color: black;
+	height: 50px;
+	border-top: 2px solid white;
+}
+
+#kissanenav #navblock {
+	display: block;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+
+#kissanenav ul {
+	color: white;
+	font-size: .9em;
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+#kissanenav li {
+	display: inline;
+	font-size: 1.2em;
+}
+#kissanenav li a {
+	color: white;
+	padding: 16px 16px;
+}
+#kissanenav li a:hover {
+	text-decoration: none;
+	background-color: white;
+	color: black;
+	border-bottom: 1px solid black;
+}
+
+article a {
+	color: #ad3121;
+}
+article h1,
+article h2 {
+	text-transform: capitalize;
+	color: #fc6e1f;
+	font-family: "Open Sans", Helvetica, Verdana, Arial, sans-serif;
+	font-weight: 400;
+}
+article p,
+article ul {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	line-height: 1.6;
+	font-size: 18px;
+}
+
+.sidebox {
+padding-bottom: 20px;
+padding-right: 10px;
+padding-top: 18px;
+margin-top: 20px;
+width: 220px;
+float: right;
+padding-left: 24px;
+border-left: 1px solid #C6C6C6;
+}
+
+.sidebox #minifellows ul {
+	padding-left: 0px;
+}
+
+footer {
+	clear: both;
 }

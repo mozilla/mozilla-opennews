@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title></title>
+<description></description>
+<link></link>
+<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+
+<item>
+<title>another test post</title>
+<dc:creator></dc:creator>
+
+<description>&lt;p&gt;This is another new post&lt;/p&gt;
+</description>
+
+<pubDate>Tue, 23 Dec 2014 10:45:00 -0800</pubDate>
+<link>/2014/12/23/test-two</link>
+<guid isPermaLink="true">/2014/12/23/test-two</guid>
+</item>
+
+<item>
+<title>test post</title>
+<dc:creator></dc:creator>
+
+<description>&lt;p&gt;This is stuff I am writing now.&lt;/p&gt;
+</description>
+
+<pubDate>Mon, 22 Dec 2014 01:52:46 -0800</pubDate>
+<link>/2014/12/22/test-post</link>
+<guid isPermaLink="true">/2014/12/22/test-post</guid>
+</item>
+
+</channel>
+</rss>
