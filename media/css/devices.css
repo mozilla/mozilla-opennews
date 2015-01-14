@@ -1057,3 +1057,19 @@ ul.bloglist li p.excerpt {
 footer {
 	clear: both;
 }
+
+footer div.partner {
+	background-color: #ccc;
+}
+
+footer div.partner #partnerblock {
+	width: 980px;
+	display: block;
+	margin: 0 auto;
+}
+
+footer div.partner #partnerblock h3 {
+	margin-top: 0px;
+	padding-top: 10px;
+
+}
