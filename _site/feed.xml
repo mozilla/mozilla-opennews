@@ -6,29 +6,5 @@
 <link>http://www.opennews.org/blog</link>
 <atom:link href="http://www.opennews.org/blog/feed.xml" rel="self" type="application/rss+xml" />
 
-<item>
-<title>another test post</title>
-<dc:creator></dc:creator>
-
-<description>&lt;p&gt;This is another new post&lt;/p&gt;
-</description>
-
-<pubDate>Tue, 23 Dec 2014 10:45:00 -0800</pubDate>
-<link>http://www.opennews.org/blog/blog/test-two</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/blog/test-two</guid>
-</item>
-
-<item>
-<title>test post</title>
-<dc:creator></dc:creator>
-
-<description>&lt;p&gt;This is stuff I am writing now.&lt;/p&gt;
-</description>
-
-<pubDate>Mon, 22 Dec 2014 01:52:46 -0800</pubDate>
-<link>http://www.opennews.org/blog/blog/test-post</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/blog/test-post</guid>
-</item>
-
 </channel>
 </rss>
