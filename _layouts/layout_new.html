@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+
+<html class="no-js">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>{{ page.title }} | Knight-Mozilla OpenNews</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom 0.3"  href="http://planet.opennews.org/rss" />
+     <meta name="Description" content="Knight-Mozilla OpenNews is about creating a diverse ecosystem to help journalism thrive on the open web. It's about producing open source code that solves real problems in news. It's about supporting communities of developers and journalists as they make, learn, and invent together. And it's about deploying fellows&mdash;and code&mdash;into news organizations to collaborate in new ways..">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+    <!-- stylesheet calls -->
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen,projection,tv" href="/media/css/normalise.css" />
+    <link rel="stylesheet" media="screen,projection,tv" href="/media/css/devices.css" />
+    <link rel="stylesheet" href="/media/css/snap.css" />
+    <link rel="stylesheet" media="all and (min-width:30em)" href="/media/css/desktop.css" />
+    <link rel="stylesheet" href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" />
+    <!-- endstylesheets -->
+    <!-- script calls -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
+    <!--[if lt IE 9]>
+        <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <link rel="stylesheet" media="screen" href="media/css/desktop.css" />
+    <![endif]-->
+    <!-- end scripts -->
+</head>
+<body class="{{ page.section }} {{ page.sub-section }}">
+<!-- removing the snap drawer for now
+ <div class="snap-drawers">
+     <div class="snap-drawer snap-drawer-left">
+         {% include new_navigation.html %}
+     </div>
+ </div>
+<div id="snap-content-wrapper" class="snap-content overthrow">
+-->
+<script type="text/javascript">
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
+    </script>
+  <div id="moztab">
+    <a href="https://www.mozilla.org/" id="tabzilla">mozilla</a>
+  </div>
+    <div id="kissanenav">
+         {% include new_navigation.html %}
+    </div>
+    <header>
+            <div class="toggle-navigation hamburger">menu</div>
+            <!--SRCCON LOGO HERE-->
+            <!--<a href="http://www.srccon.org"><img alt="SRCCON wheee!" src = "/media/img/srccon_flag.png" class="srccon"></a>-->
+            <!--END SRCCON LOGO -->
+            <h1>
+                <a href="/"><img alt="Knight-Mozilla Open News" src="/media/img/ONlogotype_wide2.png" width="470"  /></a>
+            </h1>
+    </header>
+        <article>
+            <div class="main_col">
+            {{ content }}
+          </div>
+             <div class="sidebox">
+            {% include sidebar_update.html %}
+          </div>
+        </article>
+
+        <footer>
+          {% include footer.html %}
+        </footer>
+
+    <script type="text/javascript" src="/media/js/overthrow.js"></script>
+    <script type="text/javascript" src="/media/js/snap.js"></script>
+    <script type="text/javascript" src="/media/js/app.js"></script>
+    <script type="text/javascript">
+    jQuery(document).ready(function() {
+      jQuery("abbr.timeago").timeago();
+    });
+    </script>
+
+</body>
+</html>

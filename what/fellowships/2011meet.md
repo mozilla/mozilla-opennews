@@ -1,0 +1,139 @@
+---
+layout: fellowship_post
+title: Meet the 2011/12 Knight-Mozilla Fellows
+section: fellowships
+sub-section: fellows_2011
+---
+<p class="bodybig">This year's Fellows are spread across the globe, building innovative new approaches to news at the Boston Globe, the BBC, the Guardian, Zeit Online, and Al Jazeera English. Not simply talented developers and technologists, they are also emerging as members the next generation of thought leaders in journalism.</p>
+<ul class="fellowslist">
+<li><a href="#mark">Mark Boas</a>
+<li><a href="#cole">Cole Gillespie</a>
+<li><a href="#laurian">Laurian Gridinoc</a>
+<li><a href="#nicola">Nicola Hughes</a>
+<li><a href="#dan">Dan Schultz</a>
+</ul>
+
+<img src="/media/img/fellows/boas.jpg" class="meet" alt="">
+<h3 id="mark">Mark Boas | Al Jazeera English</h3>
+<ul class = "fellowstats">
+<li><a href="http://www.twitter.com/maboa">@maboa</a>
+<li><a href="http://happyworm.com">website</a>
+<li><a href="http://github.com/maboa/">github</a>
+</ul>
+
+*What made you want to become a Knight-Mozilla Fellow?*
+
+Call me a hippie but I really believe that you can change the world through media and so I felt the intersection of news and technology was a very exciting place to work. Also I was insanely curious to find out how a news organization functioned, oh and the challenges to be solved can be extremely interesting and potential solutions could be seen, used and importantly tested on a worldwide audience.
+
+
+*What unique skills do you think you bring into the newsroom?*
+
+Nothing particularly unique but I work a lot with web-based audio and video. I guess we all have our own unique blend of abilities - ah maybe the ability to smell good coffee at 100 yards? Does that count?
+
+
+*What do you think the role of the technologist/developer is in journalism today?*
+
+I think one of the principle roles is to convince journalists to look towards the web for inspiration, use the tools that it provides and to keep on learning from it because things are changing apace.
+
+
+*How do you think journalism is transforming?*
+
+It is becoming much more immediate and participatory. Anybody can contribute and see their contribution go global in a matter of minutes. In fact one of the challenges is to properly harness user-generated content.
+
+<img src="/media/img/fellows/cole.jpg" class="meet" alt="">
+<h3 id="cole">Cole Gillespie | Zeit Online</h3>
+<ul class = "fellowstats">
+<li><a href="http://www.twitter.com/theCole">@theCole</a>
+<li><a href="http://www.colegillespie.com">website</a>
+<li><a href="http://github.com/coleGillespie">github</a>
+</ul>
+
+*What made you want to become a Knight-Mozilla Fellow?*
+
+I honestly just wanted to make as much exciting code as possible. When I entered the competition I really had no idea how big of a deal being a Knight-Mozilla fellow was going to be. The chance to travel the world doing what I love and tellings others about it, that is what made me want to become a Knight-Mozilla Fellow.
+
+*What unique skills do you think you bring into the newsroom?*
+
+I am not a newsroom guy. I bring hardcore hacks.
+
+*What do you think the role of the technologist/developer is in journalism today?*
+
+It is the same in the news room as it is everywhere else I think. Help people realize what can be done programmatically and then do it.
+
+*How do you think journalism is transforming?*
+
+To know how to the answer this I feel like I would have to know what journalism is in the first place. 
+
+<img src="/media/img/fellows/laurian.jpg" class="meet" alt="">
+<h3 id="laurian">Laurian Gridinoc | BBC</h3>
+<ul class = "fellowstats">
+<li><a href="http://www.twitter.com/gridinoc">@gridinoc</a>
+<li><a href="http://namebound.com">website</a>
+<li><a href="http://github.com/laurian">github</a>
+</ul>
+
+*What made you want to become a Knight-Mozilla Fellow?*
+
+Reading others' submissions to the challenge made me more aware on how I interact with the news, what I dislike and what I felt I was missing (as tool) for making sense of the news, and I ended up submitting my own idea.
+
+*What unique skills do you think you bring into the newsroom?*
+
+I've always worked as a mediator between designers and programmers and doing the R&D needed to bridge the gap between concept and implementation, between magic and actual tricks. And I do know some tricks in the natural language processing, semantic web and HCI areas.
+
+*What do you think the role of the technologist/developer is in journalism today?*
+
+Be the journalist's interface to data, APIs, etc., and provide insight and technical solutions into the stories that involve data mining and visualisation; also to liberate the journalists from the tyranny of the CMS :)
+
+*How do you think journalism is transforming?*
+
+The reader is transforming and I don't think we understand yet where this transformation is leading to, I believe we have to work with  cyborg anthropologists to learn first what to observe.
+
+<img src="/media/img/fellows/nicola.jpg" class="meet" alt="">
+<h3 id="nicola">Nicola Hughes | Guardian</h3>
+<ul class = "fellowstats">
+<li><a href="http://www.twitter.com/dataminerUK">@dataminerUK</a>
+<li><a href="http://datamineruk.com/">website</a>
+<li><a href="https://github.com/DataMinerUK">github</a>
+</ul>
+
+*What made you want to become a Knight-Mozilla Fellow?*
+
+I love working in the newsroom. I love making things you can show to people. News content, online content is no longer about telling, it's about showing, it's about creating content through the medium, via the medium, of the medium. I saw the Knight-Mozilla fellowship as my opportunity to be on the cusp of creating content not for the web but of the web.
+
+*What unique skills do you think you bring into the newsroom?*
+
+I am spending my fellowship gaining new skills. I believe this is a crucial part of modern journalism. The field of digital journalism is moving so fast, the newsroom is also the classroom. I am not a developer. I am a journalist with developer-like tendencies. I am improving my coding skills and bringing to the newsroom a new mindset. You'll have to follow my blog and decide for yourself what unique skills I bring!
+
+*What do you think the role of the technologist/developer is in
+journalism today?*
+
+News is all about people. People speak to people, not programmes. People inform people, not programmes. People provide news, not programmes. Just as Mozilla are talking of the web and no longer for the web, so the role of the technologist/developer in journalism is making online news of the people not for the people. They are not translating data into content, they are weaving information into the fabric of the web so that people can pass it on via their online networks, or sew it into their patchwork profile or add their voice to it.
+
+*How do you think journalism is transforming?*
+
+I don't know. It's one of these things where we only know the answer in retrospect. Only when we know what it has become will we hazard a guess at the process that caused it. But here's a <a href="http://datamineruk.com/2012/03/01/so-what-is-open-journalism-doxa-hyperplanes-and-the-intersection-of-journalism-and-technology/">blog</a> with some of my thoughts.
+
+<img src="/media/img/fellows/dan.jpg" class="meet" alt="">
+<h3 id="dan">Dan Schultz | Boston Globe</h3>
+<ul class = "fellowstats">
+<li><a href="http://www.twitter.com/slifty">@slifty</a>
+<li><a href="http://slifty.com/">website</a>
+<li><a href="https://github.com/slifty">github</a>
+</ul>
+
+*What made you want to become a Knight-Mozilla Fellow?*
+
+I expect to have lots of bruises by the end of the Fellowship, but this is kind of a dream experience for any coder who wants to help save the world.  There are so many hugely important and spectacularly interesting challenges in this field.  What better place to have an impact than in a living breathing newsroom?  Actually, <a href="http://vimeo.com/35328567">just watch this</a>--If developers were surfers, those waves would be Journalism.  Looks like fun, right?
+
+*What unique skills do you think you bring into the newsroom?*
+
+Thanks to my time at the MIT Media Lab I'm coming into the Boston Globe as a professional brainstormer with the ability to build.  I've been immersed in the daunting land of informational wants and needs since winning the Knight News Challenge in 2007, and I've spent plenty of time thinking about creative ways to apply technology to meet those needs.
+
+*What do you think the role of the technologist/developer is in
+journalism today?*
+
+Technologists in journalism need to be benevolent philosopher kings and queens -- they need to understand and unite the incredibly important and often conflicting values of Journalism and the Internet.  They need to work with others to develop and share that understanding, and then they need to use it to invent new tools for creating, organizing, and accessing information.
+
+*How do you think journalism is transforming?*
+
+Journalism is continuing to become more open, more democratic, more immersive, easier to create, and easier to consume.  This also means it is becoming noisier, more diluted, and more difficult to consume safely.  I think it’s ultimately transforming for the better, but we all have a lot of hurdles to jump, systems to build, and interfaces to design before we get there.
