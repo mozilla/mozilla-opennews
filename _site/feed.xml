@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-<title></title>
-<description></description>
-<link></link>
-<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+<title>Knight-Mozilla OpenNews</title>
+<description>The blog for the Knight-Mozilla OpenNews project</description>
+<link>http://www.opennews.org/blog</link>
+<atom:link href="http://www.opennews.org/blog/feed.xml" rel="self" type="application/rss+xml" />
+
+<item>
+<title>2015 Fellowship Onboarding is GO</title>
+<dc:creator></dc:creator>
+
+<description>The OpenNews team brings our 2015 Knight-Mozilla Fellows to Los Angeles to start the work of their fellowship years. We also welcome Kavya Sukumar as our seventh 2015 fellow, who will spend her fellowship year working with Vox Media. Yay fellows! Yay Los Angeles!</description>
+
+<pubDate>Mon, 12 Jan 2015 09:00:00 -0800</pubDate>
+<link>http://www.opennews.org/blog/blog/introducing-kavya</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/blog/introducing-kavya</guid>
+</item>
 
 <item>
 <title>another test post</title>
@@ -14,8 +25,8 @@
 </description>
 
 <pubDate>Tue, 23 Dec 2014 10:45:00 -0800</pubDate>
-<link>/2014/12/23/test-two</link>
-<guid isPermaLink="true">/2014/12/23/test-two</guid>
+<link>http://www.opennews.org/blog/blog/test-two</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/blog/test-two</guid>
 </item>
 
 <item>
@@ -26,8 +37,8 @@
 </description>
 
 <pubDate>Mon, 22 Dec 2014 01:52:46 -0800</pubDate>
-<link>/2014/12/22/test-post</link>
-<guid isPermaLink="true">/2014/12/22/test-post</guid>
+<link>http://www.opennews.org/blog/blog/test-post</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/blog/test-post</guid>
 </item>
 
 </channel>
