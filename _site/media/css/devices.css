@@ -1017,6 +1017,28 @@ border-left: 1px solid #C6C6C6;
 	padding-left: 0px;
 }
 
+ul.bloglist {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+ul.bloglist li {
+	list-style: none;
+	margin-bottom: 40px;
+}
+
+ul.bloglist li p.blogtitle {
+	font-size: 1.3em;
+}
+
+ul.bloglist li p.blogtitle span.blogdate  {
+	font-size: .8em;
+	margin-left: 10px;
+}
+ul.bloglist li p.excerpt {
+	margin-top: 0px;
+}
+
 footer {
 	clear: both;
 }
