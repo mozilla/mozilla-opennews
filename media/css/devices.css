@@ -1039,12 +1039,12 @@ ul.bloglist li p.excerpt {
 	margin-top: 0px;
 }
 
-#involved ul, #involved p, #newsbox ul, #sourcebox ul, #sidenav ul {
+#newsbox ul, #sourcebox ul {
     font-size: 1em;
     font-family: Helvetica,Verdana,Arial,sans-serif;
     margin-left: 0px;
     padding-left: 0px;
-
+}
 footer {
 	clear: both;
 }
