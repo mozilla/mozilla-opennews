@@ -8,7 +8,7 @@ section: getinvolved
 
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig">OpenNews was created to support, strengthen, and expand the the community around open source code in journalism. Whether you're part of an established news apps or data team, or brand new to the field, we have programs and resources to help you connect with peers and mentors, share your work, and make more fantastic projects.</p>
+<p class="bodybig">OpenNews was created to support, strengthen, and expand the the community around open source code in journalism. Whether you’re part of an established news apps or data team, or brand new to the field, we have programs and resources to help you connect with peers and mentors, share your work, and make more fantastic projects.</p>
 
 ### [Become a News Partner](/getinvolved/newspartners.html)
 

@@ -4,15 +4,9 @@ title: The Knight-Mozilla Fellowships
 section: fellowships
 sub-section: fellows_home
 ---
-<div id="picwrap">
-<img src="/media/img/fellows/2015-fellows/tara220.jpg" class="frontpic" alt="Tara Adiseshan">
-<img src="/media/img/fellows/2015-fellows/juan220.jpg" class="frontpic" alt="Juan Elosua">
-<img src="/media/img/fellows/2015-fellows/livia220.jpg" class="frontpic" alt="Livia Labate">
-<img src="/media/img/fellows/2015-fellows/linda220.jpg" class="frontpic" alt="Linda Sandvik">
-<img src="/media/img/fellows/2015-fellows/julia220.jpg" class="frontpic" alt="Julia Smith">
-<img src="/media/img/fellows/2015-fellows/francis220.jpg" class="frontpic" alt="Francis Tseng">
-</div>
-<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2015meet.html">Meet our 2015 Knight Mozilla Fellows</a> as they hack the news around the world.</p>
+<img src="/media/img/2015_fellows_latimes3.jpg" class="topline">
+
+<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2015meet.html">The 2015 Knight-Mozilla fellows</a> learn the ropes from Armand Emamdjomeh at the Los Angeles Times.</p>
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The Knight-Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsroom. Knight-Mozilla Fellows write code, spread ideas, and help build community during their fellowship year.
 <p><a href="2015meet.html">Meet our 2015 Knight Mozilla Fellows</a>
