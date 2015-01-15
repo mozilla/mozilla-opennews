@@ -7,7 +7,9 @@ section: what we do
 
 <img src="/media/img/fellowsplaceholder.jpg" class="topline">
 <p class="caption">The 2015 Knight-Mozilla fellows at the Los Angeles Times</p>
+
 <h2>{{ page.title }}</h2
+
 <p class="bodybig">We are building an ecosystem of programs and tools in support of the global community of journalists and coders who are creating the open technologies and processes journalism needs to thrive.</p>
 
 ### [Fellowships](fellowships/)
@@ -20,7 +22,7 @@ In 2014, we hosted [the inaugural SRCCON](conferences/srccon.html), a conference
 
 ### [Code & Community Support](community/)
 
-In collaboration with writers and developers in newsrooms around the world, we publish [Source, a community site](community/source.html) focused on open technology projects and process in journalism. From features that explore the context behind the code to targeted job listings that help the community expand, Source presents the people, projects, and insights behind journalism code. 
+In collaboration with writers and developers in newsrooms around the world, we publish [Source, a community site](community/source.html) focused on open technology projects and process in journalism. From features that explore the context behind the code to targeted job listings that help the community expand, Source presents the people, projects, and insights behind journalism code.
 
 Several times a year, we host [code convenings](community/convenings.html), focused events in which small teams from newsrooms gather to complete last-mile code and documentation for open-source projects they've been working on. We also hold biweekly open [community calls](community/calls.html) where newsroom data and apps teams can share their work, announce job openings, and find collaborators, and [sponsor hack days and journalism code events](community/hackdays.html) around the globe to build community, code, and momentum for solving the problems working journalists face. [Learn more about our community support programs.](community/)
 
