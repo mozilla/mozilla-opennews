@@ -386,6 +386,12 @@ margin-top: 50px;
 	margin-top: 20px;
 }
 
+img.headshot {
+	float: left;
+	border: 1px solid grey;
+	width: 150px;
+	margin-right: 15px;
+}
 
 #newsbox li, #sourcebox li {
 list-style: none;
