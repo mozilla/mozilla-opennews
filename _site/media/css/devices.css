@@ -1038,14 +1038,72 @@ footer div.partner #partnerblock {
 footer div.partner #partnerblock h3 {
 	margin-top: 0px;
 	padding-top: 10px;
+	padding-left: 10px;
 
 }
 
+@media screen and (max-width: 980px) {
+	article, header {
+		padding: 15px;
+		box-sizing: border-box;
+	}
+
+	header img {
+		margin-top: 20px;
+	}
+
+}
+
+@media screen and (max-width: 800px) {
+
+article, header, #navblock, footer div.partner #partnerblock {
+width: 100%;
+padding: 15px;
+box-sizing: border-box;
+}
+
+#moztab {
+	width: 100%;
+}
+
+#kissanenav {
+	height: 50px;
+	border-top: 2px solid white;
+	margin: 0;
+}
+
+#kissanenav #navblock  {
+	margin: 0;
+}
+
+div.main_col {
+	width: 100%;
+}
+
+.sidebox {
+	width: 100%;
+}
+
+.sidebox .minifellows {
+	display: none;
+}
+
+.sidebox #colleft {
+	width: 48%;
+	float: left;
+	margin-left: 15px;
+}
+
+.sidebox #colright {
+	width: 48%;
+	float: left;
+}
+
+}
 
 @media screen and (max-width: 480px) {
 
 article, header, #navblock, #moztab, footer div.partner #partnerblock {
-width: 100%;
 padding: 5px;
 }
 
@@ -1053,6 +1111,10 @@ header img {
 	width: 96%;
 	margin-top: 0px;
 }
+
+.main_col {
+	float: none; width: auto;
+	}
 
 #kissanenav {
 	height: 30px;
