@@ -7,7 +7,9 @@ section: what we do
 
 <img src="/media/img/operators.jpg" class="topline">
 <p class="caption">Our calls are slightly more exciting. (photo courtesy <a href="https://www.flickr.com/photos/ironrodart/4154904299">Royce Blair</a>)</p>
+
 <h2>{{ page.title }}</h2>
+
 <p class="bodybig">The OpenNews community calls are a community check-in every other Wednesday at 11am US Eastern Time for anyone in or near the journalism-code world who wants to solicit collaborators, announce new events, grants, and job openings, and especially to discuss new projects and processes in their newsrooms.</p>
 
 You can participate by calling in and listening, or by contacting us to get onto the agenda as a speaker—the calls are informal and friendly and a great way to ease into the wider conversation.
@@ -24,7 +26,7 @@ You can participate by calling in and listening, or by contacting us to get onto
 <ul>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Nov26">November 26, 2014 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Oct29">November 12, 2014 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Oct29">November 12, 2014 call</a>
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Oct15">October 15, 2014 call</a>
 </li>
@@ -67,9 +69,9 @@ You can participate by calling in and listening, or by contacting us to get onto
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Nov20">November 20, 2013 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Nov6">November 6, 2013 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Nov6">November 6, 2013 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Oct9">October 9, 2013 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Oct9">October 9, 2013 call</a>
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Sept11">September 11, 2013 call</a>
 </li>
@@ -81,11 +83,11 @@ You can participate by calling in and listening, or by contacting us to get onto
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-July17">July 17, 2013 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-June26">July 3, 2013 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-June26">July 3, 2013 call</a>
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-June12">June 12, 2013 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-May29">May 29, 2013 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-May29">May 29, 2013 call</a>
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-May8">May 8, 2013 call</a>
 </li>
@@ -109,23 +111,22 @@ You can participate by calling in and listening, or by contacting us to get onto
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Dec5">December 5, 2012 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Nov28">November 28, 2012 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Nov28">November 28, 2012 call</a>
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Oct24">October 24, 2012 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Oct10">October 10, 2012 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Oct10">October 10, 2012 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Aug29">September 5, 2012 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Aug29">September 5, 2012 call</a>
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Aug15">August 15, 2012 call</a>
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Aug1">August 1, 2012 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-July18">July 18, 2012 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-July18">July 18, 2012 call</a>
 </li>
-<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-June20">June 27, 2012 call</a> 
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-June20">June 27, 2012 call</a>
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-call-archive">Archive</a> from February 2012-June 6, 2012 prior to switching to per-call Etherpads
 </li>
 </ul>
-
