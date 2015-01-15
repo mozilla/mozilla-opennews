@@ -5,14 +5,9 @@ section: fellowships
 sub-section: fellows_home
 ---
 
-<img src="/media/img/2015_fellows_latimes3.jpg" class="topline">
-<h2>{{ page.title }}</h2
-<p class="caption" style="margin-top: 8px; margin-right: 20px;"><a href="2015meet.html">The 2015 Knight-Mozilla fellows</a> learn the ropes from Armand Emamdjomeh at the Los Angeles Times.</p>
-=======
 <img src="/media/img/2015_fellows_latimes3.jpg" alt="Our 2015 Fellows explore journalism code." style="width: 100%;">
 <p class="caption">Our 2015 Knight Mozilla Fellows visit the Los Angeles Times. <a href="2015meet.html">Meet them now</a>.</p>
->>>>>>> upstream/master
-<h2>{{ page.title }}</h2>
+
 <p class="bodybig">The Knight-Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsroom. Knight-Mozilla Fellows write code, spread ideas, and help build community during their fellowship year.
 <p><a href="2015meet.html">Meet our 2015 Knight Mozilla Fellows</a>
 </p>
