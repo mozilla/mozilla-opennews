@@ -33,7 +33,7 @@
 							and everything else just has {title}.
 							If this changes then BOOM - we reap the benefits
 						*/
-						if (chunks.length !== 1) {
+						if (chunks.length !== 1 && (feed.O.indexOf('planet.') !== -1)) {
 							var name = chunks.shift();
 							feed_list += chunks.toString() + "</a> by " + name.toString();
 						} else {
