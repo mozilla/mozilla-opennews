@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: post_notitle
 title: Conferences
 section: what we do
 
 ---
 <img src="/media/img/srcconcoffee.jpg" class="topline">
+
+<h2>{{ page.title }}</h2>
 <p class="bodybig">The journalism-code community assembles at journalism and tech conferences around the world, and some of the most interesting parts of those events happen in the informal skillshares and hurried conversations between scheduled sessions. We host two annual events designed to provide space for those conversations and collaborations to bloom, surrounded by plentiful food, good coffee, and enthusiastic colleagues.</p>
 
 ### [SRCCON, the OpenNews Conference](srccon.html) 

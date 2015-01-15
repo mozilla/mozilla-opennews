@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: post_notitle
 title: Code & Community Support
 section: what we do
 
 ---
 <img src="/media/img/community.jpg" class="topline">
-
+<h2>{{ page.title }}</h2>
 <p class="bodybig">The developers, journalists, and data wranglers who make up the news code community work in newsrooms (and affiliated organizations) around the world, shipping interactive features, code libraries, and support systems at newsroom pace: fast. But much of the most innovative and useful work to emerge from the community requires time spent on documentation, cross-organizational collaboration, and peer teaching and learning—all of which require time away from the daily grind. Our programs act as community infrastructure, providing concrete editorial, financial, and organizational support for this work. </p>
 
 ### Source

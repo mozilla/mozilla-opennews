@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: post_notitle
 title: Event Support
 section: what we do
 
 ---
 <img src="/media/img/hackdays.jpg" class="topline">
 <p class="caption">Conversing at the Chicago Crime Hack Day (photo/Daniel X O'Neil)</p>
-
+<h2>{{ page.title }}</h2>
 <p class="bodybig">Since 2012, we’ve sponsored nearly 100 <a href="/hackdays.html">hack days</a> and projects around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more. We provide financial support and planning help to local organizers, and <a href="https://docs.google.com/forms/d/1XGWKDHc8YYzmkUSdicPwyyCyaYeHUnY92XwlLAV1i1E/viewform">we'd love to help with your event</a>.</p>
 
 Maybe you’ve already got something in the works, but you want to have a two-day hackfest instead of one. Maybe you’ve got everything lined up, but you want to offer travel grants for your event. Maybe you need advice on
