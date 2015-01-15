@@ -326,7 +326,6 @@ display: inline;
 }
 #minifellows a {
 	margin-top: 1em;
-	display: block;
 }
 
 #minifellows ul li img {
@@ -373,6 +372,25 @@ img.meet14 {
 
 .spacer {
 margin-top: 50px;
+}
+
+#navlist li {
+	list-style: none;
+}
+
+#navlist ul {
+	margin-top: 5px;
+}
+
+#navlist h3.nav {
+	margin-top: 20px;
+}
+
+img.headshot {
+	float: left;
+	border: 1px solid grey;
+	width: 150px;
+	margin-right: 15px;
 }
 
 #newsbox li, #sourcebox li {
@@ -480,7 +498,10 @@ font-size: 1.1em;
 margin-top: 30px;
 margin-bottom: 10px;
 text-transform: uppercase;
+}
 
+h3 a:link, h3 a:visited, h3 a:focus, h3 a:hover, h3 a:active {
+	color: #782216;
 }
 
 #fellowside {
@@ -933,6 +954,10 @@ header img {
 	border-top: 2px solid white;
 }
 
+abbr {
+	border: none;
+}
+
 #kissanenav #navblock {
 	display: block;
 	margin: 0 auto;
@@ -1008,8 +1033,8 @@ ul.bloglist li p.blogtitle {
 }
 
 ul.bloglist li p.blogtitle span.blogdate  {
-	font-size: .8em;
-	margin-left: 10px;
+	font-size: .7em;
+	margin-left: 8px;
 }
 ul.bloglist li p.excerpt {
 	margin-top: 0px;
