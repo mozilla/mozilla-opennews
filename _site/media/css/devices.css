@@ -826,7 +826,7 @@ ul.fellowcode {
  display: none;
 }
 
-.hamburger {
+/* .hamburger {
 		font-size: 1em;
 		display: inline;
 		float: left;
@@ -849,6 +849,7 @@ ul.fellowcode {
 		0 0.25em 0 0 #8d8d8d,
 		0 0.5em 0 0 #8d8d8d;
 	}
+	*/
 
 .snap-drawers {
 	background-color: #eee;
@@ -911,40 +912,6 @@ ul.fellowcode {
 		position: relative;
 		top: 120px;
 	}
-
-
-@media screen and (max-width: 480px) {
-img.fellowsmall {
-	display: inline;
-}
-
-img.fellowsbig {
-	display: none;
-}
-
-	img.frontpic {
-			width: 30%;
-		}
-	.bodybig {
-	font-size: 18px;
-	line-height: 1.7;
-	margin-bottom: 50px;
-	}
-
-	.challengebox {
-		display: none;
-	}
-
-
-	.srccon {
-		display: none;
-	}
-
-	#partnerbox {
-		display: none;
-	}
-
-}
 
 /******* UPDATED CSS STUFF BECAUSE JESUS CHRIST THIS IS A MESS *********/
 
@@ -1049,11 +1016,97 @@ ul.bloglist li p.excerpt {
 }
 
 #newsbox ul, #sourcebox ul {
-    font-size: 1em;
-    font-family: Helvetica,Verdana,Arial,sans-serif;
-    margin-left: 0px;
-    padding-left: 0px;
+		font-size: 1em;
+		font-family: Helvetica,Verdana,Arial,sans-serif;
+		margin-left: 0px;
+		padding-left: 0px;
 }
 footer {
 	clear: both;
+}
+
+footer div.partner {
+	background-color: #ccc;
+}
+
+footer div.partner #partnerblock {
+	width: 980px;
+	display: block;
+	margin: 0 auto;
+}
+
+footer div.partner #partnerblock h3 {
+	margin-top: 0px;
+	padding-top: 10px;
+
+}
+
+
+@media screen and (max-width: 480px) {
+
+article, header, #navblock, #moztab, footer div.partner #partnerblock {
+width: 100%;
+padding: 5px;
+}
+
+header img {
+	width: 96%;
+	margin-top: 0px;
+}
+
+#kissanenav {
+	height: 30px;
+	border-top: 0px;
+	margin: 0;
+}
+
+#kissanenav #navblock  {
+	margin: 0;
+}
+
+#navblock ul {
+	font-size: .7em;
+}
+
+#kissanenav li a {
+padding: 8px;
+}
+
+ul.bloglist li p.blogtitle {
+	font-size: 1.1em;
+}
+
+img.fellowsmall {
+	display: inline;
+}
+
+img.fellowsbig {
+	display: none;
+}
+
+#picwrap img {
+			width: 21%;
+		}
+	.bodybig {
+	font-size: 18px;
+	line-height: 1.7;
+	margin-bottom: 50px;
+	}
+
+	#moztab, #tabzilla-panel {
+		display: none;
+	}
+
+	.challengebox, .sidebox {
+		display: none;
+	}
+
+	.srccon {
+		display: none;
+	}
+
+	#partnerbox {
+		display: none;
+	}
+
 }
