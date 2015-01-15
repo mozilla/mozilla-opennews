@@ -7,8 +7,8 @@ section: who we are
 
 <p class="bodybig">OpenNews is a joint project of Mozilla and the Knight Foundation dedicated to helping journalism thrive on the open web. We are building an ecosystem of tools and programs to strengthen and support the community of developers and data journalists in newsrooms. Learn more about <a href="/what">what we do</a> or find out how you can <a href="/getinvolved">get involved</a>.</p>
 
-### Dan Sinker, Director 
-[IMAGE] Professional entrepreneur. Certified web fan. Typical reader. Twitter ninja. Infuriatingly humble bacon lover.
+### Dan Sinker, Director
+[IMAGE] Dan is the director of OpenNews as well as a journalist, entrepreneur and maker based out of Chicago. He has been involved in the OpenNews project since its founding year in 2011 and has evolved the project into what it is today. Prior to OpenNews, Dan taught digital journalism at Columbia College Chicago, was a Knight Fellow at Stanford University, and founded and ran the magazine Punk Planet. He is the author of two books, the maintainer of countless side projects, and runs a regular role-playing-game night for nine-year-olds.
 
 ### Erika Owens, Program Manager
 [IMAGE] Erika is a web journalist based in Philadelphia. She works with Knight-Mozilla OpenNews to help journalists, developers, designers, data geeks, and civic hackers create awesome projects together on the open web. Prior to joining OpenNews, Erika was web editor at the [Philadelphia Public School Notebook](http://thenotebook.org/) where she oversaw the Notebook's site as it became the go-to place for news and conversation about public education in Philadelphia. She loves nonprofit journalism, people watching, and laughing heartily.
@@ -19,11 +19,10 @@ section: who we are
 ### Erin Kissane, Content Nerd
 [IMAGE] Erin edits [Source, a community hub for code in journalism](http://source.opennews.org), and oversees content and communication for OpenNews. Before joining OpenNews, she was editorial director at Happy Cog Studios, editor of *A List Apart* magazine, and a consultant to web agencies and publishers. She is the author of *The Elements of Content Strategy* and speaks at conferences on online publishing, community, and the open internet. She lives in Brooklyn with her partner and their daughter and blogs at [Incisive.nu](http://incisive.nu).
 
-### [Fellows](what/fellowships/community)
+<img src="/media/img/fellows_collage.jpg" style="width: 100%;">
+## [Fellows](what/fellowships/community)
+The 2015 cohort of Knight-Mozilla fellows brings us to 26 fellows to date, placed in amazing newsroom around the world. The fellows are at the heart of our work at OpenNews—[learn more about them](/what/fellowship).
 
-[IMAGE: Photos of allllll the fellows so far.]
-The 2015 cohort of Knight-Mozilla fellows brings us to 25 fellows to date, placed in amazing newsroom around the world. The fellows are at the heart of our work at OpenNews—[learn more about them](/what/fellowship). 
-
-### Get Involved
+## Get Involved
 
 Everything we do is built around the needs of the sprawling community of people who code (and crunch data, and design interactive tools) in and around newsrooms. Whether you're an old hand or just curious about the field, [there's a way for you to get involved](/getinvolved/).
