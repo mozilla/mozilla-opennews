@@ -97,6 +97,7 @@ header.opengraph {
 	margin-bottom: 40px;
 }
 
+
 #ONlogo {
 margin-right: 40px;
 }
@@ -133,63 +134,4 @@ img.fellowssmall {
 
 #navlist ul {
 	padding-left: 10px;
-}
-
-
-@media screen and (max-width: 890px) {
-	.srccon {
-		display: none;
-	}
-
-}
-
-
-@media screen and (max-width: 720px) {
-	.hamburger {
-		font-size: 1em;
-		display: inline;
-		float: left;
-		margin-top: 10px;
-		margin-right: 10px;
-		padding-left: 20px;
-		position: relative;
-		color: rgba(0, 0, 0, 0.540)
-	}
-
-	.hamburger:before {
-	  content: "";
-	  position: absolute;
-	  left: 0;
-	  top: 6px;
-	  width: 1em;
-	  height: 0.15em;
-	  background:#8d8d8d;
-	  box-shadow:
-		0 0.25em 0 0 #8d8d8d,
-		0 0.5em 0 0 #8d8d8d;
-	}
-
-	#nav {
-		display: none;
-	}
-
-	#brand img {
-		width: 100%;
-	}
-
-	img.frontpic {
-		width: 30%;
-	}
-
-	#involved li {
-		list-style: none;
-	}
-
-	#fellowside select {
-	display: inline-block;}
-
-	#fellowside ul {
-	display: none;
-	}
-
 }
