@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_notitle
 title: What We Do
 section: what we do
 
@@ -7,7 +7,7 @@ section: what we do
 
 <img src="/media/img/fellowsplaceholder.jpg" class="topline">
 <p class="caption">The 2015 Knight-Mozilla fellows at the Los Angeles Times</p>
-
+<h2>{{ page.title }}</h2
 <p class="bodybig">We are building an ecosystem of programs and tools in support of the global community of journalists and coders who are creating the open technologies and processes journalism needs to thrive.</p>
 
 ### [Fellowships](fellowships/)

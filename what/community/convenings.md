@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: post_notitle
 title: Code Convenings
 section: what we do
 
 ---
 <img src="/media/img/codeconveningnyc.jpg" class="topline">
-
+<h2>{{ page.title }}</h2
 <p class="bodybig">Code convenings are small, focused gatherings in which two-person teams from several newsrooms assemble, each with an open source project that needs last-mile development and documentation to be ready for release.</p>
 
 In 2014, we hosted three code convenings in Portland, San Francisco, and New York, with participants from Al Jazeera, the Center for Investigative Reporting, the Los Angeles Times, MinnPost, OpenElections, ProPublica, the New York Times, NPR, Stanford's Computational Journalism program, the Washington Post, and WNYC as well as extra hands-on help from GitHub and the Mozilla Foundation. 10 open-source projects and one meta-project emerged from the convenings:
