@@ -1,14 +1,13 @@
 ---
-layout: post
+layout: post_notitle
 title: Get Involved
 section: getinvolved
 ---
-<img src="/media/img/newspartner.png" class="topline">
+<img src="/media/img/newspartner.jpg" class="topline">
 <p class="caption">From fellowships to Source to code convenings, it always comes back to the newsroom. (photo/Erin McCann)</p>
 
-
 <h2>{{ page.title }}</h2>
-<p class="bodybig">OpenNews was created to support, strengthen, and expand the the community around open source code in journalism. Whether you're part of an established news apps or data team, or brand new to the field, we have programs and resources to help you connect with peers and mentors, share your work, and make more fantastic projects.</p>
+<p class="bodybig">OpenNews was created to support, strengthen, and expand the the community around open source code in journalism. Whether you’re part of an established news apps or data team, or brand new to the field, we have programs and resources to help you connect with peers and mentors, share your work, and make more fantastic projects.</p>
 
 ### [Become a News Partner](/getinvolved/newspartners.html)
 

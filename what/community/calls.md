@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_notitle
 title: Community Calls
 section: what we do
 
@@ -7,7 +7,7 @@ section: what we do
 
 <img src="/media/img/operators.jpg" class="topline">
 <p class="caption">Our calls are slightly more exciting. (photo courtesy <a href="https://www.flickr.com/photos/ironrodart/4154904299">Royce Blair</a>)</p>
-
+<h2>{{ page.title }}</h2>
 <p class="bodybig">The OpenNews community calls are a community check-in every other Wednesday at 11am US Eastern Time for anyone in or near the journalism-code world who wants to solicit collaborators, announce new events, grants, and job openings, and especially to discuss new projects and processes in their newsrooms.</p>
 
 You can participate by calling in and listening, or by contacting us to get onto the agenda as a speaker—the calls are informal and friendly and a great way to ease into the wider conversation.
