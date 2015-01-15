@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_notitle
 title: Get Involved
 section: getinvolved
 ---
