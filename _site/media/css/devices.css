@@ -1042,6 +1042,10 @@ footer div.partner #partnerblock h3 {
 
 }
 
+footer .col img {
+	width: auto;
+}
+
 @media screen and (max-width: 980px) {
 	article, header {
 		padding: 15px;
