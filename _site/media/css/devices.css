@@ -933,6 +933,10 @@ header img {
 	border-top: 2px solid white;
 }
 
+abbr {
+	border: none;
+}
+
 #kissanenav #navblock {
 	display: block;
 	margin: 0 auto;
@@ -1008,8 +1012,8 @@ ul.bloglist li p.blogtitle {
 }
 
 ul.bloglist li p.blogtitle span.blogdate  {
-	font-size: .8em;
-	margin-left: 10px;
+	font-size: .7em;
+	margin-left: 8px;
 }
 ul.bloglist li p.excerpt {
 	margin-top: 0px;
