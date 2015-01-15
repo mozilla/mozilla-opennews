@@ -374,6 +374,19 @@ img.meet14 {
 margin-top: 50px;
 }
 
+#navlist li {
+	list-style: none;
+}
+
+#navlist ul {
+	margin-top: 5px;
+}
+
+#navlist h3.nav {
+	margin-top: 20px;
+}
+
+
 #newsbox li, #sourcebox li {
 list-style: none;
 line-height: 1.4em;
