@@ -326,7 +326,6 @@ display: inline;
 }
 #minifellows a {
 	margin-top: 1em;
-	display: block;
 }
 
 #minifellows ul li img {
@@ -480,7 +479,10 @@ font-size: 1.1em;
 margin-top: 30px;
 margin-bottom: 10px;
 text-transform: uppercase;
+}
 
+h3 a:link, h3 a:visited, h3 a:focus, h3 a:hover, h3 a:active {
+	color: #782216;
 }
 
 #fellowside {
