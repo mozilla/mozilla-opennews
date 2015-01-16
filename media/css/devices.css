@@ -1062,6 +1062,17 @@ ul.bloglist li p.excerpt {
 		margin-left: 0px;
 		padding-left: 0px;
 }
+
+ul.conveninglist {
+	padding-left: 0;
+
+}
+
+ul.conveninglist li {
+	list-style-type: none;
+	margin-bottom: 15px;
+}
+
 footer {
 	clear: both;
 }

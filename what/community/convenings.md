@@ -10,7 +10,7 @@ section: what we do
 
 In 2014, we hosted three code convenings in Portland, San Francisco, and New York, with participants from Al Jazeera, the Center for Investigative Reporting, the Los Angeles Times, MinnPost, OpenElections, ProPublica, the New York Times, NPR, Stanford's Computational Journalism program, the Washington Post, and WNYC as well as extra hands-on help from GitHub and the Mozilla Foundation. 10 open-source projects and one meta-project emerged from the convenings:
 
-<ul>
+<ul class="conveninglist">
 <li><a href="https://source.opennews.org/en-US/articles/introducing-clarify/">Clarify</a>: An OpenElections data discovery and parsing tool for Clarity-based elections systems</li>
 <li>The <a href="https://source.opennews.org/en-US/articles/introducing-california-civic-data-coalition/">California Civic Data Coalition</a>: a meta-project dedicated to making California's public data easier for reporters and other power-users to access</li>
 <li>The <a href="https://source.opennews.org/en-US/articles/introducing-minnposts-elections-night-api/">Election Night <span class="caps">API</span></a>: A MinnPost package of tools, configurations, and instructions for collecting and serving Election Night data</li>
