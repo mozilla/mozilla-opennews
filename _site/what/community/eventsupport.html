@@ -34,10 +34,10 @@
      <div class="snap-drawer snap-drawer-left">
          <div id="navblock">
 <ul>
-<li><a href="/what">what we do</a></li>
-<li><a href="/who">who we are</a></li>
-<li><a href="/getinvolved">get involved</a></li>
-<li><a href="/blog">blog</a></li>
+<li><a href="/what" class="what">what we do</a></li>
+<li><a href="/who" class="who">who we are</a></li>
+<li><a href="/getinvolved" class="involved">get involved</a></li>
+<li><a href="/blog" class="blog">blog</a></li>
 </ul>
 </div>
 
@@ -54,10 +54,10 @@
     <div id="kissanenav">
          <div id="navblock">
 <ul>
-<li><a href="/what">what we do</a></li>
-<li><a href="/who">who we are</a></li>
-<li><a href="/getinvolved">get involved</a></li>
-<li><a href="/blog">blog</a></li>
+<li><a href="/what" class="what">what we do</a></li>
+<li><a href="/who" class="who">who we are</a></li>
+<li><a href="/getinvolved" class="involved">get involved</a></li>
+<li><a href="/blog" class="blog">blog</a></li>
 </ul>
 </div>
 
@@ -88,6 +88,13 @@
 
 <p>Maybe you’ve already got something in the works, but you want to have a two-day hackfest instead of one. Maybe you’ve got everything lined up, but you want to offer travel grants for your event. Maybe you need advice on
  organization. Maybe you want to bring us in to do something from scratch. There are a lot of ways we can help—the key element is that it brings awesome projects and people into the community. Check out our <a href="https://source.opennews.org/en-US/articles/tags/events/">event listings on Source</a> for a taste of the variety of events underway in and around news code.</p>
+
+<div id="hackcalbox">
+    <h3>Upcoming OpenNews-sponsored Hack Days</h3>
+    <table id="hackcal">
+    </table>
+    </div>
+
 
 <p>Our sponsorship process is easy and open. Here’s what we’re looking for:</p>
 
@@ -121,6 +128,42 @@
 
 <p>We&rsquo;re also working on some <a href="https://github.com/erikao/journohackdays">documentation</a> to help you in planning, organizing, and facilitating hack day events. Your questions and feedback are a critical part of making the documentation more useful for everyone.</p>
 
+<script type="text/javascript" src="/media/js/tabletop.js"></script>
+
+
+
+
+<script type="text/javascript">
+
+      //window.onload = function() { init() };
+
+      var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
+
+      $(document).ready( function() {
+        Tabletop.init( { key: public_spreadshseet_url,
+                         callback: showInfo,
+                         debug: true } )
+      });
+
+
+      function showInfo() {
+
+        $.each( Tabletop.sheets("Sheet1").all(), function(i, hackday) {
+
+          var hack_li = $('<tr><td class="date">' + hackday.date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.title + '</a></td><td class="location">' + hackday.location + '</td></tr>')
+          hack_li.appendTo("#hackcal");
+
+       if (hackday.status != 'happening') {
+            hack_li.addClass('hide');
+            };
+        });
+
+
+      };
+
+</script>
+
+
 </div>
 
           </div>
@@ -150,7 +193,7 @@
 <ul>
   <li id="details"><a href="/what/fellowships/info.html">Program Details</a></li>
   <li id="community"><a href="/what/fellowships/community.html">The Fellows</a></li>
-  <li id="why"><a href="/what/fellowships/why.html">Why to Apply</a></li>
+<!--  <li id="why"><a href="/what/fellowships/why.html">Why to Apply</a></li> -->
   <li id="faq"><a href="/what/fellowships/faq.html">How to Apply</a></li>
   <li id="faq"><a href="/what/fellowships/partnerguidelines.html">Partner Info</a></li>
 

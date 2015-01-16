@@ -2,6 +2,7 @@
 layout: post_notitle
 title: Get Involved
 section: getinvolved
+sub-section: index
 ---
 <img src="/media/img/newspartner.jpg" class="topline">
 <p class="caption">From fellowships to Source to code convenings, it always comes back to the newsroom. (photo/Erin McCann)</p>
