@@ -7,6 +7,17 @@
 <atom:link href="http://www.opennews.org/blog/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>New Year, New Site</title>
+<dc:creator></dc:creator>
+
+<description>While our 2015 Knight-Mozilla fellows have been in Los Angeles, getting to know each other and the world of newsroom code, we’ve given OpenNews.org a haircut and re-org to reflect the work we’re actually doing.</description>
+
+<pubDate>Fri, 16 Jan 2015 10:00:00 -0800</pubDate>
+<link>http://www.opennews.org/blog/blog/new-site</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/blog/new-site</guid>
+</item>
+
+<item>
 <title>2015 Fellowship Onboarding is GO</title>
 <dc:creator></dc:creator>
 
