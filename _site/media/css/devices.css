@@ -551,9 +551,17 @@ text-decoration: none;
 .fellows_apply #apply,
 .community #community,
 .fellows_faq #faq,
-.fellows_info #fellow_benefits {
+.fellows_info #fellow_benefits, .fellows_, .partnerships #partners {
 	color: #3E3E3E;
 }
+
+.closed ul li:nth-child(n+6) {
+    display: none;
+}
+
+.closed .showall.less { display: none; }
+.closed .showall.more { display: inline; }
+.showall.more { display: none; }
 
 iframe {
 }
@@ -949,10 +957,11 @@ header img {
 
 #kissanenav {
 	width: 100%;
-	background-color: black;
+	background-color: #3E3D3D;
 	height: 50px;
 	border-top: 2px solid white;
 }
+
 
 abbr {
 	border: none;
@@ -978,13 +987,20 @@ abbr {
 #kissanenav li a {
 	color: white;
 	padding: 16px 16px;
+	padding-bottom: 17px;
 }
-#kissanenav li a:hover {
+#kissanenav li a:hover, #kissanenav li a:active {
 	text-decoration: none;
-	background-color: white;
+	background-color: #ccc;
 	color: black;
-	border-bottom: 1px solid black;
 }
+
+body.who.we.are.index #kissanenav li a.who, body.what.we.do.index #kissanenav li a.what, body.getinvolved.index #kissanenav li a.involved, body.blog.index #kissanenav li a.blog  {
+	background-color: white;
+	color: #3E3D3D
+}
+
+
 
 article a {
 	color: #ad3121;

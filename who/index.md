@@ -2,7 +2,7 @@
 layout: post
 title: Who We Are
 section: who we are
-
+sub-section: index
 ---
 
 <p class="bodybig">OpenNews is a joint project of Mozilla and the Knight Foundation dedicated to helping journalism thrive on the open web. We are building an ecosystem of tools and programs to strengthen and support the community of developers and data journalists in newsrooms. Learn more about <a href="/what">what we do</a> or find out how you can <a href="/getinvolved">get involved</a>.</p>
@@ -19,8 +19,6 @@ section: who we are
 ### Erin Kissane, Editorial Lead
 <img src="/media/img/staff/kissane.jpg" class="headshot"> Erin edits [Source, a community hub for code in journalism](http://source.opennews.org), and oversees content and communication for OpenNews. Before joining OpenNews, she was editorial director at Happy Cog Studios, editor of *A List Apart* magazine, and a consultant to web agencies and publishers. She is the author of *The Elements of Content Strategy* and speaks at conferences on online publishing, community, and the open internet. She lives in Brooklyn with her partner and their daughter and blogs at [Incisive.nu](http://incisive.nu).
 
-
-<img src="/media/img/fellows_collage.jpg" style="width: 100%;">
 ## [Fellows](what/fellowships/community)
 The 2015 cohort of Knight-Mozilla fellows brings us to 26 fellows to date, placed in amazing newsroom around the world. The fellows are at the heart of our work at OpenNews—[learn more about them](/what/fellowship).
 
