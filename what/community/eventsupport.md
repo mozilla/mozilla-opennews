@@ -12,6 +12,12 @@ section: what we do
 Maybe you’ve already got something in the works, but you want to have a two-day hackfest instead of one. Maybe you’ve got everything lined up, but you want to offer travel grants for your event. Maybe you need advice on
  organization. Maybe you want to bring us in to do something from scratch. There are a lot of ways we can help—the key element is that it brings awesome projects and people into the community. Check out our [event listings on Source](https://source.opennews.org/en-US/articles/tags/events/) for a taste of the variety of events underway in and around news code.
 
+<div id="hackcalbox">
+    <h3>Upcoming OpenNews-sponsored Hack Days</h3>
+    <table id="hackcal">
+    </table>
+    </div>
+
 Our sponsorship process is easy and open. Here’s what we’re looking for:
 
 * **Journalistic framing:** We want to get more developers working on journalistic problem sets, so there needs to be a journalistic frame for your event—not something abstract, like “hack the news,” but along the lines of “build geolocational tools for information gathering.”
@@ -38,3 +44,35 @@ Some projects that got their start at hack days or via project sponsorships incl
 ### Documentation
 
 We're also working on some <a href="https://github.com/erikao/journohackdays">documentation</a> to help you in planning, organizing, and facilitating hack day events. Your questions and feedback are a critical part of making the documentation more useful for everyone.
+
+<script type="text/javascript" src="/media/js/tabletop.js"></script>
+
+<script type="text/javascript">
+
+      //window.onload = function() { init() };
+
+      var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
+
+      $(document).ready( function() {
+        Tabletop.init( { key: public_spreadshseet_url,
+                         callback: showInfo,
+                         debug: true } )
+      });
+
+
+      function showInfo() {
+
+        $.each( Tabletop.sheets("Sheet1").all(), function(i, hackday) {
+
+          var hack_li = $('<tr><td class="date">' + hackday.date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.title + '</a></td><td class="location">' + hackday.location + '</td></tr>')
+          hack_li.appendTo("#hackcal");
+
+       if (hackday.status != 'happening') {
+            hack_li.addClass('hide');
+            };
+ 		});
+
+
+      };
+
+</script>
