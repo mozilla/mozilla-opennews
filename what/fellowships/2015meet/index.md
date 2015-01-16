@@ -4,16 +4,9 @@ title: Meet the 2015 Knight-Mozilla Fellows
 section: fellowships
 sub-section: fellows_2015
 ---
-<div id="picwrap">
-<img src="/media/img/fellows/2015-fellows/tara220.jpg" class="frontpic" alt="Tara Adiseshan">
-<img src="/media/img/fellows/2015-fellows/juan220.jpg" class="frontpic" alt="Juan Elosua">
-<img src="/media/img/fellows/2015-fellows/livia220.jpg" class="frontpic" alt="Livia Labate">
-<img src="/media/img/fellows/2014-fellows/logo-220.png" class="" style="border:1px solid white;" alt="OpenNews">
-<img src="/media/img/fellows/2015-fellows/linda220.jpg" class="frontpic" alt="Linda Sandvik">
-<img src="/media/img/fellows/2015-fellows/julia220.jpg" class="frontpic" alt="Julia Smith">
-<img src="/media/img/fellows/2015-fellows/kavya_220.jpg" class="frontpic" alt="Kavya Sukumar">
-<img src="/media/img/fellows/2015-fellows/francis220.jpg" class="frontpic" alt="Francis Tseng">
-</div>
+<img src="/media/img/fellows/2015_fellows_latimes.jpg" alt="Meet the 2015 fellows." style="width: 100%;">
+<p class="caption">Our 2015 Knight Mozilla Fellows stand tall at the Los Angeles Times.</p>
+
 <h2>{{ page.title }}</h2>
 <p class="bodybig">Our 2015 Knight-Mozilla Fellows bring diverse backgrounds and experiences into the newsroom for 10 months. Bringing their talents to the Guardian, NPR, Vox Media, the Center for Investigative Reporting, La Nacion, and the New York Times and  Washington Post, our class of 2015 Knight-Mozilla Fellows will be bringing new ideas and perspectives to the news.</p>
 <ul class="fellowslist">
