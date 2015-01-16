@@ -265,3 +265,11 @@
   document.createElement("abbr");
   document.createElement("time");
 }));
+
+// toggle the call list
+
+$('.showall').click(function (e) {
+    var $this = $(this);
+    e.preventDefault();
+    $('.calllist').toggleClass('closed');
+});

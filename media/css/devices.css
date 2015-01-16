@@ -555,6 +555,14 @@ text-decoration: none;
 	color: #3E3E3E;
 }
 
+.closed ul li:nth-child(n+6) {
+    display: none;
+}
+
+.closed .showall.less { display: none; }
+.closed .showall.more { display: inline; }
+.showall.more { display: none; }
+
 iframe {
 }
 

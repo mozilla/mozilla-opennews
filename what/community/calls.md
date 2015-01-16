@@ -22,7 +22,10 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 [Follow us on Twitter](https://twitter.com/opennews") or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
 
+<div class="calllist closed">
 <h3><span class="mw-headline" id="Call_Archives">Call Archives</span></h3>
+<p>We use Etherpad to take full, participatory notes during our calls. Feel free to look through our call archive. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a>
+
 <ul>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Jan7">January 7, 2015 call</a>
 </li>
@@ -134,3 +137,4 @@ You can participate by calling in and listening, reading along on the etherpad d
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-call-archive">Archive</a> from February 2012-June 6, 2012 prior to switching to per-call Etherpads
 </li>
 </ul>
+</div>
