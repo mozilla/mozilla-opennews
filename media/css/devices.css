@@ -551,7 +551,7 @@ text-decoration: none;
 .fellows_apply #apply,
 .community #community,
 .fellows_faq #faq,
-.fellows_info #fellow_benefits {
+.fellows_info #fellow_benefits, .fellows_, .partnerships #partners {
 	color: #3E3E3E;
 }
 
