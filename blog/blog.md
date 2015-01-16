@@ -2,6 +2,7 @@
 layout: post
 title: OpenNews Updates
 section: blog
+sub-section: index
 permalink: /blog/
 ---
 

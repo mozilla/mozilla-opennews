@@ -2,7 +2,7 @@
 layout: post
 title: Who We Are
 section: who we are
-
+sub-section: index
 ---
 
 <p class="bodybig">OpenNews is a joint project of Mozilla and the Knight Foundation dedicated to helping journalism thrive on the open web. We are building an ecosystem of tools and programs to strengthen and support the community of developers and data journalists in newsrooms. Learn more about <a href="/what">what we do</a> or find out how you can <a href="/getinvolved">get involved</a>.</p>

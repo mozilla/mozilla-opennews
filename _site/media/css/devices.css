@@ -995,7 +995,7 @@ abbr {
 	color: black;
 }
 
-body.who.we.are #kissanenav li a.who, body.what.we.do #kissanenav li a.what, body.getinvolved #kissanenav li a.involved, body.blog #kissanenav li a.blog  {
+body.who.we.are.index #kissanenav li a.who, body.what.we.do.index #kissanenav li a.what, body.getinvolved.index #kissanenav li a.involved, body.blog.index #kissanenav li a.blog  {
 	background-color: white;
 	color: #3E3D3D
 }
