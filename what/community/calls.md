@@ -10,20 +10,24 @@ section: what we do
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The OpenNews community calls are a community check-in every other Wednesday at 11am US Eastern Time for anyone in or near the journalism-code world who wants to solicit collaborators, announce new events, grants, and job openings, and especially to discuss new projects and processes in their newsrooms.</p>
+<p class="bodybig">The OpenNews community calls are a community check-in every other Wednesday at 11am ET for anyone in or near the journalism-code world who wants to announce new projects, events, grants, and job openings, and solicit contributors.</p>
 
-You can participate by calling in and listening, or by contacting us to get onto the agenda as a speaker—the calls are informal and friendly and a great way to ease into the wider conversation.
-
-[Follow us on Twitter](https://twitter.com/opennews") or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
+You can participate by calling in and listening, reading along on the etherpad during or after the call, or by [contacting us](mailto: erika@mozillafoundation.org) to get onto the agenda as a speaker—the calls are informal and friendly and a great way to ease into the wider conversation.
 
 ### Call-in Details
 
+**Next Scheduled Call:** January 21, 2015 ([call notes](https://etherpad.mozilla.org/opennews-calls-Jan21))<br />
 **Conference Number:** +1 800-503-2899 ([international toll-free numbers](https://wiki.mozilla.org/Webmakers/Community_Calls/International))<br />
 **7-Digit Access Code:** 5435555#<br />
-**Call Wiki:** [https://wiki.mozilla.org/OpenNews/Calls](https://wiki.mozilla.org/OpenNews/Calls)
+
+[Follow us on Twitter](https://twitter.com/opennews") or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
 
 <h3><span class="mw-headline" id="Call_Archives">Call Archives</span></h3>
 <ul>
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Jan7">January 7, 2015 call</a>
+</li>
+<li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Dec10">December 10, 2014 call</a>
+</li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Nov26">November 26, 2014 call</a>
 </li>
 <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Oct29">November 12, 2014 call</a>

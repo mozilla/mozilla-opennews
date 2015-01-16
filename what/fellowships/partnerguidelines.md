@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fellowship Partner Guidelines
+title: Fellowship Partner Information
 section: partnerships
 ---
 
@@ -14,4 +14,4 @@ We look for fellowship partners who:
 * commit to being involved in other OpenNews endeavors, including Source and code convenings
 * commit to cover travel costs for a representative to attend a total of four OpenNews related events (two years of the annual Mozilla Festival, an onboarding event, and one other event)
 
-If you want to learn more about how to become involved as a OpenNews Fellowship Partner for 2016, [please contact us](mailto:opennews@mozillafoundation.org?Subject=fellowship%20partner). We'd love to chat, but please do <a href="https://docs.google.com/forms/d/1dmoq7cCvHEV0YZj160Ucfz5-mr3O_ZV7RIPVXcly9o8/viewform">fill out the form as well</a>. And if being a fellowship partner doesn't sound like a fit for your news organization for 2016, please check out the many other ways we [partner with newsrooms](/getinvolved/newspartners.html).
+If you have any questions about becoming a fellowship partner for 2016, [please contact us](mailto:info@opennews.org). In the spring of 2015, we'll update this page with details about the application process to become a fellowship partner. And if being a fellowship partner doesn’t sound like a fit for your organization, check out the many other ways we [work with newsrooms](/getinvolved/newspartners.html).
