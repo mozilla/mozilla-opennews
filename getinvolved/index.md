@@ -10,12 +10,12 @@ sub-section: index
 <h2>{{ page.title }}</h2>
 <p class="bodybig">OpenNews was created to support, strengthen, and expand the the community around open source code in journalism. Whether you’re part of an established news apps or data team, or brand new to the field, we have programs and resources to help you connect with peers and mentors, share your work, and make more fantastic projects.</p>
 
-### [Become a News Partner](/getinvolved/newspartners.html)
+### [Become a News Partner](/getinvolved/newspartners)
 
-Are you a newsroom looking to get more involved in the community by running a hack day, joining a code convening, or hosting a Knight-Mozilla fellow? [Learn how to become an OpenNews partner.](/getinvolved/newspartners.html)
+Are you a newsroom looking to get more involved in the community by running a hack day, joining a code convening, or hosting a Knight-Mozilla fellow? [Learn how to become an OpenNews partner.](/getinvolved/newspartners)
 
 ### [Apply for a Fellowship](/what/fellowships/)
-Knight-Mozilla fellows spend 10 months working with a fantastic news organization in a paid position and traveling around the world to learn from and collaborate with news nerds. [Meet our 2015 fellows](what/fellowships/2015meet.html) and [learn more about the program](/what/fellowships/), then join our notifications list or [follow us on Twitter](https://twitter.com/opennews) to be notified when applications open for the 2016 fellowships in the summer of 2015.
+Knight-Mozilla fellows spend 10 months working with a fantastic news organization in a paid position and traveling around the world to learn from and collaborate with news nerds. [Meet our 2015 fellows](what/fellowships/2015meet) and [learn more about the program](/what/fellowships/), then join our notifications list or [follow us on Twitter](https://twitter.com/opennews) to be notified when applications open for the 2016 fellowships in the summer of 2015.
 
 ### [Find a Job in a Newsroom](https://source.opennews.org/en-US/jobs/)
 News organizations are hungry for skilled developers and data wranglers who want to do journalism development, data-wrangling, and visualization work full time—and many of the positions are open even to those with no prior newsroom experience. <a href="https://source.opennews.org/en-US/jobs/">Find a journalism code job at Source Jobs</a>.
@@ -27,6 +27,6 @@ From visualization libraries to data extractors and presentation templates, news
 ### Learn More about Code in Journalism
 
 * <a href="http://source.opennews.org">Check out Source</a>: Learn about new projects, dive into in-depth case studies, or find a journalism code project to fork on GitHub.
-* <a href="/what/community/calls.html">Join in a call</a>: We hold a community call every other Wednesday at 11am US Eastern Time where newsroom coders discuss projects, event organizers report on their hack days, and Knight-Mozilla Fellows detail their adventures.
-* <a href="/what/community/eventsupport.html">Participate in a hack day</a>: We support hack events all over the world and there may be one happening near you soon.
+* <a href="/what/community/calls">Join in a call</a>: We hold a community call every other Wednesday at 11am US Eastern Time where newsroom coders discuss projects, event organizers report on their hack days, and Knight-Mozilla Fellows detail their adventures.
+* <a href="/what/community/eventsupport">Participate in a hack day</a>: We support hack events all over the world and there may be one happening near you soon.
 * <a href="http://www.twitter.com/opennews">Follow us on Twitter</a>: ask questions, find out what we're up to, and let us know what you're doing.
