@@ -23,5 +23,3 @@ In 2014, we hosted three code convenings in Portland, San Francisco, and New Yor
 </ul>
 
 In 2015, we'll host a new round of code convenings, each with an open call for submissions. [Follow us on Twitter](https://twitter.com/opennews") or <a href="https://lists.mozilla.org/listinfo/community-mojo">sign up for our email list</a> to be notified when we post each call.
-
-
