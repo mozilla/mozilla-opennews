@@ -1,14 +1,14 @@
 ---
 layout: blogpost
 title: Source is Hiring
-date: 2015-1-16 10:00
+date: 2015-1-23 07:00
 author: Erin Kissane
 tags: Source
-excerpt: OpenNews is hiring a part-time assistant editor on a contract basis for Source and you should totally apply.
+excerpt: OpenNews is hiring a part-time assistant editor on a contract basis for Source, our journalism-code community website—and you should totally apply.
 
 ---
 
-OpenNews is hiring a part-time assistant editor on a contract basis for [Source](http://source.opennews.org). The assistant editor will work with our editor to handle daily shepherding of articles in process; will edit and produce two or three articles weekly in our CMS, and copyedit one or two more; will participate in biweekly OpenNews community calls and write short weekly round-up posts partly keyed from the community calls; and will work with the OpenNews team to make Source as responsive and useful as possible to the newsroom code community. The position will require 15-20 hours per week, on average. 
+OpenNews is hiring a part-time assistant editor on a contract basis for [Source, our journalism-code community website](http://source.opennews.org). The assistant editor will work with our editor to handle daily shepherding of articles in process; will edit and produce two or three articles weekly in our CMS, and copyedit one or two more; will participate in biweekly OpenNews community calls and write short weekly round-up posts partly keyed from the community calls; and will work with the OpenNews team to make Source as responsive and useful as possible to the newsroom code community. The position will require 15-20 hours per week, on average. 
 
 Our ideal candidate will be psyched about open source and open process in journalism, and will have experience writing and editing for publication, broadly speaking. Familiarity with relevant tech vocabulary is important—you don't have to code, but you'll need to be comfortable writing HTML, and to be able to follow descriptions of technical processes and choices. (You'll have backup on the team for this.) Most importantly, our assistant editor will feel comfortable checking in with our writers and developing friendly, supportive relationships with developers, designers, and data journalists around the world.
 
