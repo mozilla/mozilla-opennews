@@ -7,12 +7,23 @@
 <atom:link href="http://www.opennews.org/blog/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>Fellows Hack with the California Civic Data Coalition</title>
+<dc:creator></dc:creator>
+
+<description>During the onboarding week with our new 2015 Knight-Mozilla fellows, we spent a couple days working with the California Civic Data Coalition on an open-source news app. Here&#39;s what our goals were, and here&#39;s what we learned.</description>
+
+<pubDate>Mon, 26 Jan 2015 12:00:00 -0800</pubDate>
+<link>http://www.opennews.org/blog/blog/fellowship-onboarding-ccdc</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/blog/fellowship-onboarding-ccdc</guid>
+</item>
+
+<item>
 <title>Source is Hiring</title>
 <dc:creator></dc:creator>
 
 <description>OpenNews is hiring a part-time assistant editor on a contract basis for Source, our journalism-code community website—and you should totally apply.</description>
 
-<pubDate>Fri, 23 Jan 2015 07:00:00 -0600</pubDate>
+<pubDate>Fri, 23 Jan 2015 07:00:00 -0800</pubDate>
 <link>http://www.opennews.org/blog/blog/source-hiring</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/blog/source-hiring</guid>
 </item>
@@ -23,7 +34,7 @@
 
 <description>While our 2015 Knight-Mozilla fellows have been in Los Angeles, getting to know each other and the world of newsroom code, we’ve given OpenNews.org a haircut and re-org to reflect the work we’re actually doing.</description>
 
-<pubDate>Fri, 16 Jan 2015 10:00:00 -0600</pubDate>
+<pubDate>Fri, 16 Jan 2015 10:00:00 -0800</pubDate>
 <link>http://www.opennews.org/blog/blog/new-site</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/blog/new-site</guid>
 </item>
@@ -34,7 +45,7 @@
 
 <description>The OpenNews team brings our 2015 Knight-Mozilla Fellows to Los Angeles to start the work of their fellowship years. We also welcome Kavya Sukumar as our seventh 2015 fellow, who will spend her fellowship year working with Vox Media. Yay fellows! Yay Los Angeles!</description>
 
-<pubDate>Mon, 12 Jan 2015 09:00:00 -0600</pubDate>
+<pubDate>Mon, 12 Jan 2015 09:00:00 -0800</pubDate>
 <link>http://www.opennews.org/blog/blog/introducing-kavya</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/blog/introducing-kavya</guid>
 </item>
@@ -45,7 +56,7 @@
 
 <description>Live from the 2014 Mozilla Festival in London, we&#39;re thrilled to introduce our 2015 Knight-Mozilla Fellows. The work that the Knight-Mozilla Fellows do during their fellowship year doesn&#39;t fit easily into a single sentence. Over the year a fellow will play the role of coder, teacher, mentor (and mentee), adventurer, colleague, and friend. They&#39;ll push themselves, and journalism, in new directions. They&#39;ll do work that has real impact--on themselves and on the web. It&#39;s a tall order, but a thrilling one, and the people we have lined up to do the work of a Knight-Mozilla Fellow in 2015 are among our very best yet. I can&#39;t wait for you to meet them.</description>
 
-<pubDate>Wed, 22 Oct 2014 09:00:00 -0500</pubDate>
+<pubDate>Wed, 22 Oct 2014 09:00:00 -0700</pubDate>
 <link>http://www.opennews.org/blog/blog/announcing-2015-fellows</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/blog/announcing-2015-fellows</guid>
 </item>
