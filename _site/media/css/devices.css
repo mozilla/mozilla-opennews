@@ -490,7 +490,7 @@ width: 98%;
 	text-align: left;
 }
 
-h3 {
+h3, h4 {
 color: #0d0d0d;
 font-family: 'Open Sans', Helvetica, Verdana, Arial, sans-serif;
 font-weight: 300;
@@ -498,6 +498,14 @@ font-size: 1.1em;
 margin-top: 30px;
 margin-bottom: 10px;
 text-transform: uppercase;
+}
+
+h4 {
+	font-size: 1.05em;
+	line-height: 1em;
+	font-weight: 400;
+	margin-bottom: 0px;
+	margin-top: 40px;
 }
 
 h3 a:link, h3 a:visited, h3 a:focus, h3 a:hover, h3 a:active {
@@ -1019,6 +1027,8 @@ article ul {
 	font-size: 18px;
 }
 
+
+
 .sidebox {
 padding-bottom: 20px;
 padding-right: 10px;
@@ -1046,6 +1056,9 @@ ul.bloglist li {
 
 ul.bloglist li p.blogtitle {
 	font-size: 1.3em;
+	line-height: 1em;
+	margin-bottom: 10px;
+}
 }
 
 ul.bloglist li p.blogtitle span.blogdate  {
