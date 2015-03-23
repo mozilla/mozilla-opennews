@@ -18,7 +18,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 **Next Scheduled Call:** April 1, 2015 ([call notes](https://etherpad.mozilla.org/opennews-calls-Apr1))<br />
 **Conference Number:** +1 800-503-2899 ([international toll-free numbers](https://wiki.mozilla.org/Webmakers/Community_Calls/International))<br />
-**7-Digit Access Code:** 5435555#<br />
+**7-Digit Access Code:** 1941934#<br />
 
 [Follow us on Twitter](https://twitter.com/opennews") or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
 
