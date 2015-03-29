@@ -10,7 +10,7 @@ section: source
 
 ### The Context Behind the Code
 
-No code is written in a vacuum, and that#8217;s especially true in journalism, where the news of the day influences the lines of code written to research, report, and interpret it. <a href="http://source.opennews.org/articles/">Our features</a> connect the code with its context, using the journalistic approach of "Who, What, Why, When, and How" to exploring the motivations, ideas, and innovations behind the lines of code.
+No code is written in a vacuum, and that&#8217;s especially true in journalism, where the news of the day influences the lines of code written to research, report, and interpret it. <a href="http://source.opennews.org/articles/">Our features</a> connect the code with its context, using the journalistic approach of "Who, What, Why, When, and How" to exploring the motivations, ideas, and innovations behind the lines of code.
 
 We've built the shape of the community into the very <a href="https://github.com/mozilla/source/">source code</a> of Source itself, collecting data around <a href="http://source.opennews.org/people">people</a> and <a href="http://source.opennews.org/organizations">organizations</a> with every article we write and every line of code we index. You can learn more about the creators of journalism's vital codebases right alongside the code they've written.
 
