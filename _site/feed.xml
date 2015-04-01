@@ -18,17 +18,6 @@
 </item>
 
 <item>
-<title>This is another page</title>
-<dc:creator></dc:creator>
-
-<description>this is an excerpt</description>
-
-<pubDate>Wed, 01 Apr 2015 09:00:00 -0500</pubDate>
-<link>http://www.opennews.org/blog/this-is-another</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/this-is-another</guid>
-</item>
-
-<item>
 <title>Making SRCCON Good for Humans</title>
 <dc:creator></dc:creator>
 
@@ -114,6 +103,17 @@
 <pubDate>Fri, 16 Jan 2015 10:00:00 -0600</pubDate>
 <link>http://www.opennews.org/blog/new-site</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/new-site</guid>
+</item>
+
+<item>
+<title>2015 Fellowship Onboarding is GO</title>
+<dc:creator></dc:creator>
+
+<description>The OpenNews team brings our 2015 Knight-Mozilla Fellows to Los Angeles to start the work of their fellowship years. We also welcome Kavya Sukumar as our seventh 2015 fellow, who will spend her fellowship year working with Vox Media. Yay fellows! Yay Los Angeles!</description>
+
+<pubDate>Mon, 12 Jan 2015 09:00:00 -0600</pubDate>
+<link>http://www.opennews.org/blog/introducing-kavya</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/introducing-kavya</guid>
 </item>
 
 </channel>
