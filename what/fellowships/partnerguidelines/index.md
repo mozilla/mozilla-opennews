@@ -3,9 +3,9 @@ layout: fellowship_post
 title: Fellowship Partner Information
 section: partnerships
 ---
-
-From April 1 to April 24 we will [accept applications](#form) from news organizations interested in hosting a fellow in 2016.
-
+<p class="bodybig">
+From April 1 to April 24 we will <a href="#form">accept applications</a> from news organizations interested in hosting a fellow in 2016. Apply to host a 2016 Knight-Mozilla Fellow today!
+</p>
 The partners who host our Knight-Mozilla fellows do much more than simply offer a desk at their news organization and gain extra expertise for their team: they are crucial partners who help select, mentor, and advise our fellows as well as offering them access to journalistic problem-sets and experts within their newsrooms.
 
 We look for fellowship partners who:
