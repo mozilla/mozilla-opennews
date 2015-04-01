@@ -19,13 +19,15 @@ For most people, a successful conference experience is only fractionally about t
 
 Our evening block on the first night of the conference was also about keeping attendees together, but breaking up the kinds of attention they were using. Instead of more sessions about coding and data in newsrooms, people ran cooking skillshares, played tabletop games, did lightning talks, and worked on projects together. And because we expected that folks would keep socializing well into the night, we started sessions at 11am on the second morning out of respect for early-morning zombie feels.
 
+Lastly, we kept organizational affiliation off of the attendee nametags to help people connect in an individual, collegial ways and reduce conversational barriers and assumptions based on affiliation. (No one ever intends to do that kind of social shortcutting, but once sleepy conference-brain kicks in, it's as hard to ignore as an airport TV, so we did what we could to help nix it.)
+
 #### Notes for Next Time
 
 Our session length options needed a little tuning, so we're experimenting with a greater variety of length and format possibilities this year. And on the subtler side, we'll be paying more attention this year to the culture markers we explicitly endorse as part of the evening events. Plenty of people enjoyed extra-nerdy references in our evening setup, but we also heard from some who found those elements alienating, so we're thinking through ways of offering nerd-culture options without making people uncomfortable.
 
 ### Eating & Drinking
 
-We planned the catered meals at SRCCON to be plentiful, varied, reasonably healthy, and friendly to many dietary preferences and restrictions. We also kept snack stations full of fresh fruit and vegetables, nuts and other protein snacks, and a few sweet things to keep everyone's energy steady through the day. Our coffee-hacking station complimented catered coffee, tea, and sodas, and we had  plenty of water at all times—which is the kind of thing I wish I didn't need to list, but isn't always the case at conferences.
+We planned the catered meals at SRCCON to be plentiful, varied, reasonably healthy, and friendly to many dietary preferences and restrictions. We also kept snack stations full of fresh fruit and vegetables, nuts and other protein snacks, and a few sweet things to keep everyone's energy steady through the day. Our coffee-hacking station complemented catered coffee, tea, and sodas, and we had  plenty of water at all times—which is the kind of thing I wish I didn't need to list, but isn't always the case at conferences.
 
 On the allergy and dietary preferences tip, we made sure there were hot meals (and even morning doughnuts) that worked for people with gluten intolerances and common food allergies, as well as solid vegetarian and vegan options. SRCCON took place during Ramadan, so we also offered delayed meal options for anyone observing a fast. 
 
@@ -41,16 +43,18 @@ This year, we plan to include a more serious tea-making operation as well as the
 
 In addition to holding SRCCON in a wheelchair-accessible space, we brought in a live transcription team from [White Coat Captioning](http://www.whitecoatcaptioning.com/) (about which much more later this week) to livestream captions of three concurrent sessions throughout the event. For parents, we offered a free subscription to [SitterCity](https://www.sittercity.com/), a childcare matchmaking service, and a clean, secure space for pumping and nursing. And, of course, we offered a clear [code of conduct](http://srccon.org/conduct/) underpinned by action and safety plans.
 
+
+
 #### Notes for Next Time
 
-This year, we are taking a big step forward on childcare and offering licensed on-site care to all SRCCON attendees, for free. We'll also post meeting information for local AA chapters and other peer support groups so that it's easy to find. 
+This year, we are taking a big step forward on childcare and offering licensed on-site care to all SRCCON attendees in a friendly space at the conference hotel next door, for free. We'll also post meeting information for local AA chapters and other peer support groups so that it's easy to find, and we're absolutely taking the [Ada Initiative's suggestion](https://adainitiative.org/2013/07/another-way-to-attract-women-to-conferences-photography-policies/) to use color-coded lanyards to visually mark photo policy preferences. 
 
 
 ### Onward/Upward
 
 Our goal was to be good enough at meeting basic human needs that people could focus on what they came to SRCCON for: learning together, hanging out with peers and colleagues, and having fun. In our first year of running the conference, we did pretty well, though we came out with a laundry list of things to do better this year. 
 
-Notably, none of the specific tasks we took on were particularly challenging, and many weren't even expensive—they just involved taking the needs of a larger group into consideration when we made initial plans, rather than at the very end of the process (or not at all). For the pieces that did involve greater expense, like a live transcription team, we found that sponsors were very willing to help us come up with the money to help make SRCCON more accessible and more humane. Maybe most importantly, we learned that taking time up front to be thoughtful about human needs paid tremendous dividends at the event itself in the form of happy, well fed, rested, and relaxed colleagues.
+Notably, none of the specific tasks we took on were particularly challenging, and many weren't even expensive—they just involved taking the needs of a larger group into consideration when we made initial plans, rather than at the very end of the process (or not at all). For the pieces that did involve greater expense, we found that sponsors were very willing to help us come up with the money to help make SRCCON more accessible and more humane. Maybe most importantly, we learned that taking time up front to be thoughtful about human needs paid tremendous dividends at the event itself in the form of happy, rested, relaxed colleagues.
 
 As always, we thrive on feedback and questions, so please [send us a note](mailto:srccon@opennews.org) if you have either one. 
 
