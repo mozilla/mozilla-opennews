@@ -7,6 +7,17 @@
 <atom:link href="http://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>Hosting a Knight-Mozilla Fellow in 2016</title>
+<dc:creator></dc:creator>
+
+<description>Next year will be the fifth year of the Knight-Mozilla Fellowship program and we&#39;re looking for our next group of fellowship partners. If your news organization is interested in hosting a fellow next year, [fill out this form](http://opennews.org/what/fellowships/partnerguidelines/#form) by April 24.</description>
+
+<pubDate>Wed, 01 Apr 2015 17:00:00 -0500</pubDate>
+<link>http://www.opennews.org/blog/fellowship-2016-partner</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/fellowship-2016-partner</guid>
+</item>
+
+<item>
 <title>Making SRCCON Good for Humans</title>
 <dc:creator></dc:creator>
 
@@ -103,17 +114,6 @@
 <pubDate>Mon, 12 Jan 2015 09:00:00 -0600</pubDate>
 <link>http://www.opennews.org/blog/introducing-kavya</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/introducing-kavya</guid>
-</item>
-
-<item>
-<title>Announcing our 2015 Knight-Mozilla Fellows!</title>
-<dc:creator></dc:creator>
-
-<description>Live from the 2014 Mozilla Festival in London, we&#39;re thrilled to introduce our 2015 Knight-Mozilla Fellows. The work that the Knight-Mozilla Fellows do during their fellowship year doesn&#39;t fit easily into a single sentence. Over the year a fellow will play the role of coder, teacher, mentor (and mentee), adventurer, colleague, and friend. They&#39;ll push themselves, and journalism, in new directions. They&#39;ll do work that has real impact--on themselves and on the web. It&#39;s a tall order, but a thrilling one, and the people we have lined up to do the work of a Knight-Mozilla Fellow in 2015 are among our very best yet. I can&#39;t wait for you to meet them.</description>
-
-<pubDate>Wed, 22 Oct 2014 09:00:00 -0500</pubDate>
-<link>http://www.opennews.org/blog/announcing-2015-fellows</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/announcing-2015-fellows</guid>
 </item>
 
 </channel>
