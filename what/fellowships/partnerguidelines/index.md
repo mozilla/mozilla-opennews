@@ -18,8 +18,8 @@ We look for fellowship partners who:
 
 If you are a newsroom that would like to apply to host a Knight-Mozilla Fellow in 2016 [please fill out our application below](#form) by April 24.
 
-If you want to learn more about how to become involved as a OpenNews Fellowship Partner for 2016, [please contact us](info@opennews.org). We’d love to chat, but please do fill out the form as well. We’ll accept applications from news organizations from April 1-24, review the applications and interview candidates in May, and announce  the 2016 cohort of fellowship partners in early June when we start the fellowship search.
+If you want to learn more about how to become involved as a OpenNews Fellowship Partner for 2016, [please contact us](mailto:info@opennews.org). We’d love to chat, but please do fill out the form as well. We’ll accept applications from news organizations from April 1-24, review the applications and interview candidates in May, and announce  the 2016 cohort of fellowship partners in early June when we start the fellowship search.
 
 If being a Fellowship partner doesn’t sound like a fit for your news organization, please [check out the other ways](/newspartners/) OpenNews partners with newsrooms.
-<div id="form">
-<iframe src="https://docs.google.com/forms/d/1K6mz3_NMzcS4mKtZFPQdy1eGXK3lnbWcJ-0zFhvycyk/viewform?embedded=true" width="740" height="4300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<div id="form"></div>
+<iframe src="https://docs.google.com/forms/d/1K6mz3_NMzcS4mKtZFPQdy1eGXK3lnbWcJ-0zFhvycyk/viewform?embedded=true" width="600" height="4000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
