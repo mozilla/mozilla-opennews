@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: Hosting a Knight-Mozilla Fellow in 2016
-date: 2015-4-1 17:00
+date: 2015-4-1 16:15
 author: Erika Owens
 tags: Fellowship
 excerpt: Next year will be the fifth year of the Knight-Mozilla Fellowship program and we're looking for our next group of fellowship partners. If your news organization is interested in hosting a fellow next year, <a href="http://opennews.org/what/fellowships/partnerguidelines/#form">fill out this form</a> by April 24.
