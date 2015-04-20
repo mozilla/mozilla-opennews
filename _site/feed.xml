@@ -18,6 +18,17 @@
 </item>
 
 <item>
+<title>Five Things We&#39;ve Learned About Sessions</title>
+<dc:creator></dc:creator>
+
+<description>As we near the deadline for SRCCON session proposals (April 10, &lt;a href=&quot;http://srccon.org/sessions&quot;&gt;pitch now&lt;/a&gt;) we wanted to share with you some of what we&#39;ve learned about sessions so far. Thank you to everyone who shared feedback about last year&#39;s conference and helped inform &lt;a href=&quot;http://opennews.org/blog/srccon-human-stuff&quot;&gt;how we&#39;re thinking about things&lt;/a&gt; this year.</description>
+
+<pubDate>Wed, 08 Apr 2015 18:00:00 -0700</pubDate>
+<link>http://www.opennews.org/blog/srccon-top5</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/srccon-top5</guid>
+</item>
+
+<item>
 <title>How to plan a great SRCCON session</title>
 <dc:creator></dc:creator>
 
@@ -103,17 +114,6 @@
 <pubDate>Fri, 20 Feb 2015 12:00:00 -0800</pubDate>
 <link>http://www.opennews.org/blog/srccon-launch</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srccon-launch</guid>
-</item>
-
-<item>
-<title>Fellows Hack with the California Civic Data Coalition</title>
-<dc:creator></dc:creator>
-
-<description>During the onboarding week with our new 2015 Knight-Mozilla fellows, we spent a couple days working with the California Civic Data Coalition on an open-source news app. Here&#39;s what our goals were, and here&#39;s what we learned.</description>
-
-<pubDate>Mon, 26 Jan 2015 12:00:00 -0800</pubDate>
-<link>http://www.opennews.org/blog/fellowship-onboarding-ccdc</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/fellowship-onboarding-ccdc</guid>
 </item>
 
 </channel>
