@@ -7,6 +7,17 @@
 <atom:link href="http://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>Code Convening&amp;#58; Write The Docs. Come open your code with us!</title>
+<dc:creator></dc:creator>
+
+<description>We&#39;ll be taking a cohort of news developers and journalists to the Write The Docs conference, May 17-19 in Portland, to write and revise documentation, release the latest version of their open-source projects, and talk journalism with the technical documentation community.</description>
+
+<pubDate>Mon, 20 Apr 2015 14:00:00 -0700</pubDate>
+<link>http://www.opennews.org/blog/code-convening-wtd</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/code-convening-wtd</guid>
+</item>
+
+<item>
 <title>How to plan a great SRCCON session</title>
 <dc:creator></dc:creator>
 
@@ -103,17 +114,6 @@
 <pubDate>Mon, 26 Jan 2015 12:00:00 -0800</pubDate>
 <link>http://www.opennews.org/blog/fellowship-onboarding-ccdc</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/fellowship-onboarding-ccdc</guid>
-</item>
-
-<item>
-<title>Source is Hiring</title>
-<dc:creator></dc:creator>
-
-<description>OpenNews is hiring a part-time assistant editor on a contract basis for Source, our journalism-code community website—and you should totally apply.</description>
-
-<pubDate>Fri, 23 Jan 2015 07:00:00 -0800</pubDate>
-<link>http://www.opennews.org/blog/source-hiring</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/source-hiring</guid>
 </item>
 
 </channel>
