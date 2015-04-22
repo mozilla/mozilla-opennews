@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: 5 Reasons You Shouldn't Come to SRCCON (and Why They're All Wrong)
+title: Five Reasons You Shouldn't Come to SRCCON (and Why They're All Wrong)
 date: 2015-4-22 12:00
 author: Erin Kissane
 tags: srccon
