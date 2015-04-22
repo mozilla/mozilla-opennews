@@ -1,12 +1,12 @@
 ---
 layout: blogpost
-title: Why You Shouldn't Come to SRCCON
+title: 5 Reasons You Shouldn't Come to SRCCON (and Why They're All Wrong)
 date: 2015-4-22 12:00
 author: Erin Kissane
 tags: srccon
-excerpt: Tickets to <a href="http://srccon.org/">SRCCON, the OpenNews summer conference</a>, go on sale Wednesday, April 29 at 2pm EDT. But maybe you're still on the fence about SRCCON, or are worried that you won't quite fit in. If so, worry no longer—instead, check out our five top reasons why you shouldn't come to SRCCON (and why they're all wrong).
+excerpt: Tickets to <a href="http://srccon.org/">SRCCON, the OpenNews conference</a>, go on sale Wednesday, April 29 at 2pm EDT. But maybe you're still on the fence about SRCCON, or are worried that you won't quite fit in. If so, worry no longer—instead, check out our five top reasons why you shouldn't come to SRCCON (and why they're all wrong).
 ---
-Tickets to [SRCCON, the OpenNews summer conference](http://srccon.org/), go on sale Wednesday, April 29 at 2pm EDT. Last year, our tickets sold out within three minutes, and while we hope they won't evaporate quite as quickly this year, we do expect them to sell out. 
+On Tuesday, April 28, we will publish a list of all accepted sessions for [SRCCON 2015](http://srccon.org/). The following day—Wednesday, April 29, at 2pm EDT—tickets go on sale . Last year, tickets sold out within three minutes, and while we hope they won't evaporate quite as quickly this year, we do expect them to sell out. 
 
 Before the open sale begins, session leaders for all accepted sessions will have been given a chance to buy a ticket, and we will also have reserved tickets for scholarship recipients. If you don't fall into one of those categories, and you miss the open sale, there are two remaining ways to obtain a ticket:
 
