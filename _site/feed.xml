@@ -7,12 +7,23 @@
 <atom:link href="http://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>Why You Shouldn&#39;t Come to SRCCON</title>
+<dc:creator></dc:creator>
+
+<description>Tickets to &lt;a href=&quot;http://srccon.org/&quot;&gt;SRCCON, the OpenNews summer conference&lt;/a&gt;, go on sale Wednesday, April 29 at 2pm EDT. But maybe you&#39;re still on the fence about SRCCON, or are worried that you won&#39;t quite fit in. If so, worry no longer—instead, check out our five top reasons why you shouldn&#39;t come to SRCCON (and why they&#39;re all wrong).</description>
+
+<pubDate>Wed, 22 Apr 2015 12:00:00 -0400</pubDate>
+<link>http://www.opennews.org/blog/srcconqs</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/srcconqs</guid>
+</item>
+
+<item>
 <title>Code Convening&amp;#58; Write The Docs. Come open your code with us!</title>
 <dc:creator></dc:creator>
 
 <description>We&#39;ll be taking a cohort of news developers and journalists to the Write The Docs conference, May 17-19 in Portland, to write and revise documentation, release the latest version of their open-source projects, and talk journalism with the technical documentation community.</description>
 
-<pubDate>Mon, 20 Apr 2015 14:00:00 -0700</pubDate>
+<pubDate>Mon, 20 Apr 2015 14:00:00 -0400</pubDate>
 <link>http://www.opennews.org/blog/code-convening-wtd</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/code-convening-wtd</guid>
 </item>
@@ -23,7 +34,7 @@
 
 <description>As we near the deadline for SRCCON session proposals (April 10, &lt;a href=&quot;http://srccon.org/sessions&quot;&gt;pitch now&lt;/a&gt;) we wanted to share with you some of what we&#39;ve learned about sessions so far. Thank you to everyone who shared feedback about last year&#39;s conference and helped inform &lt;a href=&quot;http://opennews.org/blog/srccon-human-stuff&quot;&gt;how we&#39;re thinking about things&lt;/a&gt; this year.</description>
 
-<pubDate>Wed, 08 Apr 2015 18:00:00 -0700</pubDate>
+<pubDate>Wed, 08 Apr 2015 18:00:00 -0400</pubDate>
 <link>http://www.opennews.org/blog/srccon-top5</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srccon-top5</guid>
 </item>
@@ -34,7 +45,7 @@
 
 <description>SRCCON sessions are interactive and collaborative, and if you&#39;ve never led one, it can be hard to know what to expect. Here are some strategies to help you lead a discussion or skillshare that gets everyone involved and leaves everyone energized.</description>
 
-<pubDate>Tue, 07 Apr 2015 18:00:00 -0700</pubDate>
+<pubDate>Tue, 07 Apr 2015 18:00:00 -0400</pubDate>
 <link>http://www.opennews.org/blog/srccon-session-planning</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srccon-session-planning</guid>
 </item>
@@ -45,7 +56,7 @@
 
 <description>One of the nerdiest elements of our first SRCCON didn&#39;t end up involving code or jokey references. As we were prepping for SRCCON last year, I caught a blog post related to !!Con, &lt;a href=&quot;http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/&quot;&gt;Your next conference should have real-time captioning&lt;/a&gt;. I had never heard of event captioning before. I found the blog post convincing, but we were less than two months away from SRCCON, could we pull off something like this?</description>
 
-<pubDate>Thu, 02 Apr 2015 18:00:00 -0700</pubDate>
+<pubDate>Thu, 02 Apr 2015 18:00:00 -0400</pubDate>
 <link>http://www.opennews.org/blog/srccon-transcription</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srccon-transcription</guid>
 </item>
@@ -56,7 +67,7 @@
 
 <description>Next year will be the fifth year of the Knight-Mozilla Fellowship program and we&#39;re looking for our next group of fellowship partners. If your news organization is interested in hosting a fellow next year, &lt;a href=&quot;http://opennews.org/what/fellowships/partnerguidelines/#form&quot;&gt;fill out this form&lt;/a&gt; by April 24.</description>
 
-<pubDate>Wed, 01 Apr 2015 16:15:00 -0700</pubDate>
+<pubDate>Wed, 01 Apr 2015 16:15:00 -0400</pubDate>
 <link>http://www.opennews.org/blog/fellowship-2016-partner</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/fellowship-2016-partner</guid>
 </item>
@@ -67,7 +78,7 @@
 
 <description>We wanted the attendees of SRCCON to be able to focus on the conference itself—sessions, activities, and other official stuff, but also the conversations in hallways and corners that are usually a highlight of gatherings of enthusiastic colleagues. To make that possible, we tried to arrange the SRCCON schedule, space, and life-support systems to be as accommodating and supportive as possible.</description>
 
-<pubDate>Wed, 01 Apr 2015 09:00:00 -0700</pubDate>
+<pubDate>Wed, 01 Apr 2015 09:00:00 -0400</pubDate>
 <link>http://www.opennews.org/blog/srccon-human-stuff</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srccon-human-stuff</guid>
 </item>
@@ -78,7 +89,7 @@
 
 <description>After an involved selection process, we are very happy to introduce &lt;a href=&quot;http://lindsaymuscato.com&quot;&gt;Lindsay Muscato&lt;/a&gt;, Source&#39;s new assistant editor, who will be working with us on an upcoming site restructure and leading much of the day-to-day editorial work of keeping Source connected to the news code community.</description>
 
-<pubDate>Thu, 26 Mar 2015 15:00:00 -0700</pubDate>
+<pubDate>Thu, 26 Mar 2015 15:00:00 -0400</pubDate>
 <link>http://www.opennews.org/blog/welcome</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/welcome</guid>
 </item>
@@ -89,7 +100,7 @@
 
 <description>&lt;a href=&quot;http://srccon.org&quot;&gt;SRCCON is back in 2015&lt;/a&gt; for another two days of building better newsroom code, culture, and process, this time in beautiful Minneapolis. And now it&#39;s time for you to &lt;a href=&quot;http://srccon.org/sessions/&quot;&gt;propose a session&lt;/a&gt;.</description>
 
-<pubDate>Wed, 25 Mar 2015 12:00:00 -0700</pubDate>
+<pubDate>Wed, 25 Mar 2015 12:00:00 -0400</pubDate>
 <link>http://www.opennews.org/blog/srccon-proposals</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srccon-proposals</guid>
 </item>
@@ -100,20 +111,9 @@
 
 <description>We&#39;re going to be at NICAR in force this year, and we want to see you there.</description>
 
-<pubDate>Wed, 04 Mar 2015 07:00:00 -0800</pubDate>
+<pubDate>Wed, 04 Mar 2015 07:00:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/nicar</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/nicar</guid>
-</item>
-
-<item>
-<title>SRCCON 2015 coming to Minneapolis</title>
-<dc:creator></dc:creator>
-
-<description>We&#39;re excited to announce SRCCON 2015, which will take place in Minneapolis, Minnesota on June 25 and 26. We can&#39;t wait to spend another two days building better newsroom code, culture, and process—together.</description>
-
-<pubDate>Fri, 20 Feb 2015 12:00:00 -0800</pubDate>
-<link>http://www.opennews.org/blog/srccon-launch</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/srccon-launch</guid>
 </item>
 
 </channel>
