@@ -29,8 +29,8 @@ Andrew is now your go-to person for more information about the project. You can 
 
 The Coral Project seeks creative people to reinvent how we engage on the internet. Want to join us? Here are some roles we've got open:
 
-* Lead Engineer: Help shape what we build and guide our technology team.
-* UX Designer: Create the look and feel of tools for digital community.
+* [Lead Engineer](https://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=oAMY0fw4&s=Maukland): Help shape what we build and guide our technology team.
+* [UX Designer](https://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=olLY0fwO&s=Maukland): Create the look and feel of tools for digital community.
 * Developers: Build this thing. We're still figuring out exactly which roles we need to fill, but if you're interested in joining us, [contact us here](http://coralproject.net/#contact) and tell us what you'd bring to the table.
 
 We are dedicated to hiring a culturally diverse and pluralistic team. We strongly encourage applications from women, minorities, individuals with disabilities, and covered veterans, including from people with non-traditional backgrounds.
@@ -45,7 +45,7 @@ You can follow [Francis](https://twitter.com/frnsys) and [Tara](https://twitter.
 
 In the coming months, you can catch the Coral team at several events including [Digital Journalism World](http://www.djwsummit.com/) in Singapore; the [WAN-IFRA World News Media Conference](http://www.wan-ifra.org/events/67th-world-news-media-congress-22nd-world-editors-forum-25th-world-advertising-forum) in Washington, D.C.; [Reporter-Workshop](http://www.reporter-forum.de/index.php?id=4) in Hamburg, Germany, and [SRCCON](http://srccon.org/) in Minneapolis, Minnesota. We talked about comments and community at the [International Journalism Festival](http://www.journalismfestival.com/) in Perugia, Italy, earlier this month.
 
-Keep up with our travels by following [Greg Barber on Twitter](https://twitter.com/gjbarb) or [emailing him](greg.barber@washpost.com). If there is an event that you’d like us to attend, please let Greg know.
+Keep up with our travels by following [Greg Barber on Twitter](https://twitter.com/gjbarb) or [emailing him](mailto:greg.barber@washpost.com). If there is an event that you’d like us to attend, please let Greg know.
 
 ###We want to hear from you
 
