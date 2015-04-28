@@ -30,7 +30,7 @@ Andrew is now your go-to person for more information about the project. You can 
 The Coral Project seeks creative people to reinvent how we engage on the internet. Want to join us? Here are some roles we've got open:
 
 * [Lead Engineer](https://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=oAMY0fw4&s=Maukland): Help shape what we build and guide our technology team.
-* [UX Designer](https://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=olLY0fwO&s=Maukland): Create the look and feel of tools for digital community.
+* [UX  Strategist](https://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=olLY0fwO&s=Maukland): Create the look and feel of tools for digital community.
 * Developers: Build this thing. We're still figuring out exactly which roles we need to fill, but if you're interested in joining us, [contact us here](http://coralproject.net/#contact) and tell us what you'd bring to the table.
 
 We are dedicated to hiring a culturally diverse and pluralistic team. We strongly encourage applications from women, minorities, individuals with disabilities, and covered veterans, including from people with non-traditional backgrounds.
