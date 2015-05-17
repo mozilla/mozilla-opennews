@@ -6,9 +6,9 @@ author: Ryan Pitts
 tags: codeconvenings
 excerpt: Meet the seven projects we're bringing to our code convening at Write The Docs 2015.
 ---
-We've learned a lot from our [OpenNews code convenings](http://opennews.org/what/community/convenings) since the program began last year. They're still our tweak on hack events, where journalists and developers bring projects that have already proved useful, and we provide the time and space to finish up an open-source release. We love hack days where the outcomes are new ideas and new relationships, but these are smaller events with a different goal: shipping code. That's really the only fixed point in the program, though, and we've tried something new each time out.
+We've learned a lot from our [OpenNews code convenings](http://opennews.org/what/community/convenings) since the program began last year. Code Convenings are our tweak on hack events; we love hack days where the outcomes are new ideas and new relationships, but these are smaller events with a different goal: shipping code. At a Code Convening,  journalists and developers bring projects that have already proved useful, and we provide the time and space to finish up an open-source release.  That's really the only fixed point in the program, though, and we've tried something new each time out.
 
-Our code convening that starts Sunday will be our first embedded within a larger conference. [Write The Docs](http://www.writethedocs.org/conf/na/2015/) feels like a great fit for this kind of work--we want newsrooms to _use_ the tools that get released, after all, and that won't happen solid documentation. And the learning that will happen over the next three days is an investment in all the projects our participants are involved in down the road.
+Our code convening that starts Sunday will be our first embedded within a larger conference. [Write The Docs](http://www.writethedocs.org/conf/na/2015/) feels like a great fit for this kind of work--we want newsrooms to _use_ the tools that get released, after all, and that won't happen without solid documentation. And the learning that will happen over the next three days is an investment in all the projects our participants are involved in down the road.
 
 This code convening is also our biggest so far. Seven projects will join the Write The Docs sprint on Sunday:
 
