@@ -5,33 +5,7 @@ section: fellowships
 sub-section: fellows_faq
 ---
 
-<p class="bodybig">The application to become a 2015 Knight-Mozilla Fellow opened on June 16 and closed August 16, 2014. <a href="/fellowships/2015meet">We announced our 2015 Fellows</a> at the <a href="http://www.mozillafestival.org">Mozilla Festival</a> in London, October 24-26. We will start our search for our 2016 Fellows in early summer, 2015.
-
-###How does the application review and matching process work?
-Applications are submitted through a Screendoor form and are visible at the time they are submitted, but formal review does not begin until after the application deadline closes on August 16.
-
-**Initial review**
-
-* OpenNews staff review all of the applications and cull the batch to a manageable number for the news partners to review.
-* The news partners review this shorter list and submit a list of the five people they are most interested in learning more about.
-* These semifinalists are contacted for interviews. Applicants who are not moving forward in the selection process are notified.
-
-**Semifinalists**
-
-* Dan and Erika conduct short, standardized interviews with the semifinalists, asking a few questions that are about vision and skills/practical considerations.
-* The notes from these interviews are submitted back to the news partners for review, and the news partners are able to pick their top three finalists from the entire pool of semifinalists, not just the five they initially submitted. (Last year there was a lot of crossover at this stage.)
-* The semifinalists who are not moving forward are notified of their application status.
-
-**Finalists**
-
-* The news organization and OpenNews has a much longer interview with each of that news organization’s top three candidates. This interview is a chance for the news partner and the finalist to learn more about each other and what to expect from a Fellowship at that news organization.
-* In consultation with OpenNews and the news partners, the final Fellow selection is made for each news organization.
-
-**Fellowship Announcements**
-
-* The selected Fellows are notified and given an opportunity to ask additional questions of the news partner and OpenNews.
-* The finalists that were not selected as Fellows are notified of their application status.
-* A public announcement of the Fellows is made at the [Mozilla Festival](http://www.mozillafestival.org).
+<p class="bodybig">The application to become a 2016 Knight-Mozilla Fellow will open on June 10, 2015. It will remain open until August 21, 2015.
 
 ###Common Questions
 
@@ -65,7 +39,7 @@ In terms of assessing the applicant pool, what has remained consistent each year
 
 **Are you still accepting applications for host newsrooms?**
 
-No, we are not accepting host newsroom applications at this time—but we will be again in the spring of 2015.
+No, we are not accepting host newsroom applications at this time—but we will be again in the spring of 2016.
 
 **How do I contact you?**
 
