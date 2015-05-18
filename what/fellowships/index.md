@@ -11,6 +11,8 @@ sub-section: fellows_home
 <h2>{{ page.title }}</h2>
 
 <p class="bodybig">The Knight-Mozilla Fellowships bring together developers, technologists, civic hackers, and data crunchers to spend 10 months working on open source code with partner newsroom. Knight-Mozilla Fellows write code, spread ideas, and help build community during their fellowship year.
+
+<p class="bodybig">On June 10, applications will open for the 2016 Knight Mozilla Fellows. 
 <p><a href="2015meet">Meet our 2015 Knight Mozilla Fellows</a>
 </p>
 
@@ -24,6 +26,10 @@ sub-section: fellows_home
 <a href="http://www.washingtonpost.com/" class="logo-wp">Washington Post</a>
 <a href="http://cironline.org/" class="logo-cir">Center for Investigative Reporting</a>
 </div>
+
+###The 2016 Fellowships
+We are currently in the midst of planning the 2016 fellowships. We will launch the application for fellows on June 10, 2015 and it will close on August 21, 2015.
+
 ###The 2015 Fellowships
 Seven news organizations around the world will host our Knight-Mozilla Fellows in 2015: the Guardian, La Nacion, NPR, Vox Media, the Center for Investigative Reporting, the New York Times, and the Washington Post.
 
