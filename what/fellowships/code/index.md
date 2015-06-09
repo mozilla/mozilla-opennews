@@ -9,7 +9,7 @@ section: fellowships
 <p class="bodybig">OpenNews supports developers inside and outside of newsrooms in creating code that helps journalism thrive on the open web. We believe that the code being written in news transforms not only the industry, but the web itself.</p>
 <div id="fellowcode">
 <h3>Projects by the Knight-Mozilla Fellows</h3>
-<p>Our <a href="/fellowships/community">Fellows</a> spend ten months hacking in some of the best newsrooms in the world, following their passions and creating compelling open-source projects. Here are just a few of the many things <a href="https://github.com/opennews">they've developed</a>:</p>
+<p>Our <a href="/fellowships/community">fellows</a> spend ten months hacking in some of the best newsrooms in the world, following their passions and creating compelling open-source projects. Here are just a few of the many things <a href="https://github.com/opennews">they've developed</a>:</p>
 <ul class="fellowcode">
 <li><a href="http://tabula.nerdpower.org/" class="fellowhack">Tabula</a>
 <br>Tabula is a tool to extract tabular data from PDFs. The project was created by 2013 Knight-Mozilla Fellow Manuel Aristarán, with the help of 2013 Knight-Mozilla Fellow Mike Tigas and his colleague at ProPublica Jeremy B. Merrill.

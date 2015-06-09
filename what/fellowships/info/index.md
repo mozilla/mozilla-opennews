@@ -4,22 +4,29 @@ title: The Knight-Mozilla Fellowships&colon; Program Details
 section: fellowships
 sub-section: fellows_info
 ---
-<p class="bodybig">The Knight-Mozilla fellowships present a unique opportunity for people who like to code and who want to influence the future of journalism on the web. </p>
+<p class="bodybig">    The Knight-Mozilla Fellowships present a unique opportunity for people who love to code and who want to influence the future of journalism on the web. [Apply today.](/what/fellowships/apply)</p>
 
 ###FELLOWSHIP TIMELINE
-The application for the 2016 fellowship will be open from June 10 to August 21, 2015.
-
-The 2016 fellowships begin in calendar year 2016 and last for 10 months. Each fellow's start date will be individualized for the needs of that fellow and the news organization, but most fellowships will begin in February or March of 2016.
+2016 fellowships begin in calendar year 2016 and last for 10 months. Each fellow's start date will be individualized for the needs of that fellow and the news organization, but most fellowships will begin in February or March of 2016.
 
 ###FELLOWSHIP LOCATIONS
-Fellows are based, unless special circumstances dictate, in the town of their host news organization. We are in the process of selecting the news organizations that will host fellows in 2016 and will announce the organizations and their locations on June 10, 2015.
+Fellows are based, unless special circumstances dictate, in the town of their host news organization.
 
-We make every attempt to match skills of fellows with needs of news organizations when matching fellow to organization.
+Our fellowship locations for 2016 are:
+
+* Correct!v - Berlin, Germany
+* The Coral Project - New York, NY (based out of the New York Times)
+* Frontline - Boston, MA
+* Los Angeles Times Data Desk - Los Angeles, CA
+* NPR - Washington, DC
+* Vox Media - Austin, TX; New York, NY; or Washington, DC
+
+We make every attempt to match skills of fellows with needs of news organizations when connecting fellow to their host organization.
 
 ###STIPEND AND FINANCIAL BENEFITS
-The Knight-Mozilla Fellowship is designed to allow flexibility for both fellows and fellowship Partners. **The standard Fellowship offers a stipend of $60,000, paid in 10 monthly installments.** Fellows are responsible for remitting all applicable taxes and other government payments as required.
+The Knight-Mozilla Fellowship is designed to allow flexibility for both fellows and fellowship Partners. **The standard fellowship offers a stipend of $60,000, paid in 10 monthly installments.** fellows are responsible for remitting all applicable taxes and other government payments as required.
 
-Mozilla may, in consultation with fellows and fellowship partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
+Mozilla may, in consultation with fellows and fellowship Partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
 
 To help offset cost of living, the fellowship also provides supplements for childcare and health insurance, and helps pay for research/equipment and books. If you relocate for a fellowship, we will also supplement your housing and moving expenses. The fellowship also covers the costs of required travel for fellowship activities.
 
@@ -84,7 +91,9 @@ Up to $3,000 annually will be given towards the purchase of laptop computers, di
 Up to $250 to cover the server costs associated with deploying projects such as fees for Heroku, Amazon Web Services, and domain registration.
 
 <h3>Travel Allowance</h3>
-All approved fellowship trips – domestic and international – are covered. Additional travel required by the fellowship partners will be covered by them.
+All approved fellowship trips – domestic and international – are covered. Additional travel required by the fellowship Partners will be covered by them.
 
 <h3>Visa Assistance</h3>
-Mozilla will work directly with fellowship partners to secure temporary work visas on behalf of fellows who require them.
+Mozilla will work directly with fellowship Partners to secure temporary work visas on behalf of fellows who require them.
+
+The application process is easy and brief. [Apply now](/what/fellowships/apply) or [learn more about how it works](/what/fellowships/faq).

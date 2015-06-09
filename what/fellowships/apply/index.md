@@ -1,10 +1,14 @@
 ---
 layout: fellowship_index
-title: Application Now Closed. Thank You!
+title: Apply to become a 2016 Knight-Mozilla Fellow!
 section: fellowships
 sub-section: fellows_apply
 ---
 
 <h2>{{ page.title }}</h2>
 
-Thank you for your interest in the Knight-Mozilla Fellowships. On June 10, 2015 we will update this page with the application for the 2016 Knight-Mozilla Fellowship. The application will be open until August 21, 2015.
+Are you a developer, technologist, civic hacker, or data cruncher who  wants to help change the world of journalism? Apply to become a 2016  Knight-Mozilla Fellow and spend ten months embedded in one of the best  newsrooms in the world, writing open code and becoming a leader in the  international journalism tech community.
+
+Application is open until August 21, 2015
+
+FORM EMBED TK
