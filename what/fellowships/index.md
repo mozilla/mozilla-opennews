@@ -13,14 +13,13 @@ sub-section: fellows_home
 <p class="bodybig">Each year, we select a group of developers, creative [??] technologists, civic hackers, and data crunchers to spend 10 months working as Knight-Mozilla Fellows embedded in our partner newsrooms. MAYBE A TOUCH OF WHY. Fellowships are paid positions, and emphasize open-source development that strengthens specific newsrooms and the larger journalism-code  community. <a href="/what/fellowships/apply">Applications for the 2016 Fellowships</a> are open now, and the deadline to apply is August 21 at midnight EDT.</p>
 
 <div id="partnerbox">
-<h4>Our 2015 Partners</h4>
-<a href="http://www.nytimes.com/" class="logo-nyt">New York Times</a>
-<a href="http://www.theguardian.com/" class="logo-guardian">The Guardian</a>
-<a href="http://www.npr.org" class="logo-npr">Internews Kenya</a>
-<a href="http://www.lanacion.com.ar/" class="logo-nacion">La Nacion</a>
+<h4>Our 2016 Partners</h4>
+<a href="http://www.latimes.com/" class="logo-lat">Los Angeles Times</a>
+<a href="http://www.npr.org" class="logo-npr">NPR</a>
 <a href="http://www.voxmedia.com/" class="logo-vox">Vox Media</a>
-<a href="http://www.washingtonpost.com/" class="logo-wp">Washington Post</a>
-<a href="http://cironline.org/" class="logo-cir">Center for Investigative Reporting</a>
+<a href="http://www.pbs.org/wgbh/pages/frontline/" class="logo-frontline">Frontline</a>
+<a href="https://correctiv.org" class="logo-correctiv">Correctiv</a>
+<a href="http://coralproject.net/" class="logo-coral">the Coral Project</a>
 </div>
 ###The 2016 Fellowships
 We're looking for seven fellows to work with news organizations around the world. ANOTHER SENTENCE ABOUT EMBEDDED BLAH BLAH. Our fellowship hosts for 2016 are: the Los Angeles Times Data Desk, NPR, Vox Media, Frontline, Correct!v, and The Coral Project (a collaboration between the New York Times, the Washington Post, and Mozilla). ANOTHER SENTENCE. [Apply now to become a 2016 Knight-Mozilla Fellow.](/what/fellowships/apply)
