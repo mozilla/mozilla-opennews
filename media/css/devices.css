@@ -626,12 +626,60 @@ background: url("/media/img/partner_strip-2015_gray.png") no-repeat scroll 0px 0
 background: url("/media/img/partner_strip-2015.png") no-repeat scroll 0px 0px transparent;
 }
 
+.logo-lat {
+	background: url("/media/img/partner_strip-2016-gray.png") no-repeat scroll 0px 0px transparent;
+}
+
+.logo-lat:hover {
+	background: url("/media/img/partner_strip-2016.png") no-repeat scroll 0px 0px transparent;
+}
+
+#partnerbox a.logo-lat {
+	margin-bottom: 0px;
+}
+
+.logo-vox {
+background: url("/media/img/partner_strip-2016-gray.png") no-repeat scroll 0px -303px transparent;
+}
+
+.logo-vox:hover {
+background: url("/media/img/partner_strip-2016.png") no-repeat scroll 0px -303px transparent;
+}
+
 .logo-npr {
-background: url("/media/img/partner_strip-2015_gray.png") no-repeat scroll 0px -71px transparent;
+background: url("/media/img/partner_strip-2016-gray.png") no-repeat scroll 0px -75px transparent;
 }
 
 .logo-npr:hover {
-background: url("/media/img/partner_strip-2015.png") no-repeat scroll 0px -71px transparent;
+background: url("/media/img/partner_strip-2016.png") no-repeat scroll 0px -75px transparent;
+}
+
+.logo-frontline {
+	background: url("/media/img/partner_strip-2016-gray.png") no-repeat scroll 0px -225px transparent;
+}
+
+.logo-frontline {
+	background: url("/media/img/partner_strip-2016-gray.png") no-repeat scroll 0px -225px transparent;
+}
+
+.logo-frontline:hover {
+	background: url("/media/img/partner_strip-2016.png") no-repeat scroll 0px -225px transparent;
+}
+
+.logo-coral {
+	background: url("/media/img/partner_strip-2016-gray.png") no-repeat scroll 0px -375px transparent;
+}
+
+.logo-coral:hover {
+	background: url("/media/img/partner_strip-2016.png") no-repeat scroll 0px -375px transparent;
+}
+
+.logo-correctiv {
+	background: url("/media/img/partner_strip-2016-gray.png") no-repeat scroll 0px -152px transparent;
+}
+
+.logo-correctiv:hover {
+	background: url("/media/img/partner_strip-2016.png") no-repeat scroll 0px -152px transparent;
 }
 
 .logo-cir {
@@ -656,14 +704,6 @@ background: url("/media/img/partner_strip-2015_gray.png") no-repeat scroll 0px -
 
 .logo-nacion:hover {
 background: url("/media/img/partner_strip-2015.png") no-repeat scroll 0px -280px transparent;
-}
-
-.logo-vox {
-background: url("/media/img/partner_strip-2015_gray.png") no-repeat scroll 0px -350px transparent;
-}
-
-.logo-vox:hover {
-background: url("/media/img/partner_strip-2015.png") no-repeat scroll 0px -350px transparent;
 }
 
 .logo-wp {
