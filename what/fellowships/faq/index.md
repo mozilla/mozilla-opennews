@@ -5,7 +5,7 @@ section: fellowships
 sub-section: fellows_faq
 ---
 
-<p class="bodybig">The application to become a 2015 Knight-Mozilla Fellow opened on June 16 and closed August 16, 2014. <a href="/fellowships/2015meet">We announced our 2015 Fellows</a> at the <a href="http://www.mozillafestival.org">Mozilla Festival</a> in London, October 24-26. We will start our search for our 2016 Fellows in early summer, 2015.
+<p class="bodybig">The application to become a 2016 Knight-Mozilla Fellow <a href="/what/fellowships/apply">is now open</a>. It will remain open until August 21, 2015.
 
 ###How does the application review and matching process work?
 Applications are submitted through a Screendoor form and are visible at the time they are submitted, but formal review does not begin until after the application deadline closes on August 16.
@@ -24,14 +24,14 @@ Applications are submitted through a Screendoor form and are visible at the time
 
 **Finalists**
 
-* The news organization and OpenNews has a much longer interview with each of that news organization’s top three candidates. This interview is a chance for the news partner and the finalist to learn more about each other and what to expect from a Fellowship at that news organization.
-* In consultation with OpenNews and the news partners, the final Fellow selection is made for each news organization.
+* The news organization and OpenNews has a much longer interview with each of that news organization’s top three candidates. This interview is a chance for the news partner and the finalist to learn more about each other and what to expect from a fellowship at that news organization.
+* In consultation with OpenNews and the news partners, the final fellow selection is made for each news organization.
 
 **Fellowship Announcements**
 
-* The selected Fellows are notified and given an opportunity to ask additional questions of the news partner and OpenNews.
-* The finalists that were not selected as Fellows are notified of their application status.
-* A public announcement of the Fellows is made at the [Mozilla Festival](http://www.mozillafestival.org).
+* The selected fellows are notified and given an opportunity to ask additional questions of the news partner and OpenNews.
+* The finalists that were not selected as fellows are notified of their application status.
+* A public announcement of the fellows is made at the [Mozilla Festival](http://www.mozillafestival.org).
 
 ###Common Questions
 
@@ -45,7 +45,7 @@ Absolutely! There is no requirement for a particular programming language or dev
 
 **I don’t speak English very well or live in the U.S. Can I still participate?**
 
-We are an international program (our seven news partners cover three continents) and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist Fellows with any necessary visa applications for working and traveling during the Fellowship. Perfect English is not a requirement, however please be aware that it may be challenging to participate in some aspects of our program if your English is limited.
+We are an international program and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist fellows with any necessary visa applications for working and traveling during the fellowship. Perfect English is not a requirement, however please be aware that it may be challenging to participate in some aspects of our program if your English is limited.
 
 **What are you looking for with the example projects on the application?**
 
@@ -53,15 +53,23 @@ We want to see three projects that you are proud of. Tell us why you’re excite
 
 **What if my example projects don’t include open source contributions?**
 
-That’s okay. We understand that a lot of people have done work that is not open source. Many people have never made a contribution back to an open source project, but use those tools frequently. You will be building in the open and contributing back to open source projects as a Fellow, but it is not a requirement to have done this before applying. For reference, many current Fellows had few open source contributions before becoming Fellows.
+That’s okay. We understand that a lot of people have done work that is not open source. Many people have never made a contribution back to an open source project, but use those tools frequently. You will be building in the open and contributing back to open source projects as a fellow, but it is not a requirement to have done this before applying. For reference, many current fellows had few open source contributions before becoming fellows.
 
-**What kind of competition are you expecting with the Fellowship?**
+**What kind of competition are you expecting with the fellowship?**
 
-This is the fourth year of the Fellowship search process. For the past two years, we've followed the application search model we're using this year. In the first year, we had 163 applicants for eight Fellowships. Last year, we had 265 applicants for six Fellowships.
+This is the fifth year of the fellowship search process. For the past three years, we’ve followed the application search model we’re using this year. Each year the number of applicants has increased about 150% percent. Last year we received 416 applications and we anticipate that we will receive a similar or larger number.
 
-This year, we have seven Fellowship slots available and expect that the process will remain highly competitive. We thoroughly review each application we receive, which gives us an opportunity to get to know you better. We seek out ways to keep in touch and work with the many highly skilled applicants who do not become Fellows.
+This year, we have seven fellowship slots available and expect that the process will remain highly competitive. We thoroughly review each application we receive, which gives us an opportunity to get to know you better. We seek out ways to keep in touch and work with the many highly skilled applicants who do not become fellows.
 
-In terms of assessing the applicant pool, what has remained consistent each year is that we are committed to matching the skills of the Fellow to the needs of the news organization. It’s a very individualized matching process.
+In terms of assessing the applicant pool, what has remained  consistent each year is that we are committed to matching the skills of the fellow to the needs of the news organization. It’s a very individualized matching process.
+
+**I have applied to the fellowship before, but did not get selected. Should I apply again?**
+
+Yes! Please apply again. Each year, we get more applications from amazingly qualified candidates than we are able to accept as fellows, but that does not mean we wouldn't love to work with those candidates. The needs of the fellowship partner news organizations change from year to year so it becomes a different selection process every year. And that means, sometimes someone who was not selected as a fellow one year, becomes a fellow the next. 2015 fellow Kavya Sukumar [wrote about her experience](http://blog.kavyasukumar.com/third-time-is-the-charm/) getting the fellowship, on her third try.
+
+**I’m still on the fence about applying.**
+
+You should apply. If you have experience with code and an interest in  journalism and you’re curious about applying, do so. As former fellow  Noah Veltman [pointed out](http://veltman.tumblr.com/post/56132893301/code-the-newsroom-and-self-doubt), many people who are now fellows thought their application was a long shot. Apply today.
 
 **Are you still accepting applications for host newsrooms?**
 
