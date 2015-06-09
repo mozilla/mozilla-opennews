@@ -10,7 +10,7 @@ sub-section: fellows_home
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">Each year, we select a group of developers, creative [??] technologists, civic hackers, and data crunchers to spend 10 months working as Knight-Mozilla Fellows embedded in our partner newsrooms. MAYBE A TOUCH OF WHY. Fellowships are paid positions, and emphasize open-source development that strengthens specific newsrooms and the larger journalism-code  community. <a href="/what/fellowships/apply">Applications for the 2016 Fellowships</a> are open now, and the deadline to apply is August 21 at midnight EDT.</p>
+<p class="bodybig">Each year, we select a group of developers, designers, civic hackers, and data crunchers to spend 10 months working as Knight-Mozilla Fellows embedded in our partner newsrooms. Fellows bring technical skills and a passion for tackling tough, important problems to the tight deadlines and abundant datasets of journalism.</p><p class="bodybig"> Fellowships are paid positions, and emphasize open-source development that strengthens specific newsrooms and the larger journalism-code community. <a href="/what/fellowships/apply">Applications for the 2016 Fellowships</a> are open now, and the deadline to apply is August 21 at midnight EDT.</p>
 
 <div id="partnerbox">
 <h4>Our 2015 Partners</h4>
@@ -23,7 +23,7 @@ sub-section: fellows_home
 <a href="http://cironline.org/" class="logo-cir">Center for Investigative Reporting</a>
 </div>
 ###The 2016 Fellowships
-We're looking for seven fellows to work with news organizations around the world. ANOTHER SENTENCE ABOUT EMBEDDED BLAH BLAH. Our fellowship hosts for 2016 are: the Los Angeles Times Data Desk, NPR, Vox Media, Frontline, Correct!v, and The Coral Project (a collaboration between the New York Times, the Washington Post, and Mozilla). ANOTHER SENTENCE. [Apply now to become a 2016 Knight-Mozilla Fellow.](/what/fellowships/apply)
+We're looking for seven fellows to work with news organizations around the world. Fellows spend 10 months working with newsroom colleagues, experimenting on collaborative projects, and sharing their work. Our fellowship hosts for 2016 are: the Los Angeles Times Data Desk, NPR, Vox Media, Frontline, Correct!v, and The Coral Project (a collaboration between the New York Times, the Washington Post, and Mozilla). [Apply now to become a 2016 Knight-Mozilla Fellow](/what/fellowships/apply).
 
 ###The 2015 Fellowships
 Our current cohort of fellows are working with: the Guardian, La Nacion, NPR, Vox Media, the Center for  Investigative Reporting, the New York Times, and the Washington Post. [Meet our 2015 fellows](/what/fellowships/2015meet).
@@ -34,7 +34,7 @@ Knight-Mozilla Fellows work in some of the best newsrooms in the world: they're 
 The kinds of projects fellows work on day-to-day are dictated by the news organization and the fellow, and include projects focused on data, mapping, research, and impact analysis. If you already have ideas of things that interest you, whether it be news games or civic data crunching, that’s great. We’re looking for people who want to experiment with technology in journalism, and fellows get plentiful room to figure out what those experiments should be.
 
 ###Why Newsrooms?
-Our fellows' work is rooted in developing open projects that help us all better understand our world via journalism. But embedding fellows in newsrooms does more than contributing to journalism.
+Our fellows' work is rooted in developing open projects that help us all better understand our world via journalism. But embedding fellows in newsrooms does more than contribute to journalism.
 
 News is at the center of many people’s web use, and the technology decisions news organizations are currently making will shape the way we experience the entire web for years to come. As advocates of the open web, we are especially invested in making open technology options a realistic and attractive option for newsrooms, technically and culturally.
 

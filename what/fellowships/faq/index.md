@@ -17,10 +17,6 @@ In this context, a fellow is someone who shares qualities or interests with a pa
 
 Absolutely! There is no requirement for a particular programming language or development skillset. A lot of news app development happens in front end, especially mapping and visualization, and people with those skills are highly sought after. Statistics, data, and even hard math skills are also great.
 
-**I don’t speak English very well or live in the U.S. Can I still participate?**
-
-We are an international program and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist fellows with any necessary visa applications for working and traveling during the fellowship. Perfect English is not a requirement, however please be aware that it may be challenging to participate in some aspects of our program if your English is limited.
-
 **What are you looking for with the example projects on the application?**
 
 We want to see three projects that you are proud of. Tell us why you’re excited about the project, and if you made the project has part of a team, describe the contribution that you made. The examples you include are not shared beyond the small pool of application reviewers.
@@ -36,6 +32,12 @@ This is the fifth year of the fellowship search process. For the past three year
 This year, we have seven fellowship slots available and expect that the process will remain highly competitive. We thoroughly review each application we receive, which gives us an opportunity to get to know you better. We seek out ways to keep in touch and work with the many highly skilled applicants who do not become fellows.
 
 In terms of assessing the applicant pool, what has remained  consistent each year is that we are committed to matching the skills of the fellow to the needs of the news organization. It’s a very individualized matching process.
+
+**I don’t speak English very well or live in the U.S. Can I still participate?**
+
+We are an international program and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist fellows with any necessary visa applications for working and traveling during the fellowship. We make our best effort to handle any visa needs a fellow may have, but it is possible that visa requirements may affect your ability to participate in the fellowship. If you are concerned that this may be the case for you, it is something we can investigate at the finalist stage of the application process. Do not let visa questions hold you back from applying. We still want to hear from you.
+
+Perfect English is not a requirement, however please be aware that it may be challenging to participate in some aspects of our program if your English is limited.
 
 **I have applied to the fellowship before, but did not get selected. Should I apply again?**
 
