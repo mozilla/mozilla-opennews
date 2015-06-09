@@ -11,4 +11,3 @@ Are you a developer, technologist, civic hacker, or data cruncher who  wants to 
 
 Application is open until August 21, 2015
 
-FORM EMBED TK
