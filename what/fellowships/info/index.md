@@ -32,7 +32,7 @@ To help offset cost of living, the fellowship also provides supplements for chil
 
 Supplements below listed as yearly maximums.
 
-<h3>Housing Supplement (for relocating fellows only)</h3>
+<h3>Housing Supplement</h3>
 <table>
 <tr>
 <td>Single, married or partnered fellow
