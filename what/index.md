@@ -8,9 +8,9 @@ sub-section: index
 <img src="/media/img/convening.jpg" class="topline">
 <p class="caption">Collaborating on election data at our 2014 California Civic Data Code Convening.</p>
 
-<h2>{{ page.title }}</h2
+<h2>{{ page.title }}</h2>
 
-<p class="bodybig">We are building an ecosystem of programs and tools in support of the global community of journalists and coders who are creating the open technologies and processes journalism needs to thrive.</p>
+<p class="bodybig">At OpenNews, are building an ecosystem of programs and tools in support of the global community of journalists and coders who are creating the open technologies and processes journalism needs to thrive.</p>
 
 ### [Fellowships](fellowships/)
 
