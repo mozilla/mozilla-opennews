@@ -768,6 +768,7 @@ form.fr_form div.size_large {
 form.fr_form div.size_medium {
   margin-top: 40px;
   color: #ff8c00;
+	font-size: 1.2em;
 }
 
 form.fr_form label, form.fr_form div.size_small {
@@ -776,10 +777,12 @@ form.fr_form label, form.fr_form div.size_small {
   line-height: 1.4em;
 }
 
-form.fr_form div.fr_description {
+form.fr_form div.fr_description, span.fr_min_max_guide {
   margin-top: 10px;
   line-height: 1.4em;
   color: grey;
+	font-family: helvetica, sans-serif;
+	font-size: .8em;
 }
 
 form.fr_form label[for=c29] {
