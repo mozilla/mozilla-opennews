@@ -736,6 +736,69 @@ ul.fellowslist li:last-child, ul.fellowstats li:last-child {
 border-right: 0;
 }
 /* application form */
+
+/* FORM FOR SUMBISSIONS */
+
+div.fr_page {
+  margin-top: 50px;
+}
+
+/* 2016 FORM STUFF */
+
+form.fr_form input, form.fr_form textarea {
+  font-family: "ff-tisa-web-pro",serif;
+  font-size: 1em;
+}
+
+form.fr_form {
+  font-family: "ff-tisa-web-pro",serif;
+}
+
+form.fr_form div.size_large, form.fr_form div.size_medium  {
+  font-family: "ff-tisa-sans-web-pro",sans-serif;
+  font-weight: 600;
+  color: #404040;
+}
+
+form.fr_form div.size_large {
+  margin-bottom: 25px;
+  margin-top: 40px;
+}
+
+form.fr_form div.size_medium {
+  margin-top: 40px;
+  color: #ff8c00;
+}
+
+form.fr_form label, form.fr_form div.size_small {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  line-height: 1.4em;
+}
+
+form.fr_form div.fr_description {
+  margin-top: 10px;
+  line-height: 1.4em;
+  color: grey;
+}
+
+form.fr_form label[for=c29] {
+  margin-top: 40px;
+}
+
+form.fr_form .fr_response_field_paragraph textarea.size_medium, form.fr_form .fr_response_field_text input.size_medium, form.fr_form .fr_response_field_text input, form.fr_form .fr_response_field_paragraph textarea, form.fr_form input#c35 {
+  width: 100%;
+}
+
+form.fr_form .fr_response_field_text input#c12, form.fr_form .fr_response_field_text input#c18 {
+  width: 160px;
+}
+
+form.fr_form div.fr_response_field_block_of_text {
+}
+
+/* END 2016 FORM STUFF */
+
 #signup {
 	/*
 	to cover up the empty <p></p> that markdown seems insistent to include above the form
