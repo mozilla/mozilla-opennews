@@ -4,7 +4,7 @@ title: The Knight-Mozilla Fellowships&colon; Program Details
 section: fellowships
 sub-section: fellows_info
 ---
-<p class="bodybig">    The Knight-Mozilla Fellowships present a unique opportunity for people who love to code and who want to influence the future of journalism on the web. [Apply today.](/what/fellowships/apply)</p>
+<p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/apply">Apply today</a>.</p>
 
 ###FELLOWSHIP TIMELINE
 2016 fellowships begin in calendar year 2016 and last for 10 months. Each fellow's start date will be individualized for the needs of that fellow and the news organization, but most fellowships will begin in February or March of 2016.
