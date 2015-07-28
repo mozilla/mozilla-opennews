@@ -7,12 +7,23 @@
 <atom:link href="http://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>Fellowships, Journalism, and the Open Web</title>
+<dc:creator></dc:creator>
+
+<description>When we talk about the Knight-Mozilla Fellowships, and the work we do at OpenNews, we often talk about the influence the values of the open web have on journalism. As we gear up for the final push to find our 2016 fellows (deadline August 21!), we wanted to dive a little further into what we&#39;re talking about.</description>
+
+<pubDate>Tue, 28 Jul 2015 11:30:00 -0500</pubDate>
+<link>http://www.opennews.org/blog/fellowships-open-web</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/fellowships-open-web</guid>
+</item>
+
+<item>
 <title>One Month Left to Apply</title>
 <dc:creator></dc:creator>
 
 <description>You have one month left to apply for the 2016 Knight-Mozilla Fellowship. If you still have questions, we have lots of information coming your way.</description>
 
-<pubDate>Tue, 21 Jul 2015 16:00:00 -0400</pubDate>
+<pubDate>Tue, 21 Jul 2015 16:00:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/fellowships-month-out</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/fellowships-month-out</guid>
 </item>
@@ -21,9 +32,9 @@
 <title>Apply Today to Become a 2016 Knight-Mozilla Fellow!</title>
 <dc:creator></dc:creator>
 
-<description>Our search for our 2016 Knight-Mozilla Fellows starts today. And you (yes you!) should apply now. Here's why.</description>
+<description>Our search for our 2016 Knight-Mozilla Fellows starts today. And you (yes you!) should apply now. Here&#39;s why.</description>
 
-<pubDate>Wed, 10 Jun 2015 08:00:00 -0400</pubDate>
+<pubDate>Wed, 10 Jun 2015 08:00:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/fellowship2016</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/fellowship2016</guid>
 </item>
@@ -32,9 +43,9 @@
 <title>Meet the projects coming to Code Convening&amp;#58; Write The Docs</title>
 <dc:creator></dc:creator>
 
-<description>Meet the seven projects we're bringing to our code convening at Write The Docs 2015.</description>
+<description>Meet the seven projects we&#39;re bringing to our code convening at Write The Docs 2015.</description>
 
-<pubDate>Sat, 16 May 2015 12:30:00 -0400</pubDate>
+<pubDate>Sat, 16 May 2015 12:30:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/code-convening-portland</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/code-convening-portland</guid>
 </item>
@@ -43,9 +54,9 @@
 <title>SRCCON Ticketing—What We Did and Why</title>
 <dc:creator></dc:creator>
 
-<description>This year, as we prepare for SRCCON 2015, we're making an effort to document our work in public as we go. This post on our ticketing process will be followed shortly by one on session selection, with more to come between now and the end of June.</description>
+<description>This year, as we prepare for SRCCON 2015, we&#39;re making an effort to document our work in public as we go. This post on our ticketing process will be followed shortly by one on session selection, with more to come between now and the end of June.</description>
 
-<pubDate>Tue, 12 May 2015 12:30:00 -0400</pubDate>
+<pubDate>Tue, 12 May 2015 12:30:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/srccon-tickets</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srccon-tickets</guid>
 </item>
@@ -56,18 +67,18 @@
 
 <description>Exciting things are happening at &lt;a href=&quot;https://twitter.com/coralproject&quot;&gt;The Coral Project&lt;/a&gt; and we thought you should know about them.</description>
 
-<pubDate>Tue, 28 Apr 2015 12:30:00 -0400</pubDate>
+<pubDate>Tue, 28 Apr 2015 12:30:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/coral-andrew</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/coral-andrew</guid>
 </item>
 
 <item>
-<title>Five Reasons You Shouldn't Come to SRCCON (and Why They're All Wrong)</title>
+<title>Five Reasons You Shouldn&#39;t Come to SRCCON (and Why They&#39;re All Wrong)</title>
 <dc:creator></dc:creator>
 
-<description>Tickets to &lt;a href=&quot;http://srccon.org/&quot;&gt;SRCCON, the OpenNews conference&lt;/a&gt;, go on sale Wednesday, April 29 at 2pm EDT. But maybe you're still on the fence about SRCCON, or are worried that you won't quite fit in. If so, worry no longer—instead, check out our five top reasons why you shouldn't come to SRCCON (and why they're all wrong).</description>
+<description>Tickets to &lt;a href=&quot;http://srccon.org/&quot;&gt;SRCCON, the OpenNews conference&lt;/a&gt;, go on sale Wednesday, April 29 at 2pm EDT. But maybe you&#39;re still on the fence about SRCCON, or are worried that you won&#39;t quite fit in. If so, worry no longer—instead, check out our five top reasons why you shouldn&#39;t come to SRCCON (and why they&#39;re all wrong).</description>
 
-<pubDate>Wed, 22 Apr 2015 12:00:00 -0400</pubDate>
+<pubDate>Wed, 22 Apr 2015 12:00:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/srcconqs</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srcconqs</guid>
 </item>
@@ -76,20 +87,20 @@
 <title>Code Convening&amp;#58; Write The Docs. Come open your code with us!</title>
 <dc:creator></dc:creator>
 
-<description>We'll be taking a cohort of news developers and journalists to the Write The Docs conference, May 17-19 in Portland, to write and revise documentation, release the latest version of their open-source projects, and talk journalism with the technical documentation community.</description>
+<description>We&#39;ll be taking a cohort of news developers and journalists to the Write The Docs conference, May 17-19 in Portland, to write and revise documentation, release the latest version of their open-source projects, and talk journalism with the technical documentation community.</description>
 
-<pubDate>Mon, 20 Apr 2015 14:00:00 -0400</pubDate>
+<pubDate>Mon, 20 Apr 2015 14:00:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/code-convening-wtd</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/code-convening-wtd</guid>
 </item>
 
 <item>
-<title>Five Things We've Learned About Sessions</title>
+<title>Five Things We&#39;ve Learned About Sessions</title>
 <dc:creator></dc:creator>
 
-<description>As we near the deadline for SRCCON session proposals (April 10, &lt;a href=&quot;http://srccon.org/sessions&quot;&gt;pitch now&lt;/a&gt;) we wanted to share with you some of what we've learned about sessions so far. Thank you to everyone who shared feedback about last year's conference and helped inform &lt;a href=&quot;http://opennews.org/blog/srccon-human-stuff&quot;&gt;how we're thinking about things&lt;/a&gt; this year.</description>
+<description>As we near the deadline for SRCCON session proposals (April 10, &lt;a href=&quot;http://srccon.org/sessions&quot;&gt;pitch now&lt;/a&gt;) we wanted to share with you some of what we&#39;ve learned about sessions so far. Thank you to everyone who shared feedback about last year&#39;s conference and helped inform &lt;a href=&quot;http://opennews.org/blog/srccon-human-stuff&quot;&gt;how we&#39;re thinking about things&lt;/a&gt; this year.</description>
 
-<pubDate>Wed, 08 Apr 2015 18:00:00 -0400</pubDate>
+<pubDate>Wed, 08 Apr 2015 18:00:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/srccon-top5</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srccon-top5</guid>
 </item>
@@ -98,22 +109,11 @@
 <title>How to plan a great SRCCON session</title>
 <dc:creator></dc:creator>
 
-<description>SRCCON sessions are interactive and collaborative, and if you've never led one, it can be hard to know what to expect. Here are some strategies to help you lead a discussion or skillshare that gets everyone involved and leaves everyone energized.</description>
+<description>SRCCON sessions are interactive and collaborative, and if you&#39;ve never led one, it can be hard to know what to expect. Here are some strategies to help you lead a discussion or skillshare that gets everyone involved and leaves everyone energized.</description>
 
-<pubDate>Tue, 07 Apr 2015 18:00:00 -0400</pubDate>
+<pubDate>Tue, 07 Apr 2015 18:00:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/srccon-session-planning</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/srccon-session-planning</guid>
-</item>
-
-<item>
-<title>Captioning a Multi-Track Conference - How SRCCON Did It</title>
-<dc:creator></dc:creator>
-
-<description>One of the nerdiest elements of our first SRCCON didn't end up involving code or jokey references. As we were prepping for SRCCON last year, I caught a blog post related to !!Con, &lt;a href=&quot;http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/&quot;&gt;Your next conference should have real-time captioning&lt;/a&gt;. I had never heard of event captioning before. I found the blog post convincing, but we were less than two months away from SRCCON, could we pull off something like this?</description>
-
-<pubDate>Thu, 02 Apr 2015 18:00:00 -0400</pubDate>
-<link>http://www.opennews.org/blog/srccon-transcription</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/srccon-transcription</guid>
 </item>
 
 </channel>
