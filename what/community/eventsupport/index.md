@@ -45,34 +45,4 @@ Some projects that got their start at hack days or via project sponsorships incl
 
 We're also working on some <a href="https://github.com/erikao/journohackdays">documentation</a> to help you in planning, organizing, and facilitating hack day events. Your questions and feedback are a critical part of making the documentation more useful for everyone.
 
-<script type="text/javascript" src="/media/js/tabletop.js"></script>
-
-<script type="text/javascript">
-
-      //window.onload = function() { init() };
-
-      var public_spreadshseet_url = 'https://docs.google.com/spreadsheet/pub?key=0Anp-zgGKPxl7dFRBeHFiN2RIRmtablN1aFpwM05hM1E&output=html';
-
-      $(document).ready( function() {
-        Tabletop.init( { key: public_spreadshseet_url,
-                         callback: showInfo,
-                         debug: true } )
-      });
-
-
-      function showInfo() {
-
-        $.each( Tabletop.sheets("Sheet1").all(), function(i, hackday) {
-
-          var hack_li = $('<tr><td class="date">' + hackday.date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.title + '</a></td><td class="location">' + hackday.location + '</td></tr>')
-          hack_li.appendTo("#hackcal");
-
-       if (hackday.status != 'happening') {
-            hack_li.addClass('hide');
-            };
- 		});
-
-
-      };
-
-</script>
+{% include hackday_box.html %}
