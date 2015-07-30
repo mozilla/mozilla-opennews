@@ -139,14 +139,12 @@
 //window.onload = function() { init() };
 var public_spreadshseet_url = 'https://docs.google.com/spreadsheets/d/1ZyC7hzsNwAZ0U_uhYbeFUUcfxtJdFGMaWp5KxLXTqJs/pubhtml';
 $(document).ready( function() {
-alert("started tabletpo!")
   tabletop =  Tabletop.init( { key: public_spreadshseet_url,
                          callback: showInfo,
-                         debug: true } )
+                         debug: false } )
     });
 
     function showInfo() {
-      alert("moving to the processor")
       $.each( tabletop.sheets("Sheet1").all(), function(i, hackday) {
         var hack_li = $('<tr><td class="date">' + hackday.Date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.Title + '</a></td><td class="location">' + hackday.Location + '</td></tr>')
         hack_li.appendTo("#hackcal");
@@ -157,7 +155,6 @@ alert("started tabletpo!")
     });
 
     $('#hackcalbox').show();
-alert("and done!")
     };
 
   </script>
