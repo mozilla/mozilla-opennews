@@ -1141,6 +1141,12 @@ article ul {
 	font-size: 18px;
 }
 
+blockquote {
+	font-family: "Open Sans", Helvetica, Verdana, Arial, sans-serif;
+	line-height: 1.7em;
+	font-size: 1.1em;
+
+}
 
 
 .sidebox {
