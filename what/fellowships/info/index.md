@@ -11,7 +11,7 @@ sub-section: fellows_info
 ###THE FELLOWSHIP
 **What is the Knight-Mozilla Fellowship?**
 
-    [answer that we workshop]
+The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open source tools and support reporting that strengthens the web and changes people's lives. Knight-Mozilla Fellows spend 10 months working with newsroom technology teams to write open-source code, analyze and visualize data, and explore tough problems facing journalism. 
 
 **What do fellows do?**
 
