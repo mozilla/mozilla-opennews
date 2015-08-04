@@ -8,16 +8,16 @@ sub-section: fellows_faq
 <p class="bodybig">The <a href="/what/fellowships/apply">application to become a 2016 Knight-Mozilla Fellow</a> is open until August  21, 2015. Here's what to expect throughout this process.</p>
 
 ### BEFORE YOU APPLY
-We're really interested in getting to know you and why you want to become a fellow. The application is kept short and is all about you--no need to track down recommendation letters or contact info for old bosses. Here's some additional details about the application and selection process that you may find helpful.
+We're really interested in getting to know you and why you want to become a fellow. The application is kept short and is all about you--no need to track down recommendation letters or contact info for old bosses. Here are some additional details about the application and selection process.
 
 #### How to prepare
-Reading this site is a great place to start. We've tried to answer questions we expect you might have, but if you have additional questions you can check out a [question and answer session](https://etherpad.mozilla.org/opennews-calls-Aug5) on a community call or [email us](mailto:info@opennnews.org).
+Reading this site is a great start. We've tried to answer questions we expect you might have, but if you have additional questions you can check out a live [question and answer session](https://etherpad.mozilla.org/opennews-calls-Aug5) on a community call, or [email us](mailto:info@opennnews.org).
 
-To complete the application, you'll need to gather some examples of your work and think about why you want to do the fellowship. 
+To complete the application, gather a few examples of your work and think about why you want to do the fellowship.
 
-For your work examples, tell us about projects that you are proud of. We want to hear why you’re excited about those projects and to learn about how you approached the project. The examples do not need to be flashy. We're interested in learning about your interests and skills, not in critiquing your work. In addition, if you don't have open source projects, that's ok! If you can show us a screenshot or some other way of sharing a project, that's great. Many of our fellows did not have  open source contributions either. Also, the examples you include on the application are not shared beyond the small pool of application reviewers.
-
-In thinking about the free response questions on the application, just tell us about yourself. Really. It's totally fine if you have no previous journalism experience. It's ok if you're self taught and still building your coding skills--that describes several of our fellows, too. We really do want to get to know you and the questions are meant to be straightforward, not tricks. If you're not sure how to interpret a question, [you can ask us](mailto:info@opennews.org), or just try your best. 
+* **For your work examples, tell us about projects you're proud of.** We want to hear why you’re excited about those projects and to learn about how you approached the project. The examples don't need to be flashy. We're interested in learning about your interests and skills, not in critiquing your work. 
+* **If you don't have open source projects, that's ok!** If you can show us a screenshot or some other way of sharing a project, that's great. Many of our fellows did not have  open source contributions either. Note: The examples you include on the application are not shared beyond the small pool of application reviewers.
+* **In the free response questions, just tell us about yourself.** Really. It's totally fine if you have no previous journalism experience. It's ok if you're self-taught and still building your coding skills--that describes several of our fellows, too. We really do want to get to know you and the questions are straightforward, not tricks. If you're not sure how to interpret a question, [you can ask us](mailto:info@opennews.org), or just try your best. 
 
 #### Send us your application
 Once you've answered all your questions, it's time to complete and [submit the application](/what/fellowships/apply). If you're still unsure, apply. If you've applied before and were not accepted, apply. 
@@ -34,7 +34,7 @@ Applications are submitted through a Screendoor form and are visible at the time
 * These semifinalists are contacted for interviews. Applicants who are not moving forward in the selection process are notified.
 
 #### Semifinalists
-* Dan and Erika conduct short, standardized interviews with the  semifinalists, asking a few questions that are about vision and  skills/practical considerations. This year, [based on guidance from David Eads at NPR](http://blog.apps.npr.org/2015/07/20/how-to-apply.html), we will send the list of questions to semifinalists in advance, so that they can prepare.
+* Our director, Dan Sinker, and program manager, Erika Owens, conduct short, standardized interviews with the  semifinalists, asking a few questions that are about vision and  skills/practical considerations. This year, [based on guidance from David Eads at NPR](http://blog.apps.npr.org/2015/07/20/how-to-apply.html), we will send the list of questions to semifinalists in advance, so that they can prepare.
 * The notes from these interviews are submitted back to the news  partners for review, and the news partners are able to pick their top  three finalists from the entire pool of semifinalists, not just the five  they initially submitted. (Last year there was a lot of crossover at  this stage.)
 
 #### Finalists
