@@ -10,8 +10,8 @@ sub-section: fellows_home
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">Knight-Mozilla Fellows are developers, designers, and data crunchers who spend 10 months working with partner newsrooms. Fellows bring technical skills and a passion for tackling tough, important problems to the tight deadlines and abundant datasets of journalism.</p>
-<p>Fellowships are paid positions that offer a chance to explore the challenges of journalism tech, collaborate on  open-source code, and share work with the larger journalism-code community. Applications for the 2016 Fellowships <a href="/what/fellowships/apply">are open now</a>, and the  deadline to apply is August 21 at midnight EDT.</p>
+<p class="bodybig">The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open source tools and support reporting that strengthens the web and changes people's lives.</p>
+<p class="bodybig">The fellowships are paid positions and applications for the 2016 cohort <a href="/what/fellowships/apply">are open now</a>. The deadline to apply is August 21 at midnight EDT.</p>
 
 <div id="partnerbox">
 <h4>Our 2016 Partners</h4>
@@ -23,7 +23,7 @@ sub-section: fellows_home
 <a href="http://coralproject.net/" class="logo-coral">the Coral Project</a>
 </div>
 ###Being a fellow
-The Knight-Mozilla Fellowship is an opportunity for people who love to  solve problems through code to bring their skills to a newsroom for 10  months. Fellows have the [financial support](/what/fellowships/details) and time they need to explore journalism code, collaborate on open-source projects, and share their work at conferences around the world. In past years, [fellows  have done](/what/fellowships/community/) research about security and analytics and built tools for extracting data from PDFs and crowdsourcing document analysis. Fellows work with newsroom colleagues, the larger journalism-code community, and with the  other fellows in their cohort. Fellows build strong relationships with the fellows in their cohort as well as a growing community of alumni.
+Knight-Mozilla Fellows spend 10 months working with newsroom technology teams to write open-source code, analyze and visualize data, and explore tough problems facing journalism. Fellows have the [financial support](/what/fellowships/details) and time they need to explore journalism code, collaborate on open-source projects, and share their work at conferences around the world. In past years, [fellows have done](/what/fellowships/community/) research about security and analytics and built tools for extracting data from PDFs and crowdsourcing document analysis. Fellows build strong relationships with the fellows in their cohort as well as a growing community of alumni.
 
 We embed fellows with a [partner news organization](/what/fellowships/partners) that provides space for the fellow, intriguing projects to work on, and an immersion into the culture of that newsroom. Fellows in 2016 will be placed with: Los Angeles Times Data Desk, NPR, Vox Media, Frontline,  Correct!v, and The Coral Project (a collaboration between the New York  Times, the  Washington Post, and Mozilla). Want to join them? [Apply now  to become a 2016 Knight-Mozilla Fellow](/what/fellowships/apply).
 
@@ -35,6 +35,6 @@ The Knight-Mozilla Fellowship is a chance to be immersed in this work. Working i
 ###Joining the fellowship
 Applications to become a 2016 Knight-Mozilla are [open until August 21](/what/fellowships/apply). This fellowship affords a chance to experiment with technology in journalism and work on projects that interest you and your host newsroom. As a fellow, you would live and work for 10 months in the city where your host newsroom is located and work as a member of the newsroom team.
 
-The kinds of projects fellows work on day-to-day are dictated by the host news organization and the fellow, and [have included projects focused on](/what/fellowships/community) data, mapping, elections, and impact analysis. If you already have ideas of things that interest you, whether it be news games or civic data crunching, that’s great. We’re looking for people who want to  experiment  with technology in journalism, and fellows get plentiful room to figure out what those experiments should be.
+The kinds of projects fellows work on day-to-day are dictated by the host news organization and the fellow, and [have included projects focused on](/what/fellowships/community) data, mapping, elections, and impact analysis. If you already have ideas of things that interest you, whether it be news games or civic data crunching, that’s great. We’re looking for people who want to  experiment with technology in journalism, and fellows get plentiful room to figure out what those experiments should be.
 
 You can learn more about the [financial and timing details of the fellowship](/what/fellowship/details) and the [application process](/what/fellowship/faq). If you don't see your questions answered, please [email us](mailto:info@opennews.org). 
