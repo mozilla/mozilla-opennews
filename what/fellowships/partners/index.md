@@ -23,7 +23,10 @@ Hosting a fellow is different from adding another member to the team. Fellows co
 ### Prior partners
 Over  the years, we've worked with news organizations in the US, Argentina,  the United Kingdom, Germany, and Kenya. Our partners have included:
 
-    ***blob of logos***
+* 2014: La Nacion, New York Times, ProPublica, Texas Tribune, The Washington Post, and a joint fellowship placement with Ushahidi and Internews-Kenya
+* 2013: BBC, Boston Globe, Guardian, La Nacion, New York Times, ProPublica, Spiegel Online, and Zeit Online
+* 2012: Al Jazeera, BBC, Boston Globe, Guardian, and Zeit Online
+
 
 ### Partnering with OpenNews
 Being  a fellowship partner is the most intensive way that OpenNews  collaborates with news organizations, but it is just one of [many ways  that we partner](https://opennews.org/getinvolved/newspartners/)  with news orgs. Through our website Source and events like SRCCON, we  partner with news organizations and their teams to share their work. We  also host events called code convenings to help teams open source  projects. And each spring, we put a call out for applications from news  organizations that [would like to host a fellow](https://opennews.org/what/fellowships/partnerguidelines/).
