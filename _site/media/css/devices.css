@@ -340,6 +340,13 @@ font-size: 0.9em;
 font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 
+.fellowspage {
+	border: 1px solid #454545;
+	margin-right: 10px;
+	float: left;
+	height: 70px;
+}
+
 table  {
 	width: 80%;
 	line-height: 1.6em;
