@@ -1,13 +1,13 @@
 ---
 layout: fellowship_post
 title: The Knight-Mozilla Fellowships&colon; Fellowship Partners
-section: fellowships
-sub-section: partners
+section: partnerships
 ---
 <p class="bodybig"> Fellowship partners host fellows for 10 months, offering challenging projects and immersion into the culture of the newsroom. We select partners who are invested in open source development and who will encourage their fellow to collaborate within and outside of their news organization.</p>
 
 ### The 2016 partners
 We heard from over 40 news organizations that wanted to welcome a fellow for 2016. We selected a mix of partners who have not hosted a fellow before as well as returning partners. In 2016 fellows will be hosted by:
+
 * Correct!v - Berlin, Germany
 * The Coral Project - New York, NY (based out of the New York Times)
 * Frontline - Boston, MA
@@ -27,6 +27,3 @@ Over  the years, we've worked with news organizations in the US, Argentina,  the
 
 ### Partnering with OpenNews
 Being  a fellowship partner is the most intensive way that OpenNews  collaborates with news organizations, but it is just one of [many ways  that we partner](https://opennews.org/getinvolved/newspartners/)  with news orgs. Through our website Source and events like SRCCON, we  partner with news organizations and their teams to share their work. We  also host events called code convenings to help teams open source  projects. And each spring, we put a call out for applications from news  organizations that [would like to host a fellow](https://opennews.org/what/fellowships/partnerguidelines/).
-
-
-
