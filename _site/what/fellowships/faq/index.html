@@ -81,20 +81,18 @@
 <li><a href="/what/fellowships" id="fellow_home">Fellowships</a></li>
 <li><a href="/what/fellowships/info" id="fellow_benefits">Program Details</a></li>
 <li><a href="/what/fellowships/community" id="community">The Fellows</a></li>
-<!--<li><a href="/what/fellowships/why" id="why">Why to Apply</a></li>-->
 <li><a href="/what/fellowships/faq" id="faq">How to Apply</a></li>
 <li><a href="/what/fellowships/apply" id="partners">APPLY NOW</a></li>
 </ul>
 
-  <select id="fellowselect">
-    <option value="">learn about...</option>
-    <option value="/what/fellowships">Fellowships</option>
-    <option value="/what/fellowships/info">Program Details</option>
-    <option value="/what/fellowships/community">The Fellows</option>
-    <!--<option value="/what/fellowships/why">Why to Apply</option>-->
-    <option value="/what/fellowships/faq">How to Apply</option>
-    <option value="/what/fellowships/apply">APPLY NOW</option>
-  </select>
+<select id="fellowselect" onchange="window.location.assign(this.options[this.selectedIndex].value)">
+  <option value="">learn about...</option>
+  <option value="/what/fellowships">Fellowships</option>
+  <option value="/what/fellowships/info">Program Details</option>
+  <option value="/what/fellowships/community">The Fellows</option>
+  <option value="/what/fellowships/faq">How to Apply</option>
+  <option value="/what/fellowships/apply">APPLY NOW</option>
+</select>
 </div>
 
 <h2>The Knight-Mozilla Fellowships&colon; How to Apply</h2>
