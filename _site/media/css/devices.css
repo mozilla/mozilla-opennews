@@ -1336,6 +1336,12 @@ h2 {
 padding: 10px 7px;
 }
 
+#kissanenav li a:hover, #kissanenav li a:active {
+	padding: 10px 7px;
+	overflow: hidden;
+	padding-bottom: 5px;
+}
+
 ul.bloglist li p.blogtitle {
 	font-size: 1.1em;
 }
