@@ -3,6 +3,8 @@ layout: fellowship_index
 title: Apply to become a 2016 Knight-Mozilla Fellow!
 section: fellowships
 sub-section: fellows_apply
+redirect_from:
+- /apply/index.html 
 ---
 
 <h2>{{ page.title }}</h2>
