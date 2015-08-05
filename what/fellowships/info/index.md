@@ -3,6 +3,8 @@ layout: fellowship_post
 title: The Knight-Mozilla Fellowships&colon; Program Details
 section: fellowships
 sub-section: fellows_info
+redirect_from:
+- /what/fellowships/details/index.html 
 ---
 <p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for  people  who love to code and who want to influence the future of journalism on  the web. <a href="/what/fellowships/apply">Apply today</a>. You have the chance to get paid to spend 10 months learning, contributing to open-source code, and sharing your work.</p>
 
