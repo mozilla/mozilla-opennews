@@ -3,15 +3,17 @@ layout: fellowship_post
 title: The Knight-Mozilla Fellowships&colon; Program Details
 section: fellowships
 sub-section: fellows_info
+redirect_from:
+- /what/fellowships/details/index.html 
 ---
 <p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for  people  who love to code and who want to influence the future of journalism on  the web. <a href="/what/fellowships/apply">Apply today</a>. You have the chance to get paid to spend 10 months learning, contributing to open-source code, and sharing your work.</p>
 
-<p>We want you to be able to participate--along with your whole family! We've structured this program and its financial supports to be responsive to the needs of fellows in a variety of circumstances. The fellowship gives you the time and support you need to immerse yourself in the journalism code community and work on some great projects. </p>
+<p>We want you to be able to participate--along with your whole family! We've structured this program and its financial supports to be responsive to the needs of fellows in a variety of circumstances. The fellowship gives you the time and support you need to immerse yourself in the journalism-code community and work on some great projects. </p>
 
 ###THE FELLOWSHIP
 **What is the Knight-Mozilla Fellowship?**
 
-    [answer that we workshop]
+The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people's lives. Knight-Mozilla Fellows spend 10 months working with newsroom technology teams to write open-source code, analyze and visualize data, and explore tough problems facing journalism. 
 
 **What do fellows do?**
 
@@ -45,11 +47,11 @@ During the week of August 10, each news organization will describe what they are
 2016  fellowships begin in calendar year 2016 and last for 10 months. Each fellow’s start date will be individualized for the needs of that fellow and the news organization, but most fellowships will begin in February or March of 2016.
 
 ###STIPEND AND FINANCIAL BENEFITS
-The Knight-Mozilla Fellowship is designed to allow flexibility for both fellows and fellowship Partners. **The standard fellowship offers a stipend of $60,000, paid in 10 monthly installments.** fellows are responsible for remitting all applicable taxes and other government payments as required.
+The Knight-Mozilla Fellowship is designed to allow flexibility for both fellows and fellowship partners. **The standard fellowship offers a stipend of $60,000, paid in 10 monthly installments.** fellows are responsible for remitting all applicable taxes and other government payments as required.
 
-Mozilla may, in consultation with fellows and fellowship Partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
+Mozilla may, in consultation with fellows and fellowship partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
 
-To help offset cost of living, the fellowship also provides supplements for childcare and health insurance, and helps pay for research/equipment and books. If you relocate for a fellowship, we will also supplement your housing and moving expenses. The fellowship also covers the costs of required travel for fellowship activities.
+To help offset cost of living, the fellowship also provides supplements for child-care and health insurance, and helps pay for research/equipment and books. If you relocate for a fellowship, we will also supplement your housing and moving expenses. The fellowship also covers the costs of required travel for fellowship activities.
 
 Supplements below listed as yearly maximums.
 
@@ -74,7 +76,7 @@ Supplements below listed as yearly maximums.
 </table>
 
 
-<h3>Child Care Supplement</h3>
+<h3>Child-Care Supplement</h3>
 <table>
 <tr>
 <td>1 child age 12* or younger                                                     
@@ -106,15 +108,15 @@ The fellowship pays a health insurance supplement for fellows and their families
 Up to $2,000 for fellows moving between cities within their country of origin. Up to $4,000 for fellows moving outside their country of origin. The fellowship also offers a supplemental allowance for families with children of up to $2,000.
 
 <h3>Research & Equipment</h3>
-Up to $3,000 annually will be given towards the purchase of laptop computers, digital cameras, recorders, fees for Continuing Studies or other courses related to the fellowship, computer software, research fees or payments, and travel expenses for conferences or other research related to the fellow’s research or study.
+Up to $3,000 annually will be given towards the purchase of laptop computers, digital cameras, recorders, fees for continuing studies or other courses related to the fellowship, computer software, research fees or payments, and travel expenses for conferences or other research related to the fellow’s research or study.
 
 <h3>Server Allowance</h3>
 Up to $250 to cover the server costs associated with deploying projects such as fees for Heroku, Amazon Web Services, and domain registration.
 
 <h3>Travel Allowance</h3>
-All approved fellowship trips – domestic and international – are covered. Additional travel required by the fellowship Partners will be covered by them.
+All approved fellowship trips--domestic and international--are covered. Additional travel required by the fellowship partners will be covered by them.
 
 <h3>Visa Assistance</h3>
-Mozilla will work directly with fellowship Partners to secure temporary work visas on behalf of fellows who require them.
+Mozilla will work directly with fellowship partners to secure temporary work visas on behalf of fellows who require them.
 
 The application process is easy and brief. [Apply now](/what/fellowships/apply) or [learn more about how it works](/what/fellowships/faq).
