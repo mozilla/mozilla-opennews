@@ -7,6 +7,17 @@
 <atom:link href="http://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>The Many Reasons to Become A Knight-Mozilla Fellow</title>
+<dc:creator></dc:creator>
+
+<description>With just two weeks remaining to apply to become a 2016 Knight-Mozilla Fellow, all of our current fellows write about why they chose to apply and what their fellowship year has been like. Read about their experiences and then apply to join next year&#39;s cohort!</description>
+
+<pubDate>Fri, 07 Aug 2015 15:30:00 -0500</pubDate>
+<link>http://www.opennews.org/blog/fellowships-fellows-week-two</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/fellowships-fellows-week-two</guid>
+</item>
+
+<item>
 <title>What It Is Really Like to Be a Fellow</title>
 <dc:creator></dc:creator>
 
@@ -103,17 +114,6 @@
 <pubDate>Mon, 20 Apr 2015 14:00:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/code-convening-wtd</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/code-convening-wtd</guid>
-</item>
-
-<item>
-<title>Five Things We&#39;ve Learned About Sessions</title>
-<dc:creator></dc:creator>
-
-<description>As we near the deadline for SRCCON session proposals (April 10, &lt;a href=&quot;http://srccon.org/sessions&quot;&gt;pitch now&lt;/a&gt;) we wanted to share with you some of what we&#39;ve learned about sessions so far. Thank you to everyone who shared feedback about last year&#39;s conference and helped inform &lt;a href=&quot;http://opennews.org/blog/srccon-human-stuff&quot;&gt;how we&#39;re thinking about things&lt;/a&gt; this year.</description>
-
-<pubDate>Wed, 08 Apr 2015 18:00:00 -0500</pubDate>
-<link>http://www.opennews.org/blog/srccon-top5</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/srccon-top5</guid>
 </item>
 
 </channel>
