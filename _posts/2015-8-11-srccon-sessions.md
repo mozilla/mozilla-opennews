@@ -9,7 +9,7 @@ excerpt: With just two weeks remaining to apply to become a 2016 Knight-Mozilla 
 
 SRCCON is an event centered around experiences. We strive to create a space where people can explore and build connections, and the core of that is the slate of pre-planned sessions. The sessions don't just create a schedule for SRCCON—they shape the event itself, as a third of participants are also session facilitators, and their sessions spill over into hallway and evening conversations.
 
-OpenNews as an organization is structured in a way to be able to respond to the [needs](https://source.opennews.org/en-US/jobs/) and [interests](https://opennews.org/what/community/eventsupport/) of the community, and create spaces to [celebrate](https://source.opennews.org/en-US/) its work. We aim to imbue SRCCON with these same goals.
+OpenNews as an organization is structured in a way to be able to respond to the [needs](https://source.opennews.org/en-US/jobs/) and [interests](https://opennews.org/what/community/eventsupport/) of the community, and create spaces to [celebrate](https://source.opennews.org/) its work. We aim to imbue SRCCON with these same goals.
 
 Last year was the first SRCCON. This year, our decisions were guided by what we learned last year as well as some core principles:
 
@@ -25,13 +25,13 @@ When we began planning this year's SRCCON, we decided that the entire session pr
 
 So how did we make sure people knew about the SRCCON call for proposals? We did a lot of outreach.
 
-* Building out existing channels—we encouraged people through Twitter, email lists, our [community call](call), and through more extensive blogging on OpenNews.org than we have done in the past. We kept momentum going by starting the [documentation train](http://srccon.org/docs/) for SRCCON as well as posting a couple of pieces about proposal writing: [How to Plan a Great SRCCON session](https://opennews.org/blog/srccon-session-planning/), [Five Things We've Learned About Sessions](https://opennews.org/blog/srccon-top5/).
+* Building out existing channels—we encouraged people through Twitter, email lists, our [community call](https://opennews.org/what/community/calls/), and through more extensive blogging on OpenNews.org than we have done in the past. We kept momentum going by starting the [documentation train](http://srccon.org/docs/) for SRCCON as well as posting a couple of pieces about proposal writing: [How to Plan a Great SRCCON session](https://opennews.org/blog/srccon-session-planning/), [Five Things We've Learned About Sessions](https://opennews.org/blog/srccon-top5/).
 
 * Reaching out to existing networks—we did a lot of brainstorming. We gathered lists of Source writers, community call participants, fellowship alumni, and fellowship partners. We also thought about people we had connected with in the last year or whose pitches we just couldn't wait to read.
 
 * Connecting with groups we wanted to make sure were well represented—we put an emphasis in our individual outreach on people from small and non-coastal newsrooms, people of color, and women. In addition, we wanted to make sure the perspective of locals would be evident throughout SRCCON, so we sought out recommendations of people in Minneapolis/St. Paul to invite to propose sessions.
 
-Beyond emails and tweets, we hosted a [question and answer session](link) on our community call, had open office hours, and fielded individual questions. We wanted to make sure that if someone was interested in pitching a proposal, they would have the support they needed. We view facilitating a session as a great way to share and become more connected with peers in this community, so we wanted everyone to feel able to take that step. 
+Beyond emails and tweets, we hosted a [question and answer session](https://etherpad.mozilla.org/opennews-SRCCON-2015-session-call) on our community call, had open office hours, and fielded individual questions. We wanted to make sure that if someone was interested in pitching a proposal, they would have the support they needed. We view facilitating a session as a great way to share and become more connected with peers in this community, so we wanted everyone to feel able to take that step. 
 
 ### Session Proposal Form
 
@@ -48,7 +48,7 @@ We also made one major change to the form that was for our own accountability—
 The selection process was extremely challenging: We got 126 session proposals and accepted 46. We got a big range of session proposals last year, and a lot of them didn't quite fit our goals for the first SRCCON. But this year, wow. People really took to heart what we wrote about and the experiences they heard participants had last year. Some trends jumped out at us right away:
 
 * Co-facilitated sessions: Some sessions were pitched by one person, but the majority of sessions had a co-facilitator or were interested in finding one. This seemed to really reflect an interest in collaborative, interactive sessions.
-* Culture sessions: We are vocal about [intentionality and consideration](http://srccon.org/docs/), and we heard from so many people who were interested in talking about culture and how we work. 
+* Culture sessions: We are vocal about [intentionality and consideration](https://opennews.org/blog/srccon-human-stuff/), and we heard from so many people who were interested in talking about culture and how we work. 
 * Diversity, in so many ways: Fewer than half the sessions proposed had only white guys listed as facilitators. The mix of facilitators and co-facilitators on sessions often showed different genders, races, backgrounds, and experiences. Within and outside of their own organization, people sought out co-facilitators who would bring a different perspective.
 
 We split up the actual review process into a few stages. All OpenNews staff did a first pass, logging impressions and doing a first ranking. At the same time, we invited a small number of community numbers to review the sessions and share their five favorite sessions. We selected this group to represent a range of different backgrounds and types of news organizations. 
