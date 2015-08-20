@@ -7,6 +7,17 @@
 <atom:link href="http://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>Beyond the Fellowship Year</title>
+<dc:creator></dc:creator>
+
+<description>Tomorrow, August 21, at 11:59:59, the application for a 2016 Knight-Mozilla Fellow closes. But if you become a Knight-Mozilla Fellow, your experience will last much longer than the 10 months. Today, Erin Kissane looks into life _after_ the fellowship.</description>
+
+<pubDate>Thu, 20 Aug 2015 10:45:00 -0500</pubDate>
+<link>http://www.opennews.org/blog/fellowships-final-week-four</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/fellowships-final-week-four</guid>
+</item>
+
+<item>
 <title>How to Think About Projects During Your Fellowship</title>
 <dc:creator></dc:creator>
 
@@ -103,17 +114,6 @@
 <pubDate>Tue, 21 Jul 2015 16:00:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/fellowships-month-out</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/fellowships-month-out</guid>
-</item>
-
-<item>
-<title>Apply Today to Become a 2016 Knight-Mozilla Fellow!</title>
-<dc:creator></dc:creator>
-
-<description>Our search for our 2016 Knight-Mozilla Fellows starts today. And you (yes you!) should apply now. Here&#39;s why.</description>
-
-<pubDate>Wed, 10 Jun 2015 08:00:00 -0500</pubDate>
-<link>http://www.opennews.org/blog/fellowship2016</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/fellowship2016</guid>
 </item>
 
 </channel>
