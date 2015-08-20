@@ -8,7 +8,7 @@ sub-section: community
 
 <p class="caption">All 26 of our current and former Knight-Mozilla Fellows.</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The Knight-Mozilla Fellows spend 10 months working with a partner news organization, contributing to and learning from the journalism code community. A growing community of fellowship alumni also welcomes and supports each new cohort. Fellows share their curiosity,  code, and insights during their fellowship and beyond. <a href="/what/fellowships/apply">Apply to join  them today</a>.
+<p class="bodybig">The Knight-Mozilla Fellows spend 10 months working with a partner news organization, contributing to and learning from the journalism code community. A growing community of fellowship alumni also welcomes and supports each new cohort. Fellows share their curiosity,  code, and insights during their fellowship and beyond.
 <br/><br/>
 Meet our fellows: [2015](/what/fellowships/2015meet) | [2014](/what/fellowships/2014meet) | [2013](/what/fellowships/2013meet) | [2012](/what/fellowships/2011meet)
 
@@ -24,7 +24,7 @@ The mandate to explore is one of the ways a fellowship is really different from 
 <img src="/media/img/fellows/2014-fellows/brian-60.png" class="fellowspage">Brian brought his prior experience with mapping and science to ProPublica's "[Losing Ground](http://projects.propublica.org/louisiana/)," a project documenting erosion of the coastline in Louisiana. He dove into a [huge project](https://source.opennews.org/en-US/articles/how-we-made-losing-ground/) to understand historical, satellite, and even [balloon-mapped](https://source.opennews.org/en-US/articles/reporting-youngest-land-earth/) imagery and then figure out how to make it accessible and understandable to readers.
 
 ###Mark Boas - 2012 fellow, now at Hyperaudio
-<img src="/media/img/fellows/mark_small.jpg" class="fellowspage">Mark came to the fellowship with a wealth of experience with online audio and video. This was a great fit for interactive projects at Al Jazeera as well as efforts to add better navigation and captioning support to news events like the [2012 U.S. presidential debates](http://www.aljazeera.com/indepth/interactive/2012/10/20121023134433218846.html). 
+<img src="/media/img/fellows/mark_small.jpg" class="fellowspage">Mark came to the fellowship with a wealth of experience with online audio and video. This was a great fit for interactive projects at Al Jazeera as well as efforts to add better navigation and captioning support to news events like the [2012 U.S. presidential debates](http://www.aljazeera.com/indepth/interactive/2012/10/20121023134433218846.html).
 
 ## Collaborate
 Working together is at the heart of open source development and fellows have the chance to combine forces with their newsroom colleagues, the other fellows in their cohort, the wider journalism-code community, and beyod.

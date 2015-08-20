@@ -4,20 +4,20 @@ title: The Knight-Mozilla Fellowships&colon; Program Details
 section: fellowships
 sub-section: fellows_info
 redirect_from:
-- /what/fellowships/details/index.html 
+- /what/fellowships/details/index.html
 ---
-<p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for  people  who love to code and who want to influence the future of journalism on  the web. <a href="/what/fellowships/apply">Apply today</a>. You have the chance to get paid to spend 10 months learning, contributing to open-source code, and sharing your work.</p>
+<p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for  people  who love to code and who want to influence the future of journalism on  the web.<!-- <a href="/what/fellowships/apply">Apply today</a>. You have the chance to get paid to spend 10 months learning, contributing to open-source code, and sharing your work.</p>
 
-<p>We want you to be able to participate--along with your whole family! We've structured this program and its financial supports to be responsive to the needs of fellows in a variety of circumstances. The fellowship gives you the time and support you need to immerse yourself in the journalism-code community and work on some great projects. </p>
+<p>We want you to be able to participate--along with your whole family!--> We've structured this program and its financial supports to be responsive to the needs of fellows in a variety of circumstances. The fellowship gives you the time and support you need to immerse yourself in the journalism-code community and work on some great projects. </p>
 
 ###THE FELLOWSHIP
 **What is the Knight-Mozilla Fellowship?**
 
-The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people's lives. Knight-Mozilla Fellows spend 10 months working with newsroom technology teams to write open-source code, analyze and visualize data, and explore tough problems facing journalism. 
+The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people's lives. Knight-Mozilla Fellows spend 10 months working with newsroom technology teams to write open-source code, analyze and visualize data, and explore tough problems facing journalism.
 
 **What do fellows do?**
 
-Over the past four years, fellows have created open-source projects, traveled the world sharing their work, and built strong relationships with their cohort and the wider journalism-code community. We welcome the fellows at the start of their fellowship ([get to know them](/what/fellowships/2015meet)) and support [their work during and after the fellowship](/what/fellowships/community/). 
+Over the past four years, fellows have created open-source projects, traveled the world sharing their work, and built strong relationships with their cohort and the wider journalism-code community. We welcome the fellows at the start of their fellowship ([get to know them](/what/fellowships/2015meet)) and support [their work during and after the fellowship](/what/fellowships/community/).
 
 Fellows get to work in a way that is different from a lot of other roles. Not a newsroom employee, nor an intern, fellows operate more like independent researchers. They spend time working in and with their newsroom, but also have the flexibility to pursue learning and other projects of interest. Being a fellow means having the time for the experimenting, teaching, speaking, and learning that often gets forced into your evenings and weekends at a regular job.
 
@@ -42,7 +42,7 @@ Our fellowship locations for 2016 are:
 * [NPR](http://blog.apps.npr.org/2015/08/10/knight-mozilla.html) - Washington, DC
 * [Vox Media](http://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow) - Austin, TX; New York, NY; or Washington, DC
 
-Each news organization [described what they are looking for in a fellow](/blog/fellowships-news-partners) and the types of projects they are excited to work on with a fellow. 
+Each news organization [described what they are looking for in a fellow](/blog/fellowships-news-partners) and the types of projects they are excited to work on with a fellow.
 
 **When would I start?**
 
@@ -121,4 +121,4 @@ All approved fellowship trips--domestic and international--are covered. Addition
 <h3>Visa Assistance</h3>
 Mozilla will work directly with fellowship partners to secure temporary work visas on behalf of fellows who require them.
 
-The application process is easy and brief. [Apply now](/what/fellowships/apply) or [learn more about how it works](/what/fellowships/faq).
+<!--The application process is easy and brief. [Apply now](/what/fellowships/apply) or [learn more about how it works](/what/fellowships/faq).-->
