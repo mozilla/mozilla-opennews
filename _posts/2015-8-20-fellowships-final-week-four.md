@@ -27,7 +27,7 @@ We support fellow alums with travel scholarships, leadership opportunities at co
 
 ### Project Expansion & Support
 
-Even the projects fellows work on during their 10 months with our news partners tend to stretch beyond the parameters of the fellowship—and often take on a vibrant life of their own. High-profile projects from the last couple of years include:
+Even the projects fellows work on during their ten months with our news partners tend to stretch beyond the parameters of the fellowship—and often take on a vibrant life of their own. High-profile projects from the last couple of years include:
 
 * [NewsLynx](http://newslynx.readthedocs.org/en/latest/)—a sophisticated tool for measuring the qualitative and quantitative impact of news stories that had an [official launch at SRCCON 2015](http://towcenter.org/newslynx-launching-installing-and-lynxing-at-srccon/), from former fellow Brian Abelson and Al Jazeera America's Michael Keller
 * [Unveillance](http://harloholm.es/2014/11/29/unveilling...-unveillance.html)—a library that combines friend-to-friend file sharing, machine learning, and If-This-Then-That-style programmability, a and recent recipient of a [Knight Prototype grant](http://www.knightfoundation.org/grants/201550896/), from former fellow Harlo Holmes
