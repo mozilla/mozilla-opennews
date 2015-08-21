@@ -5,8 +5,8 @@ section: fellowships
 sub-section: fellows_faq
 ---
 
-<p class="bodybig">The <a href="/what/fellowships/apply">application to become a 2016 Knight-Mozilla Fellow</a> is open until August  21, 2015. Here's what to expect throughout this process.</p>
-<!--
+<!--<p class="bodybig">The <a href="/what/fellowships/apply">application to become a 2016 Knight-Mozilla Fellow</a> is open until August  21, 2015. Here's what to expect throughout this process.</p>
+
 ### BEFORE YOU APPLY
 We're really interested in getting to know you and why you want to become a fellow. The application is kept short and is all about you--no need to track down recommendation letters or contact info for old bosses. Here are some additional details about the application and selection process.
 
@@ -26,7 +26,7 @@ Each year, we get more applications from  amazingly qualified candidates than we
 
 The only way to become a fellow [is to apply](/what/fellowships/apply). And it's a great way for us, and the partner news organizations, to get to know you for future opportunities as well.
 -->
-We conduct a yearly, global search for our Knight-Mozilla Fellows. While our search for our 2016 cohort closed on August 21, our review process will continue until fellows are announced at the [Mozilla Festival, November 6-8 in London](https://2015.mozillafestival.org/).
+<p class="bodybig">We conduct a yearly, global search for our Knight-Mozilla Fellows. While our search for our 2016 cohort closed on August 21, our review process will continue until fellows are announced at the </a>Mozilla Festival, November 6-8 in London</a>.</p>
 
 ### AFTER THE DEADLINE CLOSES
 Applications are submitted through a Screendoor form and are visible at the time they are submitted, but formal review does not begin until after the application deadline closes on August 21.
