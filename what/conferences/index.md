@@ -18,4 +18,4 @@ section: what we do
 <img src="/media/img/mozfestpano.jpg" class="topline section">
 ## [Journalism at the Mozilla Festival](mozfest)
 
-The OpenNews team organizes the [Source Code for Journalism track](mozfest)  of the [Mozilla Festival](http://2014.mozillafestival.org/), an annual festival of the open internet in London, bringing together journalists and developers from around the world for two days of hands-on knowledge sharing and conversation. [Learn more.](mozfest)
+The OpenNews team organizes the journalism sessions at the [Mozilla Festival](https://2015.mozillafestival.org/),  an annual festival of the open internet in London. The journalism sessions at MozFest bring together journalists and developers from around the world for two days of hands-on knowledge sharing and conversation. [Learn more.](mozfest)
