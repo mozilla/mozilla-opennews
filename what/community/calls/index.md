@@ -16,7 +16,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** August 19, 2015 ([call notes](https://etherpad.mozilla.org/opennews-calls-Aug19))<br />
+**Next Scheduled Call:** September 2, 2015 ([call notes](https://etherpad.mozilla.org/opennews-calls-Sept2))<br />
 **Conference Number:** +1 800-503-2899 ([international toll-free numbers](https://wiki.mozilla.org/Webmakers/Community_Calls/International))<br />
 **7-Digit Access Code:** 1941934#<br />
 
@@ -27,6 +27,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 <p>We use Etherpad to take full, participatory notes during our calls. Feel free to look through our call archive. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a>
 
 <ul>
+<li><a ref="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Aug19">August 19, 2015 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-Aug5">August 5, 2015 call</a>
 </li>
 <li><a ref="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-July22">July 22, 2015 call</a>
