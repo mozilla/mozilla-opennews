@@ -7,6 +7,17 @@
 <atom:link href="http://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>The &amp;#40;remarkably consistent&amp;#41; Data-Driven Decisions of the Final Day of Fellowship Applications</title>
+<dc:creator></dc:creator>
+
+<description>Today is the final day to apply to become a 2016 Knight-Mozilla Fellow. After more than two months, these last few hours are all that&#39;s left. We crunch the numbers to see what previous last days have looked like and to let you know that you&#39;re not alone in waiting to today.</description>
+
+<pubDate>Fri, 21 Aug 2015 09:26:00 -0500</pubDate>
+<link>http://www.opennews.org/blog/fellowships-final-week-itsover</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/fellowships-final-week-itsover</guid>
+</item>
+
+<item>
 <title>Beyond the Fellowship Year</title>
 <dc:creator></dc:creator>
 
@@ -103,17 +114,6 @@
 <pubDate>Tue, 28 Jul 2015 11:30:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/fellowships-open-web</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/fellowships-open-web</guid>
-</item>
-
-<item>
-<title>One Month Left to Apply</title>
-<dc:creator></dc:creator>
-
-<description>You have one month left to apply for the 2016 Knight-Mozilla Fellowship. If you still have questions, we have lots of information coming your way.</description>
-
-<pubDate>Tue, 21 Jul 2015 16:00:00 -0500</pubDate>
-<link>http://www.opennews.org/blog/fellowships-month-out</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/fellowships-month-out</guid>
 </item>
 
 </channel>
