@@ -1,6 +1,6 @@
 ---
 layout: fellowship_index
-title: Apply to become a 2016 Knight-Mozilla Fellow!
+title: 2016 Knight-Mozilla Fellowship Application is Closed
 section: fellowships
 sub-section: fellows_apply
 redirect_from:
@@ -9,15 +9,8 @@ redirect_from:
 
 <h2>{{ page.title }}</h2>
 
-<p>Are you a developer, designer, technologist, civic hacker, or data cruncher who wants to help change the world of journalism? Apply to become a 2016 Knight-Mozilla Fellow and <a href="/what/fellowships/info">spend ten months</a> embedded in one of the best newsrooms in the world, writing open code and <a href="/what/fellowships/community">becoming a leader</a> in the international journalism tech community.</p>
+Thank you for your interest in the Knight-Mozilla Fellowships. Unfortunatley, we are no longer accepting applications for our 2016 fellowship cohort. We'll be announcing our 2016 Knight-Mozilla Fellows at the [Mozilla Festival, November 6-8 in London](https://2015.mozillafestival.org/).
 
-**Application is open until August 21, 2015 at 11:59:59 EDT.**
+If you're interested in learning more about [what we do at OpenNews](/what), or how to [get further involved](/what/community/) in the journalism-code community, feel free to explore this site or join one of our [open community calls](/what/community/calls/).
 
-<form data-formrenderer>This form requires JavaScript to complete.</form>
-
-<script>
-  new FormRenderer({
-    "project_id": 1366,
-    "afterSubmit": "/what/fellowships/thanks"
-  });
-</script>
+Thanks so much!

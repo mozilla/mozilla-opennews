@@ -9,10 +9,10 @@ sub-section: index
 
 <h2>{{ page.title }}</h2>
 <p class="bodybig">OpenNews was created to support, strengthen, and expand the the community around open source code in journalism. Whether you’re part of an established news apps or data team, or brand new to the field, we have programs and resources to help you connect with peers and mentors, share your work, and make more fantastic projects.</p>
-
+<!--
 ### [Apply for a Fellowship](/what/fellowships/)
 Knight-Mozilla Fellows spend 10 months working with a fantastic news organization in a paid position and traveling around the world to learn from and collaborate with news nerds. [Meet our 2015 fellows](what/fellowships/2015meet) and [learn more about the program](/what/fellowships/), then apply to become a [2016 Knight-Mozilla Fellow](/what/fellowships/apply).
-
+-->
 ### [Become a News Partner](/getinvolved/newspartners)
 Are you a newsroom looking to get more involved in the community by running a hack day, joining a code convening, or hosting a Knight-Mozilla Fellow? [Learn how to become an OpenNews partner.](/getinvolved/newspartners)
 
