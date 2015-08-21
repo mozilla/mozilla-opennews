@@ -25,9 +25,9 @@ Fellows get to work in a way that is different from a lot of other roles. Not a 
 
 It could be you. Anyone who loves to solve problems via code and has an  interest in journalism. You do not have to have previous experience with journalism. You also do not have to have experience with any particular programming language. A lot of news app development happens in the front-end, especially mapping and visualization, and people with those skills are highly sought after. Statistics, data, and even hard math skills are also great.
 
-And you can be from anywhere. We are an international program and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist fellows with any necessary visa applications for working and traveling during the fellowship. We make our best effort to handle any visa needs a fellow may have, but it is possible that visa requirements may affect your ability to participate in the fellowship. If you are concerned that this may be the case for you, it is something we can investigate at the finalist stage of [the application process](/what/fellowships/faq). Do not let visa questions hold you back from applying. We still want to hear from you.
+And you can be from anywhere. We are an international program and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist fellows with any necessary visa applications for working and traveling during the fellowship. We make our best effort to handle any visa needs a fellow may have, but it is possible that visa requirements may affect your ability to participate in the fellowship. If you are concerned that this may be the case for you, it is something we can investigate at the finalist stage of [the application process](/what/fellowships/faq). <!--Do not let visa questions hold you back from applying. We still want to hear from you.
 
-The only way to find out a definitive answer to this is to [apply](/what/fellowships/apply). (And  even then, several of our fellows have been selected on their second or third try applying.)
+The only way to find out a definitive answer to this is to [apply](/what/fellowships/apply). (And  even then, several of our fellows have been selected on their second or third try applying.)-->
 
 **Where would I work?**
 
