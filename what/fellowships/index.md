@@ -32,9 +32,9 @@ Journalism influences [the web we inhabit](/blog/fellowships-open-web). Journali
 
 The Knight-Mozilla Fellowship is a chance to be immersed in this work. Working in journalism means you do [challenging work that is deeply gratifying](https://source.opennews.org/en-US/articles/planting-next-crop-newsroom-coders/). As advocates of the open web, we also see our work as a way to help make open technology a realistic and attractive option for newsrooms, technically and culturally.
 
-###Joining the fellowship
+<!--###Joining the fellowship
 We run a yearly search for Knight-Mozilla Fellows. The fellowship affords a chance to experiment with technology in journalism and work on projects that interest you and your host newsroom. Fellows live for 10 months in the city where their host newsroom is located and work as a member of the newsroom team.
 
-The kinds of projects fellows work on day-to-day are chosen by the host news organization and the fellow, and [have included projects focused on](/what/fellowships/community) data, mapping, elections, and impact analysis. <!--If you already have ideas that interest you, whether it be news games or civic data crunching, that’s great. We’re looking for people who want to  experiment with technology in journalism, and fellows get plenty of room to figure out what those experiments should be.-->
+The kinds of projects fellows work on day-to-day are chosen by the host news organization and the fellow, and [have included projects focused on](/what/fellowships/community) data, mapping, elections, and impact analysis. If you already have ideas that interest you, whether it be news games or civic data crunching, that’s great. We’re looking for people who want to  experiment with technology in journalism, and fellows get plenty of room to figure out what those experiments should be.-->
 
 You can learn more about the [financial and timing details of the fellowship](/what/fellowships/info) and the [application process](/what/fellowships/faq). If you don't see your questions answered, please [email us](mailto:info@opennews.org).
