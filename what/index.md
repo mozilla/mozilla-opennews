@@ -10,7 +10,7 @@ sub-section: index
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">At OpenNews, are building an ecosystem of programs and tools in support of the global community of journalists and coders who are creating the open technologies and processes journalism needs to thrive.</p>
+<p class="bodybig">At OpenNews, we are building an ecosystem of programs and tools in support of the global community of journalists and coders who are creating the open technologies and processes journalism needs to thrive.</p>
 
 ### [Fellowships](fellowships/)
 
