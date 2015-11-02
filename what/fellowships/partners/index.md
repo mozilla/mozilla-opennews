@@ -4,6 +4,7 @@ title: The Knight-Mozilla Fellowships&colon; Fellowship Partners
 section: partnerships
 ---
 <p class="bodybig"> Fellowship partners host fellows for 10 months, offering challenging projects and immersion into the culture of the newsroom. We select partners who are invested in open source development and who will encourage their fellow to collaborate within and outside of their news organization.</p>
+<p>We will begin the search for partners for our next cohort of partners in April 2016. If you would like to be notified when the search opens, <a href="info@opennews.org">email us</a>.</p>
 
 ### The 2016 partners
 We heard from over 40 news organizations that wanted to welcome a fellow for 2016. We selected a mix of partners who have not hosted a fellow before as well as returning partners. In 2016 fellows will be hosted by:
@@ -23,6 +24,7 @@ Hosting a fellow is different from adding another member to the team. Fellows co
 ### Prior partners
 Over  the years, we've worked with news organizations in the US, Argentina,  the United Kingdom, Germany, and Kenya. Our partners have included:
 
+* 2015: Center for Investigative Reporting/Reveal, Guardian, La Nacion, NPR, Vox Media, The Coral Project (a collaboration between New York Times, The Washington Post, and Mozilla)
 * 2014: La Nacion, New York Times, ProPublica, Texas Tribune, The Washington Post, and a joint fellowship placement with Ushahidi and Internews-Kenya
 * 2013: BBC, Boston Globe, Guardian, La Nacion, New York Times, ProPublica, Spiegel Online, and Zeit Online
 * 2012: Al Jazeera, BBC, Boston Globe, Guardian, and Zeit Online

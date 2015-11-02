@@ -10,7 +10,7 @@ sub-section: fellows_home
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">In 2016, we welcome our <a href="/what/fellowships/2016meet">fifth cohort</a> of Knight-Mozilla Fellows. The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people's lives.</p>
+<p class="bodybig">In 2016, we welcome our fifth cohort of Knight-Mozilla Fellows. <a href="2016meet">Meet them now.</a> The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people's lives.</p>
 
 <div id="partnerbox">
 <h4>Our 2016 Partners</h4>
