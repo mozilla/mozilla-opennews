@@ -6,8 +6,9 @@ sub-section: fellows_info
 redirect_from:
 - /what/fellowships/details/index.html
 ---
-<p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for  people  who love to code and who want to influence the future of journalism on the web. The application for the next cohort of fellows will open in mid-2016.</p>
-<p class="bodybig">We've structured this program and its financial supports to be responsive to the needs of fellows in a variety of circumstances. The fellowship gives you the time and support you need to immerse yourself in the journalism-code community and work on some great projects. </p>
+<p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/2016meet/">Our 2016 fellows</a> are preparing to begin their work with our fellowship partner organizations, and the application for the 2017 cohort of fellows will open in mid-2016.</p>
+
+We've structured this program and its financial supports to be responsive to the needs of fellows in a variety of circumstances. The fellowship gives you the time and support you need to immerse yourself in the journalism-code community and work on some great projects. 
 
 ###THE FELLOWSHIP
 **What is the Knight-Mozilla Fellowship?**
@@ -26,24 +27,24 @@ It could be you. Anyone who loves to solve problems via code and has an  interes
 
 And you can be from anywhere. We are an international program and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist fellows with any necessary visa applications for working and traveling during the fellowship. We make our best effort to handle any visa needs a fellow may have, but it is possible that visa requirements may affect your ability to participate in the fellowship. If you are concerned that this may be the case for you, it is something we can investigate at the finalist stage of [the application process](/what/fellowships/faq).
 
-**Where would I work?**
+**Where do fellows work?**
 
 Fellows are based, unless special circumstances dictate, in the town of their host news organization.
 
 Our fellowship locations for 2016 are:
 
-* [Correct!v](https://correctiv.org/en/nerds/blog/2015/08/11/become-opennews-fellow-correctiv/) - Berlin, Germany
-* [The Coral Project](http://coralproject.net/fellows.html) - New York, NY (based out of the New York Times)
-* [Frontline](http://www.pbs.org/wgbh/pages/frontline/inside-frontline/join-frontline-as-a-knight-mozilla-opennews-fellow/) - Boston, MA
-* [Los Angeles Times Data Desk](http://datadesk.github.io/2015-08-12-open-news/) - Los Angeles, CA
-* [NPR](http://blog.apps.npr.org/2015/08/10/knight-mozilla.html) - Washington, DC
-* [Vox Media](http://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow) - Austin, TX; New York, NY; or Washington, DC
+* [Correct!v](https://correctiv.org/en/nerds/blog/2015/08/11/become-opennews-fellow-correctiv/)—Berlin, Germany
+* [The Coral Project](http://coralproject.net/fellows.html)—New York, NY (based out of the New York Times)
+* [Frontline](http://www.pbs.org/wgbh/pages/frontline/inside-frontline/join-frontline-as-a-knight-mozilla-opennews-fellow/)—Boston, MA
+* [The Los Angeles Times Data Desk](http://datadesk.github.io/2015-08-12-open-news/)—Los Angeles, CA
+* [NPR](http://blog.apps.npr.org/2015/08/10/knight-mozilla.html)—Washington, DC
+* [Vox Media](http://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow)—Austin, TX; New York, NY; or Washington, DC
 
 Each news organization [described what they are looking for in a fellow](/blog/fellowships-news-partners) and the types of projects they are excited to work on with a fellow.
 
-**When would I start?**
+**When do the fellowships start?**
 
-2016  fellowships begin in calendar year 2016 and last for 10 months. Each fellow’s start date will be individualized for the needs of that fellow and the news organization, but most fellowships will begin in February or March of 2016.
+2016 fellowships begin in calendar year 2016 and last for 10 months, and the same will be true for 2017. Each fellow’s start date is individualized for the needs of that fellow and the news organization, but most fellowships will begin in February or March of their fellowship year.
 
 ###STIPEND AND FINANCIAL BENEFITS
 The Knight-Mozilla Fellowship is designed to allow flexibility for both fellows and fellowship partners. **The standard fellowship offers a stipend of $60,000, paid in 10 monthly installments.** fellows are responsible for remitting all applicable taxes and other government payments as required.

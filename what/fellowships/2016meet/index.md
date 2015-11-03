@@ -8,7 +8,7 @@ sub-section: fellows_2016
 <p class="caption">Our 2016 Knight-Mozilla Fellows gather in London.</p>
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Our 2016 Knight-Mozilla Fellows join us as the *fifth* cohort of fellows. They come from inside and outside of journalism to work with fellowship partner tech teams for 10 months. They will work with Los Angeles Times Data Desk, NPR, Vox Media, Frontline,  Correct!v, and The Coral Project (a collaboration between the New York  Times, the  Washington Post, and Mozilla).</p>
+<p class="bodybig">The 2016 Knight-Mozilla Fellows—our <em>fifth</em> cohort of fellows—come from inside and outside of journalism to spend 10 months working with tech teams within our fellowship partner organizations. This year, our fellows will work with Correct!v, Frontline, the Los Angeles Times Data Desk, NPR, Vox Media,  and the Coral Project (a collaboration between the New York  Times, the  Washington Post, and Mozilla).</p>
 <ul class="fellowslist">
 <li><a href="#tara">Tara</a>
 <li><a href="#juan">Juan</a>
