@@ -5,8 +5,8 @@ section: what we do
 sub-section: index
 ---
 
-<img src="/media/img/convening.jpg" class="topline">
-<p class="caption">Collaborating on election data at our 2014 California Civic Data Code Convening.</p>
+<img src="/media/img/srccon-group-erik-westra.jpg" class="topline">
+<p class="caption">Collaboration in progress at SRCCON 2015. (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
 
@@ -14,11 +14,11 @@ sub-section: index
 
 ### [Fellowships](fellowships/)
 
-The [Knight-Mozilla Fellowships](fellowships/) place developers, technologists, civic hackers, and data crunchers in 10-month paid fellowships to develop open-source projects in our partner newsrooms around the world. The 2015 cohort is our fourth group of Knight-Mozilla Fellows, and will be working with news technology teams at  the Center for Investigative Reporting, the Guardian, La Nacion, NPR, the New York Times, Vox Media, and the Washington Post. [Meet them and learn more.](fellowships/)
+The [Knight-Mozilla Fellowships](fellowships/) place developers, technologists, civic hackers, and data crunchers in 10-month paid fellowships to develop open-source projects in our partner newsrooms around the world. The 2016 cohort is our fifth group of Knight-Mozilla Fellows, and will be working with news technology teams at the Los Angeles Times, NPR, Vox Media, Correct!v, and the Coral Project (a partnership of the New York Times, the Washington Post, and Mozilla). [Meet them and learn more.](fellowships/)
 
 ### [Conferences](conferences/)
 
-In 2014, we hosted [the inaugural SRCCON](conferences/srccon), a conference for hackers and data nerds working in and near newsrooms. SRCCON will return in the summer of 2015. We also run the [Source Code for Journalism](conferences/mozfest) track at the Mozilla Festival, a multi-day celebration of making and the open internet held annually in London. [Learn more about the kinds of sessions we run and how to attend.](conferences/)
+In 2014, we hosted [the inaugural SRCCON](conferences/srccon), a conference for hackers and data nerds working in and near newsrooms. Our second SRCCON was held this last June, and we're returning for a third year in the summer of 2016. We also run the [Source Code for Journalism](conferences/mozfest) track at the Mozilla Festival, a multi-day celebration of making and the open internet held annually in London. [Learn more about the kinds of sessions we run and how to attend.](conferences/)
 
 ### [Code & Community Support](community/)
 

@@ -4,16 +4,18 @@ title: Conferences
 section: what we do
 
 ---
-<img src="/media/img/srcconcoffee.jpg" class="topline">
-<p class="caption">Coffee bean options were plentiful at the SRCCON coffee hacking stations.</p>
+<img src="/media/img/srccon2015-francis-cathy-erik-westra.jpg" class="topline">
+<p class="caption">SRCCON 2015 (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The journalism-code community assembles at journalism and tech conferences around the world, and some of the most interesting parts of those events happen in the informal skillshares and hurried conversations between scheduled sessions. We host two annual events designed to provide space for those conversations and collaborations to bloom, surrounded by plentiful food, good coffee, and enthusiastic colleagues.</p>
 
-<img src="/media/img/srcconjeremy.jpg" class="topline section">
+
+<img src="/media/img/srccon-tiff-michael-erik-westra.jpg" class="topline section">
+<p class="caption">SRCCON 2015 (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
 ## [SRCCON, the OpenNews Conference](srccon)
 
-[SRCCON](srccon)  is the annual OpenNews event for developers, designers, journalists, civic hackers, data nerds, and other people who love to code, in and near newsrooms. We sold out SRCCON 2014 in three minutes, and it returns in the summer of 2015, with full details coming soon. [Learn more.](srccon)
+[SRCCON](srccon) is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We welcome participants from all fields—if you want to strengthen journalism online, we want you there. The conference returns in the summer of 2016 for its third year. [Find out more.](srccon)
 
 <img src="/media/img/mozfestpano.jpg" class="topline section">
 ## [Journalism at the Mozilla Festival](mozfest)

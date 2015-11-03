@@ -4,7 +4,9 @@ title: Code & Community Support
 section: what we do
 
 ---
-<img src="/media/img/community.jpg" class="topline">
+<img src="/media/img/convening.jpg" class="topline">
+<p class="caption">Collaborating on election data at our 2014 California Civic Data Code Convening</p>
+
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The news code community ships features, code libraries, and support systems at newsroom pace: fast. But much of the most innovative work to emerge from the community requires time spent on documentation and cross-organizational collaboration—which, in turn, requires time away from the daily grind. Our programs serve as community infrastructure, providing editorial, financial, and organizational support for this work. </p>
 
