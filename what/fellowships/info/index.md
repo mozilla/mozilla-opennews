@@ -17,7 +17,7 @@ The Knight-Mozilla Fellowship places creative technologists in newsrooms to work
 
 **What do fellows do?**
 
-Over the past four years, fellows have created open-source projects, traveled the world sharing their work, and built strong relationships with their cohort and the wider journalism-code community. We welcome the fellows at the start of their fellowship ([get to know them](/what/fellowships/2015meet)) and support [their work during and after the fellowship](/what/fellowships/community/).
+Over the past four years, fellows have created open-source projects, traveled the world sharing their work, and built strong relationships with their cohort and the wider journalism-code community. We welcome the fellows at the start of their fellowship ([get to know them](/what/fellowships/2016meet)) and support [their work during and after the fellowship](/what/fellowships/community/).
 
 Fellows get to work in a way that is different from a lot of other roles. Not a newsroom employee, nor an intern, fellows operate more like independent researchers. They spend time working in and with their newsroom, but also have the flexibility to pursue learning and other projects of interest. Being a fellow means having the time for the experimenting, teaching, speaking, and learning that often gets forced into your evenings and weekends at a regular job.
 
@@ -34,9 +34,9 @@ Fellows are based, unless special circumstances dictate, in the town of their ho
 Our fellowship locations for 2016 are:
 
 * [Correct!v](https://correctiv.org/en/nerds/blog/2015/08/11/become-opennews-fellow-correctiv/)—Berlin, Germany
-* [The Coral Project](http://coralproject.net/fellows.html)—New York, NY (based out of the New York Times)
+* [Coral Project](http://coralproject.net/fellows.html)—New York, NY (based out of the New York Times)
 * [Frontline](http://www.pbs.org/wgbh/pages/frontline/inside-frontline/join-frontline-as-a-knight-mozilla-opennews-fellow/)—Boston, MA
-* [The Los Angeles Times Data Desk](http://datadesk.github.io/2015-08-12-open-news/)—Los Angeles, CA
+* [Los Angeles Times Data Desk](http://datadesk.github.io/2015-08-12-open-news/)—Los Angeles, CA
 * [NPR](http://blog.apps.npr.org/2015/08/10/knight-mozilla.html)—Washington, DC
 * [Vox Media](http://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow)—Austin, TX; New York, NY; or Washington, DC
 
