@@ -36,18 +36,18 @@ Working together is at the heart of open source development and fellows have the
 ###Manuel Aristarán - 2013 fellow, now at MIT Civic Media<br>Mike Tigas - 2013 fellow, now at ProPublica
 <img src="/media/img/fellows/manuel_small.jpg" class="fellowspage"><img src="/media/img/fellows/mike.jpg" class="fellowspage">Manuel and Mike worked on the tricky problem of extracting tabular data from PDFs. Manuel began work on Tabula prior to his fellowship and continued its development while at La Nacion in partnership with ProPublica. Mike, his ProPublica colleague Jeremy B. Merrill, and Manuel [launched TabulaPDF](http://tabula.technology/) in 2013 and have continued its development.
 
-###Gabriela Rodriguez - 2014 fellow, now freelancing
+###Gabriela Rodriguez - 2014 fellow, now at The Coral Project
 <img src="/media/img/fellows/2014-fellows/gabriela-60.png" class="fellowspage">Gabriela picked up the work of her predecessor at La Nacion, Manuel Aristarán, to create an [open source tool for crowdsourcing analysis of PDF documents](https://github.com/crowdata/crowdata). The open source project also involved "checkathon" events where readers and university students could participate by checking the documents and logging the relevant details, no coding required.
 
 ## Share
 A handful of individuals get to spend 10 months as a fellow, but by documenting, speaking, and teaching about their work, fellows expand the reach of their efforts and allow the rest of the journalism-code community to benefit from their work.
 
-###Francis Tseng and Tara Adiseshan - 2015 fellows at The Coral Project
+###Francis Tseng and Tara Adiseshan - current fellows at The Coral Project
 <img src="/media/img/fellows/2015-fellows/francis60.jpg" class="fellowspage"><img src="/media/img/fellows/2015-fellows/tara60.jpg" class="fellowspage">
 Francis and Tara joined [The Coral Project](coralproject.net) and got straight to work on research. They immersed themselves in learning about how communities interact online and what communities outside of news may be able to teach news sites. Francis and Tara have shared their research at the New York Times and at events including the Allied Media Conference and SRCCON.
 
 ###Harlo Holmes - 2014 fellow, now at Freedom of the Press Foundation<br>Aurelia Moser - 2014 fellow, now at CartoDB
 <img src="/media/img/fellows/2014-fellows/harlo-60.png" class="fellowspage"><img src="/media/img/fellows/2014-fellows/aurelia-60.png" class="fellowspage">Harlo and Aurelia wanted to help journalists understand how and why to communicate securely with sources. Harlo brought her extensive experience in the security community and Aurelia brought her curiosity about apps and communication to develop several talks about [opsec for journalists](https://github.com/auremoser/dropitlike/blob/master/README.md). They presented together, alongside Barton Gellman at HOPE, and at the Hacks/Hackers Buenos Aires Media Party.
 
-###Brian Abelson - 2013 fellow, now at Enigma
+###Brian Abelson - 2013 fellow, now freelancing
 <img src="/media/img/fellows/brian_small.jpg" class="fellowspage">Brian brought his statistics background to studying analytics and impact throughout his fellowship at the New York Times. This led to a Tow Center fellowship where, along with Michael Keller and Stijn Debrouwere (2013 fellow at The Guardian) Brian continued his research. In 2015, Brian and Michael [released a major white paper](http://towcenter.org/wp-content/uploads/2015/06/Tow_Center_NewsLynx_Full_Report.pdf) and [open sourced their work](http://newslynx.readthedocs.org/) on NewsLynx.

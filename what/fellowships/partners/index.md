@@ -4,19 +4,19 @@ title: The Knight-Mozilla Fellowships&colon; Fellowship Partners
 section: partnerships
 ---
 <p class="bodybig"> Fellowship partners host fellows for 10 months, offering challenging projects and immersion into the culture of the newsroom. We select partners who are invested in open source development and who will encourage their fellow to collaborate within and outside of their news organization.</p>
-<p>We will begin the search for partners for our next cohort of partners in April 2016. If you would like to be notified when the search opens, <a href="info@opennews.org">email us</a>.</p>
+<p>We will begin the search for partners for our next cohort of partners in April 2016. If you would like to be notified when the search opens, <a href="mailto:info@opennews.org">email us</a>.</p>
 
 ### The 2016 partners
 We heard from over 40 news organizations that wanted to welcome a fellow for 2016. We selected a mix of partners who have not hosted a fellow before as well as returning partners. In 2016 fellows will be hosted by:
 
 * [Correct!v](https://correctiv.org/en/nerds/blog/2015/08/11/become-opennews-fellow-correctiv/) - Berlin, Germany
-* [The Coral Project](http://coralproject.net/fellows.html) - New York, NY (based out of the New York Times)
+* [Coral Project](http://coralproject.net/fellows.html) - New York, NY (based out of the New York Times)
 * [Frontline](http://www.pbs.org/wgbh/pages/frontline/inside-frontline/join-frontline-as-a-knight-mozilla-opennews-fellow/) - Boston, MA
 * [Los Angeles Times Data Desk](http://datadesk.github.io/2015-08-12-open-news/) - Los Angeles, CA
 * [NPR](http://blog.apps.npr.org/2015/08/10/knight-mozilla.html) - Washington, DC
 * [Vox Media](http://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow) - Austin, TX; New York, NY; or Washington, DC
 
-One fellow will work from each newsroom (with the exception of The Coral Project, which hosts two fellows) to create open-source code and contribute to journalism projects.
+One fellow will work from each newsroom (with the exception of the Coral Project, which hosts two fellows) to create open-source code and contribute to journalism projects.
 
 ### Working with a fellow
 Hosting a fellow is different from adding another member to the team. Fellows collaborate with newsroom technology teams working on projects that are both editorial and technical. But fellows also have the chance to collaborate  with other folks in the newsroom, with the other fellows in their cohort, and wider journalism-code community. Fellowship partners provide a homebase for fellows and continuity of work and connection, while also leaving room for exploration. Fellows and their newsroom partners work together to decide on projects to work on before their fellowship,  with the support of OpenNews. They also leave ample room for those ideas  evolving over the course of the fellowship.

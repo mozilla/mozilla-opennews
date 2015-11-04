@@ -15,7 +15,7 @@ section: what we do
 <p class="caption">SRCCON 2015 (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
 ## [SRCCON, the OpenNews Conference](srccon)
 
-[SRCCON](srccon) is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We welcome participants from all fields—if you want to strengthen journalism online, we want you there. The conference returns in the summer of 2016 for its third year. [Find out more.](srccon)
+[SRCCON](srccon) is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We welcome participants from all fields—if you want to strengthen journalism online, we want you there. The conference returns in July 2016 for its third year. [Find out more.](srccon)
 
 <img src="/media/img/mozfestpano.jpg" class="topline section">
 ## [Journalism at the Mozilla Festival](mozfest)

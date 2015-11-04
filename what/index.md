@@ -18,13 +18,13 @@ The [Knight-Mozilla Fellowships](fellowships/) place developers, technologists, 
 
 ### [Conferences](conferences/)
 
-In 2014, we hosted [the inaugural SRCCON](conferences/srccon), a conference for hackers and data nerds working in and near newsrooms. Our second SRCCON was held this last June, and we're returning for a third year in the summer of 2016. We also run the [Source Code for Journalism](conferences/mozfest) track at the Mozilla Festival, a multi-day celebration of making and the open internet held annually in London. [Learn more about the kinds of sessions we run and how to attend.](conferences/)
+In 2014, we hosted [the inaugural SRCCON](conferences/srccon), a conference for hackers and data nerds working in and near newsrooms. Our second SRCCON was held last June, and we're returning for a third year in the summer of 2016. We also run the [Journalism](conferences/mozfest) track at the Mozilla Festival, a multi-day celebration of making and the open internet held annually in London. [Learn more about the kinds of sessions we run and how to attend.](conferences/)
 
 ### [Code & Community Support](community/)
 
 In collaboration with writers and developers in newsrooms around the world, we publish [Source, a community site](community/source) focused on open technology projects and process in journalism. From features that explore the context behind the code to targeted job listings that help the community expand, Source presents the people, projects, and insights behind journalism code.
 
-Several times a year, we host [code convenings](community/convenings), focused events in which small teams from newsrooms gather to complete last-mile code and documentation for open-source projects they've been working on. We also hold biweekly open [community calls](community/calls) where newsroom data and apps teams can share their work, announce job openings, and find collaborators, and [sponsor hack days and journalism code events](community/eventsupport) around the globe to build community, code, and momentum for solving the problems working journalists face. [Learn more about our community support programs.](community/)
+Several times a year, we host [code convenings](community/convenings), focused events in which small teams from newsrooms gather to complete last-mile code and documentation for open-source projects they've been working on. We also hold biweekly open [community calls](community/calls) where newsroom data and apps teams can share their work, announce job openings, and find collaborators. In addition, we [sponsor hack days and journalism code events](community/eventsupport) around the globe to build community, code, and momentum for solving the problems working journalists face. [Learn more about our community support programs.](community/)
 
 ### [Get Involved](/getinvolved/)
 
