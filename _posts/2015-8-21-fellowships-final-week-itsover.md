@@ -1,85 +1,38 @@
 ---
 layout: blogpost
-title: Introducing our 2016 Knight-Mozila Fellows
-date: 2015-11-5 19:00
-author: Erika Owens
+title: The &#40;remarkably consistent&#41; Data-Driven Decisions of the Final Day of Fellowship Applications
+date: 2015-8-21 09:26
+author: Dan Sinker and Erika Owens
 tags: fellowships
-excerpt: Today we get to announce our fifth cohort of fellows, and tell a little about how we found them.
+excerpt: Today is the final day to apply to become a 2016 Knight-Mozilla Fellow. After more than two months, these last few hours are all that's left. We crunch the numbers to see what previous last days have looked like and to let you know that you're not alone in waiting to today.
 ---
-This year we get to announce our *fifth* cohort of fellows. They come to the fellowship from inside and outside of journalism and soon they'll join six stellar news organizations in the US and Germany. We launched an intentional [search process](#process) that reached [560 applicants](#numbers) and brought us to this fantastic group of fellows. Please join us in welcoming them!
+It all comes down to today. After [more than two months](https://opennews.org/blog/fellowship2016/) of searching, after weeks of blogging, after [tweet](https://twitter.com/opennews/status/608650559990689792) after [tweet](https://twitter.com/opennews/status/627236394042294272) after [tweet](https://twitter.com/opennews/status/634705806961709058), there is only today left to [apply to become a 2016 Knight-Mozilla Fellow](https://opennews.org/what/fellowships/apply). We've written about the opportunities that [our newsroom hosts pose to potential fellows](https://opennews.org/blog/fellowships-news-partners). We've collected the posts of our many [current fellows about their experiences](https://opennews.org/blog/fellowships-fellows-week-two). We've answered your questions on our OpenNews community calls [not just one time](https://etherpad.mozilla.org/opennews-calls-Aug19), [but twice](https://etherpad.mozilla.org/opennews-calls-Aug5). We've stepped you through how to [fill out the application](https://opennews.org/blog/fellowships-final-week-two), how to [craft a fellowship year](https://opennews.org/blog/fellowships-final-week-one), what [projects you may work on](https://opennews.org/blog/fellowships-final-week-three), and even what happens [*after* the fellowship](https://opennews.org/blog/fellowships-final-week-four). We've done all we can. Now it's up to you.
 
-###The 2016 Knight-Mozilla Fellows
-We get to work with seven incredible individuals next year. Here they are:
-<p><img src="/media/img/fellows/2016-fellows/nicky220.jpg" class="meet meet14" alt="Nicky Case">
-<h3 id="nicky">Nicky Case | Frontline</h3>
-<p>Nicky Case plays with play. They make interactive explanations, to help people understand the world, and interactive stories, to help people understand themselves. Last year, Nicky made Coming Out Simulator, an autobiographical interactive story about their experience coming out as queer. It was nominated for Best Narrative at the 2015 Independent Games Festival. After that, they made a few interactives to explain math, psychology, and sociology. Most notably, they collaborated with Vi Hart to make Parable of the Polygons, a playable blog post about bias and diversity. Nicky still thinks writing about oneself in the third person is really weird. They’ll join the team at Frontline.
-<p>Follow Nicky on Twitter at <a href="https://twitter.com/ncasenmare">@ncasenmare</a>
+[Today is your day.](https://opennews.org/what/fellowships/apply)
 
-<p><img src="/media/img/fellows/2016-fellows/sandhya220.JPG" class="meet meet14" alt="Sandhya Kambhampati">
-<h3 id="sandhya">Sandhya Kambhampati | Correct!v</h3>
-<p>Sandhya Kambhampati is a data journalist who is passionate about open records, data literacy and statistics. At The Chronicle of Higher Education, she analyzes data and reports on college athletics, college presidential pay, and student loans. She’s interested in records retention policies and finding new ways for newsrooms to share their institutional knowledge with others. In her spare time, Sandhya enjoys traveling, reading and trivia. She’s especially excited to learn German and about the Freedom of Information laws throughout Europe while working with the journalists at Correct!v. 
-<p>Follow Sandhya on Twitter at <a href="https://twitter.com/sandhya__k">@sandhya__k</a>
+While the application expires at 11:59:59pm Eastern tonight, many of you are still pulling together what you want to include on the form. Many of you are still weighing out whether the fellowship is something you truly want to do (spoiler alert: you do). And many of you are simply waiting because you have time (well, just a little). And then there are some of you that are telling yourself that it's too late, that the best applications have already come in, that there's no point.
 
-<p><img src="/media/img/fellows/2016-fellows/pietro220.JPG" class="meet meet14" alt="Pietro Passarelli">
-<h3 id="pietro">Pietro Passarelli | Vox</h3>
-<p>Pietro Passarelli is a software developer and documentary filmmaker. He is passionate about projects that sit at the intersection between software development and video production, both in terms of the growing trend of interactive documentaries but also as tools for making video production and post-production easier, such as [autoEdit](http://pietropassarelli.com/autoEdit.html). While working in broadcast documentaries for BBC and C4 Pietro noticed the convergence of video production and software development and did an MSc in Computer Science at UCL. Recently, he worked as newsroom developer at the Times & Sunday Times where he developed [quickQuote](http://times.github.io/quickQuote/) an open-source project to make it easier and faster for journalists to identify and create an interactive video quote. Pietro will join the team at Vox Media.
-<p>Follow Pietro on Twitter at <a href="https://twitter.com/@pietropassarell">@pietropassarell</a>
+Well guess what: it's not too late. In fact, today is the day that fully a quarter of our applicants apply. We have the data.
 
-<p><img src="/media/img/fellows/2016-fellows/lisa220.jpg" class="meet meet14" alt="Lisa Charlotte Rost">
-<h3 id="lisa">Lisa Charlotte Rost | NPR</h3>
-<p>Lisa Charlotte Rost is a designer who loves numbers, systems, and overviews. She wants to help the world to make sense of itself—to destroy false belief systems and to help people ask the most important questions—by using data visualization and data journalism. Lisa has worked for newsrooms like Bloomberg Businessweek, SPIEGEL, and ZEIT Online. She has taught data visualization at several German universities and organizes the Data Vis Meetup in Berlin. Lisa will be a fellow with the NPR Visuals team in Washington, DC, where she will learn how to make people care.
-<p>Follow Lisa on Twitter at <a href="https://twitter.com/@lisacrost">@lisacrost</a>
+* For our current group of fellows, 26% of our applicants applied on the last day.
+* For 2014 fellows, it was 23%
+* For 2013 fellows, it was 20%
 
-<p><img src="/media/img/fellows/2016-fellows/martin220.jpg" class="meet meet14" alt="Martin Shelton">
-<h3 id="martin">Martin Shelton | The Coral Project</h3>
-<p>Martin Shelton is a user researcher and data analyst interested in online privacy and security for at-risk users. His research focuses on the privacy habits of users in online communities, as well as journalists and activists. He is completing his PhD at UC Irvine’s Department of Informatics, where he studies how investigative journalists manage their information security. During his PhD, he worked as an intern conducting UX research and data analytics with Twitter, the Pew Research Center, and Google. Martin will be a fellow at [the Coral Project](https://coralproject.net/), a collaboration between the New York Times, the Washington Post, and Knight-Mozilla OpenNews.
-<p>Follow Martin on Twitter at <a href="https://twitter.com/@mshelton">@mshelton</a>
+We've been running this search for five years now, so we have numbers for _days_. And while we enjoy comparing the numbers, seeking to understand trends--much like the colleagues you'd work with in newsrooms--we share this not just as a curiosity. We hope this info will help you push through any doubts and clouds of procrastination, and join the good company of final-day applicants. (And for those data sticklers out there, we are sharing data from three prior cohorts rather than four because the first group of fellows were selected [via a completely different process](https://wiki.mozilla.org/OpenNews/2011_Archive).)
 
-<p><img src="/media/img/fellows/2016-fellows/dan220.jpg" class="meet meet14" alt="Dan Iair Zajdband">
-<h3 id="martin">Dan Iair Zajdband | The Coral Project</h3>
-<p>Dan Zajdband is a software developer passionate about real-time technologies, open-source projects, and open journalism. He contributes to a wide diversity of open source projects including both tooling and end-user software. He helps build community around web development and journalism by participating in and organizing groups like BAFrontend and Hacks/Hackers Buenos Aires. Dan will be a fellow at [the Coral Project](https://coralproject.net/), creating open-source tools and resources for publishers around the world.
-<p>Follow Dan on Twitter at <a href="https://twitter.com/@impronunciable">@impronunciable</a>
+* We know that of the quarter of our applicant pool that will apply today (hey, *that's you*), fully 75% will wait for the last 12 hours (in fact, for the 2014 fellows, it was 84%).
+* We know that of that 75% waiting for the last 12 hours, that 25% of you will apply _in the last hour_ (this data point is _remarkably_ consistent: 24% for the current fellows, 27% for 2014, 24% for 2013).
 
-<p><img src="/media/img/fellows/2016-fellows/christine220.JPG" class="meet meet14" alt="Christine Zhang">
-<h3 id="martin">Christine Zhang | Los Angeles Times</h3>
-<p>Christine Zhang is a data geek with a passion to find meaning in numbers. She believes that good data journalism can take us from "_more_-informed" to "_better_-informed." Her aim? To tell meaningful news stories with data, and to use open data and open-source tools to empower her readers to ask their own questions. Christine currently tells data-driven stories about the global economy at the Brookings Institution in Washington, DC and has previously done so in roles at Deutsche Bank and Infosys. Christine will be joining the team of news nerds on the LA Times Data Desk in 2016. 
-<p>Follow Christine on Twitter at <a href="https://twitter.com/@christinezhang">@christinezhang</a>
+But, maybe you're asking yourself: well all that data is great, but certainly you don't *get* the fellowship if you wait that long. All the good applicants have already applied, right?
 
-<a name="process"></a>
-###How we found them
-Each year, I've written about [our recruitment](http://erikaowens.com/blog/recruiting-and-selecting-amazing-group-fellows) and [selection process](http://erikaowens.com/blog/amazing-overwhelming-knight-mozilla-fellowship-applicants). This year, we continued with much the same approach, but with a renewed emphasis on building connection between programs, communities, and individuals. 
+Once again, the numbers say otherwise and are, again, amazingly consistent:
 
-The 2016 Fellows come to us from four countries, where they connected with the program in similar ways: through people and events. Several of them said that friends encouraged them to apply. We got to know Sandhya better through [SRCCON](/what/conferences/srccon) and met Dan way back when we started using his project [HackDash](https://hackdash.org/), which originated at the Hacks/Hackers Buenos Aires Media Party. Lisa, Nicky, and Pietro learned more about the fellowship through alumni, while Martin and Christine found out about it through colleagues. 
+* For our current fellows, 34% of our fellowship semifinalists applied in the last day.
+* For 2014 fellows, it was 35%
+* For 2013 fellows, it was 26%
 
-At its core, OpenNews is all about strengthening connections between people and projects in the journalism-code community. It's gratifying to see those connections reflected back to us in our fellows' pathways to the fellowship. It happens because we've designed the program that way. We've seen how valuable it can be to create spaces like [code convenings](/what/community/convenings) for people to work on code documentation while also building relationships with colleagues. We seek out ways to create those spaces and connections--and this year we used those already points of connection as a key part of our outreach process.
+Those are people who made it to the semifinalist round--the first stage in becoming a fellow. And every year, this group of last-day applications produced fellows themselves.
 
-The application window (from June to August) often overlaps with a lot of tech events, and we prioritized having a presence at events during that time. We sponsored [&:conf](https://www.andconf.io/) and held a birds of a feather at OSCON. Every current fellow and OpenNews staff member spoke at event during this period.  These events reached a wide range of possible fellows, and new journalism contributors. Midwestern devs heard Julia Smith's [talk at NebraskaJS](https://nejsconf.com/2015/julia67/) and women in tech in NYC heard Erin Kissane give a shout at [Write/Speak/Code](http://www.meetup.com/Write-Speak-Code-NYC/), where ProPublica's Lena Groeger also spoke about what it's like to work in journalism tech. 
+We know that if you're thinking about applying, you should. We've seen our fellows share that sentiment [again](https://twitter.com/livlab/status/634395230133993472) and [again](http://blog.kavyasukumar.com/-reasons-to-apply-for-the-knight-mozilla-fellowship/). If you're still unsure, have a question, or are stuck on part of the application--[email us](mailto:opennews.org) or tweet [@OpenNews](https://twitter.com/opennews). It's not too late to ask questions, but at the stroke of midnight Eastern Time, it will be too late [to apply](https://opennews.org/what/fellowships/apply/). We do not accept late applications, so while you _can_ procrastinate [to the last hour](http://blog.kavyasukumar.com/10-9-8-and-deadline/), we cannot offer extensions on the deadline.
 
-In addition to this targeted work during the application window, we saw a number of applications from folks who had connected with our programs. Like last year, several applicants mentioned SRCCON in their applications. But this year, a few applicants even noted SRCCON on their _resumes_, which we had never seen before. In addition, applicants referred to reading Source as part of how they learned about the fellowship and other opportunitites in journalism code. We've constructed OpenNews to give this variety of onramps for connecting with the journalism-code community and it's always great to see how people engage with those opportunities.
-
-###Coming up
-As our [alumni network](/what/fellowships/community) grows (with this cohort we have 33 fellows) and the offerings of OpenNews expand to support the needs of the journalism-code community, we're finding more chances to build connections between groups and welcome new participants. You can check out the [stats from our applications](#numbers) this year. Those stats also reveal a growing challenge: how to support the hundreds (!) of great people who applied, but who we are not able to welcome as fellows. We're still experimenting with ways to better engage with this group and connect them with jobs and opportunities in journalism code, and we'd love to hear ideas about ways to better support this group.
-
-The 2016 Knight-Mozilla Fellows are part of a growing network of people who work with technology in and near newsrooms. They'll join their newsrooms in early 2016 to explore, collaborate, and share with the many groups that make up the journalism-code community. We'll have a lot more information to share about their work, and the accomplishments of the 2015 fellows, in the new year.
-
-<a name="numbers"></a>
-###By the numbers - 2016 cohort
-* 560 - Valid applications
-* 176 (31%) - Identify as a woman
-* 142 (25%) - Identify as a person of color
-* 106 (19%) - Identify as another member of another under-represented group
-
-Where are people from? (some example countries)
-
-* 7   (1%)  - Argentina
-* 17  (3%)  - Germany
-* 26  (5%)  - India
-* 11  (2%)  - Kenya
-* 177 (31%) - USA
-
-How'd people hear about the fellowship?
-
-* 90 (16%) - Twitter
-* 83 (15%) - Friend
-* 50 (9%)  - Facebook
-* 36 (6%)  - Mozilla
+So the numbers say that *right now* it's not too late to become a 2016 Knight-Mozilla Fellow. In fact, the numbers say that if you're waiting *you're not alone*. [Today is _your_ day to apply. Do it.](https://opennews.org/what/fellowships/apply/)
