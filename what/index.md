@@ -6,7 +6,7 @@ sub-section: index
 ---
 
 <img src="/media/img/srccon-group-erik-westra.jpg" class="topline">
-<p class="caption">Collaboration in progress at SRCCON 2015. (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption">Collaboration in progress at SRCCON 2015. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
 

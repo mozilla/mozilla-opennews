@@ -5,7 +5,7 @@ section: what we do
 
 ---
 <img src="/media/img/srccon2015-francis-cathy-erik-westra.jpg" class="topline">
-<p class="caption">SRCCON 2015 (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption">SRCCON 2015 (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The journalism-code community assembles at journalism and tech conferences around the world, and some of the most interesting parts of those events happen in the informal skillshares and hurried conversations between scheduled sessions. We host two annual events designed to provide space for those conversations and collaborations to bloom, surrounded by plentiful food, good coffee, and enthusiastic colleagues.</p>
