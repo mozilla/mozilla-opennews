@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: Introducing our 2016 Knight-Mozila Fellows
-date: 2015-11-5 19:00
+date: 2015-11-5 14:00
 author: Erika Owens
 tags: fellowships
 excerpt: Today we get to announce our fifth cohort of fellows, and tell a little about how we found them.
