@@ -4,7 +4,7 @@ title: Meet the 2016 Knight-Mozilla Fellows
 section: fellowships
 sub-section: fellows_2016
 ---
-<img src="/media/img/2016fellows.jpg" alt="Meet the 2016 fellows." style="width: 100%;">
+<img src="/media/img/2016fellows-3.jpg" alt="Meet the 2016 fellows." style="width: 100%;">
 <p class="caption">Our 2016 Knight-Mozilla Fellows gather in London. Photo: Erik Westra</p>
 
 <h2>{{ page.title }}</h2>
@@ -26,7 +26,7 @@ sub-section: fellows_2016
 
 <p><img src="/media/img/fellows/2016-fellows/sandhya220a.jpg" class="meet meet14" alt="Sandhya Kambhampati">
 <h3 id="sandhya">Sandhya Kambhampati | Correct!v</h3>
-<p>Sandhya Kambhampati is a data journalist who is passionate about open records, data literacy and statistics. At The Chronicle of Higher Education, she analyzes data and reports on college athletics, college presidential pay, and student loans. She’s interested in records retention policies and finding new ways for newsrooms to share their institutional knowledge with others. In her spare time, Sandhya enjoys traveling, reading and trivia. She’s especially excited to learn German and about the Freedom of Information laws throughout Europe while working with the journalists at Correct!v. 
+<p>Sandhya Kambhampati is a data journalist who is passionate about open records, data literacy and statistics. At The Chronicle of Higher Education, she analyzes data and reports on college athletics, college presidential pay, and student loans. She’s interested in records retention policies and finding new ways for newsrooms to share their institutional knowledge with others. In her spare time, Sandhya enjoys traveling, reading and trivia. She’s especially excited to learn German and about the Freedom of Information laws throughout Europe while working with the journalists at Correct!v.
 <p>Follow Sandhya on Twitter at <a href="https://twitter.com/sandhya__k">@sandhya__k</a>
 
 <p><img src="/media/img/fellows/2016-fellows/pietro220a.jpg" class="meet meet14" alt="Pietro Passarelli">
@@ -51,5 +51,5 @@ sub-section: fellows_2016
 
 <p><img src="/media/img/fellows/2016-fellows/christine220a.jpg" class="meet meet14" alt="Christine Zhang">
 <h3 id="christine">Christine Zhang | Los Angeles Times</h3>
-<p>Christine Zhang is a data geek with a passion to find meaning in numbers. She believes that good data journalism can take us from "_more_-informed" to "_better_-informed." Her aim? To tell meaningful news stories with data, and to use open data and open-source tools to empower her readers to ask their own questions. Christine currently tells data-driven stories about the global economy at the Brookings Institution in Washington, DC and has previously done so in roles at Deutsche Bank and Infosys. Christine will be joining the team of news nerds on the LA Times Data Desk in 2016. 
+<p>Christine Zhang is a data geek with a passion to find meaning in numbers. She believes that good data journalism can take us from "_more_-informed" to "_better_-informed." Her aim? To tell meaningful news stories with data, and to use open data and open-source tools to empower her readers to ask their own questions. Christine currently tells data-driven stories about the global economy at the Brookings Institution in Washington, DC and has previously done so in roles at Deutsche Bank and Infosys. Christine will be joining the team of news nerds on the LA Times Data Desk in 2016.
 <p>Follow Christine on Twitter at <a href="https://twitter.com/@christinezhang">@christinezhang</a>
