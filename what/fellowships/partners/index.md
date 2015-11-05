@@ -1,8 +1,14 @@
 ---
-layout: fellowship_post
+layout: fellowship_index
 title: The Knight-Mozilla Fellowships&colon; Fellowship Partners
 section: partnerships
 ---
+
+<img src="/media/img/2015_fellows_latimes3.jpg" alt="Our 2015 Fellows explore journalism code." style="width: 100%;">
+<p class="caption">The 2015 fellows visit the Los Angeles Times</p>
+
+<h2>{{ page.title }}</h2>
+
 <p class="bodybig"> Fellowship partners host fellows for 10 months, offering challenging projects and immersion into the culture of the newsroom. We select partners who are invested in open source development and who will encourage their fellow to collaborate within and outside of their news organization.</p>
 <p>We will begin the search for partners for our next cohort of partners in April 2016. If you would like to be notified when the search opens, <a href="mailto:info@opennews.org">email us</a>.</p>
 
