@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: Tools, Bridges, and Five Years of Knight-Mozilla Fellows
-date: 2015-11-5 14:05
+date: 2015-11-5 19:05
 author: Dan Sinker
 tags: fellowships
 excerpt: Today's announcement of our 2016 Knight-Mozilla Fellows adds a fifth cohort to our fellowship community.
