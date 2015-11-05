@@ -4,7 +4,7 @@ title: SRCCON, the OpenNews Source conference
 section: what
 ---
 <img src="/media/img/srccon-group-erik-westra-2.jpg" class="topline">
-<p class="caption">SRCCON 2015 (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption">SRCCON 2015 (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 <h2>{{ page.title }}</h2>
 
 <p class="bodybig"><a href="http://srccon.org/">SRCCON returns for 2016!</a> Join us in Portland, Oregon on July 28 and 29 for two amazing days of building better newsroom code, culture, and process—together.</p>

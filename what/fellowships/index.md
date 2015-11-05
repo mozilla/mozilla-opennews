@@ -6,7 +6,7 @@ sub-section: fellows_home
 ---
 
 <img src="/media/img/2016fellows-2.jpg" alt="Our 2016 Fellows explore journalism code." style="width: 100%;">
-<p class="caption">Introducing the 2016 Knight-Mozilla fellows—<a href="/what/fellowships/2016meet">meet them now</a>. (photo &copy; <a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption">Introducing the 2016 Knight-Mozilla fellows—<a href="/what/fellowships/2016meet">meet them now</a>. (photo/<a href="http://westraco.com">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
 
