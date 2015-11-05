@@ -5,7 +5,7 @@ section: fellowships
 sub-section: fellows_home
 ---
 
-<img src="/media/img/fellowsplaceholder.jpg" alt="Our 2015 Fellows explore journalism code." style="width: 100%;">
+<img src="/media/img/2016fellows.jpg" alt="Our 2016 Fellows explore journalism code." style="width: 100%;">
 <p class="caption">Introducing the 2016 Knight-Mozilla fellows—<a href="/what/fellowships/2016meet">meet them now</a>. (photo &copy; <a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
@@ -23,7 +23,7 @@ sub-section: fellows_home
 </div>
 
 ###Why work in journalism?
-Journalism has a disproportionately strong influence on [the web we inhabit](/blog/fellowships-open-web). It shapes the web through code developed in newsrooms, like [Django](https://www.djangoproject.com/) and [Backbone.js](http://backbonejs.org/). Journalism also works at an editorial scale few other industries can match—millions of readers engage with reporting every day, from stories that amuse to investigations and analysis that leads to meaningful changes in our communities. 
+Journalism has a disproportionately strong influence on [the web we inhabit](/blog/fellowships-open-web). It shapes the web through code developed in newsrooms, like [Django](https://www.djangoproject.com/) and [Backbone.js](http://backbonejs.org/). Journalism also works at an editorial scale few other industries can match—millions of readers engage with reporting every day, from stories that amuse to investigations and analysis that leads to meaningful changes in our communities.
 
 By working in journalism, the Knight-Mozilla Fellows advocate for a web that is open, accessible, and ours. In journalism as in the open source community, openness is a core value—the information reporters uncover and share is critical to our ability to understand and affect our world. Knight-Mozilla Fellows become leaders in efforts to build tools and cultivate resources that enable news organizations to support healthy communities, online and off.
 
