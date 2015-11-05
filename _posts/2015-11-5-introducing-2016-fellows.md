@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Introducing our 2016 Knight-Mozila Fellows
+title: Introducing our 2016 Knight-Mozilla Fellows
 date: 2015-11-5 14:00
 author: Erika Owens
 tags: fellowships
