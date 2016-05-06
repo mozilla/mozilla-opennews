@@ -14,7 +14,7 @@ Well, in 2014, we sold out SRCCON in three minutes. It sold so fast, in fact, th
 
 When [planning for 2015](https://opennews.org/blog/srccon-tickets/), we knew that there would be more demand than our inaugural year. So to try and meet that demand, we increased capacity for the conference, moved it to Minneapolis (the majority of our attendees year one took a quick train down to Philly from New York), and put tickets for SRCCON 2015 on open sale in April of last year.
 
-They sold out in 45 seconds--that's faster than Nick Cage can steal a car.
+They sold out in 45 seconds--that's faster than Nic Cage can steal a car.
 
 Which brings us to this year. Assuming that demand continued to increase again this year--and our session pitches were up 50% from last so there's no reason for us to doubt that assumption--we were looking at an open sale that would be decided by little more than the speed of someone's internet connection. When the difference between getting a ticket and not getting one is less than the [time spread of Olympic downhill skiing](http://www.nytimes.com/interactive/2010/02/26/sports/olympics/20100226-olysymphony.html), something has to give and so this year at SRCCON, we're **doing away with the mad dash of an open sale and instead [selling tickets via a lottery](http://srccon.org/tickets)**.
 
