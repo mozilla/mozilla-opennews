@@ -10,13 +10,13 @@ section: what we do
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The OpenNews community calls are a community check-in every other Thursday at 12pm ET (<em>note: new day and time!</em>) for anyone in or near the journalism-code world who wants to announce new projects, events, grants, and job openings, and solicit contributors.</p>
+<p class="bodybig">The OpenNews community calls are a community check-in every other Thursday at 12pm ET for anyone in or near the journalism-code world who wants to announce new projects, events, grants, and job openings, and solicit contributors.</p>
 
 You can participate by calling in and listening, reading along on the etherpad during or after the call, or by [contacting us](mailto: erika@mozillafoundation.org) to get onto the agenda as a speaker—the calls are informal and friendly and a great way to ease into the wider conversation.
 
 ### Call-in Details
 
-**Next Scheduled Call:** April 21, 2016 ([call notes](https://public.etherpad-mozilla.org/p/opennews-calls-Apr21))<br />
+**Next Scheduled Call:** May 5, 2016 ([call notes](https://public.etherpad-mozilla.org/p/opennews-calls-May5))<br />
 **Conference Number:** +1 800-503-2899 ([international toll-free numbers](https://wiki.mozilla.org/Webmakers/Community_Calls/International))<br />
 **7-Digit Access Code:** 1941934#<br />
 
@@ -27,6 +27,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 <p>We use Etherpad to take full, participatory notes during our calls. Feel free to look through our call archive. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a>
 
 <ul>
+<li><a ref="nofollow" class="external text" href="https://public.etherpad-mozilla.org/p/opennews-calls-Apr21">April 21, 2016 call</a>
 <li><a ref="nofollow" class="external text" href="https://public.etherpad-mozilla.org/p/opennews-calls-Apr7">April 7, 2016 call</a>
 <li><a ref="nofollow" class="external text" href="https://public.etherpad-mozilla.org/p/opennews-calls-Mar23">March 23, 2016 call</a>
 <li><a ref="nofollow" class="external text" href="https://public.etherpad-mozilla.org/p/opennews-calls-Feb24">February 24, 2016 call</a>
