@@ -29,3 +29,7 @@ Several times a year, we host [code convenings](community/convenings), focused e
 ### [Get Involved](/getinvolved/)
 
 Everything we do is built around the needs of the sprawling community of people who code (and crunch data, and design interactive tools) in and around newsrooms. Whether you're an old hand or just curious about the field, [there's a way for you to get involved](/getinvolved/).
+
+### [Support for OpenNews](/what/supporters)
+
+OpenNews is made possible by a grant from the Knight Foundation and the support of the Mozilla Foundation. In addition, OpenNews receives support for its conference [SRCCON](http://srccon.org) through sponsorship.

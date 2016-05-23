@@ -6,7 +6,7 @@ sub-section: index
 ---
 
 <img src="/media/img/srccon-group-erik-westra.jpg" class="topline">
-<p class="caption">Collaboration in progress at SRCCON 2015. (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption">Collaboration in progress at SRCCON 2015. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
 
@@ -24,8 +24,12 @@ In 2014, we hosted [the inaugural SRCCON](conferences/srccon), a conference for 
 
 In collaboration with writers and developers in newsrooms around the world, we publish [Source, a community site](community/source) focused on open technology projects and process in journalism. From features that explore the context behind the code to targeted job listings that help the community expand, Source presents the people, projects, and insights behind journalism code.
 
-Several times a year, we host [code convenings](community/convenings), focused events in which small teams from newsrooms gather to complete last-mile code and documentation for open-source projects they've been working on. We also hold biweekly open [community calls](community/calls) where newsroom data and apps teams can share their work, announce job openings, and find collaborators, and [sponsor hack days and journalism code events](community/eventsupport) around the globe to build community, code, and momentum for solving the problems working journalists face. [Learn more about our community support programs.](community/)
+Several times a year, we host [code convenings](community/convenings), focused events in which small teams from newsrooms gather to complete last-mile code and documentation for open-source projects they've been working on. We also hold biweekly open [community calls](community/calls) where newsroom data and apps teams can share their work, announce job openings, and find collaborators. In addition, we [sponsor hack days and journalism code events](community/eventsupport) around the globe to build community, code, and momentum for solving the problems working journalists face. [Learn more about our community support programs.](community/)
 
 ### [Get Involved](/getinvolved/)
 
 Everything we do is built around the needs of the sprawling community of people who code (and crunch data, and design interactive tools) in and around newsrooms. Whether you're an old hand or just curious about the field, [there's a way for you to get involved](/getinvolved/).
+
+### [Support for OpenNews](/what/supporters)
+
+OpenNews is made possible by a grant from the Knight Foundation and the support of the Mozilla Foundation. In addition, OpenNews receives support for its programs through sponsorship of [SRCCON](http://srccon.org).
