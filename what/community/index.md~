@@ -23,4 +23,4 @@ Every two weeks, we host an open conference call for the international news code
 
 ### [Event Support](eventsupport)
 
-Since we launched OpenNews, we've sponsored 88 hack days and journalism-related code events from Armenia to Uruguay, and hosted several of our own in conjunction with the MIT-Knight Civic Media Conference. See our [event listings on Source](https://source.opennews.org/en-US/articles/tags/events/) for a list of upcoming events, or [learn how to apply for sponsorship](eventsupport).
+Since we launched OpenNews, we've sponsored over 100 hack days and journalism-related code events from Armenia to Uruguay, and hosted several of our own in conjunction with the MIT-Knight Civic Media Conference. See our [event listings on Source](https://source.opennews.org/en-US/articles/tags/events/) for a list of upcoming events, or [learn how to apply for sponsorship](eventsupport).

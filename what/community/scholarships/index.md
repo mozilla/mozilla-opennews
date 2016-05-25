@@ -12,7 +12,7 @@ section: what we do
 Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend events. [Apply today](https://docs.google.com/forms/d/1NpOrZSbqWdUUtjy8K3qqhfnlkJ_Cuky96K-M43CyvlA/viewform).
 
 ### What we're offering
-$500 for you to use toward the cost of attending an event on journalism technology or open source event where you'll bring a journalism connection. We'll also pay for the registration fee for the event.
+$500 for you to use toward the cost of attending an event on journalism technology or open source event where you'll bring a journalism connection. We'll also pay for the registration fee for the event, up to $1,000.
 
 ### Who should apply
 * Anyone who is part of the journalism code community such as developers, designers, and data analysts working in newsrooms.
