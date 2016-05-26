@@ -1,18 +1,20 @@
 ---
 layout: post_notitle
-title: Journalism code travel scholarships
+title: Journalism code ticket + travel scholarships
 section: what we do
 
 ---
 <img src="/media/img/index_opennewsphoto.jpg" class="topline">
 <p class="caption">The joyful crowd at the Hacks/Hackers Buenos Aires Media Party. (photo/Ramiro Chanes)</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="https://docs.google.com/forms/d/1NpOrZSbqWdUUtjy8K3qqhfnlkJ_Cuky96K-M43CyvlA/viewform">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews is now offering $500 travel scholarships.</p>
+<p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/what/community/eventsupport">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews is <a href="https://docs.google.com/forms/d/1NpOrZSbqWdUUtjy8K3qqhfnlkJ_Cuky96K-M43CyvlA/viewform">now offering Ticket + Travel scholarships</a>.</p>
 
 Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend events. [Apply today](https://docs.google.com/forms/d/1NpOrZSbqWdUUtjy8K3qqhfnlkJ_Cuky96K-M43CyvlA/viewform).
 
 ### What we're offering
-$500 for you to use toward the cost of attending an event on journalism technology or open source event where you'll bring a journalism connection. We'll also pay for the registration fee for the event, up to $1,000.
+
+* $500 toward the cost (travel, lodging, etc.) of attending an event on journalism technology, or an open source event where you’ll bring a journalism connection. 
+* Full coverage of your event registration fee (capped at $1,000, but most events in the community cost much less).
 
 ### Who should apply
 * Anyone who is part of the journalism code community such as developers, designers, and data analysts working in newsrooms.
@@ -26,7 +28,7 @@ OpenNews staff will review applications in two batches.
 * All applications received before July 8 will receive an answer by July 15.
 
 ### What happens after the conference
-You tell us how it went! We'll send you a short follow up survey and will be excited to check out any blog posts or code repos that come out of your participation in the event.
+You tell us how it went! We'll send you a short follow-up survey and will be excited to check out any blog posts or code repos that come out of your participation in the event.
 
 ## FAQ
 
@@ -67,7 +69,7 @@ We’re able to offer $500 scholarships at this time. Many events and profession
 We know that a lot of important work, sharing, and learning happens at in-person events. It's not easy for everyone to get to those events though, no matter how valuable they may be. We know that travel costs can be a hardship, and offer this scholarship as a way to help mitigate that.
 
 **How do you decide who will receive a scholarship?**<br>
-OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology, as well as from people who would be unable to speak at or majorly contribute to an event without the scholarship.
+OpenNews staff reviews all applications. We prioritize applications from members of communities under-represented in journalism and technology, as well as from people who would be unable to speak at or majorly contribute to an event without the scholarship.
 
 **What about your conference, SRCCON?**<br>
 We ran a [separate scholarship process](http://srccon.org/scholarships/) for that event and unfortunately, the deadline has already passed.
