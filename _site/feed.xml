@@ -7,6 +7,17 @@
 <atom:link href="http://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>The Importance of Presence - Announcing a New Way to Connect</title>
+<dc:creator></dc:creator>
+
+<description>We want to help you get to events that will enrich your work in the journalism code community so today we announce a Ticket and Travel scholarship program.</description>
+
+<pubDate>Thu, 26 May 2016 12:00:00 -0400</pubDate>
+<link>http://www.opennews.org/blog/ticket-travel-scholarship</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/ticket-travel-scholarship</guid>
+</item>
+
+<item>
 <title>Gone in 60 Seconds--SRCCON Ticketing Changes</title>
 <dc:creator></dc:creator>
 
@@ -103,17 +114,6 @@
 <pubDate>Mon, 17 Aug 2015 16:04:00 -0400</pubDate>
 <link>http://www.opennews.org/blog/fellowships-final-week-one</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/fellowships-final-week-one</guid>
-</item>
-
-<item>
-<title>Our 2016 Knight-Mozilla Fellowship Partners Make Their Case</title>
-<dc:creator></dc:creator>
-
-<description>One week remains to apply for a 2016 Knight-Mozilla Fellowship, and our fellowship partners want YOU and your amazing skills in their newsrooms. Each newsroom that will host a fellow next year made a pitch this week, and here's why they think you should apply.</description>
-
-<pubDate>Fri, 14 Aug 2015 16:30:00 -0400</pubDate>
-<link>http://www.opennews.org/blog/fellowships-news-partners</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/fellowships-news-partners</guid>
 </item>
 
 </channel>
