@@ -16,7 +16,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** June 16, 2016 ([call notes](https://public.etherpad-mozilla.org/p/opennews-calls-June2))<br />
+**Next Scheduled Call:** June 16, 2016 ([call notes](https://public.etherpad-mozilla.org/p/opennews-calls-June16))<br />
 **Conference Number:** +1 800-503-2899 ([international toll-free numbers](https://wiki.mozilla.org/Webmakers/Community_Calls/International))<br />
 **7-Digit Access Code:** 1941934#<br />
 
