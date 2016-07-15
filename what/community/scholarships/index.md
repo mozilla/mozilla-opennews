@@ -7,9 +7,9 @@ section: what we do
 <img src="/media/img/index_opennewsphoto.jpg" class="topline">
 <p class="caption">The joyful crowd at the Hacks/Hackers Buenos Aires Media Party. (photo/Ramiro Chanes)</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/what/community/eventsupport">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews is <a href="https://docs.google.com/forms/d/1NpOrZSbqWdUUtjy8K3qqhfnlkJ_Cuky96K-M43CyvlA/viewform">now offering Ticket + Travel scholarships</a>.</p>
+<p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/what/community/eventsupport">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews offered Ticket + Travel scholarships in June and July 2016.</p>
 
-Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we want to help you attend events. [Apply today](https://docs.google.com/forms/d/1NpOrZSbqWdUUtjy8K3qqhfnlkJ_Cuky96K-M43CyvlA/viewform).
+Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events.
 
 ### What we're offering
 
