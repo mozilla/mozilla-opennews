@@ -7,6 +7,17 @@
 <atom:link href="http://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>How We Planned &amp; Ran the SRCCON Travel Scholarships</title>
+<dc:creator></dc:creator>
+
+<description>One part of how we make SRCCON accessible is through travel scholarships. This is how we administer the program.</description>
+
+<pubDate>Thu, 06 Oct 2016 10:00:00 -0500</pubDate>
+<link>http://www.opennews.org/blog/srccon-scholarship-process-admin</link>
+<guid isPermaLink="true">http://www.opennews.org/blog/srccon-scholarship-process-admin</guid>
+</item>
+
+<item>
 <title>How We Facilitated a Huge, Participatory, Highly Charged SRCCON Session, a Guest Post from Alyson Hurt</title>
 <dc:creator></dc:creator>
 
@@ -103,17 +114,6 @@
 <pubDate>Thu, 20 Aug 2015 10:45:00 -0500</pubDate>
 <link>http://www.opennews.org/blog/fellowships-final-week-four</link>
 <guid isPermaLink="true">http://www.opennews.org/blog/fellowships-final-week-four</guid>
-</item>
-
-<item>
-<title>How to Think About Projects During Your Fellowship</title>
-<dc:creator></dc:creator>
-
-<description>The deadline to apply to the Knight-Mozilla Fellowship is just two days away. As a Knight-Mozilla Fellow, you&#39;ll spend 10 months writing open-source code in the newsroom. But what do you build, do you need to have a plan *right now*, and how do you approach coding over your 10 months? Ryan Pitts digs in.</description>
-
-<pubDate>Wed, 19 Aug 2015 11:45:00 -0500</pubDate>
-<link>http://www.opennews.org/blog/fellowships-final-week-three</link>
-<guid isPermaLink="true">http://www.opennews.org/blog/fellowships-final-week-three</guid>
 </item>
 
 </channel>
