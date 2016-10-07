@@ -1,73 +1,55 @@
 ---
 layout: blogpost
-title: How We Planned & Ran the SRCCON Travel Scholarships
-date: 2016-10-06 10:00
-author: Erika Owens
+title: Thursday Nights at SRCCON
+date: 2016-10-07 11:00
+author: Dan Sinker
 tags: SRCCON
-excerpt: One part of how we make SRCCON accessible is through travel scholarships. This is how we administer the program.
+excerpt: Our evening program at SRCCON is designed to offer the "life" part of the work/life balance. We've iterated on it every year--here's how we did it this year.
 
 ---
 <img src="/media/img/blog/srccon16-1.jpg" style="width: 100%;">
 <p class="caption" style="margin-top: 5px;">Helping as many people as we can join the SRCCON crowd. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
-At OpenNews, our one big event each year is SRCCON. We [put a tremendous amount of effort into](http://www.poynter.org/2016/how-to-throw-an-intentional-inclusive-journalism-conference/429805/) making it as inclusive and accessible as possible, considering everything from how to allocate tickets to the food to natural light in the session rooms. As organizers, we think about these details in order to free up the brain space of attendees to do what they come to SRCCON to do--have great conversations. 
+Evenings at conferences can be tough. After spending a day attending keynotes and panels, the people you were hoping to run into are suddenly nowhere to be found. You heard something about a sponsor's party at a restaurant near the Hyatt--or was it the Hilton--and there are those folks from the panel earlier who invited you to dinner. Maybe you'll just go back to your room and probably folks will end up at the hotel bar at some point, which isn't the best because you don't drink, but you will see people so I guess so.
 
-But first, they have to get to the event itself. One component of [accessibility for an event](https://adacamp.org/adacamp-toolkit/travel-grants/) like ours is a travel scholarship program to help defray travel costs for participants. 
+We've all been there. So in designing SRCCON, we include evening activities open to all participants.  And more than just giving people something to do, we think about how our Thursday night activities contribute to the entire arc of SRCCON. A hands-on conference like SRCCON is intense, and we ask all participants to bring their whole selves to the event—and so, after a day of intense sessions, it's important to let participants share the non-work side of themselves with the community, and to focus on the "life" side of the work/life balance.
 
-We created a travel scholarship program, budgeted for it, and fundraised for sponsors to support it. This post will walk through the process of how we administer the program and some of the lessons we've learned as we've evolved our program over the last three years. 
+Our first SRCCON had four rooms in the evening, one for tabletop games, one for lightning talks, one for hacking, and a "foodie" room for exchanging homemade eats (which turned into a beer exchange--more on that in a second). This year, our third, we greatly expanded the options for the evening and ended up keeping the vast majority of our 300 participants engaged.  Here's what we did and how it worked.
 
-## Setting up the program
-We began by doing research into existing programs run by other organizations. What were the requirements like? What type of scholarships did they give out? Who did they give them to?
+##A Diverse Group Requires Diverse Activities
+The key to keeping people engaged in the evening is understanding that not everyone wants to spend their nights the same way. That's why just having a bar available, or a huge room for lightning talks, or throwing a party doesn't work. Some people want to chill, others want to chat, and many need some kind of intermediary to engage with new people or try new things. So for SRCCON evenings, we offered a lot of varied activities, none of which required attendees to stick with a single thing all night. You could jump from one thing to the next, or go out and come back. We had a [clear schedule](http://schedule.srccon.org/#_session-thursday-evening) with times and locations listed for everything, and we made sure it happened on time. Here's what we offered:
 
-We reviewed this research and came up with a structure that we could support with our current administrative capacity, and that met our goals. The [scholarships page on our site](http://srccon.org/scholarships/) lays out the details. We kept scholarships a flat $500 for travel costs, plus a free ticket. This year we also offered a small number of $1,000 scholarships, which went to international participants. In allocating the scholarships, as we informed applicants, we prioritized applications from members of communities underrepresented in journalism and technology, as well as those from people who would be unable to facilitate an accepted session without the scholarship.
+###All night activities
+* Ice Cream: We had an ice cream truck parked outside that accepted your SRCCON badge for free ice cream. This gave people an opportunity to get some fresh air and chat, while also offering a sugar rush and a nice change of pace from catered meals.
+* Game Room: This has become a bit of a SRCCON signature, but we've always made space for people to engage in board games and card games throughout the evening at SRCCON. We've found that getting to know people over a (mostly) friendly game of Coup or Exploding Kittens is a great, easy, way to have some fun.
+* DNC Viewing: Sometimes you have to leave some room for an emergent activity. As it turned out, the final night of the Democratic National Convention was happening the same evening we were running our activities, so we chose a room with a big TV and set it aside for watching the DNC (as it turned out, this space was full to capacity the entire evening).
+* Quiet Space: We know that sometimes people just need to get some email checked, or get a patch pushed up to production, or just want  time to check in with family. So we set aside a room off from the bustle of the rest of the event so that people could get away and have some screen time.
 
-In outreach about our ticket lottery this year, we also encouraged people to apply for the scholarship. [Moving to a lottery](/blog/srccon-tix) this year, rather than selling tickets first-come first-served, gave us a longer time period to do outreach, both to enter the lottery and apply for scholarships. 
+###Time-blocked activities:
+* Hobby Workshops: We tried a crafting room at SRCCON twice and both times there was never enough participants to make it come together. Yet, letting people share their hobbies still seemed like a good idea, so we tried it differently this time: We solicited hobby ideas from participants a few weeks out, and the ideas we selected (mainly ones that could be pulled off in an hour time block), we bought supplies for, eliminating the fact that not everyone rolls into a conference with, say, knitting needles at hand. As a result, our Hobby workshops (which included knitting, origami, funkstyle dance, and... Olympic-style weightlifting) were all well attended, and people really learned something.
+* Conversations: Sometimes people just want to talk but having something to talk *about* is nice so, while soliciting ideas for Hobby Workshops, we also asked people to pitch ideas for hour-long conversations. The one requirement was that they couldn't be about work. We ended up hosting conversations about art and design and home recording.
+* A guided tour: It's important that you get an opportunity to engage in a host city at a conference, and so for two years now we've had evening walks guided by a local journalist. This year, in Portland, we had a journalist from the Oregonian who was able to talk about city politics while taking about 50 people around downtown Portland.
+* Lightning Talks: Finally, like many conferences, we host lightning talks. These five-minute-long presentations are hugely popular and if you want to sit and listen to people being briefly brilliant, they're hard to beat. However, we've seen enough conferences where the lightning talks become so popular that they fill a thousand-person room. We purposefully keep the lightning talks less formal and run multiple things opposite them so that they're just *an* offering, not *the* offering.
 
-As we conducted outreach for applicants, we also did outreach for sponsorships. Each year we've been able to get sponsor support for our scholarship program, ranging from $3,000 to $10,000, as the scale of the program has changed and we've explored different types of sponsor partnerships. WordPress has been a fantastic supporter of this effort each year.
+What this all meant was that at any time on Thursday evening, there were about eight different things to choose from. This was a dramatic increase from previous years pushed by both attendance numbers (more than double year one), but also by feedback we solicit and build from every year.
 
-## The application and evaluation
-We tried to keep [the application](https://docs.google.com/forms/d/e/1FAIpQLSeHu3D6n9t7Dbde3RNLf1AyvB6mzDVWyUhptyXHZS-KVymNCw/viewform) pretty short and straightforward. 
+##Participatory Inputs
+Offering this much programming in the evening is a fine balance between event design and user-driven ideas. In addition to soliciting ideas for Hobby Workshops and Conversations, much of what was on offer came through suggestions or ideas from SRCCON attendees a few weeks in advance. We have an etherpad [link] that people listed games they were going to bring for the game room, the attendees that organized the lightning talks could put a link to their own submission form, and other people could list ideas for the evening (or at other points in the two days of SRCCON).
 
-We evaluated each application on a few criterion:
+##Budget
+So, how expensive is it to run a full slate of activities in the evening? Not extraordinarily so. The space rental covered us until 10pm, so as long as we got everyone out by 9:30 or so (so we had time to reset the rooms), we were good there. We believe in feeding people well at SRCCON, so dinner was always going to happen and was by and large the biggest expense but was wrapped into our overall catering cost. Ice Cream was next, running about $1000 to cover everyone in attendance (we ended up giving away about 350 scoops). Our craft sessions were each given a $100 budget, but we ended up only spending about $150 total across the sessions. Oh, and we bought at $30 Chromecast to stream the DNC (which actually could never get on the WiFi so someone donated their laptop).
 
-* Underrepresented—demographics        
-This is based on the applicant's answers to questions about whether they are a member of under-represented communities in journalism tech. Applicants indicate if they identify as a woman, person of color, and/or member of another under-represented group.
-        
-* Underrepresented—organization        
-This is based on the applicant's organization (or role in the case of something like a freelancer) and how well-represented that organization is at SRCCON and in the journalism tech community.
+##Partners
+We heard from attendees was that they had partners coming to Portland with them, and that they wanted to include them in some way, if possible. Because SRCCON ticketing is in such demand, we couldn't simply give partners access to the full slate of SRCCON, but we did make a partner ticket (sold at cost) available for the evening activities. These tickets gave partners full access to our dinner and all activities in the evening (even the free ice cream). We had about 10 people take us up on it, and every partner attended for at least some of the evening.
 
-* Unable to attend without scholarship        
-This is also based on the applicant's personal answer about their level of need and expected level of financial support, if any, from their employer.
+##Alcohol
+We know that most conferences put a real focus on drinking at night. Every year at SRCCON we've been reducing that focus. Year one we offered an open bar with beer and wine, but we also had a "foodie" room that got a little more beer-soaked than we would have hoped. Year two, we gave every attendee two drink tokens (and cut out the beer exchange). This year, we only offered one. And you know what? It was fine. Folks that wanted more bought another beer. Folks that wanted something else, their token was good for that too. (And our tokens were custom-printed wood, so they made a nice souvenir for folks who just kept them.)
 
-* Selected as session leader        
-This is based on data we already have about whether the person will be leading a session at SRCCON.
-        
-* Meaningful contribution of skills        
-This was to give another dimension beyond org/session leadership—but in reality, basically every applicant will have a meaningful contribution of skills! It mostly operates in downgrading incomplete or uncompelling applications.
+In addition, from previous' years feedback, we made sure that we had a nearby Alcoholics Anonymous meeting location listed on our website alongside a description of Thursday night activities, so that that was an option for anyone that needed a meeting. That involved looking up the meeting and double-checking via phone to make sure theonline meeting information was up-to-date and accurate.
 
-For each of those categories, we rated each application 0-3. In some cases, it was basically yes or no, e.g. 0 if not a session leader, 3 if a session leader. In other cases, there was a bit of subjectivity, such as for underrepresented organizations. That's a judgement call based on how well-represented that person's organization was at SRCCON and whether it was an organization we want to connect with more. I did a first pass rating each application on these categories, and summed the totals. I then resorted all of the applications based on their totals and shared the sorted list with the rest of the OpenNews staff to discuss selecting the final list of recipients.
+##Safety
+The safety of participants in SRCCON is something we take very seriously. Our Code of Conduct, and the internal enforcement plan we have for it, doesn't just apply to the conference day, but the night as well. That means that we expect our participants to abide by the Code during our Thursday evening activities as well as whatever they get up to after the building closed (10pm). We kept shifts on our shared phone number for our help line to ensure that if there was a problem late, someone would be able to field it. Thankfully, we didn't have any issues reported, but we were ready if we did.
 
-## Selecting the recipients
-The rating rubric helped us getting a sense of the number of strong applications and level of need. This year we received 75 scholarship applications. Our initial scholarship budget was for 20 scholarships, but when we looked at the list, we could have just given scholarships to 20 session facilitators, and we didn't want to do that. That's not how we intended the scholarship program to work and we know there's a lot of reasons why someone may not feel comfortable facilitating (especially if they've never attended before). 
+<p style="text-align: center;">***</p>
 
-Given that there were far more strong applications than the budget available, we prioritized applications from facilitators, locals to Portland, and participants from underrepresented organizations. We were lucky to have some flexibility in our budget so we could find other funds for 6 additional scholarships, plus a new sponsorship from the Dow Jones News Fund for three of their alumni to attend. Another area of flexibility in our budget was offering a couple of ticket-only scholarships. So in total, we were able to help 29 people in attend SRCCON—and we know there's need for even more support than that.
-
-## Administering the scholarships
-We notified all scholarships applicants about whether they would receive a scholarship. For scholarship recipients, we requested an invoice listing the scholarship, amount, and their contact information to send them a check (or a wire for international). It takes about 3 weeks to process the invoice, so we tried to do this as quickly as possible in case people needed to receive the funds before they can purchase their travel. We sent scholarship recipients a link to register for the event for free as well. I tracked registrations and invoices to make sure people responded to us, that they were able to come, and monitored our budget.
-
-After the event, we asked participants for their feedback and will use that for planning next year. 
-
-## Looking ahead
-Our SRCCON experience influenced our process for our [ticket+travel scholarship program](/what/community/scholarships), so we're continuing to learn and evolve on how to help people get to these in-person events. 
-
-The application and payment process has been pretty straightforward for us so far, with the help of our accounting colleagues (thanks, Alex!). But there are some other process considerations we'll need to think through. The first one relates to session facilitators.
-
-What does it mean if organizations won't even cover the travel of their staff to speak at an event? Is there a way we can encourage orgs to do more to support professional development (and publicity for their work) of their teams? Aside from that, we may need to handle facilitator needs differently so that scholarships do remain for people who are not facilitators.
-
-We also have to confront how the scholarships relate to the limited number of tickets for SRCCON. Being a session facilitator is one way to ensure you have a ticket. Receiving a scholarship is another. Otherwise, it's a lottery. We got three times as many session proposals as we had space for sessions,and those were fantastic proposals. Maybe we should make proposing a session a consideration in scholarship applications too, even if the proposal was not selected. I have heard concerns about people applying to a scholarship or pitching a session just as a way of securing a ticket, and I don't think we saw that happening, in any significant way, but it's something to keep an eye on.
-
-Another consideration with accessibility is that even $500 does not cover all travel costs. We did consider doing full-travel-cost scholarships, but in trying to balance helping more people attend with the real cost of travel, I think flat-rate scholarships will continue to be the best option for us. Instead of full scholarships, we'll continue our work keeping out of pocket costs low for SRCCON so that $500 stretches as far as possible. We'll continue to seek out lower-cost cities for hosting SRCCON and we're looking at other ways to support regional and topical events so SRCCON isn't the only place each year for people to experience SRCCON. Moving the conference to different geographic regions, as we have each year so far, is also a strategy to help with costs, so people can attend when SRCCON is closer to home.
-
-We've also heard that scholarship recipients would like to get to know each other, so that they can get to know new people before the event and stay in touch after. We added a question to the form this year asking if people were ok with sharing their information and most people said yes. Next year, we'll develop a plan for how to do that. Some conferences do scholarship or fellowship breakfasts and a meetup like that might be a nice addition to our scholarship program.
-
- Scholarships have proven to be an important part of our strategy in keeping SRCCON as accessible as possible, so we'll continue iterating on our work here to make sure it responds to participants' needs. If you administer a program and have any suggestions, or just want to chat about what we've learned so far [please feel free to reach out](mailto:erika@mozillafoundation.org).
+When we plan SRCCON, we think through the full two days of the conference. Our Thursday night activities--almost all kept light and fun--are a key part of that approach. We know that not every conference can afford it, or that some venues require everyone to stick to a normal 9-5 schedule, but thinking about the whole of the conference experience, from the beginning to the very end, and all points in between, makes a real difference in the way the entire event feels and runs.
