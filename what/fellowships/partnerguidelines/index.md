@@ -13,4 +13,6 @@ We look for fellowship partners who:
 * commit to being involved in other OpenNews endeavors, including Source and code convenings
 * commit to cover travel costs for a representative to attend a total of four OpenNews related events (two years of the annual Mozilla Festival, an onboarding event, and one other event)
 
-We are not currently looking for newsrooms to join us as fellowship partners. If you would like to be notified when the search opens, [email us](info@opennews.org). OpenNews is much more than fellowships, however. Please [check out the other ways](/getinvolved/newspartners/) OpenNews partners with newsrooms.
+We are not currently looking for newsrooms to join us as fellowship partners. 
+
+The fellowship is on hiatus for 2017. During that time we will plan what shape the fellowship could take going forward. If you'd like to learn more about that planning process or be notified when we have updates about the program please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeFQ4WhSW5r9-t-Ai9DDUXRQLfyuC3PHZaUuZV-M23tpRHd2g/viewform). OpenNews is much more than fellowships, however. Please [check out the other ways](/getinvolved/newspartners/) OpenNews partners with newsrooms.

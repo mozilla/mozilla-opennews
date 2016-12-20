@@ -6,11 +6,14 @@ sub-section: fellows_info
 redirect_from:
 - /what/fellowships/details/index.html
 ---
-<p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/2016meet/">Our 2016 fellows</a> are working in six newsrooms in the U.S. and Germany. We'll post details about the 2017 fellowship application when they are available.</p>
+<p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/2016meet/">Our 2016 fellows</a> worked in six newsrooms in the U.S. and Germany. The fellowship is on hiatus for 2017.</p>
 
-We've structured this program and its financial supports to be responsive to the needs of fellows in a variety of circumstances. The fellowship gives you the time and support you need to immerse yourself in the journalism-code community and work on some great projects. 
 
 ###THE FELLOWSHIP
+**What is happening with the fellowship during 2017?**
+
+The fellowship will be on hiatus for 2017. After five cohorts of fellows, we've gathered a lot of data about how fellows help their newsrooms and the broader journalism-code community. During early 2017, we're going to review that data and chat with community members about what shape the fellowship could take going forward. If you'd like to learn more about this process, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeFQ4WhSW5r9-t-Ai9DDUXRQLfyuC3PHZaUuZV-M23tpRHd2g/viewform), and we'll be in touch. In early 2017, we will have a bunch of other exciting updates to share about OpenNews as well, so stay tuned.
+
 **What is the Knight-Mozilla Fellowship?**
 
 The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people's lives. Knight-Mozilla Fellows spend 10 months working with newsroom technology teams to write open-source code, analyze and visualize data, and explore tough problems facing journalism.
@@ -44,7 +47,7 @@ Each news organization [described what they are looking for in a fellow](/blog/f
 
 **When do the fellowships start?**
 
-2016 fellowships begin in calendar year 2016 and last for 10 months, and the same will be true for 2017. Each fellow’s start date is individualized for the needs of that fellow and the news organization, but most fellowships will begin in February or March of their fellowship year.
+Fellowships typically being in the first quarter of the calendar year. The fellowship is on hiatus for 2017.
 
 ###STIPEND AND FINANCIAL BENEFITS
 The Knight-Mozilla Fellowship is designed to allow flexibility for both fellows and fellowship partners. **The standard fellowship offers a stipend of $60,000, paid in 10 monthly installments.** fellows are responsible for remitting all applicable taxes and other government payments as required.
