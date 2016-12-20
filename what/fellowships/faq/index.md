@@ -4,10 +4,10 @@ title: The Knight-Mozilla Fellowships&colon; The Search Process
 section: fellowships
 sub-section: fellows_faq
 ---
-<p class="bodybig">We&#8217;re happy to announce our <a href="/what/fellowships/2016meet">2016 Knight-Mozilla Fellows</a>. The application for the 2017 cohort will open in the middle of next year. 
+<p class="bodybig">The 2016 <a href="/what/fellowships/2016meet">2016 Knight-Mozilla Fellows</a> completed their fellowships in January 2017. The fellowship is [on hiatus](/fellowships/info) for 2017.
 
-We&#8217;ll have plenty of information here about what to expect in the process when then application opens. If you want to get a head start, here&#8217;s some info about <a href="/blog/fellowships-final-week-two/">what to consider in your application</a>.</p>
-<!--<p class="bodybig">The <a href="/what/fellowships/apply">application to become a 2016 Knight-Mozilla Fellow</a> is open until August  21, 2015. Here's what to expect throughout this process.</p>
+<!--We&#8217;ll have plenty of information here about what to expect in the process when then application opens. If you want to get a head start, here&#8217;s some info about <a href="/blog/fellowships-final-week-two/">what to consider in your application</a>.</p>
+<p class="bodybig">The <a href="/what/fellowships/apply">application to become a 2016 Knight-Mozilla Fellow</a> is open until August  21, 2015. Here's what to expect throughout this process.</p>
 
 ### BEFORE YOU APPLY
 We're really interested in getting to know you and why you want to become a fellow. The application is kept short and is all about you--no need to track down recommendation letters or contact info for old bosses. Here are some additional details about the application and selection process.

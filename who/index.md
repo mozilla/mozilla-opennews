@@ -19,9 +19,6 @@ sub-section: index
 ### Erin Kissane, Editorial Lead
 <img src="/media/img/staff/kissane.jpg" class="headshot"> Erin is a writer, editor, and longtime open-web nerd. She joined OpenNews in early 2012 to build [Source, a community-driven publication for code in journalism](http://source.opennews.org), and currently oversees content and editorial work for OpenNews. Previously, she was editorial director at award-winning web agency [Happy Cog Studios](http://happycog.com/), editor of [*A List Apart* magazine](http://alistapart.com/), and a consultant to agencies, publishers, and nonprofits large and small. She is the author of *The Elements of Content Strategy* and speaks about online community, web publishing, and the open internet at conferences worldwide. She lives in Brooklyn and tries to spend as much time as possible in London and Portland, OR. (<a href="mailto:erink@mozillafoundation.org">erink@mozillafoundation.org</a>) 
 
-## [Fellows](what/fellowships/community)
-The 2016 cohort of Knight-Mozilla fellows brings us to 33 fellows to date, placed in amazing newsroom around the world. The fellows are at the heart of our work at OpenNews—[learn more about them](/what/fellowships).
-
 ## Get Involved
 
 Everything we do is built around the needs of the sprawling community of people who code (and crunch data, and design interactive tools) in and around newsrooms. Whether you're an old hand or just curious about the field, [there's a way for you to get involved](/getinvolved/).

@@ -14,7 +14,7 @@ sub-section: index
 Knight-Mozilla Fellows spend 10 months working with a fantastic news organization in a paid position and traveling around the world to learn from and collaborate with news nerds. [Meet our 2015 fellows](what/fellowships/2015meet) and [learn more about the program](/what/fellowships/), then apply to become a [2016 Knight-Mozilla Fellow](/what/fellowships/apply).
 -->
 ### [Become a News Partner](/getinvolved/newspartners)
-Are you a newsroom looking to get more involved in the community by running a hack day, joining a code convening, or hosting a Knight-Mozilla Fellow? [Learn how to become an OpenNews partner.](/getinvolved/newspartners)
+Are you a newsroom looking to get more involved in the community by running a hack day, joining a code convening, or sharing your organization's work on Source? [Learn how to become an OpenNews partner.](/getinvolved/newspartners)
 
 ### [Find a Job in a Newsroom](https://source.opennews.org/en-US/jobs/)
 News organizations are hungry for skilled developers and data wranglers who want to do journalism development, data-wrangling, and visualization work full time—and many of the positions are open even to those with no prior newsroom experience. <a href="https://source.opennews.org/en-US/jobs/">Find a journalism code job at Source Jobs</a>.

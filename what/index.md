@@ -12,9 +12,9 @@ sub-section: index
 
 <p class="bodybig">At OpenNews, we are building an ecosystem of programs and tools in support of the global community of journalists and coders who are creating the open technologies and processes journalism needs to thrive.</p>
 
-### [Fellowships](fellowships/)
+<!--### [Fellowships](fellowships/)
 
-The [Knight-Mozilla Fellowships](fellowships/) place developers, technologists, civic hackers, and data crunchers in 10-month paid fellowships to develop open-source projects in our partner newsrooms around the world. The 2016 cohort is our fifth group of Knight-Mozilla Fellows, and will be working with news technology teams at the Los Angeles Times, NPR, Vox Media, Correct!v, and the Coral Project (a partnership of the New York Times, the Washington Post, and Mozilla). [Meet them and learn more.](fellowships/)
+The [Knight-Mozilla Fellowships](fellowships/) place developers, technologists, civic hackers, and data crunchers in 10-month paid fellowships to develop open-source projects in our partner newsrooms around the world. The 2016 cohort is our fifth group of Knight-Mozilla Fellows, and will be working with news technology teams at the Los Angeles Times, NPR, Vox Media, Correct!v, and the Coral Project (a partnership of the New York Times, the Washington Post, and Mozilla). [Meet them and learn more.](fellowships/)-->
 
 ### [Conferences](conferences/)
 
