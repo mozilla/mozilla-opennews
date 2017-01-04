@@ -7,7 +7,9 @@ section: what we do
 <img src="/media/img/index_opennewsphoto.jpg" class="topline">
 <p class="caption">The joyful crowd at the Hacks/Hackers Buenos Aires Media Party. (photo/Ramiro Chanes)</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/what/community/eventsupport">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfoFyExp32Fv-MVqxzbRLmhLLYynUOyPAoJLPYi6v_M_8XS0A/viewform">Applications are open until January 13</a>.</p>
+<p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/what/community/eventsupport">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships. 
+
+<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfoFyExp32Fv-MVqxzbRLmhLLYynUOyPAoJLPYi6v_M_8XS0A/viewform">Applications are open until January 13</a>.</p>
 
 Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfoFyExp32Fv-MVqxzbRLmhLLYynUOyPAoJLPYi6v_M_8XS0A/viewform">Apply now</a>.
 
@@ -22,9 +24,7 @@ Whether you're a newsroom developer at a small organization with a strained prof
 * People of color, women, and other under-represented groups in technology are strongly encouraged to apply.
 
 ### What happens after you apply
-OpenNews staff will review applications.
-
-* All applications received by January 13 will receive an answer by January 20.
+OpenNews staff will review applications. All applications received by January 13 will receive an answer by January 20.
 
 ### What happens after the conference
 You tell us how it went! We'll send you a short follow-up survey and will be excited to check out any blog posts or code repos that come out of your participation in the event.
