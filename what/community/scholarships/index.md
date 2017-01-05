@@ -36,6 +36,9 @@ If there's an event that you think would help increase your participation in the
 
 You should apply for events coming up soon that you are interested in attending. The [January 13 application deadline](https://docs.google.com/forms/d/e/1FAIpQLSfoFyExp32Fv-MVqxzbRLmhLLYynUOyPAoJLPYi6v_M_8XS0A/viewform) isn't your only chance to apply for coverage for an event this year. In February, we'll have more details about application deadlines for events later this year as well as other announcements. 
 
+**Is the scholarship only open to people in the US?**<br>
+Nope, the application is open to everyone. We welcome applications from any country. And you can apply for a scholarship to attend events outside of the US, too.
+
 **When will I receive my scholarship?**<br>
 When we notify scholarship recipients, we will include information about how to receive the scholarship funds. In short, you will need to send us an invoice, and our administrators will process the payment. It may take a month or so for check processing.
  
