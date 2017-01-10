@@ -3,7 +3,7 @@ layout: blogpost
 title: How to Apply to Be a Knight-Mozilla Fellow
 date: 2015-8-18 14:04
 author: Erika Owens
-tags: fellowships
+tags: fellowship
 excerpt: The deadline to apply to the Knight-Mozilla Fellowship is just a few days away on August 21. If you're considering applying, but you're not sure about how to apply, this post will help you fill out the application.
 ---
 The deadline to apply to the Knight-Mozilla Fellowship is just a few days away on August 21. If you're considering applying, but you're not sure about how to apply, this post is for you!

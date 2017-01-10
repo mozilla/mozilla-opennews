@@ -3,7 +3,7 @@ layout: blogpost
 title: Introducing our 2016 Knight-Mozilla Fellows
 date: 2015-11-5 14:00
 author: Erika Owens
-tags: fellowships
+tags: fellowship
 excerpt: Today we get to announce our fifth cohort of fellows, and tell a little about how we found them.
 ---
 This year we get to announce our *fifth* cohort of fellows. They come to the fellowship from inside and outside of journalism and soon they'll join six stellar news organizations in the US and Germany. We launched an intentional [search process](#process) that reached [560 applicants](#numbers) and brought us to this fantastic group of fellows. Please join us in welcoming them!

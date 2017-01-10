@@ -3,7 +3,7 @@ layout: blogpost
 title: Follow Your Passions and Build Your Fellowship Year
 date: 2015-8-17 16:04
 author: Dan Sinker
-tags: fellowships
+tags: fellowship
 excerpt: The final week to apply to become a 2014 Knight-Mozilla Fellow is here. Today we look at how flexible your fellowship year can be, and why YOU should apply to join the program.
 ---
 This is it. After [a summer of searching](https://opennews.org/blog/fellowship2016/) for our [2016 Knight-Mozilla Fellows](https://opennews.org/what/fellowships/), we're now down to the final days. If you've been waiting [to apply](https://opennews.org/what/fellowships/apply/) (every year it turns out most of you have), there's no more time to wait: Come 11:59pm Eastern Time on Friday, August 21, we'll be closing our search.

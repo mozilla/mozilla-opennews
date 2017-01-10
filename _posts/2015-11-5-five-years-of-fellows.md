@@ -3,7 +3,7 @@ layout: blogpost
 title: Tools, Bridges, and Five Years of Knight-Mozilla Fellows
 date: 2015-11-5 14:05
 author: Dan Sinker
-tags: fellowships
+tags: fellowship
 excerpt: Today's announcement of our 2016 Knight-Mozilla Fellows adds a fifth cohort to our fellowship community.
 ---
 With [today's announcement of our 2016 Knight-Mozilla Fellows](/blog/introducing-2016-fellows/), we have added a fifth cohort to our growing fellowship ranks. Five years ago this very same week [we were introducing the first five](https://blog.mozilla.org/blog/2011/11/04/journalism-in-the-open-the-201112-knight-mozilla-fellows-announced/). With these seven new fellows—they are so great, [go read about them now!](/blog/introducing-2016-fellows/)—the [Knight-Mozilla Fellowship community](/what/fellowships/community/) is now at 33. (That escalated quickly.)
