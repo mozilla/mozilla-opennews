@@ -3,7 +3,7 @@ layout: blogpost
 title: Fellows Hack with the California Civic Data Coalition
 date: 2015-1-26 12:00
 author: Ryan Pitts
-tags: Fellowship
+tags: fellowship
 excerpt: During the onboarding week with our new 2015 Knight-Mozilla fellows, we spent a couple days working with the California Civic Data Coalition on an open-source news app. Here's what our goals were, and here's what we learned.
 
 ---

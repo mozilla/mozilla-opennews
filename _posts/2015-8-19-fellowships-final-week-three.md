@@ -3,7 +3,7 @@ layout: blogpost
 title: How to Think About Projects During Your Fellowship
 date: 2015-8-19 11:45
 author: Ryan Pitts
-tags: fellowships
+tags: fellowship
 excerpt: The deadline to apply to the Knight-Mozilla Fellowship is just two days away. As a Knight-Mozilla Fellow, you'll spend 10 months writing open-source code in the newsroom. But what do you build, do you need to have a plan *right now*, and how do you approach coding over your 10 months? Ryan Pitts digs in.
 ---
 _With just two days left to [apply to become a Knight-Mozilla Fellow](https://opennews.org/what/fellowships/apply/), we are spending this week answering some large questions about the fellowship experience. On Monday, we talked about [how you structure your time](https://opennews.org/blog/fellowships-final-week-one/). Yesterday, we talked about [the application itself](https://opennews.org/blog/fellowships-final-week-two/). Today, [Ryan Pitts](http://www.twitter.com/ryanpitts) talks about how to think about the things you'll build during your fellowship._

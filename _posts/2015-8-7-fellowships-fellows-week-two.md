@@ -3,7 +3,7 @@ layout: blogpost
 title: The Many Reasons to Become A Knight-Mozilla Fellow
 date: 2015-8-7 15:30
 author: Dan Sinker
-tags: fellowships
+tags: fellowship
 excerpt: With just two weeks remaining to apply to become a 2016 Knight-Mozilla Fellow, all of our current fellows write about why they chose to apply and what their fellowship year has been like. Read about their experiences and then apply to join next year's cohort!
 ---
 

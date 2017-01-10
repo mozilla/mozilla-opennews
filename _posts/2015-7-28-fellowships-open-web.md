@@ -3,7 +3,7 @@ layout: blogpost
 title: Fellowships, Journalism, and the Open Web
 date: 2015-7-28 11:30
 author: Dan Sinker
-tags: fellowships
+tags: fellowship
 excerpt: When we talk about the Knight-Mozilla Fellowships, and the work we do at OpenNews, we often talk about the influence the values of the open web have on journalism. As we gear up for the final push to find our 2016 fellows (deadline August 21!), we wanted to dive a little further into what we're talking about.
 ---
 When we talk about the Knight-Mozilla Fellowships, and the work we do at OpenNews, we often talk about the influence the values of the open web have on journalism. [As we gear up for the final push to find our 2016 fellows (deadline August 21!)](/what/fellowships/apply/), we wanted to dive a little further into what we're talking about. And so, as we often do, we asked folks from the news-dev community to think out loud about how journalism and the web work together.

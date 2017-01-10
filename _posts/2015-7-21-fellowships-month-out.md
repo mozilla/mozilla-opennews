@@ -3,7 +3,7 @@ layout: blogpost
 title: One Month Left to Apply
 date: 2015-7-21 16:00
 author: Erika Owens
-tags: fellowships
+tags: fellowship
 excerpt: You have one month left to apply for the 2016 Knight-Mozilla Fellowship. If you still have questions, we have lots of information coming your way. 
 ---
 The application for the [2016 Knight-Mozilla Fellowship](http://opennews.org/what/fellowships/apply/) will close in just one month on August 21. If you've been meaning to apply, but still have some questions you are in luck. Over the next month, we will have numerous opportunities for you to learn more about the fellowship and hear from current and former fellows about what it's actually like to get paid to spend 10 months learning, experimenting, and collaborating in a news organization.

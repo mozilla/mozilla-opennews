@@ -3,7 +3,7 @@ layout: blogpost
 title: SRCCON Ticketing—What We Did and Why
 date: 2015-5-12 12:30
 author: Erin Kissane
-tags: srccon
+tags: SRCCON
 excerpt: This year, as we prepare for SRCCON 2015, we're making an effort to document our work in public as we go. This post on our ticketing process will be followed shortly by one on session selection, with more to come between now and the end of June.
 ---
 

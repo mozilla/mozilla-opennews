@@ -3,7 +3,7 @@ layout: blogpost
 title: What It Is Really Like to Be a Fellow
 date: 2015-7-31 16:30
 author: Erika Owens
-tags: fellowships
+tags: fellowship
 excerpt: Twenty six people have had the chance to become Knight-Mozilla Fellows. This week and next, they are sharing their experiences. And, until August 26, you have a chance to <a href="https://opennews.org/what/fellowships/apply">apply to join them</a>. 
 
 ---

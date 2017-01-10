@@ -3,7 +3,7 @@ layout: blogpost
 title: Our 2016 Knight-Mozilla Fellowship Partners Make Their Case
 date: 2015-8-14 16:30
 author: Dan Sinker
-tags: fellowships
+tags: fellowship
 excerpt: One week remains to apply for a 2016 Knight-Mozilla Fellowship, and our fellowship partners want YOU and your amazing skills in their newsrooms. Each newsroom that will host a fellow next year made a pitch this week, and here's why they think you should apply.
 ---
 There's just one week left to [apply to become a 2016 Knight-Mozilla Fellow](https://opennews.org/what/fellowships/apply). Come 11:59pm Eastern Time, next Friday August 21, the opportunity will close. Over the last few weeks [we've heard from our current fellows about their experiences](https://opennews.org/blog/fellowships-fellows-week-two/), and next week we'll be drilling further into just what the fellowship means and the opportunities it holds. But this week has been about our [fellowship hosts](https://opennews.org/what/fellowships/partners/), the newsrooms in which you'll be spending a great deal of your 10 months as a fellow.

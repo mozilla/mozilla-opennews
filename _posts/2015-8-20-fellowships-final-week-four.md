@@ -3,7 +3,7 @@ layout: blogpost
 title: Beyond the Fellowship Year
 date: 2015-8-20 10:45
 author: Erin Kissane
-tags: fellowships
+tags: fellowship
 excerpt: Tomorrow, August 21, at 11:59:59, the application for a 2016 Knight-Mozilla Fellow closes. But if you become a Knight-Mozilla Fellow, your experience will last much longer than the 10 months. Today, Erin Kissane looks into life _after_ the fellowship.
 ---
 

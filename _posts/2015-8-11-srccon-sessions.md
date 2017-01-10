@@ -3,7 +3,7 @@ layout: blogpost
 title: How We Planned SRCCON's Sessions
 date: 2015-8-11 15:30
 author: Erika Owens and Ryan Pitts
-tags: srccon
+tags: SRCCON
 excerpt: With just two weeks remaining to apply to become a 2016 Knight-Mozilla Fellow, all of our current fellows write about why they chose to apply and what their fellowship year has been like. Read about their experiences and then apply to join next year's cohort!
 ---
 
